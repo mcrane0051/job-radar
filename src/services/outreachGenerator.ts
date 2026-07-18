@@ -1,4 +1,4 @@
-import { proModelWithSearch } from './gemini';
+import { getProModelWithSearch } from './gemini';
 import type { Job } from '../types';
 import { PROFILE_ARTIFACT } from '../data/profileArtifact';
 import type { RecruiterContact } from './hunter';
@@ -9,6 +9,7 @@ export interface OutreachDraft {
 }
 
 export const generateOutreachDraft = async (job: Job, contact: RecruiterContact): Promise<OutreachDraft> => {
+  const proModelWithSearch = getProModelWithSearch();
   const prompt = `
 You are Michael Crane, a Senior Product Designer.
 Your task is to draft a short cold outreach email to a recruiter regarding a specific role you just applied for.

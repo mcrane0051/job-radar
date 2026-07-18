@@ -6,9 +6,21 @@ export interface RecruiterContact {
 }
 
 export const findRecruiterEmails = async (companyName: string, customDomain?: string): Promise<RecruiterContact[]> => {
-  const apiKey = import.meta.env.VITE_HUNTER_API_KEY;
+  let apiKey = '';
+  try {
+    if (typeof window !== 'undefined' && window.localStorage) {
+      apiKey = window.localStorage.getItem('hunter-api-key') || '';
+    }
+  } catch(e) {}
+  
   if (!apiKey) {
-    throw new Error("Missing VITE_HUNTER_API_KEY in environment variables.");
+    try {
+      apiKey = import.meta.env.VITE_HUNTER_API_KEY || '';
+    } catch(e) {}
+  }
+
+  if (!apiKey) {
+    throw new Error("Missing Hunter API key. Please add it in Settings.");
   }
 
   // Use the custom domain if provided, otherwise search by company name

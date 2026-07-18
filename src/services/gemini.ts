@@ -9,6 +9,14 @@ const getApiKey = () => {
       if (process.env.VITE_GEMINI_API_KEY) return process.env.VITE_GEMINI_API_KEY;
     }
   } catch (e) {}
+  
+  try {
+    if (typeof window !== 'undefined' && window.localStorage) {
+      const localKey = window.localStorage.getItem('gemini-api-key');
+      if (localKey) return localKey;
+    }
+  } catch (e) {}
+
   try {
     // @ts-ignore
     return import.meta.env.VITE_GEMINI_API_KEY;
@@ -20,10 +28,18 @@ export const hasApiKey = () => {
   return !!getApiKey();
 };
 
-const genAI = new GoogleGenerativeAI(getApiKey());
+let _genAI: GoogleGenerativeAI | null = null;
+const getGenAI = () => {
+  if (!_genAI) {
+    const key = getApiKey();
+    if (!key) throw new Error("API key not valid. Please pass a valid API key.");
+    _genAI = new GoogleGenerativeAI(key);
+  }
+  return _genAI;
+};
 
 // Flash with Google Search grounding — for job scanning
-export const flashModel = genAI.getGenerativeModel({
+export const getFlashModel = () => getGenAI().getGenerativeModel({
   model: 'gemini-2.5-flash',
   // @ts-expect-error — googleSearch tool is valid for gemini-2.5-flash
   tools: [{ googleSearch: {} }],
@@ -31,18 +47,18 @@ export const flashModel = genAI.getGenerativeModel({
 });
 
 // Flash without search — for fast analysis tasks (keyword matching)
-export const flashModelNoSearch = genAI.getGenerativeModel({
+export const getFlashModelNoSearch = () => getGenAI().getGenerativeModel({
   model: 'gemini-2.5-flash',
   generationConfig: { responseMimeType: "application/json" }
 });
 
 // Pro — for high-quality resume tailoring and cover letter generation
-export const proModel = genAI.getGenerativeModel({
+export const getProModel = () => getGenAI().getGenerativeModel({
   model: 'gemini-2.5-flash',
 });
 
 // Pro with Google Search grounding — for generating highly contextualized outreach hooks
-export const proModelWithSearch = genAI.getGenerativeModel({
+export const getProModelWithSearch = () => getGenAI().getGenerativeModel({
   model: 'gemini-2.5-flash',
   // @ts-expect-error — googleSearch tool is valid for gemini-2.5-flash
   tools: [{ googleSearch: {} }],

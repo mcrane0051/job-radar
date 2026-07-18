@@ -1,4 +1,4 @@
-import { flashModel } from './gemini';
+import { getFlashModel } from './gemini.js';
 import type { Job, ScanResult } from '../types';
 import { preferences } from '../config/preferences';
 import { PROFILE_ARTIFACT } from '../data/profileArtifact';
@@ -52,6 +52,7 @@ Example format:
   const batchTime = new Date().toISOString();
   
   try {
+    const flashModel = getFlashModel();
     const resultStream = await flashModel.generateContentStream(prompt);
     
     let buffer = "";

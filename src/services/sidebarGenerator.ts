@@ -1,5 +1,5 @@
 
-import { flashModelNoSearch } from './gemini';
+import { getFlashModelNoSearch } from './gemini';
 import type { Job, KeywordAlignment, ResumeEdit } from '../types';
 import { PROFILE_ARTIFACT } from '../data/profileArtifact';
 
@@ -10,6 +10,7 @@ export interface GeneratedAssets {
 }
 
 export const generateJobAssets = async (job: Job): Promise<GeneratedAssets> => {
+  const flashModelNoSearch = getFlashModelNoSearch();
   const prompt = `
 You are an expert technical recruiter and AI agent acting on behalf of Michael Crane, a Senior Product Designer.
 Your task is to generate Application Assets for the following Job Description based ONLY on the Candidate Profile provided.

@@ -56,9 +56,10 @@ interface JobSidebarProps {
   isOpen?: boolean;
   onClose: () => void;
   onUpdateJob?: (job: Job) => void;
+  onOpenSettings?: () => void;
 }
 
-export const JobSidebar: React.FC<JobSidebarProps> = ({ job, isOpen, onClose, onUpdateJob }) => {
+export const JobSidebar: React.FC<JobSidebarProps> = ({ job, isOpen, onClose, onUpdateJob, onOpenSettings }) => {
   const [isGenerating, setIsGenerating] = useState(false);
   const [error, setError] = useState<string | null>(null);
   const [copied, setCopied] = useState(false);
@@ -70,31 +71,28 @@ export const JobSidebar: React.FC<JobSidebarProps> = ({ job, isOpen, onClose, on
   const [customDomain, setCustomDomain] = useState<string>('');
 
   const sidebarRef = useRef<HTMLDivElement>(null);
-  const touchStartX = useRef<number | null>(null);
+  const [touchStart, setTouchStart] = useState<number | null>(null);
+  const [touchEnd, setTouchEnd] = useState<number | null>(null);
+
+  // Minimum swipe distance (in px) to trigger close
+  const minSwipeDistance = 50;
 
   const handleTouchStart = (e: React.TouchEvent) => {
-    touchStartX.current = e.touches[0].clientX;
+    setTouchEnd(null);
+    setTouchStart(e.targetTouches[0].clientX);
   };
 
   const handleTouchMove = (e: React.TouchEvent) => {
-    if (touchStartX.current === null || !sidebarRef.current) return;
-    const deltaX = e.touches[0].clientX - touchStartX.current;
-    if (deltaX > 0) { // Only swipe right
-      sidebarRef.current.style.transform = `translateX(${deltaX}px)`;
-      sidebarRef.current.style.transition = 'none';
-    }
+    setTouchEnd(e.targetTouches[0].clientX);
   };
 
-  const handleTouchEnd = (e: React.TouchEvent) => {
-    if (touchStartX.current === null || !sidebarRef.current) return;
-    const deltaX = e.changedTouches[0].clientX - touchStartX.current;
+  const handleTouchEnd = () => {
+    if (!touchStart || !touchEnd) return;
     
-    // Reset inline styles
-    touchStartX.current = null;
-    sidebarRef.current.style.transform = '';
-    sidebarRef.current.style.transition = '';
-
-    if (deltaX > 100) {
+    const distance = touchStart - touchEnd;
+    const isRightSwipe = distance < -minSwipeDistance;
+    
+    if (isRightSwipe) {
       onClose();
     }
   };
@@ -123,7 +121,12 @@ export const JobSidebar: React.FC<JobSidebarProps> = ({ job, isOpen, onClose, on
         });
       }
     } catch (e: any) {
-      setError(e.message || "Failed to generate assets");
+      if (e.message?.toLowerCase().includes("api key") && onOpenSettings) {
+        onOpenSettings();
+        setError(null);
+      } else {
+        setError(e.message || "Failed to generate assets");
+      }
     } finally {
       setIsGenerating(false);
     }
@@ -156,7 +159,12 @@ export const JobSidebar: React.FC<JobSidebarProps> = ({ job, isOpen, onClose, on
         onUpdateJob({ ...job, outreachData: newOutreach });
       }
     } catch (e: any) {
-      setEmailError(e.message || "Failed to find recruiter or generate draft.");
+      if (e.message?.toLowerCase().includes("api key") && onOpenSettings) {
+        onOpenSettings();
+        setEmailError(null);
+      } else {
+        setEmailError(e.message || "Failed to find recruiter or generate draft.");
+      }
     } finally {
       setIsEmailing(false);
     }
