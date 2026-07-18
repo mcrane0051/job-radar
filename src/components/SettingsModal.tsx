@@ -1,6 +1,8 @@
 import React, { useState, useEffect } from 'react';
 import { IconButton } from './IconButton';
 
+import { Button } from './Button';
+
 interface SettingsModalProps {
   isOpen: boolean;
   onClose: () => void;
@@ -106,19 +108,18 @@ export const SettingsModal: React.FC<SettingsModalProps> = ({ isOpen, onClose })
         </div>
 
         <div className="flex justify-end gap-3 p-4 sm:p-6 border-t" style={{ borderColor: 'var(--border-color)', backgroundColor: 'var(--surface-3)' }}>
-          <button 
+          <Button 
+            variant="ghost"
             onClick={onClose}
-            className="px-4 py-2 rounded-md text-sm font-medium transition-colors"
-            style={{ color: 'var(--text-secondary)' }}
           >
             Cancel
-          </button>
-          <button 
+          </Button>
+          <Button 
+            variant="primary"
             onClick={handleSave}
-            className="btn-primary"
           >
             Save Keys
-          </button>
+          </Button>
         </div>
       </div>
     </div>
