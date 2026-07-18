@@ -3,16 +3,12 @@ import { ScanButton } from './components/ScanButton'
 import { JobFeed } from './components/JobFeed'
 import { JobSidebar } from './components/JobSidebar'
 import { RadarBackground } from './components/RadarBackground'
-import { scanJobsStream } from './services/jobScanner'
-import { hasApiKey } from './services/gemini'
 import logoTech from './assets/logo-tech.svg'
 import type { Job, ScanResult } from './types'
 
 function App() {
-  const [isScanning, setIsScanning] = useState(false)
   const [jobs, setJobs] = useState<Job[]>([])
   const [lastScannedAt, setLastScannedAt] = useState<string | undefined>()
-  const [error, setError] = useState<string | null>(null)
   const [selectedJob, setSelectedJob] = useState<Job | null>(null)
   const [displayJob, setDisplayJob] = useState<Job | null>(null)
 
@@ -95,46 +91,7 @@ function App() {
     loadInitialJobs();
   }, [])
 
-  const handleScan = async () => {
-    setIsScanning(true)
-    setError(null)
-    
-    // Prune any existing jobs that have become stale (older than 14 days) during the session
-    const fourteenDaysAgo = new Date();
-    fourteenDaysAgo.setDate(fourteenDaysAgo.getDate() - 14);
-    const cutoffTime = fourteenDaysAgo.getTime();
 
-    const activeExistingJobs = jobs.filter(job => {
-      if (!job.scannedAt) return true;
-      return new Date(job.scannedAt).getTime() >= cutoffTime;
-    }).map(job => ({ ...job, isNew: false }));
-
-    let latestJobs: Job[] = [...activeExistingJobs];
-    
-    try {
-      const result = await scanJobsStream((newJob) => {
-        // Every time a job parses, we update the state so it animates in immediately
-        setJobs(current => {
-          // Prevent duplicates just in case
-          if (current.some(j => j.id === newJob.id)) return current;
-          latestJobs = [{...newJob, isNew: true} as Job, ...current];
-          return latestJobs;
-        });
-      })
-      
-      setLastScannedAt(result.scannedAt)
-      
-      // Persist the combined list to local storage
-      localStorage.setItem('job-radar-data', JSON.stringify({
-        jobs: latestJobs,
-        scannedAt: result.scannedAt
-      }))
-    } catch (err: any) {
-      setError(err.message || "Failed to scan for jobs")
-    } finally {
-      setIsScanning(false)
-    }
-  }
 
   const handleUpdateJob = (updatedJob: Job) => {
     setJobs(current => {
@@ -202,25 +159,8 @@ function App() {
             ACTIVE TARGETS [{String(jobs.length).padStart(2, '0')}]
           </div>
 
-          {error && (
-            <div
-              style={{
-                margin: '0 0 var(--spacing-16)',
-                padding: 'var(--spacing-16)',
-                backgroundColor: 'rgba(229, 105, 92, 0.1)',
-                border: '1px solid rgba(229, 105, 92, 0.2)',
-                color: 'var(--status-error)',
-                borderRadius: '8px',
-                fontFamily: 'var(--font-mono)',
-                fontSize: '14px',
-              }}
-            >
-              {error}
-            </div>
-          )}
           <JobFeed 
-            jobs={jobs} 
-            isScanning={isScanning} 
+            jobs={jobs}  
             selectedJob={selectedJob}
             onSelectJob={setSelectedJob}
           />

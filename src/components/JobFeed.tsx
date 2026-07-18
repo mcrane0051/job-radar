@@ -4,12 +4,11 @@ import { JobListItem } from './JobListItem';
 
 interface JobFeedProps {
   jobs: Job[];
-  isScanning: boolean;
   selectedJob: Job | null;
   onSelectJob: (job: Job | null) => void;
 }
 
-export const JobFeed: React.FC<JobFeedProps> = ({ jobs, isScanning, selectedJob, onSelectJob }) => {
+export const JobFeed: React.FC<JobFeedProps> = ({ jobs, selectedJob, onSelectJob }) => {
   // Sort jobs: Newest batch first, then Fit score descending, then company name A-Z
   const sortedJobs = [...jobs].sort((a, b) => {
     const timeA = a.scannedAt ? new Date(a.scannedAt).getTime() : 0;
@@ -34,7 +33,7 @@ export const JobFeed: React.FC<JobFeedProps> = ({ jobs, isScanning, selectedJob,
               <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1} d="M19 11H5m14 0a2 2 0 012 2v6a2 2 0 01-2 2H5a2 2 0 01-2-2v-6a2 2 0 012-2m14 0V9a2 2 0 00-2-2M5 11V9a2 2 0 012-2m0 0V5a2 2 0 012-2h6a2 2 0 012 2v2M7 7h10" />
             </svg>
             <p className="text-lg">
-              {isScanning ? "Searching for jobs ..." : "No jobs found. Scan to find matching roles."}
+              No jobs found. The cloud scanner will run automatically.
             </p>
           </div>
         ) : (
