@@ -7,10 +7,9 @@ interface JobFeedProps {
   isScanning: boolean;
   selectedJob: Job | null;
   onSelectJob: (job: Job | null) => void;
-  onUpdateJob: (job: Job) => void;
 }
 
-export const JobFeed: React.FC<JobFeedProps> = ({ jobs, isScanning, selectedJob, onSelectJob, onUpdateJob }) => {
+export const JobFeed: React.FC<JobFeedProps> = ({ jobs, isScanning, selectedJob, onSelectJob }) => {
   // Sort jobs: Newest batch first, then Fit score descending, then company name A-Z
   const sortedJobs = [...jobs].sort((a, b) => {
     const timeA = a.scannedAt ? new Date(a.scannedAt).getTime() : 0;

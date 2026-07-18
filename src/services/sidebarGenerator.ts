@@ -73,40 +73,6 @@ Structure:
 }
 `;
 
-  const responseSchema = {
-    type: SchemaType.OBJECT,
-    properties: {
-      keywords: {
-        type: SchemaType.OBJECT,
-        properties: {
-          exact_match: { type: SchemaType.ARRAY, items: { type: SchemaType.STRING } },
-          implicit_match: {
-            type: SchemaType.ARRAY,
-            items: {
-              type: SchemaType.OBJECT,
-              properties: {
-                jobKeyword: { type: SchemaType.STRING },
-                resumeKeyword: { type: SchemaType.STRING }
-              }
-            }
-          },
-          missing: { type: SchemaType.ARRAY, items: { type: SchemaType.STRING } }
-        }
-      },
-      coverLetter: { type: SchemaType.STRING },
-      resumeTailoring: {
-        type: SchemaType.ARRAY,
-        items: {
-          type: SchemaType.OBJECT,
-          properties: {
-            section: { type: SchemaType.STRING },
-            edit: { type: SchemaType.STRING },
-            reason: { type: SchemaType.STRING }
-          }
-        }
-      }
-    }
-  };
 
   try {
     const result = await flashModelNoSearch.generateContent({

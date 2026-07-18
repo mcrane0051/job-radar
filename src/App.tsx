@@ -23,7 +23,7 @@ function App() {
   useEffect(() => {
     const loadInitialJobs = async () => {
       let combinedJobs: Job[] = [];
-      let latestScanAt: string | null = null;
+      let latestScanAt: string | undefined = undefined;
 
       // 1. Fetch remote jobs from GitHub automation
       try {
@@ -116,7 +116,7 @@ function App() {
         setJobs(current => {
           // Prevent duplicates just in case
           if (current.some(j => j.id === newJob.id)) return current;
-          latestJobs = [{...newJob, isNew: true}, ...current];
+          latestJobs = [{...newJob, isNew: true} as Job, ...current];
           return latestJobs;
         });
       })
@@ -222,7 +222,6 @@ function App() {
           <JobFeed 
             jobs={jobs} 
             isScanning={isScanning} 
-            onUpdateJob={handleUpdateJob} 
             selectedJob={selectedJob}
             onSelectJob={setSelectedJob}
           />

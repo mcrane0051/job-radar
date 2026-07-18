@@ -10,7 +10,6 @@ export const FitScoreLabel: React.FC<FitScoreLabelProps> = ({ tier, className = 
   const isStretch = tier === 'Stretch';
   const isPossible = tier === 'Possible';
   const isGoodFit = tier === 'Good Fit';
-  const isStrongFit = tier === 'Strong Fit';
 
   const isGoodFitOrPossible = isGoodFit || isPossible;
   
