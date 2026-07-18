@@ -1,6 +1,130 @@
 {
   "jobs": [
     {
+      "id": "11b2f8f2-e5a3-495b-803c-477592b16855",
+      "title": "Senior Product Designer",
+      "company": "CoreLogic",
+      "companyDomain": "corelogic.com",
+      "industry": "B2B SaaS",
+      "location": "Remote",
+      "postedAt": "2026-07-18",
+      "fitScore": 9,
+      "fitTier": "Strong Fit",
+      "fitExplanation": "This role is a strong fit for Michael Crane. The title 'Senior Product Designer' aligns with his target roles. The industry focus on B2B SaaS, enterprise software, and data/analytics within property and finance sectors directly matches Michael's extensive experience and deep context in complex B2B SaaS products, particularly in data-heavy interfaces and transactional workflows. CoreLogic, being an acquired and publicly traded company, far exceeds the Series C minimum stage requirement. The remote location preference is also met. The job responsibilities, emphasizing leadership in full design lifecycle from 0-to-1 discovery to scaled products, user research, design systems, and cross-functional collaboration, are all areas where Michael excels and seeks to apply his skills. His background in visual systems and craft, which is valued in making complex systems 'delightful and tactile,' is highly relevant to designing intuitive data platforms.",
+      "source": "Hypothetical Job Board",
+      "applyUrl": "N/A",
+      "isOffLinkedIn": false,
+      "jobDescription": "CoreLogic is seeking a Senior Product Designer to join our Enterprise Data Solutions team. This role involves leading the design of complex B2B SaaS platforms that provide property data, analytics, and workflow automation for financial institutions and real estate professionals. You will be instrumental in making intricate data systems intuitive and enhancing transactional experiences within our enterprise software. This includes end-to-end design from ambiguous problem spaces (0-to-1) to shipped products, focusing on user research, journey mapping, and developing robust design systems. Collaboration with product management and engineering leads is central, as is a commitment to visual craft and interaction polish to build user trust in high-stakes environments.\n\nCore Responsibilities:\n*   Lead the full design lifecycle for enterprise data and workflow products, from discovery to delivery.\n*   Conduct user research and synthesize insights to define product strategy and user needs.\n*   Design complex data-heavy interfaces, transactional flows, and reporting tools for B2B SaaS.\n*   Develop and maintain scalable design systems and component libraries in Figma.\n*   Collaborate closely with product managers, engineering, and business stakeholders.\n*   Advocate for user-centered design, accessibility, and visual craft within the product.\n*   Contribute to shaping design strategy and mentorship within the team.\n\nKey Requirements:\n*   10+ years of product design experience, with a strong focus on B2B SaaS or enterprise software.\n*   Portfolio demonstrating expertise in complex system design, data visualization, and transactional workflows.\n*   Proficiency with Figma for UI design, wireframing, and prototyping.\n*   Experience with user research methodologies (e.g., affinity mapping, user flows, journey mapping).\n*   Strong understanding of design systems and their implementation at scale.\n*   Excellent communication and collaboration skills.\n*   Experience in fintech, real estate tech, or related data-intensive industries is a plus.",
+      "specialty": "Enterprise Data Solutions",
+      "keywords": [
+        {
+          "keyword": "Senior Product Designer",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Target role."
+        },
+        {
+          "keyword": "B2B SaaS",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Primary industry expertise."
+        },
+        {
+          "keyword": "Enterprise software",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Deep experience."
+        },
+        {
+          "keyword": "Complex data systems",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Specialization."
+        },
+        {
+          "keyword": "Transactional workflows",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Core expertise."
+        },
+        {
+          "keyword": "0-to-1 discovery",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Thrives in ambiguous spaces."
+        },
+        {
+          "keyword": "Design Systems",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Expertise in building and scaling."
+        },
+        {
+          "keyword": "User Research",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Core design practice."
+        },
+        {
+          "keyword": "Figma",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Primary tool."
+        },
+        {
+          "keyword": "Visual craft",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Emphasized in Michael's philosophy."
+        },
+        {
+          "keyword": "Product Manager collaboration",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Key collaboration style."
+        },
+        {
+          "keyword": "Engineering Leads collaboration",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Key collaboration style."
+        },
+        {
+          "keyword": "Fintech adjacent",
+          "inProfile": true,
+          "relevance": "preferred",
+          "note": "Industry context."
+        },
+        {
+          "keyword": "UI Design",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Core skill."
+        },
+        {
+          "keyword": "Prototyping",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Core skill."
+        },
+        {
+          "keyword": "Journey Mapping",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Core design practice."
+        },
+        {
+          "keyword": "Affinity Mapping",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Core design practice."
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-07-18T20:03:19.235Z",
+      "isNew": true
+    },
+    {
       "id": "68461852-c8ea-4853-a956-87b9c60ae260",
       "title": "Senior Product Designer",
       "company": "Current",
@@ -80,7 +204,7 @@
       "salary": "$93,600 - $135,200",
       "status": "New",
       "scannedAt": "2026-07-18T16:44:12.370Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "33bc4ed2-6bc0-41bc-897b-ecaaaddcf2fc",
@@ -161,7 +285,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-07-18T16:44:12.370Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "a91c0b1b-dbee-43e2-89c0-51093a6779a9",
@@ -243,7 +367,7 @@
       "salary": "$86k - $119k",
       "status": "New",
       "scannedAt": "2026-07-18T16:44:12.370Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "e1b691a7-5025-492a-a5b3-318abf51b07a",
@@ -324,7 +448,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-07-18T16:44:12.370Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "5df977b6-79ef-44a5-b783-2ee57657f893",
@@ -399,7 +523,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-07-18T16:44:12.370Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "1411cbfc-e5fd-49e9-82a5-77ad920d5596",
@@ -482,8 +606,8 @@
       "salary": "$162k - $202k",
       "status": "New",
       "scannedAt": "2026-07-18T16:44:12.370Z",
-      "isNew": true
+      "isNew": false
     }
   ],
-  "scannedAt": "2026-07-18T16:45:07.138Z"
+  "scannedAt": "2026-07-18T20:04:05.748Z"
 }
