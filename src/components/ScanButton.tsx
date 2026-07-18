@@ -7,34 +7,68 @@ interface ScanButtonProps {
 }
 
 export const ScanButton: React.FC<ScanButtonProps> = ({ isScanning, onScan, lastScannedAt }) => {
+  const getNextScanTime = () => {
+    const currentEst = new Date(new Date().toLocaleString("en-US", {timeZone: "America/New_York"}));
+    const h = currentEst.getHours();
+    
+    if (h < 7) return "7:00 AM EST";
+    if (h < 15) return "3:00 PM EST";
+    return "7:00 AM EST";
+  };
+
+  const formatLastScanned = (dateString?: string) => {
+    if (!dateString) return "NEVER";
+    const date = new Date(dateString);
+    const now = new Date();
+    const diffHours = (now.getTime() - date.getTime()) / (1000 * 60 * 60);
+    
+    if (diffHours < 24) {
+      return date.toLocaleTimeString([], { hour: 'numeric', minute: '2-digit', hour12: true }).toUpperCase() + ' EST';
+    }
+    
+    const diffDays = Math.floor(diffHours / 24);
+    if (diffDays === 1) return "YESTERDAY";
+    if (diffDays <= 5) return `${diffDays} DAYS AGO`;
+    
+    const mm = String(date.getMonth() + 1).padStart(2, '0');
+    const dd = String(date.getDate()).padStart(2, '0');
+    const yyyy = date.getFullYear();
+    return `${mm}/${dd}/${yyyy}`;
+  };
+
   return (
-    <div className="flex items-center gap-4">
-      {lastScannedAt && (
-        <span className="text-sm text-gray-400">
-          Last scanned: {new Date(lastScannedAt).toLocaleTimeString()}
-        </span>
-      )}
+    <div
+      className="flex items-center"
+      style={{ gap: 'var(--spacing-16)' }}
+    >
+      {/* Metadata */}
+      <div
+        className="flex flex-col items-end"
+        style={{
+          gap: '2px',
+          fontFamily: 'var(--font-mono)',
+          fontSize: '12px',
+          lineHeight: '16px',
+          color: 'var(--text-secondary)',
+        }}
+      >
+        <span>LAST SCAN: {formatLastScanned(lastScannedAt)}</span>
+        <span>NEXT SCAN: {getNextScanTime().toUpperCase()}</span>
+      </div>
+
+      {/* Keycap-style SCAN button */}
       <button
         onClick={onScan}
         disabled={isScanning}
-        className="relative overflow-hidden rounded-lg bg-blue-600 px-6 py-2.5 text-sm font-semibold text-white shadow-lg transition-all hover:bg-blue-500 disabled:bg-blue-800 disabled:text-blue-300 disabled:cursor-not-allowed"
+        aria-label="Scan for jobs"
+        className="btn-primary focus-visible:outline-2 focus-visible:outline-offset-2"
+        style={{
+          focusVisibleOutlineColor: 'var(--text-primary)',
+        } as any}
       >
-        {isScanning ? (
-          <span className="flex items-center gap-2">
-            <svg className="h-4 w-4 animate-spin" viewBox="0 0 24 24">
-              <circle className="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" strokeWidth="4" fill="none" />
-              <path className="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z" />
-            </svg>
-            Scanning Web...
-          </span>
-        ) : (
-          <span className="flex items-center gap-2">
-            <svg className="h-4 w-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
-            </svg>
-            Scan for Jobs
-          </span>
-        )}
+        <div className="btn-inner">
+          {isScanning ? <div className="btn-spinner" /> : 'SCAN'}
+        </div>
       </button>
     </div>
   );

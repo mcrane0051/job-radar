@@ -12,7 +12,12 @@ export const preferences = {
     'cloud infrastructure',
     'developer tools',
   ],
-  locations: ['remote', 'hybrid'],
+  locations: [
+    'Remote (U.S. Only)', 
+    'Hybrid in Philadelphia, PA', 
+    'Hybrid in New Jersey', 
+    'Hybrid in NYC'
+  ],
   companyStage: 'Series C or later',
   exclude: [
     'founding designer',
@@ -21,6 +26,5 @@ export const preferences = {
     'solo designer',
     'first designer',
   ],
-  maxPostingAgeDays: 7,
-  hotThresholdHours: 48,
+  maxPostingAgeDays: 1,
 } as const;

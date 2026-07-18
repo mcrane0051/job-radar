@@ -2,13 +2,15 @@ export const PROFILE_ARTIFACT = `# Candidate Profile — Michael Crane
 
 ## Summary
 
-Senior Product Designer with 10+ years of experience designing B2B SaaS products. Currently at Tackle.io, where I lead product design for an enterprise multi-cloud transactional platform used by revenue operations, finance, and sales teams at large technology companies. My work spans complex data systems, seller workflows, transactional flows, payment reconciliation, and marketplace infrastructure — typically in high-stakes, high-complexity problem spaces where clarity and trust are the design challenge.
+Senior Product Designer with 10+ years of experience specializing in complex B2B SaaS products. Currently at Tackle.io, where I lead product design for an enterprise multi-cloud transactional platform used by revenue operations, finance, and sales teams at large technology companies.
+
+I specialize in making complex systems delightful and tactile — bringing product thinking and visual craft into B2B software so it feels like a premium consumer app. My work spans complex data systems, seller workflows, transactional flows, payment reconciliation, and marketplace infrastructure — typically in high-stakes, high-complexity problem spaces where clarity and trust are the design challenge.
 
 I operate effectively across the full design lifecycle: from ambiguous 0-to-1 discovery through to shipped product and measured outcomes. I've worked closely with product managers, engineering leads, and executives, and have experience shaping design strategy at the team and org level.
 
-**Design philosophy:** Good design is humble. It makes complex work simple. I focus on solving real problems for the people using the product — not on aesthetic flair for its own sake.
+**Design philosophy:** Great enterprise software should feel as considered and responsive as a premium consumer product. I use intentional visual hierarchy, tactile interaction design, and rigorous systems thinking to make complex workflows feel clear, trustworthy, and even satisfying to use. Visual craft isn't decoration — it's how users build trust in systems they depend on.
 
-**Background:** I started as a fine arts illustrator and watercolor artist. That foundation shapes my visual taste, which I now apply to enterprise SaaS products.
+**Background:** My foundation is in visual systems — trained in graphic design and sharpened across years of digital campaign and brand work before moving into product design. That background gives me an unusually strong visual eye for a product designer, which I apply to bring clarity, hierarchy, and polish to information-dense enterprise software.
 
 ---
 
@@ -38,7 +40,7 @@ I operate effectively across the full design lifecycle: from ambiguous 0-to-1 di
 - Delivered interactive digital campaigns connecting leads to sales opportunities
 
 **Shine Advertising** — Web Designer (May 2006 – May 2012)
-- B2B and B2C campaign design; foundation in visual design and design systems
+- B2B and B2C campaign design; built deep visual systems and communication design skills across brand, digital, and interactive work
 
 ---
 
@@ -56,7 +58,7 @@ I operate effectively across the full design lifecycle: from ambiguous 0-to-1 di
 - 0-to-1 and ambiguous problem spaces — thrives when structure needs to be created, not just followed; equally comfortable when there is a clear go-to-market path
 - Scaling existing products: simplifying workflows, reducing friction, improving adoption
 - Cross-functional collaboration: embedded with product and engineering, not siloed in a design team
-- Design systems and consistency at scale
+- Design systems and consistency at scale; high-fidelity interactive prototyping that bridges strategy and engineering
 - IC contributor with the ability to lead and mentor when the team calls for it
 
 ---
@@ -113,7 +115,7 @@ I operate effectively across the full design lifecycle: from ambiguous 0-to-1 di
 
 **Work arrangement:** Open to remote and hybrid. Based in Hamilton, NJ.
 
-**What I bring beyond the work:** Mentored designers through career transitions and promotions. Cares about the craft and making people around me better.
+**What I bring beyond the work:** Mentored designers through career transitions and promotions. Cares deeply about the craft and making the people around me better.
 
 ---
 
@@ -127,6 +129,7 @@ I operate effectively across the full design lifecycle: from ambiguous 0-to-1 di
 - Enterprise UX with edge cases, incomplete data, and real-world constraints
 - Platform or systems-level design work
 - Self-serve and product-led onboarding experiences
+- Products where visual quality and interaction polish are valued alongside functional design
 
 **Moderate alignment** — roles involving:
 - General B2B SaaS without deep workflow complexity

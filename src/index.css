@@ -1,18 +1,142 @@
 @import "tailwindcss";
 @plugin "@tailwindcss/typography";
 
+/* ============================================================
+   DESIGN SYSTEM TOKENS — source of truth: design.md
+   ============================================================ */
+
 @theme {
-  --font-sans: 'Inter', system-ui, sans-serif;
+  /* Font */
+  --font-mono: 'JetBrains Mono', monospace;
+
+  /* --- Color Primitives --- */
+
+  /* Green — brand / text */
+  --color-green-50:  #EEF8F3;
+  --color-green-100: #D4EDE1;
+  --color-green-200: #BAE2CF;
+  --color-green-300: #97D4B8;
+  --color-green-400: #75C5A0;
+  --color-green-500: #52B788;
+  --color-green-600: #42926D;
+  --color-green-700: #316E52;
+  --color-green-800: #214936;
+  --color-green-900: #10251B;
+
+  /* Amber — warning */
+  --color-amber-50:  #FDF8F2;
+  --color-amber-100: #FAEFE1;
+  --color-amber-200: #F7E3C9;
+  --color-amber-300: #F3D4AE;
+  --color-amber-400: #EDC189;
+  --color-amber-500: #E5A657;
+  --color-amber-600: #C08B49;
+  --color-amber-700: #9C713B;
+  --color-amber-800: #73532C;
+  --color-amber-900: #45321A;
+
+  /* Red — error */
+  --color-red-50:  #FDF3F2;
+  --color-red-100: #FAE4E2;
+  --color-red-200: #F7CFCB;
+  --color-red-300: #F3B7B1;
+  --color-red-400: #ED968D;
+  --color-red-500: #E5695C;
+  --color-red-600: #C0584D;
+  --color-red-700: #9C473F;
+  --color-red-800: #73352E;
+  --color-red-900: #45201C;
+
+  /* Neutral — surface / structure */
+  --color-neutral-50:  #EBECEC;
+  --color-neutral-100: #DADCDC;
+  --color-neutral-200: #C1C4C4;
+  --color-neutral-300: #9CA1A1;
+  --color-neutral-400: #777E7E;
+  --color-neutral-500: #465656;
+  --color-neutral-600: #1A2F2F;
+  --color-neutral-700: #111C1C;
+  --color-neutral-800: #0C1919;
+  --color-neutral-900: #071414;
 }
+
+/* --- Semantic Tokens (CSS Custom Properties) --- */
+:root {
+  /* Text */
+  --text-primary:   var(--color-green-500);
+  --text-secondary:  var(--color-green-600);
+  --text-tertiary:   var(--color-green-700);
+
+  /* Status */
+  --status-warning: var(--color-amber-500);
+  --status-error:   var(--color-red-500);
+
+  /* Surfaces */
+  --surface-0: var(--color-neutral-900);
+  --surface-1: var(--color-neutral-800);
+  --surface-2: var(--color-neutral-700);
+  --surface-3: var(--color-neutral-600);
+
+  /* Border — proposed token for radar screen edge */
+  --border-radar: rgba(199, 227, 104, 0.43);
+
+  /* Spacing (8pt grid) */
+  --spacing-4:   4px;
+  --spacing-8:   8px;
+  --spacing-12:  12px;
+  --spacing-16:  16px;
+  --spacing-24:  24px;
+  --spacing-32:  32px;
+  --spacing-40:  40px;
+  --spacing-48:  48px;
+  --spacing-64:  64px;
+  --spacing-80:  80px;
+  --spacing-96:  96px;
+  --spacing-128: 128px;
+}
+
+/* ============================================================
+   BASE STYLES
+   ============================================================ */
 
 @layer base {
   body {
-    background-color: var(--color-gray-950);
-    color: var(--color-gray-200);
+    background-color: var(--surface-0);
+    color: var(--text-primary);
+    font-family: var(--font-mono);
   }
 }
 
-/* Custom Scrollbar for dark theme */
+/* ============================================================
+   TYPOGRAPHY STYLES (design.md)
+   ============================================================ */
+
+.text-hero { font-weight: 800; font-size: 44px; line-height: 52px; font-family: var(--font-mono); }
+.text-h1 { font-weight: 800; font-size: 32px; line-height: 40px; font-family: var(--font-mono); }
+.text-h2 { font-weight: 700; font-size: 24px; line-height: 32px; font-family: var(--font-mono); }
+.text-h3 { font-weight: 700; font-size: 19px; line-height: 28px; font-family: var(--font-mono); }
+.text-h4 { font-weight: 500; font-size: 15px; line-height: 24px; font-family: var(--font-mono); }
+
+@media (min-width: 640px) {
+  .text-h3 { font-size: 20px; }
+  .text-h4 { font-size: 16px; }
+}
+.text-body { font-weight: 400; font-size: 14px; line-height: 20px; font-family: var(--font-mono); }
+.text-small { font-weight: 400; font-size: 12px; line-height: 18px; font-family: var(--font-mono); }
+
+/* ============================================================
+   RADAR ANIMATION
+   ============================================================ */
+
+@keyframes radar-spin {
+  from { transform: rotate(0deg); }
+  to   { transform: rotate(360deg); }
+}
+
+/* ============================================================
+   CUSTOM SCROLLBAR
+   ============================================================ */
+
 ::-webkit-scrollbar {
   width: 8px;
   height: 8px;
@@ -22,11 +146,160 @@
   background: transparent;
 }
 
-::-webkit-scrollbar-thumb {
-  background: var(--color-gray-700);
-  border-radius: 4px;
+/* Hide scrollbar thumb by default, show on container hover */
+*::-webkit-scrollbar-thumb {
+  background: transparent;
+  border-radius: var(--spacing-4);
 }
 
-::-webkit-scrollbar-thumb:hover {
-  background: var(--color-gray-600);
+*:hover::-webkit-scrollbar-thumb {
+  background: var(--color-neutral-600);
 }
+
+*::-webkit-scrollbar-thumb:hover {
+  background: var(--color-neutral-500) !important;
+}
+
+/* ============================================================
+   REDUCED MOTION
+   ============================================================ */
+
+@media (prefers-reduced-motion: reduce) {
+  .radar-sweep {
+    animation: none !important;
+  }
+}
+
+/* ============================================================
+   CUSTOM TRUNCATION W/ SPACE BEFORE ELLIPSIS
+   ============================================================ */
+.custom-truncate {
+  @media (min-width: 640px) {
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis; /* Fallback for Safari */
+    text-overflow: " ...";   /* Chrome/Firefox custom string */
+  }
+}
+
+/* ============================================================
+   PRIMARY BUTTON SYSTEM (Keycap style)
+   ============================================================ */
+.btn-primary {
+  width: 60px;
+  height: 44px;
+  background-color: var(--color-green-900);
+  border-radius: 7px;
+  padding: 1px;
+  border: none;
+  cursor: pointer;
+  outline: none;
+  transition: all 0.1s ease;
+  display: inline-block;
+}
+
+.btn-primary:disabled {
+  cursor: not-allowed;
+  opacity: 0.6;
+}
+
+.btn-primary .btn-inner {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 100%;
+  border-radius: 6px;
+  background: linear-gradient(to right, var(--color-green-800), var(--color-green-900));
+  box-shadow: inset 1px 1px 2px rgba(151, 212, 184, 0.13);
+  font-family: var(--font-mono);
+  font-size: 14px;
+  font-weight: 700;
+  color: var(--text-primary);
+  text-transform: uppercase;
+  opacity: 0.9;
+  transition: all 0.1s ease;
+}
+
+/* Hover State */
+.btn-primary:hover:not(:disabled) {
+  background-color: var(--color-green-800);
+}
+.btn-primary:hover:not(:disabled) .btn-inner {
+  background: linear-gradient(to right, var(--color-green-700), var(--color-green-800));
+  opacity: 1;
+}
+
+/* Pressed (Active) State */
+.btn-primary:active:not(:disabled) {
+  background-color: var(--color-green-950);
+}
+.btn-primary:active:not(:disabled) .btn-inner {
+  background: linear-gradient(to right, var(--color-green-900), var(--color-green-950));
+  box-shadow: inset 1px 1px 3px rgba(0, 0, 0, 0.4);
+  transform: scale(0.97);
+}
+
+/* Primary Button Loader Spinner */
+.btn-spinner {
+  width: 18px;
+  height: 18px;
+  border: 2px solid rgba(255, 255, 255, 0.2);
+  border-top-color: var(--color-green-400);
+  border-radius: 50%;
+  animation: btn-spin 0.8s linear infinite;
+  display: inline-block;
+}
+
+/* Job Feed Card Styles */
+.job-card {
+  display: flex;
+  align-items: flex-start;
+  @media (min-width: 640px) {
+    align-items: center;
+  }
+  gap: var(--spacing-16);
+  padding: var(--spacing-8) var(--spacing-8); /* Add small horizontal padding so hover border doesn't clip */
+  margin-left: -8px; /* Offset the horizontal padding so alignment is preserved */
+  margin-right: -8px;
+  border-radius: 8px;
+  border: 1px solid transparent;
+  background-color: transparent;
+  cursor: pointer;
+  font-family: var(--font-mono);
+  outline: none;
+  transition: all 0.15s ease;
+}
+
+/* Hover State: Shows green/600 border, transparent background */
+.job-card:hover:not(.active) {
+  border-color: var(--color-green-600);
+}
+
+/* Active / Selected State: Shows green/900 background, transparent border */
+.job-card.active {
+  background-color: var(--color-green-900);
+  border-color: transparent;
+}
+
+@keyframes btn-spin {
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+/* Tooltip Animations */
+.tooltip-anim {
+  opacity: 0;
+  transform: translateY(-8px);
+  pointer-events: none;
+  /* No transition on hide: disappears instantly on mouse leave */
+}
+
+.tooltip-anim.visible {
+  opacity: 1;
+  transform: translateY(0);
+  /* Transition when showing: opacity and slide down (Y-axis), 0.15s ease-in */
+  transition: opacity 0.15s ease-in, transform 0.15s ease-in;
+}
+

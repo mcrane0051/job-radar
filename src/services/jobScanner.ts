@@ -1,13 +1,18 @@
-import { flashModel, flashModelNoSearch, proModel } from './gemini';
-import { Job, KeywordMatch, ScanResult } from '../types';
+import { flashModel } from './gemini';
+import type { Job, ScanResult } from '../types';
 import { preferences } from '../config/preferences';
 import { PROFILE_ARTIFACT } from '../data/profileArtifact';
-import { RESUME } from '../data/resume';
 
-export const scanJobs = async (): Promise<ScanResult> => {
+export const scanJobsStream = async (onJobFound: (job: Job) => void): Promise<ScanResult> => {
   const prompt = `
 You are an expert technical recruiter and AI agent acting on behalf of Michael Crane, a Senior Product Designer.
-Your task is to search the web for recent job postings that match his search preferences, evaluate them against his profile, and return a highly structured JSON array of matching jobs.
+Your task is to scan the live internet for job postings that match a candidate's profile and preferences.
+
+The "FitTier" scale is:
+Strong Fit (Typically scores 7-10)
+Good Fit (Typically scores 5-6)
+Possible (Typically scores 3-4)
+Stretch (Typically scores 1-2)
 
 SEARCH PREFERENCES:
 - Titles: ${preferences.titles.join(', ')}
@@ -17,66 +22,86 @@ SEARCH PREFERENCES:
 - EXCLUDE these roles: ${preferences.exclude.join(', ')}
 - MUST be posted within the last ${preferences.maxPostingAgeDays} days.
 
-CANDIDATE PROFILE (The Only Source of Truth):
+CANDIDATE PROFILE:
 ${PROFILE_ARTIFACT}
 
 INSTRUCTIONS:
-1. Search across job boards (Wellfound, We Work Remotely, Remotive, LinkedIn, Dribbble) and direct career pages.
-2. Find 5 to 10 highly relevant jobs posted recently.
-3. Score each job from 1-10 based on how well the candidate's profile aligns with the required qualifications and the Fit Alignment Notes.
-4. IMPORTANT SCORING RULES:
-   - The candidate profile is the ONLY source of truth. Do not infer or assume skills not explicitly stated.
-   - If required qualifications cannot be confidently determined, lower the score and reflect uncertainty in the explanation. Do not round up on ambiguity.
-5. Determine if it is "isHot" (posted within ${preferences.hotThresholdHours} hours).
-6. Determine if it is "isOffLinkedIn" (found on a site other than LinkedIn).
-7. Extract the full job description.
-8. Map the requirements in the job description to the candidate's profile to generate keyword matches.
+1. Find 10 to 15 highly relevant jobs posted recently. (Do not return roles if they are not a strong fit).
+2. Score each job from 1-10 based on how well the candidate's profile aligns with the requirements. 
+   - CRITICAL LOCATION RULE: Any Hybrid role MUST be located in Philadelphia, PA, New Jersey, or NYC. If a Hybrid role is outside these areas, ignore it completely.
+   - CRITICAL RANKING RULE: The candidate strongly prefers Remote over Hybrid. Deduct 1 to 2 points from the fit score if the role is Hybrid.
+3. Extract a detailed summary of the job description, including a bulleted list of the core responsibilities and requirements (DO NOT copy verbatim to avoid recitation blocks, but provide a thorough, structured breakdown).
+4. Identify the base website domain of the company (e.g., "apple.com" or "goswift.ly") and output it as companyDomain.
+5. Provide the FULL, real application URL starting with https:// for the applyUrl field. 
+   - CRITICAL URL RULE: If the job is found on an aggregator site (like ZipRecruiter, Indeed, Glassdoor, etc.) or you are unsure of the exact URL path, output EXACTLY "N/A" for the applyUrl. ONLY provide a URL if it is the direct company career page (e.g., greenhouse.io, lever.co, careers.company.com).
+6. Map requirements to candidate keywords.
+7. If a job title contains a specialization, department, team, or product area (e.g. "Senior Product Designer, Payment Reconciliation Platform" or "Product Designer - Growth"), split it. Place the clean, core role name (e.g. "Senior Product Designer") in the "title" field, and the specialization/team (e.g. "Payment Reconciliation Platform" or "Growth") in the "specialty" field. If there is no specialization, leave "specialty" blank or omit it.
 
-Return a JSON array of objects with the EXACT following structure, and nothing else (no markdown fences, just the raw JSON):
-[
-  {
-    "id": "unique-string-id",
-    "title": "Role Title",
-    "company": "Company Name",
-    "industry": "Industry",
-    "location": "Location",
-    "postedAt": "ISO Date String",
-    "fitScore": 8,
-    "fitTier": "Strong Fit", // "Best Fit" | "Strong Fit" | "Good Fit" | "Possible" | "Stretch"
-    "fitExplanation": "Detailed explanation of why this score was given, explicitly noting missing qualifications.",
-    "source": "Job Board Name",
-    "applyUrl": "https://url-to-apply.com",
-    "isHot": true,
-    "isOffLinkedIn": true,
-    "jobDescription": "Full text of the job description...",
-    "keywords": [
-      {
-        "keyword": "Figma",
-        "inProfile": true,
-        "relevance": "required", // "required" or "preferred"
-        "note": "Mentioned extensively in profile"
-      }
-    ],
-    "status": "New"
-  }
-]
+8. Extract the salary range or compensation if it is posted in the job description (e.g. "$150k - $180k"). If it is not posted, omit the salary field entirely. DO NOT include trailing words like "a year", "per year", or "annually" - just output the raw numbers/ranges.
+
+CRITICAL OUTPUT FORMAT:
+You MUST output EXACTLY ONE JSON object per job.
+Do NOT output a JSON array starting with [.
+Just pure, unformatted text where every job is represented by an independent JSON object.
+
+Example format:
+{"id":"1","title":"Designer","company":"Apple","companyDomain":"apple.com","industry":"Tech","location":"Remote","postedAt":"2026-05-15","fitScore":9,"fitTier":"Strong Fit","fitExplanation":"Matches...","source":"LinkedIn","applyUrl":"https://careers.apple.com/job/12345","isOffLinkedIn":false,"jobDescription":"Summary...","specialty":"Growth","salary":"$150k - $180k","keywords":[{"keyword":"Figma","inProfile":true,"relevance":"required","note":"Good"}],"status":"New"}
 `;
 
+  const processedJobs: Job[] = [];
+  const batchTime = new Date().toISOString();
+  
   try {
-    const result = await flashModel.generateContent(prompt);
-    let text = result.response.text();
+    const resultStream = await flashModel.generateContentStream(prompt);
     
-    // Clean up markdown formatting if Gemini added it despite instructions
-    if (text.startsWith('```json')) {
-      text = text.replace(/^```json\n/, '').replace(/\n```$/, '');
-    } else if (text.startsWith('```')) {
-      text = text.replace(/^```\n/, '').replace(/\n```$/, '');
-    }
+    let buffer = "";
+    let openBraces = 0;
+    let currentObjectStr = "";
 
-    const jobs: Job[] = JSON.parse(text);
-    
-    // Ensure all jobs have the 'New' status initially
-    const processedJobs = jobs.map(job => ({ ...job, status: 'New' as const }));
+    for await (const chunk of resultStream.stream) {
+      buffer += chunk.text();
+      
+      // Process character by character to find complete JSON objects, 
+      // which gracefully handles both JSONL and pretty-printed JSON.
+      for (let i = 0; i < buffer.length; i++) {
+        const char = buffer[i];
+        
+        if (char === '{') {
+          openBraces++;
+        }
+        
+        if (openBraces > 0) {
+          currentObjectStr += char;
+        }
+        
+        if (char === '}') {
+          openBraces--;
+          if (openBraces === 0) {
+            // We have a complete object
+            try {
+              const job = JSON.parse(currentObjectStr) as Job;
+              // Check if it's actually a Job object and not some wrapper
+              if (job && job.title && job.company) {
+                const processedJob = { 
+                  ...job, 
+                  id: crypto.randomUUID(), // Force a truly unique ID
+                  status: 'New' as const,
+                  scannedAt: batchTime
+                };
+                processedJobs.push(processedJob);
+                onJobFound(processedJob);
+              }
+            } catch (e) {
+              console.warn("Failed to parse extracted JSON object:", currentObjectStr);
+            }
+            currentObjectStr = ""; // Reset for next object
+          }
+        }
+      }
+      
+      // Clear buffer as everything is either processed or stored in currentObjectStr
+      buffer = "";
+    }
 
     return {
       jobs: processedJobs,
@@ -84,6 +109,6 @@ Return a JSON array of objects with the EXACT following structure, and nothing e
     };
   } catch (error) {
     console.error("Error scanning jobs:", error);
-    throw new Error("Failed to scan for jobs. Check the console for details.");
+    throw new Error("Failed to scan for jobs. Please check the console.");
   }
 };
