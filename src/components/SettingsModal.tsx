@@ -75,7 +75,7 @@ export const SettingsModal: React.FC<SettingsModalProps> = ({ isOpen, onClose })
                 value={geminiKey}
                 onChange={(e) => setGeminiKey(e.target.value)}
                 placeholder="AIzaSy..."
-                className="w-full px-3 py-2 rounded-md font-mono text-sm focus:outline-none focus:ring-2 focus:ring-[var(--brand-primary)]"
+                className="w-full px-3 py-2 rounded-md font-mono text-sm focus:outline-none"
                 style={{
                   backgroundColor: 'var(--surface-3)',
                   border: '1px solid var(--border-color)',
@@ -94,7 +94,7 @@ export const SettingsModal: React.FC<SettingsModalProps> = ({ isOpen, onClose })
                 value={hunterKey}
                 onChange={(e) => setHunterKey(e.target.value)}
                 placeholder="6a936..."
-                className="w-full px-3 py-2 rounded-md font-mono text-sm focus:outline-none focus:ring-2 focus:ring-[var(--brand-primary)]"
+                className="w-full px-3 py-2 rounded-md font-mono text-sm focus:outline-none"
                 style={{
                   backgroundColor: 'var(--surface-3)',
                   border: '1px solid var(--border-color)',
@@ -115,7 +115,7 @@ export const SettingsModal: React.FC<SettingsModalProps> = ({ isOpen, onClose })
           </button>
           <button 
             onClick={handleSave}
-            className="px-4 py-2 rounded-md text-sm font-bold bg-[var(--brand-primary)] text-black hover:opacity-90 transition-opacity"
+            className="btn-primary"
           >
             Save Keys
           </button>
