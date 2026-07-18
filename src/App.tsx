@@ -108,7 +108,7 @@ function App() {
       return new Date(job.scannedAt).getTime() >= cutoffTime;
     }).map(job => ({ ...job, isNew: false }));
 
-    let latestJobs = [...activeExistingJobs];
+    let latestJobs: Job[] = [...activeExistingJobs];
     
     try {
       const result = await scanJobsStream((newJob) => {

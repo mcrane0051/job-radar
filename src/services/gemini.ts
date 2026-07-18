@@ -1,5 +1,7 @@
 import { GoogleGenerativeAI } from '@google/generative-ai';
 
+declare const process: any;
+
 const getApiKey = () => {
   try {
     if (typeof process !== 'undefined' && process.env) {

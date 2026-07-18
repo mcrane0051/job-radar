@@ -1,4 +1,4 @@
-import { SchemaType } from '@google/generative-ai';
+
 import { flashModelNoSearch } from './gemini';
 import type { Job, KeywordAlignment, ResumeEdit } from '../types';
 import { PROFILE_ARTIFACT } from '../data/profileArtifact';
