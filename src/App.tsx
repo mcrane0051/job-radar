@@ -179,11 +179,7 @@ function App() {
         </div>
         
         <ScanButton 
-          isScanning={isScanning} 
-          onScan={handleScan} 
           lastScannedAt={lastScannedAt}
-          disabled={!hasApiKey()}
-          disabledReason={!hasApiKey() ? 'Scan is automated in the cloud. Run app locally for manual scans.' : undefined}
         />
       </header>
 

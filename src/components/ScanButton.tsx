@@ -1,14 +1,10 @@
 import React from 'react';
 
 interface ScanButtonProps {
-  isScanning: boolean;
-  onScan: () => void;
   lastScannedAt?: string;
-  disabled?: boolean;
-  disabledReason?: string;
 }
 
-export const ScanButton: React.FC<ScanButtonProps> = ({ isScanning, onScan, lastScannedAt, disabled, disabledReason }) => {
+export const ScanButton: React.FC<ScanButtonProps> = ({ lastScannedAt }) => {
   const getNextScanTime = () => {
     const currentEst = new Date(new Date().toLocaleString("en-US", {timeZone: "America/New_York"}));
     const h = currentEst.getHours();
