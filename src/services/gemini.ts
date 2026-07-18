@@ -16,6 +16,10 @@ const getApiKey = () => {
   return '';
 };
 
+export const hasApiKey = () => {
+  return !!getApiKey();
+};
+
 const genAI = new GoogleGenerativeAI(getApiKey());
 
 // Flash with Google Search grounding — for job scanning

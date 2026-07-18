@@ -1,63 +1,56 @@
 import { scanJobsStream } from '../src/services/jobScanner.js';
 import * as fs from 'fs';
 import * as path from 'path';
+import { fileURLToPath } from 'url';
 
-// This script is meant to be run via `npx tsx scripts/runScanner.ts` in a Node environment (like GitHub Actions).
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
+const JOBS_FILE = path.join(__dirname, '../public/jobs.json');
 
-async function main() {
-  console.log("Starting automated job scan...");
+async function run() {
+  console.log('Starting automated job scan...');
   
-  const publicDir = path.join(process.cwd(), 'public');
-  if (!fs.existsSync(publicDir)) {
-    fs.mkdirSync(publicDir, { recursive: true });
-  }
-  
-  const jobsFile = path.join(publicDir, 'jobs.json');
-  
-  // Read existing jobs to prevent duplicates (optional, but good for keeping history)
   let existingJobs: any[] = [];
-  if (fs.existsSync(jobsFile)) {
-    try {
-      const data = JSON.parse(fs.readFileSync(jobsFile, 'utf-8'));
-      existingJobs = data.jobs || [];
-    } catch (e) {
-      console.error("Failed to parse existing jobs.json. Starting fresh.");
+  try {
+    if (fs.existsSync(JOBS_FILE)) {
+      const data = fs.readFileSync(JOBS_FILE, 'utf-8');
+      existingJobs = JSON.parse(data).jobs || [];
     }
+  } catch (e) {
+    console.warn('Could not read existing jobs.json, starting fresh.');
   }
 
-  // Filter out jobs older than 14 days
-  const fourteenDaysAgo = new Date();
-  fourteenDaysAgo.setDate(fourteenDaysAgo.getDate() - 14);
-  const cutoffTime = fourteenDaysAgo.getTime();
+  // Mark all existing jobs as not new
+  const activeExistingJobs = existingJobs
+    .filter(job => {
+      if (!job.scannedAt) return true;
+      const fourteenDaysAgo = new Date();
+      fourteenDaysAgo.setDate(fourteenDaysAgo.getDate() - 14);
+      return new Date(job.scannedAt).getTime() >= fourteenDaysAgo.getTime();
+    })
+    .map(job => ({ ...job, isNew: false }));
 
-  const activeExistingJobs = existingJobs.filter(job => {
-    if (!job.scannedAt) return true;
-    return new Date(job.scannedAt).getTime() >= cutoffTime;
-  }).map(job => ({ ...job, isNew: false }));
+  const newJobs: any[] = [];
   
-  let latestJobs = [...activeExistingJobs];
-
   try {
-    const result = await scanJobsStream((newJob) => {
-      console.log(`Found job: ${newJob.title} at ${newJob.company}`);
-      // Only add if not a duplicate
-      if (!latestJobs.some(j => j.id === newJob.id)) {
-        latestJobs = [{ ...newJob, isNew: true }, ...latestJobs];
-      }
+    const result = await scanJobsStream((job) => {
+      console.log(`Found job: ${job.title} at ${job.company}`);
+      newJobs.push({ ...job, isNew: true });
     });
 
-    const outputData = {
-      jobs: latestJobs,
-      scannedAt: result.scannedAt
-    };
+    const combinedJobs = [...newJobs, ...activeExistingJobs];
 
-    fs.writeFileSync(jobsFile, JSON.stringify(outputData, null, 2));
-    console.log(`\nScan complete! Saved ${latestJobs.length} jobs to public/jobs.json.`);
-    
+    fs.writeFileSync(JOBS_FILE, JSON.stringify({
+      jobs: combinedJobs,
+      scannedAt: result.scannedAt
+    }, null, 2));
+
+    console.log(`\nScan complete! Found ${newJobs.length} new jobs.`);
+    console.log(`Total active jobs saved to public/jobs.json: ${combinedJobs.length}`);
   } catch (error) {
-    console.error("Scan failed:", error);
+    console.error('Error during scan:', error);
     process.exit(1);
   }
 }
 
-main();
+run();

@@ -4,6 +4,7 @@ import { JobFeed } from './components/JobFeed'
 import { JobSidebar } from './components/JobSidebar'
 import { RadarBackground } from './components/RadarBackground'
 import { scanJobsStream } from './services/jobScanner'
+import { hasApiKey } from './services/gemini'
 import logoTech from './assets/logo-tech.svg'
 import type { Job, ScanResult } from './types'
 
@@ -180,7 +181,9 @@ function App() {
         <ScanButton 
           isScanning={isScanning} 
           onScan={handleScan} 
-          lastScannedAt={lastScannedAt} 
+          lastScannedAt={lastScannedAt}
+          disabled={!hasApiKey()}
+          disabledReason={!hasApiKey() ? 'Scan is automated in the cloud. Run app locally for manual scans.' : undefined}
         />
       </header>
 

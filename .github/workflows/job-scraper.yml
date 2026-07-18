@@ -1,41 +1,39 @@
-name: Job Radar Automated Scanner
+name: Automated Job Scraper
 
 on:
   schedule:
-    # Runs at 7:00 AM (11:00 UTC) and 3:00 PM (19:00 UTC) every day
-    - cron: '0 11,19 * * *'
-  workflow_dispatch: # Allows manual trigger from the GitHub Actions UI
+    - cron: '0 11,19 * * *' # Runs at 7 AM and 3 PM EST (11:00 and 19:00 UTC)
+  workflow_dispatch: # Allows manual triggering from GitHub Actions tab
 
 jobs:
-  scan-jobs:
+  scan-and-commit:
     runs-on: ubuntu-latest
-    
     permissions:
-      contents: write # Needed to commit the jobs.json file back to the repo
+      contents: write # Needed to commit back to the repo
 
     steps:
-      - name: Checkout Repository
+      - name: Checkout repository
         uses: actions/checkout@v4
-        
-      - name: Setup Node.js
+
+      - name: Setup Node
         uses: actions/setup-node@v4
         with:
-          node-version: '20'
+          node-version: 20
           cache: 'npm'
-          
-      - name: Install Dependencies
+
+      - name: Install dependencies
         run: npm ci
-        
+
       - name: Run Job Scanner
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: npx tsx scripts/runScanner.ts
-        
-      - name: Commit and Push Updated Jobs
+
+      - name: Commit and Push changes
         run: |
-          git config --global user.name 'github-actions[bot]'
-          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git config --global user.name "GitHub Action Bot"
+          git config --global user.email "action@github.com"
           git add public/jobs.json
-          # Only commit if there are changes
-          git diff --quiet && git diff --staged --quiet || git commit -m "🤖 Auto-update: Scanned fresh jobs"
+          # Commit only if there are changes
+          git diff --quiet && git diff --staged --quiet || git commit -m "Automated job scan [skip ci]"
           git push

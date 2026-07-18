@@ -4,9 +4,11 @@ interface ScanButtonProps {
   isScanning: boolean;
   onScan: () => void;
   lastScannedAt?: string;
+  disabled?: boolean;
+  disabledReason?: string;
 }
 
-export const ScanButton: React.FC<ScanButtonProps> = ({ isScanning, onScan, lastScannedAt }) => {
+export const ScanButton: React.FC<ScanButtonProps> = ({ isScanning, onScan, lastScannedAt, disabled, disabledReason }) => {
   const getNextScanTime = () => {
     const currentEst = new Date(new Date().toLocaleString("en-US", {timeZone: "America/New_York"}));
     const h = currentEst.getHours();
@@ -59,9 +61,10 @@ export const ScanButton: React.FC<ScanButtonProps> = ({ isScanning, onScan, last
       {/* Keycap-style SCAN button */}
       <button
         onClick={onScan}
-        disabled={isScanning}
+        disabled={isScanning || disabled}
+        title={disabledReason}
         aria-label="Scan for jobs"
-        className="btn-primary focus-visible:outline-2 focus-visible:outline-offset-2"
+        className={`btn-primary focus-visible:outline-2 focus-visible:outline-offset-2 ${(isScanning || disabled) ? 'opacity-50 cursor-not-allowed' : ''}`}
         style={{
           focusVisibleOutlineColor: 'var(--text-primary)',
         } as any}
