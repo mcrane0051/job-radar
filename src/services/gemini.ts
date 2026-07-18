@@ -38,6 +38,10 @@ const getGenAI = () => {
   return _genAI;
 };
 
+export const clearGenAICache = () => {
+  _genAI = null;
+};
+
 // Flash with Google Search grounding — for job scanning
 export const getFlashModel = () => getGenAI().getGenerativeModel({
   model: 'gemini-2.5-flash',

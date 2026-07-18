@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { IconButton } from './IconButton';
 
+import { clearGenAICache } from '../services/gemini';
 import { Button } from './Button';
 
 interface SettingsModalProps {
@@ -31,6 +32,10 @@ export const SettingsModal: React.FC<SettingsModalProps> = ({ isOpen, onClose })
     } else {
       window.localStorage.removeItem('hunter-api-key');
     }
+    
+    // Clear the GenAI cache so it picks up the new key immediately without a refresh
+    clearGenAICache();
+    
     onClose();
   };
 
