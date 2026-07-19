@@ -131,7 +131,7 @@ function App() {
           />
           <button 
             onClick={() => setIsSettingsOpen(true)}
-            className="p-2 rounded-full hover:bg-[var(--surface-3)] transition-colors text-[var(--text-secondary)] hover:text-[var(--text-primary)]"
+            className="p-2 -mr-2 rounded-full hover:bg-[var(--surface-3)] transition-colors text-[var(--text-secondary)] hover:text-[var(--text-primary)]"
             title="API Settings"
           >
             <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
