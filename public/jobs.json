@@ -1,6 +1,271 @@
 {
   "jobs": [
     {
+      "id": "59829afb-1171-4dea-9a36-df2d974a3d39",
+      "title": "Senior Product Designer",
+      "company": "Linear",
+      "companyDomain": "linear.app",
+      "industry": "B2B SaaS",
+      "location": "Remote (U.S. Only)",
+      "postedAt": "2026-07-19",
+      "fitScore": 9,
+      "fitTier": "Strong Fit",
+      "fitExplanation": "This role aligns strongly with Michael's background in complex B2B SaaS products and his expertise in design systems. The snippet explicitly mentions a deep match on B2B SaaS and design systems experience, which are core strengths for Michael. The remote US location is also a perfect match.",
+      "source": "Resumly",
+      "applyUrl": "N/A",
+      "isOffLinkedIn": false,
+      "jobDescription": "Lead product design efforts for B2B SaaS products. Focus on creating delightful and tactile experiences within complex systems, leveraging strong visual craft. The role involves working with a component library and contributing to design strategy. Expertise in Figma and B2B SaaS is essential.",
+      "specialty": "",
+      "salary": "",
+      "keywords": [
+        {
+          "keyword": "B2B SaaS",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Explicitly mentioned as a deep match."
+        },
+        {
+          "keyword": "Design Systems",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Explicitly mentioned as a deep match."
+        },
+        {
+          "keyword": "Figma",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Listed as a required tool."
+        },
+        {
+          "keyword": "Remote US",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Perfect match for Michael's location preference."
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-07-19T20:11:49.401Z",
+      "isNew": true
+    },
+    {
+      "id": "9c7214e8-c485-4747-a088-e9fe6396e350",
+      "title": "Staff Product Designer",
+      "company": "Vercel",
+      "companyDomain": "vercel.com",
+      "industry": "Developer Tools",
+      "location": "Remote (U.S. Only)",
+      "postedAt": "2026-07-19",
+      "fitScore": 9,
+      "fitTier": "Strong Fit",
+      "fitExplanation": "This Staff-level role aligns perfectly with Michael's target level and his expertise in complex systems. His experience in cloud infrastructure and developer tools adjacent areas makes this a strong fit, especially with his background in design systems. The remote location is ideal.",
+      "source": "Resumly",
+      "applyUrl": "N/A",
+      "isOffLinkedIn": false,
+      "jobDescription": "Drive product design for developer tools, focusing on motion and design systems. The role requires a strong understanding of complex product experiences and the ability to contribute to strategic design initiatives. Candidates should have a robust portfolio showcasing relevant work in developer tools.",
+      "specialty": "",
+      "salary": "",
+      "keywords": [
+        {
+          "keyword": "Developer Tools",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Strong overlap with Michael's background in cloud infrastructure."
+        },
+        {
+          "keyword": "Design Systems",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Core skill for Michael, explicitly mentioned."
+        },
+        {
+          "keyword": "Complex systems",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael specializes in making complex systems delightful."
+        },
+        {
+          "keyword": "Remote",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Perfect match for Michael's location preference."
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-07-19T20:11:49.401Z",
+      "isNew": true
+    },
+    {
+      "id": "8d31cf4e-cb57-4f11-bd1b-1fa9a3224398",
+      "title": "Senior Product Designer",
+      "company": "Fintech Company X",
+      "companyDomain": "N/A",
+      "industry": "Fintech",
+      "location": "Remote (U.S. Only)",
+      "postedAt": "2026-07-19",
+      "fitScore": 10,
+      "fitTier": "Strong Fit",
+      "fitExplanation": "This role is an excellent fit, leveraging Michael's fintech-adjacent experience (payment reconciliation, transactional flows), strong visual craft, and his recent use of AI tools in design. The emphasis on world-class visual craft and deep product thinking for complex financial tools directly matches his philosophy and background. The remote location and competitive salary further enhance the fit.",
+      "source": "MySmartPros",
+      "applyUrl": "N/A",
+      "isOffLinkedIn": false,
+      "jobDescription": "Design user experiences for a fast-growing fintech company, balancing world-class visual craft with deep product thinking. Responsibilities include UI design, visual storytelling, mixed-method user research for validation, and designing for scale using design systems. The role involves collaborating cross-functionally and presenting design work to stakeholders. Experience in Fintech or adjacent industries is required, along with demonstrative experience using AI in creative ways to solve design challenges.",
+      "specialty": "",
+      "salary": "$150,000 - $200,000",
+      "keywords": [
+        {
+          "keyword": "Fintech",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael has deep context in finance and fintech adjacent areas."
+        },
+        {
+          "keyword": "Visual craft",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Explicitly valued, a core strength for Michael."
+        },
+        {
+          "keyword": "Transactional flows",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Directly aligns with Michael's experience."
+        },
+        {
+          "keyword": "Design Systems",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Explicitly mentioned, a core skill for Michael."
+        },
+        {
+          "keyword": "User Research",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Key design practice for Michael."
+        },
+        {
+          "keyword": "AI tools",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael has recent experience using AI in design."
+        },
+        {
+          "keyword": "Remote",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Perfect match for Michael's location preference."
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-07-19T20:11:49.401Z",
+      "isNew": true
+    },
+    {
+      "id": "aa930f35-0803-4f69-8e41-4ebf7d61c11a",
+      "title": "Head of Product Design",
+      "company": "Luxury Presence",
+      "companyDomain": "luxurypresence.com",
+      "industry": "B2B SaaS",
+      "location": "Remote (U.S. Only)",
+      "postedAt": "2026-07-19",
+      "fitScore": 6,
+      "fitTier": "Possible",
+      "fitExplanation": "While a SaaS company and remote, the title 'Head of Product Design' typically implies a more senior leadership role than Michael is explicitly targeting (Senior, Staff, Lead). Michael has lead experience, but 8+ years in product design with 3+ years in a 'Head of Design' equivalent role is a stretch. The role's emphasis on 'defining and building the design discipline' could be interpreted as close to a first design hire, which Michael is not looking for, although it's framed as raising the bar within an existing team.",
+      "source": "Himalayas",
+      "applyUrl": "N/A",
+      "isOffLinkedIn": false,
+      "jobDescription": "Define and build the design discipline within a high-growth SaaS company, setting vision and standards, and leading a talented design team. Partner with Product and Engineering to improve platform engagement and user metrics. Own the quality bar for customer-facing experiences. Integrate AI tools and workflows to increase design velocity. Requires 8+ years in product design with at least 3 years in a Head of Design or equivalent leadership capacity.",
+      "specialty": "",
+      "salary": "",
+      "keywords": [
+        {
+          "keyword": "B2B SaaS",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Matches Michael's primary industry expertise."
+        },
+        {
+          "keyword": "Leadership",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael has lead experience but 'Head of' is a higher level."
+        },
+        {
+          "keyword": "Design Discipline",
+          "inProfile": false,
+          "relevance": "required",
+          "note": "Role requires defining the design discipline, Michael prefers existing infrastructure."
+        },
+        {
+          "keyword": "AI tools",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Aligns with Michael's experience with AI in design."
+        },
+        {
+          "keyword": "Remote",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Acceptable location, assuming US only is possible despite 'US/CANADA'."
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-07-19T20:11:49.401Z",
+      "isNew": true
+    },
+    {
+      "id": "0245c7a9-4e50-42a3-853e-da80a3c94858",
+      "title": "Principal Product Designer",
+      "company": "Travel Tech Company (via PowerToFly)",
+      "companyDomain": "N/A",
+      "industry": "Travel Tech, AI",
+      "location": "Hybrid in NYC",
+      "postedAt": "2026-07-18",
+      "fitScore": 6,
+      "fitTier": "Possible",
+      "fitExplanation": "This Principal-level role is a stretch for Michael's target (Senior, Staff, Lead) as it typically requires more than his 10 years of experience (listing 12+ years as ideal). However, his interest in 0-to-1 ambiguous problem spaces and experience with AI tools aligns well with the 'AI Incubation Lab' and exploring new AI-powered product experiences. The NYC hybrid location is acceptable, but the hybrid nature incurs a 1-point deduction in score due to Michael's strong preference for remote.",
+      "source": "Jooble",
+      "applyUrl": "N/A",
+      "isOffLinkedIn": false,
+      "jobDescription": "Lead AI-driven incubation projects to enhance user experiences across various brands. Collaborate with cross-functional teams to explore and prototype new AI-powered product experiences. Requires 12+ years of product design experience and strong communication skills with knowledge of AI integration into user journeys.",
+      "specialty": "AI Incubation Lab",
+      "salary": "",
+      "keywords": [
+        {
+          "keyword": "AI",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Directly aligns with Michael's experience with AI tools and 0-to-1 work."
+        },
+        {
+          "keyword": "0-to-1",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael thrives in ambiguous 0-to-1 problem spaces."
+        },
+        {
+          "keyword": "Complex UX",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Matches Michael's expertise in making complex systems clear."
+        },
+        {
+          "keyword": "Hybrid NYC",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Acceptable hybrid location, but preferred less than remote."
+        },
+        {
+          "keyword": "12+ years experience",
+          "inProfile": false,
+          "relevance": "required",
+          "note": "Michael has 10+ years, making this a slight stretch."
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-07-19T20:11:49.401Z",
+      "isNew": true
+    },
+    {
       "id": "e508781a-f8e6-4f8e-bae1-e88e6464a0c5",
       "title": "Senior Product Designer",
       "company": "CoLab",
@@ -91,7 +356,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-07-19T11:43:01.744Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "b125660c-8d21-412a-8ebb-0e9ba9fa4585",
@@ -165,7 +430,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-07-19T11:43:01.744Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "05b4ad3d-357a-4722-91ef-b587ff5ceee0",
@@ -234,7 +499,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-07-19T11:43:01.744Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "11b2f8f2-e5a3-495b-803c-477592b16855",
@@ -845,5 +1110,5 @@
       "isNew": false
     }
   ],
-  "scannedAt": "2026-07-19T11:44:34.327Z"
+  "scannedAt": "2026-07-19T20:12:35.105Z"
 }
