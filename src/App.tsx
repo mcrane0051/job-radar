@@ -42,6 +42,21 @@ function App() {
         try {
           const localData: ScanResult = JSON.parse(stored)
           const localJobs = localData.jobs || [];
+          // Merge local properties into remote jobs
+          combinedJobs = combinedJobs.map(remoteJob => {
+            const localJob = localJobs.find(j => j.id === remoteJob.id);
+            if (localJob) {
+              return {
+                ...remoteJob,
+                status: localJob.status || remoteJob.status,
+                coverLetter: localJob.coverLetter || remoteJob.coverLetter,
+                resumeTailoring: localJob.resumeTailoring || remoteJob.resumeTailoring,
+                keywords: localJob.keywords || remoteJob.keywords
+              };
+            }
+            return remoteJob;
+          });
+
           const newLocalJobs = localJobs.filter(
             (localJob) => !combinedJobs.some((remoteJob) => remoteJob.id === localJob.id)
           );
