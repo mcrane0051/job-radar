@@ -26,7 +26,7 @@ function App() {
 
       // 1. Fetch remote jobs from GitHub automation
       try {
-        const response = await fetch('./jobs.json');
+        const response = await fetch(`./jobs.json?t=${new Date().getTime()}`, { cache: 'no-store' });
         if (response.ok) {
           const remoteData = await response.json();
           combinedJobs = remoteData.jobs || [];
