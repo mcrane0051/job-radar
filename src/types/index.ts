@@ -38,6 +38,7 @@ export interface Job {
   coverLetter?: string;
   resumeTailoring?: ResumeEdit[];
   outreachData?: { contact: any; draft: any };
+  status?: ApplicationStatus;
   isNew?: boolean;
 }
 
