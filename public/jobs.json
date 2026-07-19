@@ -1,6 +1,242 @@
 {
   "jobs": [
     {
+      "id": "e508781a-f8e6-4f8e-bae1-e88e6464a0c5",
+      "title": "Senior Product Designer",
+      "company": "CoLab",
+      "companyDomain": "colabsoftware.com",
+      "industry": "AI Platform, Enterprise SaaS, Developer Tools",
+      "location": "Remote - US",
+      "postedAt": "2026-07-18",
+      "fitScore": 9,
+      "fitTier": "Strong Fit",
+      "fitExplanation": "This role is an excellent match for Michael's expertise in complex B2B SaaS and enterprise software, particularly his experience with AI tools and making complex systems delightful. He thrives in ambiguous 0-to-1 problem spaces and demonstrates strong systems thinking and UX architecture skills, which are critical for this role. The remote location aligns with his preference. The focus on engineering teams and developer tools also resonates with his background.",
+      "source": "Dynamite Jobs",
+      "applyUrl": "N/A",
+      "jobDescription": "CoLab is building an AI platform to streamline design reviews and foster a knowledge repository for mechanical engineering teams. This Senior Product Designer position requires leading design for enterprise SaaS products, focusing on complex platform and administrative experiences. The ideal candidate excels in systems, scalability, and solving intricate UX challenges, aiming to shape product thinking and influence strategy beyond just visual design. The role involves navigating ambiguity and clarifying complex problem spaces.",
+      "specialty": "AI Platform for Mechanical Engineering",
+      "keywords": [
+        {
+          "keyword": "Figma",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Fluency in Figma"
+        },
+        {
+          "keyword": "Design Systems",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Structured design systems, contributing to shared patterns and systems"
+        },
+        {
+          "keyword": "Complex Systems",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Deep experience designing complex systems, admin tools, or enterprise platform features"
+        },
+        {
+          "keyword": "Enterprise SaaS",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "4+ years in enterprise SaaS"
+        },
+        {
+          "keyword": "UX Architecture",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Strong UX architecture skills"
+        },
+        {
+          "keyword": "Systems Thinking",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Strong systems thinking; designing for scale and change"
+        },
+        {
+          "keyword": "Customer Discovery",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Experience conducting customer discovery"
+        },
+        {
+          "keyword": "Usability Testing",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Experience conducting usability testing"
+        },
+        {
+          "keyword": "Mentorship",
+          "inProfile": true,
+          "relevance": "preferred",
+          "note": "Mentor other designers"
+        },
+        {
+          "keyword": "AI",
+          "inProfile": true,
+          "relevance": "preferred",
+          "note": "AI platform for driving stronger engineering decisions"
+        },
+        {
+          "keyword": "Ambiguity",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Thrives on ambiguity, bringing clarity to complex problem spaces"
+        },
+        {
+          "keyword": "0-to-1",
+          "inProfile": true,
+          "relevance": "preferred",
+          "note": "Bring clarity to complex problem spaces where customer needs...aren't yet fully defined"
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-07-19T11:43:01.744Z",
+      "isNew": true
+    },
+    {
+      "id": "b125660c-8d21-412a-8ebb-0e9ba9fa4585",
+      "title": "Senior Product Designer",
+      "company": "Tria Federal",
+      "companyDomain": "triafederal.com",
+      "industry": "Federal Healthcare Modernization, Enterprise Systems",
+      "location": "Remote - US",
+      "postedAt": "2026-07-18",
+      "fitScore": 8,
+      "fitTier": "Strong Fit",
+      "fitExplanation": "This role strongly aligns with Michael's experience in designing complex enterprise systems and leading design efforts. His proficiency in user research, workflow analysis, and translating insights into intuitive product experiences is directly applicable. While healthcare is a moderate alignment, the focus on operational workflows and regulatory requirements in a high-stakes, large-scale modernization initiative fits his background well. The remote working model is also a strong preference.",
+      "source": "ClearanceJobs",
+      "applyUrl": "N/A",
+      "jobDescription": "Tria Federal is seeking a Senior Product Designer to lead human-centered design for a new product team engaged in a federal healthcare modernization initiative. This role involves integrating design thinking and human-centered practices throughout the software development lifecycle. Responsibilities include ensuring a clear understanding of user needs, operational workflows, and regulatory requirements, and reflecting these in product decisions. The designer will lead both research and design, synthesizing insights into actionable direction and translating them into experience concepts, interaction models, workflows, and prototypes.",
+      "keywords": [
+        {
+          "keyword": "Human-Centered Design",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Guide human-centered design efforts"
+        },
+        {
+          "keyword": "Enterprise Systems",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Leading design efforts for complex digital products or enterprise systems"
+        },
+        {
+          "keyword": "Complex Digital Products",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Leading design efforts for complex digital products or enterprise systems"
+        },
+        {
+          "keyword": "User Research",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Lead both research and design activities; conduct user research"
+        },
+        {
+          "keyword": "Operational Workflows",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Ensure user needs, operational workflows, and regulatory requirements are clearly understood"
+        },
+        {
+          "keyword": "Regulatory Requirements",
+          "inProfile": false,
+          "relevance": "bonus",
+          "note": "Ensuring regulatory requirements are clearly understood"
+        },
+        {
+          "keyword": "Design Leadership",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Serve as the design lead embedded within a product team"
+        },
+        {
+          "keyword": "Prototypes",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Translate research findings into... prototype solutions"
+        },
+        {
+          "keyword": "Interaction Design",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Translate research findings into... interaction models"
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-07-19T11:43:01.744Z",
+      "isNew": true
+    },
+    {
+      "id": "05b4ad3d-357a-4722-91ef-b587ff5ceee0",
+      "title": "Senior Product Designer",
+      "company": "Flatiron Health",
+      "companyDomain": "flatiron.com",
+      "industry": "Health Tech, B2B SaaS",
+      "location": "Hybrid in New York, NY",
+      "postedAt": "2026-07-18",
+      "fitScore": 7,
+      "fitTier": "Strong Fit",
+      "fitExplanation": "This position is a good fit given Michael's strong background in complex B2B SaaS product design and experience with AI tools and cross-functional collaboration. The focus on clinical workflows aligns with his ability to make complex systems clear and trustworthy. While healthcare is a moderate alignment, the B2B SaaS and workflow complexity are strong matches. The hybrid location in NYC is acceptable, though Michael prefers remote (hence a 1-point deduction).",
+      "source": "Built In NYC",
+      "applyUrl": "N/A",
+      "jobDescription": "Flatiron Health is seeking a Senior Product Designer to enhance clinical workflows within their OncoEMR platform, a B2B SaaS product for cancer care. This hybrid role involves close collaboration with healthcare professionals, conducting user research, and leveraging AI design tools. The designer will communicate design solutions through presentations and workshops, partner with product managers, engineers, and clinical experts on roadmap development, and contribute to the ongoing evolution of the shared design system.",
+      "specialty": "Clinical Workflows",
+      "keywords": [
+        {
+          "keyword": "B2B SaaS",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Enhance clinical workflows in OncoEMR (B2B SaaS platform)"
+        },
+        {
+          "keyword": "Complex Workflows",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Enhance clinical workflows"
+        },
+        {
+          "keyword": "User Research",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Conduct user research"
+        },
+        {
+          "keyword": "AI Design Tools",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Applying AI design tools"
+        },
+        {
+          "keyword": "Design Systems",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Contribute to our shared design system"
+        },
+        {
+          "keyword": "Cross-functional collaboration",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Collaborate and partner with product managers, engineers, and clinical experts"
+        },
+        {
+          "keyword": "Presentations",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Communicate your ideas through design presentations and workshops"
+        },
+        {
+          "keyword": "Hybrid",
+          "inProfile": true,
+          "relevance": "acceptable",
+          "note": "Hybrid in New York, NY"
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-07-19T11:43:01.744Z",
+      "isNew": true
+    },
+    {
       "id": "11b2f8f2-e5a3-495b-803c-477592b16855",
       "title": "Senior Product Designer",
       "company": "CoreLogic",
@@ -122,7 +358,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-07-18T20:03:19.235Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "68461852-c8ea-4853-a956-87b9c60ae260",
@@ -609,5 +845,5 @@
       "isNew": false
     }
   ],
-  "scannedAt": "2026-07-18T20:04:05.748Z"
+  "scannedAt": "2026-07-19T11:44:34.327Z"
 }
