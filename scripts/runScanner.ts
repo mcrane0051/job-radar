@@ -38,7 +38,16 @@ async function run() {
       newJobs.push({ ...job, isNew: true });
     });
 
-    const combinedJobs = [...newJobs, ...activeExistingJobs];
+    const combinedMap = new Map<string, any>();
+    // Add existing jobs first
+    for (const job of activeExistingJobs) {
+      combinedMap.set(job.id, job);
+    }
+    // New jobs overwrite existing ones with the same ID (preserves freshness)
+    for (const job of newJobs) {
+      combinedMap.set(job.id, { ...job, isNew: true });
+    }
+    const combinedJobs = Array.from(combinedMap.values());
 
     fs.writeFileSync(JOBS_FILE, JSON.stringify({
       jobs: combinedJobs,

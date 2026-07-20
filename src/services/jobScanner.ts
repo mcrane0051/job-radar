@@ -83,9 +83,20 @@ Example format:
               const job = JSON.parse(currentObjectStr) as Job;
               // Check if it's actually a Job object and not some wrapper
               if (job && job.title && job.company) {
+                // Generate a deterministic ID from title+company so the same job
+                // keeps the same ID across scans (needed for localStorage merge)
+                const idSource = `${job.title.toLowerCase().trim()}-${job.company.toLowerCase().trim()}`;
+                let hash = 0;
+                for (let i = 0; i < idSource.length; i++) {
+                  const chr = idSource.charCodeAt(i);
+                  hash = ((hash << 5) - hash) + chr;
+                  hash |= 0; // Convert to 32-bit integer
+                }
+                const deterministicId = `job-${Math.abs(hash).toString(36)}`;
+                
                 const processedJob = { 
                   ...job, 
-                  id: crypto.randomUUID(), // Force a truly unique ID
+                  id: deterministicId,
                   status: 'New' as const,
                   scannedAt: batchTime
                 };
