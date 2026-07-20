@@ -1,6 +1,267 @@
 {
   "jobs": [
     {
+      "id": "47ccfb36-9266-4173-80c9-a7b35f8d5f5f",
+      "title": "Senior Product Designer",
+      "company": "HiBob",
+      "companyDomain": "hibob.com",
+      "industry": "B2B SaaS",
+      "location": "Hybrid in NYC",
+      "postedAt": "2026-07-20",
+      "fitScore": 8,
+      "fitTier": "Good Fit",
+      "fitExplanation": "This role is a strong match for Michael's expertise in complex B2B SaaS products, specifically in finance-adjacent areas like analytics dashboards, financial modeling workflows, and data platforms. His experience in making complex systems delightful and tactile is highly relevant to transforming complex financial workflows into simple, powerful experiences. The role's emphasis on driving design direction and influencing stakeholders aligns with his leadership experience. As a hybrid role in NYC, it fits the location criteria, though a slight deduction is applied as remote is preferred. HiBob is a Series D company, meeting the company stage requirement.",
+      "source": "HiBob Careers",
+      "applyUrl": "https://www.hibob.com/careers/open-positions/?gh_jid=6791993002",
+      "isOffLinkedIn": false,
+      "jobDescription": "HiBob is seeking a Senior Product Designer for their Bob Finance module in the NYC Metro area. This position involves leading design for analytics dashboards, financial modeling workflows, and data platform tools, aiming to transform complex financial concepts into intuitive B2B experiences. The designer will be responsible for driving design direction, influencing stakeholders, and applying strong user research skills across multiple domains. Key requirements include 5+ years of experience in product design/UX, with a portfolio demonstrating design leadership and end-to-end ownership of complex product areas, particularly in analytics, data-heavy interfaces, or financial/enterprise software. The role requires working in a hybrid environment (2 days a week in the office) and strong skills in interaction design, visual design, information architecture, and usability testing. There is also an opportunity for growth into a leadership role as the team scales.",
+      "specialty": "Bob Finance",
+      "salary": "$161,500 - $218,500",
+      "keywords": [
+        {
+          "keyword": "B2B SaaS",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Primary industry, strong alignment with Michael's background."
+        },
+        {
+          "keyword": "Fintech",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael has deep context in finance and payment reconciliation."
+        },
+        {
+          "keyword": "Enterprise software",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Specializes in complex B2B SaaS products for enterprise."
+        },
+        {
+          "keyword": "Analytics dashboards",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael has experience with complex data systems."
+        },
+        {
+          "keyword": "Financial modeling workflows",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Experience with transactional flows, payment reconciliation is a core strength."
+        },
+        {
+          "keyword": "Data platform tools",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael has experience with complex data systems."
+        },
+        {
+          "keyword": "Complex financial workflows",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Strong alignment with Michael's expertise in complex workflow design."
+        },
+        {
+          "keyword": "Interaction design",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "A core design practice for Michael."
+        },
+        {
+          "keyword": "Visual design",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael has a strong visual eye and craft due to his background."
+        },
+        {
+          "keyword": "Information architecture",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "A core design practice for Michael."
+        },
+        {
+          "keyword": "User research",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael is experienced in user research and 0-to-1 discovery."
+        },
+        {
+          "keyword": "Hybrid environment",
+          "inProfile": true,
+          "relevance": "neutral",
+          "note": "Michael is open to hybrid, but remote is preferred."
+        },
+        {
+          "keyword": "Leadership opportunity",
+          "inProfile": true,
+          "relevance": "good",
+          "note": "Michael is ready for Staff-level work and has mentoring experience."
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-07-20T20:23:31.488Z",
+      "isNew": true
+    },
+    {
+      "id": "080e644f-62ad-4e78-9397-f9dcc866f9ab",
+      "title": "Senior Product Design Lead",
+      "company": "Gusto",
+      "companyDomain": "gusto.com",
+      "industry": "Fintech",
+      "location": "Remote or Hybrid in New York, NY",
+      "postedAt": "2026-07-20",
+      "fitScore": 9,
+      "fitTier": "Strong Fit",
+      "fitExplanation": "This role is an exceptional fit for Michael Crane. His deep experience in FinTech, payments, transactional flows, and marketplace infrastructure directly aligns with leading design for Gusto's mission-critical Payments & Risk Platform. The focus on complex financial workflows, systems thinking, and elevating visual/interaction design quality are core strengths Michael possesses. His background in visual systems and commitment to 'visual craft' bringing trust to complex systems is highly relevant. The role also requires cross-functional leadership and a long-term UX vision, matching Michael's strategic capabilities. Gusto is a Series E company, fulfilling the company stage requirement. The option for remote work is a significant plus, as it is Michael's strong preference.",
+      "source": "Gusto Careers",
+      "applyUrl": "https://boards.greenhouse.io/gusto/jobs/5766860002",
+      "isOffLinkedIn": false,
+      "jobDescription": "Gusto is actively seeking a Senior Product Design Lead for their Payments & Risk Platform. This individual contributor role entails owning end-to-end product design for complex financial workflows, with the goal of ensuring seamless, secure, and reliable money movement while delivering exceptional user experiences at scale. Responsibilities include defining and driving the long-term UX vision for the Payments & Risk platform, leading design strategy, and enhancing the overall visual and interaction design quality. Candidates should possess 8-10+ years of product design experience in complex, technical, or large-scale product domains, with a portfolio that showcases strong UX and visual design craft. Expertise in systems thinking, financial workflows, and the ability to lead design direction and influence cross-functional partners are crucial. This position offers flexibility for either remote work or a hybrid arrangement in New York City.",
+      "specialty": "Payments & Risk Platform",
+      "salary": "$146,000 - $222,000",
+      "keywords": [
+        {
+          "keyword": "Fintech",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Deep context in finance, payment reconciliation, and transactional flows."
+        },
+        {
+          "keyword": "Payments & Risk Platform",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Directly matches Michael's experience with transactional flows, payment reconciliation, and marketplace infrastructure."
+        },
+        {
+          "keyword": "Complex financial workflows",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Strong alignment with Michael's expertise in complex workflow design."
+        },
+        {
+          "keyword": "Systems thinking",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Core to Michael's design philosophy and practice."
+        },
+        {
+          "keyword": "UX and visual design craft",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael possesses an exceptional visual eye and craft, rooted in his graphic design background."
+        },
+        {
+          "keyword": "Lead design direction",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael is experienced in shaping design strategy at both team and organizational levels."
+        },
+        {
+          "keyword": "Cross-functional partners",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael operates effectively across the full design lifecycle, collaborating with product managers, engineering leads, and executives."
+        },
+        {
+          "keyword": "Remote or Hybrid",
+          "inProfile": true,
+          "relevance": "strong",
+          "note": "Remote work is preferred, and hybrid in NYC is an acceptable location."
+        },
+        {
+          "keyword": "8-10+ years of experience",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Matches Michael's 10+ years of experience."
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-07-20T20:23:31.488Z",
+      "isNew": true
+    },
+    {
+      "id": "76c6bd53-b1f5-42a1-ba70-11071be0a4e0",
+      "title": "Senior Product Designer",
+      "company": "FingerCheck",
+      "companyDomain": "fingercheck.com",
+      "industry": "B2B SaaS",
+      "location": "Remote",
+      "postedAt": "2026-07-20",
+      "fitScore": 9,
+      "fitTier": "Strong Fit",
+      "fitExplanation": "This remote role is an excellent fit for Michael, emphasizing his strengths in B2B SaaS and Fintech, particularly in simplifying complex, data-heavy applications. The position requires a strategic leader who can advocate for users and drive design excellence at scale, aligning perfectly with Michael's ability to shape design strategy and operate across the full design lifecycle. His expertise in mixed-methods research, design systems, rapid prototyping, and even leveraging AI tools are directly relevant to the job's requirements. The mention of 'Leading Others' capacity also resonates with Michael's experience mentoring designers. The remote work arrangement is highly preferred by Michael. FingerCheck's focus as a mature B2B SaaS provider suggests it meets the Series C+ company stage preference.",
+      "source": "FingerCheck Careers",
+      "applyUrl": "https://fingercheck.com/careers/senior-product-designer/",
+      "isOffLinkedIn": false,
+      "jobDescription": "FingerCheck is seeking a Remote Senior Product Designer to serve as a strategic leader within their design team, responsible for shaping the user experience across their entire product suite. This role involves close collaboration with Product Management and Engineering to tackle complex problems, champion user needs, and uphold design excellence. The ideal candidate will have 5+ years of experience in Product Design, with a proven track record in B2B SaaS or Fintech, demonstrating the ability to simplify complex, data-heavy applications. This includes experience in mentoring junior designers and facilitating communication between Product and Engineering. Key responsibilities encompass leading data-informed design processes, conducting mixed-methods research, contributing to and evolving the FingerCheck Design System, and driving iterative innovation through rapid prototyping and usability testing. The role also requires proficiency in creating low and high-fidelity interactive wireframes and prototypes, and the ability to integrate Generative AI tools into the design workflow.",
+      "specialty": "",
+      "salary": "",
+      "keywords": [
+        {
+          "keyword": "B2B SaaS",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Primary industry, strong alignment with Michael's background."
+        },
+        {
+          "keyword": "Fintech",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael has deep context in finance and HR tech (payroll/HR software)."
+        },
+        {
+          "keyword": "Complex, data-heavy applications",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael specializes in complex B2B SaaS and data-heavy interfaces."
+        },
+        {
+          "keyword": "Strategic leader",
+          "inProfile": true,
+          "relevance": "strong",
+          "note": "Michael has experience shaping design strategy and is ready for Staff-level work."
+        },
+        {
+          "keyword": "Mixed-methods research",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael is experienced in user research."
+        },
+        {
+          "keyword": "Design System",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael has experience establishing and evolving design systems."
+        },
+        {
+          "keyword": "Rapid prototyping",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "A core design practice for Michael, including high-fidelity interactive prototyping."
+        },
+        {
+          "keyword": "Wireframes and prototypes",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "A core design practice for Michael."
+        },
+        {
+          "keyword": "Mentoring junior designers",
+          "inProfile": true,
+          "relevance": "good",
+          "note": "Michael has mentored designers through career transitions."
+        },
+        {
+          "keyword": "Generative AI tools",
+          "inProfile": true,
+          "relevance": "good",
+          "note": "Michael has used AI tools (Figma Make, Cursor) to accelerate discovery."
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-07-20T20:23:31.488Z",
+      "isNew": true
+    },
+    {
       "id": "30f71ab0-d1dc-4b5b-90f7-df0a0c302370",
       "title": "Staff Product Designer",
       "company": "Valon Technologies",
@@ -87,7 +348,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-07-20T13:17:37.106Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "969b2911-a868-46d2-a34c-be5508d107b9",
@@ -170,7 +431,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-07-20T13:17:37.106Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "803126f3-bb1d-41f3-9dff-1f18de3a1d17",
@@ -258,7 +519,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-07-20T13:17:37.106Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "59829afb-1171-4dea-9a36-df2d974a3d39",
@@ -1370,5 +1631,5 @@
       "isNew": false
     }
   ],
-  "scannedAt": "2026-07-20T13:18:38.448Z"
+  "scannedAt": "2026-07-20T20:24:47.177Z"
 }
