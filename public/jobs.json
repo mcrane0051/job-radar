@@ -45,7 +45,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-07-19T20:11:49.401Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "9c7214e8-c485-4747-a088-e9fe6396e350",
@@ -92,7 +92,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-07-19T20:11:49.401Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "8d31cf4e-cb57-4f11-bd1b-1fa9a3224398",
@@ -157,7 +157,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-07-19T20:11:49.401Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "aa930f35-0803-4f69-8e41-4ebf7d61c11a",
@@ -210,7 +210,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-07-19T20:11:49.401Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "0245c7a9-4e50-42a3-853e-da80a3c94858",
@@ -263,7 +263,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-07-19T20:11:49.401Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "e508781a-f8e6-4f8e-bae1-e88e6464a0c5",
@@ -1110,5 +1110,5 @@
       "isNew": false
     }
   ],
-  "scannedAt": "2026-07-19T20:12:35.105Z"
+  "scannedAt": "2026-07-20T12:41:58.934Z"
 }
