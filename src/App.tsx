@@ -190,9 +190,26 @@ function App() {
           isOpen={!!selectedJob}
           onClose={() => setSelectedJob(null)} 
           onUpdateJob={(updatedJob) => {
-            setJobs(jobs.map(j => j.id === updatedJob.id ? updatedJob : j))
+            const updatedJobs = jobs.map(j => j.id === updatedJob.id ? updatedJob : j);
+            setJobs(updatedJobs);
             if (selectedJob?.id === updatedJob.id) {
               setSelectedJob(updatedJob)
+            }
+            // Persist to localStorage so generated assets survive page refreshes
+            try {
+              const existing = localStorage.getItem('job-radar-data');
+              const localData = existing ? JSON.parse(existing) : { jobs: [], scannedAt: '' };
+              const localJobs = localData.jobs || [];
+              const existingIndex = localJobs.findIndex((j: any) => j.id === updatedJob.id);
+              if (existingIndex >= 0) {
+                localJobs[existingIndex] = updatedJob;
+              } else {
+                localJobs.push(updatedJob);
+              }
+              localData.jobs = localJobs;
+              localStorage.setItem('job-radar-data', JSON.stringify(localData));
+            } catch (e) {
+              console.error("Failed to persist job update to localStorage", e);
             }
           }}
           onOpenSettings={() => setIsSettingsOpen(true)}
