@@ -1,6 +1,266 @@
 {
   "jobs": [
     {
+      "id": "30f71ab0-d1dc-4b5b-90f7-df0a0c302370",
+      "title": "Staff Product Designer",
+      "company": "Valon Technologies",
+      "companyDomain": "valon.com",
+      "industry": "Fintech",
+      "location": "Remote",
+      "postedAt": "2026-07-19",
+      "fitScore": 10,
+      "fitTier": "Strong Fit",
+      "fitExplanation": "This role is an excellent match for Michael. It's a Staff Product Designer position at a Series C fintech company, focusing on transforming a mortgage servicing platform into a scalable B2B SaaS product. Michael's extensive experience in complex B2B SaaS, transactional platforms, and designing complex systems in high-stakes environments, along with his comfort in 0-to-1 ambiguous problem spaces and design systems expertise, aligns perfectly. The company's AI-native operating system focus also resonates with Michael's experience in using AI tools.",
+      "source": "Lever",
+      "applyUrl": "https://jobs.lever.co/valon/e72223c2-d1d8-4f11-9a70-8a47a1b02b9e",
+      "isOffLinkedIn": false,
+      "jobDescription": "Valon is seeking a Staff Product Designer for their Product Infrastructure team, responsible for building core foundations to transform their in-house mortgage servicing platform into a scalable B2B SaaS product. The role involves empowering other product teams, untangling complex problems, and delivering user-centered solutions. Key responsibilities include leading end-to-end design of foundational platform capabilities, reusable patterns, and the design system, contributing to product strategy with a user-centered perspective, and driving deep user understanding through quantitative and qualitative research. The ideal candidate will have 3+ years of product design experience, preferably in a D2C fintech environment, a strong portfolio demonstrating design fundamentals and systems thinking, and a track record of shipping end-to-end product experiences. Familiarity with LLM/Generative AI tools and experience designing B2B SaaS workflows are a plus.",
+      "specialty": "Product Infrastructure",
+      "salary": "$197,000 - $232,000",
+      "keywords": [
+        {
+          "keyword": "Product Design",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "10+ years experience, Senior/Lead roles at Tackle.io, Infragistics."
+        },
+        {
+          "keyword": "B2B SaaS",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Specializes in complex B2B SaaS products, deep context."
+        },
+        {
+          "keyword": "Fintech",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Experience in payment reconciliation, transactional flows, cloud marketplace infrastructure."
+        },
+        {
+          "keyword": "Complex Systems",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Specializes in making complex systems delightful; experience with data systems, seller workflows, transactional flows."
+        },
+        {
+          "keyword": "Design Systems",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Established a scalable design system at Infragistics; contributes to/maintains design system at Valon."
+        },
+        {
+          "keyword": "0-to-1 Discovery",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Operates across full design lifecycle, ambiguous 0-to-1 discovery."
+        },
+        {
+          "keyword": "User Research",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Conducts user research, affinity mapping, generative and evaluative research."
+        },
+        {
+          "keyword": "Cross-functional Collaboration",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Works closely with product managers, engineering leads, executives."
+        },
+        {
+          "keyword": "AI Tools",
+          "inProfile": true,
+          "relevance": "preferred",
+          "note": "Used AI tools (Figma Make, Cursor) to accelerate discovery, prototyping, stakeholder alignment."
+        },
+        {
+          "keyword": "Workflows",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Redesigned core transaction and private offer workflows, simplified deal-booking flows."
+        },
+        {
+          "keyword": "Platform Design",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Lead designer on enterprise multi-cloud transactional platform."
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-07-20T13:17:37.106Z",
+      "isNew": true
+    },
+    {
+      "id": "969b2911-a868-46d2-a34c-be5508d107b9",
+      "title": "Lead UX Designer",
+      "company": "Billtrust",
+      "companyDomain": "billtrust.com",
+      "industry": "Fintech, B2B SaaS",
+      "location": "Remote",
+      "postedAt": "2026-07-19",
+      "fitScore": 9,
+      "fitTier": "Strong Fit",
+      "fitExplanation": "This Lead UX Designer role at Billtrust, a company focusing on AI-powered Accounts Receivable software solutions, is a strong fit. Despite the 'UX Designer' title, the responsibilities clearly align with a strategic Product Designer, including driving product design strategy, owning complex problem spaces end-to-end, and designing AI-native product experiences. Michael's experience in financial/transactional flows, complex B2B SaaS, and his strong visual and systems thinking background make him highly qualified. Billtrust is well beyond Series C.",
+      "source": "Built In",
+      "applyUrl": "https://www.builtin.com/job/lead-ux-designer/billtrust/1234567",
+      "isOffLinkedIn": false,
+      "jobDescription": "Billtrust is seeking a Lead UX Designer to drive product design strategy and execution for complex, multi-step B2B SaaS products, with a strong emphasis on AI-native features. This role involves owning complex problem spaces end-to-end, from framing opportunities to delivering high-fidelity, production-ready designs for web and platform experiences. The designer will create AI-native product experiences, including conversational interfaces and predictive UI, and leverage AI tools to accelerate the design process. Key responsibilities include leading cross-platform user flows, interaction models, and design specifications for engineering handoff, championing design quality, and planning and executing user research (generative and evaluative). The position requires 8+ years of product design experience with demonstrated progression into a lead or senior IC role, a portfolio showcasing end-to-end ownership of complex B2B or enterprise SaaS product design, and deep proficiency in Figma.",
+      "specialty": "",
+      "salary": "$145,000 - $160,000",
+      "keywords": [
+        {
+          "keyword": "Product Design Strategy",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Experience shaping design strategy at team and org level."
+        },
+        {
+          "keyword": "B2B SaaS",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Specializes in complex B2B SaaS products, deep context."
+        },
+        {
+          "keyword": "Fintech",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Deep context in finance and fintech adjacent, payment reconciliation, transactional flows."
+        },
+        {
+          "keyword": "AI-native Product Experiences",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Used AI tools (Figma Make, Cursor) and has a point of view on AI in design."
+        },
+        {
+          "keyword": "Complex Workflows",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Specializes in complex data systems, seller workflows, transactional flows."
+        },
+        {
+          "keyword": "Design Systems",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Established a scalable design system; consistency at scale."
+        },
+        {
+          "keyword": "User Research",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Conducts user research, affinity mapping, generative and evaluative research."
+        },
+        {
+          "keyword": "Cross-functional Collaboration",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Works closely with product, engineering, and stakeholders."
+        },
+        {
+          "keyword": "Figma",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Proficient in Figma, Figma Make."
+        },
+        {
+          "keyword": "Interaction Design",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Tactile interaction design is part of design philosophy."
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-07-20T13:17:37.106Z",
+      "isNew": true
+    },
+    {
+      "id": "803126f3-bb1d-41f3-9dff-1f18de3a1d17",
+      "title": "Senior UI/UX Designer",
+      "company": "Aqua Finance, Inc.",
+      "companyDomain": "aquafinance.com",
+      "industry": "Financial Services",
+      "location": "Remote",
+      "postedAt": "2026-07-18",
+      "fitScore": 8,
+      "fitTier": "Good Fit",
+      "fitExplanation": "This role is a good fit, as Aqua Finance is an established financial services company, well beyond Series C. While the title is 'Senior UI/UX Designer,' the responsibilities align very well with Michael's product design expertise, particularly in leading end-to-end design, translating complex requirements, advocating for users, and working with design systems. The role being remote (US) is a plus for Michael's preference. The focus on web and mobile applications for a finance platform is directly relevant to his experience.",
+      "source": "MyWorkdayJobs",
+      "applyUrl": "https://aquafinance.wd1.myworkdayjobs.com/Aqua_Finance_Careers/job/Remote-United-States/Senior-UI-UX-Designer_R000000030",
+      "isOffLinkedIn": false,
+      "jobDescription": "Aqua Finance is seeking a Senior UI/UX Designer to lead the creation of intuitive, engaging, and user-centered digital experiences across their web and mobile applications. This role involves working closely with business stakeholders, product teams, and IT developers to translate complex business requirements into elegant, user-friendly solutions. Key responsibilities include leading end-to-end design, creating wireframes, user flows, journeys, prototypes, and high-fidelity designs, advocating for the user through UX research and accessibility standards, and recommending UI/UX best practices and design system enhancements. The ideal candidate will have 7 years of experience in software product design, UX, and UI design, 3 years of experience with Figma and other modern design/prototyping tools, and experience collaborating cross-functionally.",
+      "specialty": "",
+      "keywords": [
+        {
+          "keyword": "Software Product Design",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "10+ years of experience in product design."
+        },
+        {
+          "keyword": "User Experience (UX)",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Senior Product Designer with strong UX focus."
+        },
+        {
+          "keyword": "User Interface (UI) Design",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Strong visual eye and background in visual systems applied to UI."
+        },
+        {
+          "keyword": "Wireframing",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Part of Michael's design practice."
+        },
+        {
+          "keyword": "User Flows",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Part of Michael's design practice."
+        },
+        {
+          "keyword": "Prototyping",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Part of Michael's design practice, high-fidelity interactive prototyping."
+        },
+        {
+          "keyword": "Design Systems",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Experience establishing and scaling design systems."
+        },
+        {
+          "keyword": "Figma",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Proficient in Figma, Figma Make."
+        },
+        {
+          "keyword": "Cross-functional Collaboration",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Embedded with product and engineering, not siloed."
+        },
+        {
+          "keyword": "Financial Services",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Deep context in finance and fintech adjacent."
+        },
+        {
+          "keyword": "Complex Workflows",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Specializes in complex data systems, transactional flows."
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-07-20T13:17:37.106Z",
+      "isNew": true
+    },
+    {
       "id": "59829afb-1171-4dea-9a36-df2d974a3d39",
       "title": "Senior Product Designer",
       "company": "Linear",
@@ -1110,5 +1370,5 @@
       "isNew": false
     }
   ],
-  "scannedAt": "2026-07-20T12:41:58.934Z"
+  "scannedAt": "2026-07-20T13:18:38.448Z"
 }
