@@ -99,7 +99,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-07-20T20:23:31.488Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "080e644f-62ad-4e78-9397-f9dcc866f9ab",
@@ -176,7 +176,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-07-20T20:23:31.488Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "76c6bd53-b1f5-42a1-ba70-11071be0a4e0",
@@ -259,7 +259,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-07-20T20:23:31.488Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "30f71ab0-d1dc-4b5b-90f7-df0a0c302370",
@@ -1629,7 +1629,385 @@
       "status": "New",
       "scannedAt": "2026-07-18T16:44:12.370Z",
       "isNew": false
+    },
+    {
+      "id": "job-44w9wn",
+      "title": "Senior Product Designer",
+      "company": "Canals",
+      "companyDomain": "canals.com",
+      "industry": "B2B SaaS, enterprise software",
+      "location": "Remote (U.S. Only)",
+      "postedAt": "2026-07-20",
+      "fitScore": 9,
+      "fitTier": "Strong Fit",
+      "fitExplanation": "This role is a strong fit due to its focus on complex B2B SaaS for wholesale distributors, leveraging AI and automation, and being a remote US position. Michael's expertise in complex B2B SaaS, workflow simplification, and AI tools aligns perfectly. The company size (around 100 people, profitable, growing) suggests a stable environment beyond early-stage startups.",
+      "source": "Google Search / WhatJobs US",
+      "applyUrl": "https://www.canals.com/careers",
+      "isOffLinkedIn": true,
+      "jobDescription": "Canals is seeking a Senior Product Designer to shape the future of distribution through AI-powered products. The role involves working across multiple product areas, from core workflows to new capabilities, guiding ideas from exploration through launch and continuous iteration. The designer will focus on creating AI-powered experiences that help users make smarter decisions and reduce manual effort. This position is for someone comfortable with ambiguity, driven by impact, and eager to evolve design as the company grows.\n\nCore Responsibilities:\n* Lead end-to-end design for core workflows and new product capabilities.\n* Partner closely with product and engineering teams.\n* Shape AI-powered product experiences to enhance user decision-making.\n* Drive product evolution from early exploration to launch and iteration.\n\nKey Requirements:\n* Experience with complex B2B SaaS products.\n* Ability to design for AI-powered solutions.\n* Comfort with ambiguity and a focus on impact.\n* Strong collaboration skills within cross-functional teams.",
+      "specialty": null,
+      "salary": "$120,000 - $180,000",
+      "keywords": [
+        {
+          "keyword": "B2B SaaS",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Primary domain expertise, strong match."
+        },
+        {
+          "keyword": "AI-powered products",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Candidate uses AI tools (Figma Make, Cursor) and has experience in this area."
+        },
+        {
+          "keyword": "complex workflows",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael specializes in making complex systems delightful."
+        },
+        {
+          "keyword": "0-to-1 discovery",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Candidate thrives in ambiguous 0-to-1 problem spaces."
+        },
+        {
+          "keyword": "cross-functional collaboration",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Candidate emphasizes this as a strength."
+        },
+        {
+          "keyword": "Figma",
+          "inProfile": true,
+          "relevance": "preferred",
+          "note": "Proficient in Figma."
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-07-20T20:40:55.108Z",
+      "isNew": true
+    },
+    {
+      "id": "job-uz570h",
+      "title": "Staff Product Designer",
+      "company": "Netomi",
+      "companyDomain": "netomi.com",
+      "industry": "B2B SaaS, enterprise software, AI, developer tools",
+      "location": "Remote (U.S. Only)",
+      "postedAt": "2026-07-20",
+      "fitScore": 10,
+      "fitTier": "Strong Fit",
+      "fitExplanation": "This role is an exceptional fit. It's a Staff-level, remote position at an AI-first B2B/enterprise SaaS platform, directly aligning with Michael's expertise in complex B2B SaaS, AI-powered systems, and experience destroying complexity. The emphasis on zero-to-shipped ownership and strategic input perfectly matches his '0-to-1 and ambiguous problem spaces' preference. The company's strong funding also meets his Series C+ requirement.",
+      "source": "Google Search / DailyRemote",
+      "applyUrl": "https://www.netomi.com/careers",
+      "isOffLinkedIn": true,
+      "jobDescription": "Netomi is seeking a Staff Product Designer to own complex, foundational initiatives on its AI-first enterprise customer experience platform. The designer will be responsible for leading the design of core platform elements, starting with the customer-facing control tower for AI agent management. This role involves connecting product strategy to elegant UX, transforming ambiguous and technically deep problem spaces into intuitive experiences. The ideal candidate will drive the transition to a product-led growth (PLG) model through self-serve onboarding and in-product education.\n\nCore Responsibilities:\n* Own end-to-end design for platform-foundation initiatives, from strategy to polished UX.\n* Translate ambiguous, technical problem spaces into coherent user experiences.\n* Drive product-led growth by designing self-serve onboarding and education.\n* Shape the core of the AI agent management platform.\n\nKey Requirements:\n* 8–12 years of product design experience, particularly in complex B2B/enterprise SaaS.\n* Proven ownership of large, ambiguous initiatives from zero to shipped.\n* Strong systems thinking to create coherent frameworks.\n* Curiosity about customers, AI, systems, and business operations.\n* Experience with AI, data, developer tools, or workflow products is a plus.",
+      "specialty": null,
+      "salary": "$148,000 - $206,800",
+      "keywords": [
+        {
+          "keyword": "Staff Product Designer",
+          "inProfile": true,
+          "relevance": "target level",
+          "note": "Direct match for target role level."
+        },
+        {
+          "keyword": "B2B/enterprise SaaS",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Primary domain expertise, strong match."
+        },
+        {
+          "keyword": "AI-first platform",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Candidate uses AI tools and has experience with complex data/systems."
+        },
+        {
+          "keyword": "complex workflows",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael specializes in making complex systems delightful."
+        },
+        {
+          "keyword": "0-to-1 initiatives",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Candidate thrives in ambiguous 0-to-1 problem spaces."
+        },
+        {
+          "keyword": "product-led growth (PLG)",
+          "inProfile": true,
+          "relevance": "strong alignment",
+          "note": "Candidate has experience with self-serve onboarding and adoption metrics."
+        },
+        {
+          "keyword": "systems thinking",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Core to Michael's design philosophy and skills."
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-07-20T20:40:55.108Z",
+      "isNew": true
+    },
+    {
+      "id": "job-7wljzh",
+      "title": "Staff Product Designer",
+      "company": "Grafana Labs",
+      "companyDomain": "grafana.com",
+      "industry": "developer tools, enterprise software, B2B SaaS",
+      "location": "Remote (U.S. Only)",
+      "postedAt": "2026-07-20",
+      "fitScore": 9,
+      "fitTier": "Strong Fit",
+      "fitExplanation": "This Staff Product Designer role at Grafana Labs is a strong fit, targeting Michael's preferred level and focusing on developer tools and enterprise SaaS with complex, data-rich products. His experience with enterprise software and ability to make complex systems clear aligns well with designing for technical users in incident response management. The fully remote nature is also a plus.",
+      "source": "Google Search / Welcome to the Jungle",
+      "applyUrl": "https://grafana.com/about/careers/",
+      "isOffLinkedIn": true,
+      "jobDescription": "Grafana Labs is hiring a Staff Product Designer to work within its 100% remote R&D organization, focusing on Incident Response & Management (IRM) solutions. The designer will create practical and effective user experiences for highly technical users (engineers, SREs), covering various touchpoints including desktop, mobile, Slack, and agentic harnesses. This role involves collaborating with cross-functional teams, documenting user needs, designing solutions that balance business and user needs, and developing deep expertise in the product area and workflows.\n\nCore Responsibilities:\n* Design user experiences for Incident Response & Management solutions for technical users.\n* Collaborate with engineering, product management, and research teams.\n* Document user needs, design directions, and detailed designs.\n* Plan and execute formative and evaluative research initiatives.\n* Provide scalable design solutions balancing various considerations.\n\nKey Requirements:\n* Experience designing for developers, SREs, or other technical users.\n* Portfolio demonstrating impact on business goals for complex, data-rich dev tooling or enterprise SaaS.\n* Ability to balance business goals, product priorities, and user feedback.\n* Strong remote communication and collaboration skills.\n* Proficiency with product design and visual communication tools, including agentic tooling.",
+      "specialty": "Incident Response Management",
+      "salary": "$162,000 - $202,000",
+      "keywords": [
+        {
+          "keyword": "Staff Product Designer",
+          "inProfile": true,
+          "relevance": "target level",
+          "note": "Direct match for target role level."
+        },
+        {
+          "keyword": "developer tools",
+          "inProfile": true,
+          "relevance": "strong alignment",
+          "note": "Michael has deep context in developer tools."
+        },
+        {
+          "keyword": "enterprise SaaS",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Primary domain expertise, strong match."
+        },
+        {
+          "keyword": "complex workflows",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael specializes in making complex systems delightful and tactile."
+        },
+        {
+          "keyword": "data-rich interfaces",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Candidate's experience includes complex data systems."
+        },
+        {
+          "keyword": "user research",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Candidate lists user research in design practice."
+        },
+        {
+          "keyword": "Figma",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Proficient in Figma."
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-07-20T20:40:55.108Z",
+      "isNew": true
+    },
+    {
+      "id": "job-swq2ca",
+      "title": "Staff Product Designer",
+      "company": "Workday",
+      "companyDomain": "myworkdayjobs.com",
+      "industry": "enterprise software, developer tools",
+      "location": "Remote (U.S. Only)",
+      "postedAt": "2026-07-20",
+      "fitScore": 9,
+      "fitTier": "Strong Fit",
+      "fitExplanation": "This Staff Product Designer role at Workday aligns well with Michael's expertise in enterprise software and developer tools. His 10+ years of experience and specialization in complex B2B SaaS make him an ideal candidate for designing a developer platform within a large, established organization like Workday. The remote US location is also a perfect fit.",
+      "source": "Google Search / Workday Careers",
+      "applyUrl": "https://myworkdayjobs.com/Workday/job/USA---Remote/Staff-Product-Designer--Developer-Platform_JR-74973",
+      "isOffLinkedIn": true,
+      "jobDescription": "Workday is seeking a Staff Product Designer for its Developer Platform. This remote role involves designing and enhancing experiences for developers, focusing on productivity and efficiency within Workday's ecosystem. The designer will play a crucial role in shaping the platform's future, ensuring intuitive and powerful tools for a technical audience. The position requires strong systems thinking and collaboration within a cross-functional team to deliver high-quality, scalable solutions for enterprise users.\n\nCore Responsibilities:\n* Lead design for Workday's developer platform.\n* Create intuitive and efficient experiences for technical users.\n* Collaborate with engineering and product teams to define and deliver solutions.\n* Contribute to the overall design strategy and system for developer tools.\n\nKey Requirements:\n* Significant product design experience, ideally in enterprise software or developer tools.\n* Strong systems thinking and ability to simplify complex technical challenges.\n* Proven track record of shipping impactful product designs.\n* Excellent collaboration and communication skills.",
+      "specialty": "Developer Platform",
+      "salary": null,
+      "keywords": [
+        {
+          "keyword": "Staff Product Designer",
+          "inProfile": true,
+          "relevance": "target level",
+          "note": "Direct match for target role level."
+        },
+        {
+          "keyword": "enterprise software",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Primary domain expertise, strong match."
+        },
+        {
+          "keyword": "developer tools",
+          "inProfile": true,
+          "relevance": "strong alignment",
+          "note": "Michael has deep context in developer tools."
+        },
+        {
+          "keyword": "complex systems",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael specializes in making complex systems delightful and tactile."
+        },
+        {
+          "keyword": "design strategy",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Candidate has experience shaping design strategy."
+        },
+        {
+          "keyword": "design systems",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Candidate has strong experience with design systems."
+        },
+        {
+          "keyword": "cross-functional collaboration",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Candidate emphasizes this as a strength."
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-07-20T20:40:55.108Z",
+      "isNew": true
+    },
+    {
+      "id": "job-5skw0i",
+      "title": "Lead Product Designer",
+      "company": "Circle (SALT)",
+      "companyDomain": "circle.com",
+      "industry": "fintech, blockchain",
+      "location": "Remote (U.S. Only)",
+      "postedAt": "2026-07-20",
+      "fitScore": 9,
+      "fitTier": "Strong Fit",
+      "fitExplanation": "This Lead Product Designer role at Circle (SALT) is a strong match. It's a player-coach position in fintech, which aligns with Michael's target level and his finance/fintech adjacent experience. His ability to bring simplicity to complex systems, experience with transactional flows, and mentorship background are highly relevant. The remote aspect is also ideal.",
+      "source": "Google Search / Himalayas",
+      "applyUrl": "https://www.circle.com/careers",
+      "isOffLinkedIn": true,
+      "jobDescription": "Circle (SALT) is seeking a Lead Product Designer for a player-coach role, owning end-to-end design for a core product area serving a large, diverse, global audience within fintech. This position involves both hands-on design and managing/developing a small team of designers (2-3 direct reports, growing to 5-6). The designer will lead user research, leverage data, and contribute to shared design standards and the Design System. Close partnership with product, engineering, and data teams is essential.\n\nCore Responsibilities:\n* Own end-to-end design for a core fintech product area.\n* Manage and mentor a small team of product designers.\n* Lead user research and data-driven design decisions.\n* Co-own design standards, the Design System, and accessibility.\n* Partner closely with cross-functional teams (product, engineering, data).\n\nKey Requirements:\n* Strong in-house product design background with a record of shipping work.\n* Genuine player-coach experience (managing/mentoring while still designing).\n* Comfort with modern prototyping and AI-assisted design tools.\n* Experience designing for large, diverse audiences, emphasizing trust and clarity.\n* Ability to bring structure and simplicity to complex systems.",
+      "specialty": null,
+      "salary": "$130,000 - $200,000",
+      "keywords": [
+        {
+          "keyword": "Lead Product Designer",
+          "inProfile": true,
+          "relevance": "target level",
+          "note": "Direct match for target role level."
+        },
+        {
+          "keyword": "fintech",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Candidate has deep context in finance and fintech adjacent."
+        },
+        {
+          "keyword": "player-coach",
+          "inProfile": true,
+          "relevance": "strong alignment",
+          "note": "Candidate is an IC contributor with ability to lead and mentor."
+        },
+        {
+          "keyword": "complex systems",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael specializes in making complex systems delightful and tactile."
+        },
+        {
+          "keyword": "user research",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Candidate lists user research in design practice."
+        },
+        {
+          "keyword": "design systems",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Candidate has strong experience with design systems."
+        },
+        {
+          "keyword": "AI-assisted design tools",
+          "inProfile": true,
+          "relevance": "strong alignment",
+          "note": "Candidate uses AI tools."
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-07-20T20:40:55.108Z",
+      "isNew": true
+    },
+    {
+      "id": "job-y5xypt",
+      "title": "Staff Product Designer",
+      "company": "Netflix",
+      "companyDomain": "jobs.netflix.com",
+      "industry": "developer tools, enterprise software",
+      "location": "Remote (U.S. Only)",
+      "postedAt": "2026-07-20",
+      "fitScore": 9,
+      "fitTier": "Strong Fit",
+      "fitExplanation": "This Staff Product Designer role at Netflix focusing on the developer platform is a strong fit. Michael's extensive experience in enterprise software, developer tools, and making complex systems intuitive aligns perfectly with enhancing engineer productivity. The remote nature and working for a large, established company like Netflix also meet his preferences.",
+      "source": "Google Search / ShowbizJobs",
+      "applyUrl": "https://jobs.netflix.com/jobs/34835?jvi=ohh1Bfwy,Job",
+      "isOffLinkedIn": true,
+      "jobDescription": "Netflix is seeking a Staff Product Designer to lead design strategy and craft intuitive workflows for its developer platform. The goal is to enhance engineer productivity across the software lifecycle. This role involves tackling complex internal enterprise software challenges, translating them into clear and efficient user experiences. The designer will collaborate closely with engineering teams and contribute to shaping the future of developer tools within Netflix.\n\nCore Responsibilities:\n* Lead design strategy for the developer platform.\n* Craft intuitive workflows to improve engineer productivity.\n* Collaborate with engineering teams throughout the software lifecycle.\n* Translate complex technical challenges into user-friendly experiences.\n\nKey Requirements:\n* Proven experience in product design, particularly for developer tools or internal enterprise platforms.\n* Ability to lead design strategy and drive initiatives.\n* Strong focus on improving user workflows and productivity.\n* Excellent collaboration skills within a technical environment.\n* Experience with complex systems design.",
+      "specialty": "Developer Platform",
+      "salary": null,
+      "keywords": [
+        {
+          "keyword": "Staff Product Designer",
+          "inProfile": true,
+          "relevance": "target level",
+          "note": "Direct match for target role level."
+        },
+        {
+          "keyword": "developer tools",
+          "inProfile": true,
+          "relevance": "strong alignment",
+          "note": "Michael has deep context in developer tools."
+        },
+        {
+          "keyword": "enterprise software",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Primary domain expertise, strong match, especially internal enterprise tools."
+        },
+        {
+          "keyword": "complex workflows",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael specializes in making complex systems delightful and tactile."
+        },
+        {
+          "keyword": "design strategy",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Candidate has experience shaping design strategy."
+        },
+        {
+          "keyword": "cross-functional collaboration",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Candidate emphasizes this as a strength."
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-07-20T20:40:55.108Z",
+      "isNew": true
     }
   ],
-  "scannedAt": "2026-07-20T20:24:47.177Z"
+  "scannedAt": "2026-07-20T20:42:08.660Z"
 }
