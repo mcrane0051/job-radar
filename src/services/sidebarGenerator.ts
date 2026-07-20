@@ -28,8 +28,8 @@ INSTRUCTIONS:
 1. KEYWORD ALIGNMENT: Identify high-value keywords from the job description and map them to the candidate's verified experience.
    - exact_match: Terms from the JD explicitly stated in the profile.
    - implicit_match: Terms conceptually supported by the profile but phrased differently. For each, you MUST map the 'jobKeyword' to the 'resumeKeyword' found in the profile.
-   - missing: Critical terms from the JD that cannot be supported by the profile.
-   DO NOT invent or infer experience. If it's not in the profile, it is "missing".
+   - missing: Critical terms, skills, or industry experiences from the JD that cannot be explicitly supported by the profile.
+   CRITICAL: Be extremely strict and critical. Do NOT invent or infer experience. If a specific tool, domain, or requirement is not explicitly in the profile, it MUST be listed as "missing". It is highly expected that there will be missing keywords.
 
 2. COVER LETTER: Draft a short, punchy, and highly personalized cover letter (max 3-4 paragraphs). Highlight the exact/implicit matches to prove fit. 
 
