@@ -2007,7 +2007,502 @@
       "status": "New",
       "scannedAt": "2026-07-20T20:40:55.108Z",
       "isNew": false
+    },
+    {
+      "id": "job-gnlr7h",
+      "title": "Lead Product Designer",
+      "company": "Circle",
+      "companyDomain": "circle.so",
+      "industry": "Fintech, Software, Marketplace",
+      "location": "Remote (U.S. Only)",
+      "postedAt": "2026-07-20",
+      "fitScore": 10,
+      "fitTier": "Strong Fit",
+      "fitExplanation": "This role is an excellent match for Michael's expertise. It's a Lead Product Designer role in a FinTech company with marketplace aspects, focusing on complex multi-step flows and AI-driven experiences. Michael's background in marketplace infrastructure, transactional flows, and his proficiency with AI tools (Figma Make, Cursor) are directly applicable. The emphasis on owning an end-to-end product area, influencing strategy, and contributing to design systems aligns perfectly with his experience and career goals.",
+      "source": "Greenhouse",
+      "applyUrl": "https://boards.greenhouse.io/circle/jobs/6548232002",
+      "isOffLinkedIn": true,
+      "jobDescription": "The Lead Product Designer will own a core product area end-to-end, identifying opportunities, defining problems, setting design direction, and ensuring successful shipping of experiences. Responsibilities include designing complex, multi-step product flows for diverse user types, balancing creator and member needs, and simplifying sophisticated behaviors. The role requires rapid prototyping and testing using AI-assisted tools (Cursor, Claude Code, v0, Lovable), influencing product strategy, and driving high standards in interaction and visual design. Collaboration with product managers, engineers, and design leadership is crucial, as is mentoring and elevating team members while contributing to design systems and culture. Candidates should have 5-7+ years of product design experience, operate as a senior designer on a product area, possess strong prototyping and Figma skills, and be comfortable with ambiguity.",
+      "specialty": "Marketplace",
+      "keywords": [
+        {
+          "keyword": "Lead Product Designer",
+          "inProfile": true,
+          "relevance": "perfect",
+          "note": "Target title"
+        },
+        {
+          "keyword": "Marketplace",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Deep context from Tackle.io"
+        },
+        {
+          "keyword": "Complex Systems",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Core expertise in complex B2B SaaS"
+        },
+        {
+          "keyword": "Transactional Flows",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Strong alignment with payment reconciliation, transactional flows"
+        },
+        {
+          "keyword": "0-to-1 design",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Thrives in ambiguous problem spaces"
+        },
+        {
+          "keyword": "Design Systems",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Core skill and experience"
+        },
+        {
+          "keyword": "AI tools (Figma Make, Cursor)",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Explicitly mentioned in job, candidate uses"
+        },
+        {
+          "keyword": "User Research",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Core skill"
+        },
+        {
+          "keyword": "Prototyping",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Core skill, uses AI-assisted"
+        },
+        {
+          "keyword": "Figma",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Primary tool for high-fidelity design"
+        },
+        {
+          "keyword": "Cross-functional collaboration",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Core strength and preference"
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-07-21T20:36:26.718Z",
+      "isNew": true
+    },
+    {
+      "id": "job-xxv3ft",
+      "title": "Senior Product Designer",
+      "company": "NMI",
+      "companyDomain": "nmi.com",
+      "industry": "Fintech, Payments, B2B SaaS",
+      "location": "Remote (U.S. Only)",
+      "postedAt": "2026-07-20",
+      "fitScore": 9,
+      "fitTier": "Strong Fit",
+      "fitExplanation": "This role is a strong fit for Michael, directly aligning with his deep expertise in FinTech, payments, and complex B2B SaaS products. His experience in transactional flows and payment reconciliation is highly relevant. The position's focus on end-to-end design, user research, and design systems in ambiguous environments matches Michael's capabilities and preferences.",
+      "source": "Built In Chicago",
+      "applyUrl": "https://nmi.com/careers/senior-product-designer-fintech-payments",
+      "isOffLinkedIn": true,
+      "jobDescription": "NMI is seeking a Senior Product Designer to lead end-to-end design for complex B2B payments products. This involves crafting engaging, high-impact user experiences that balance usability, business goals, and technical feasibility. The designer will collaborate cross-functionally with product managers, engineers, and stakeholders to define user needs, translate insights into scalable solutions, and create detailed design artifacts (journey maps, user flows, wireframes, prototypes, high-fidelity designs). Key responsibilities include planning and conducting user research and usability testing, as well as building and maintaining design systems. A background in FinTech, SaaS, or payments, with an understanding of security, compliance, and complex flows, is preferred. The role requires 5+ years of experience in designing and shipping web/mobile products.",
+      "specialty": "FinTech/Payments",
+      "salary": "$120,000 - $140,000",
+      "keywords": [
+        {
+          "keyword": "Senior Product Designer",
+          "inProfile": true,
+          "relevance": "perfect",
+          "note": "Target title"
+        },
+        {
+          "keyword": "FinTech",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Deep context"
+        },
+        {
+          "keyword": "Payments",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Deep context, transactional flows"
+        },
+        {
+          "keyword": "B2B SaaS",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Core expertise"
+        },
+        {
+          "keyword": "Complex Workflows",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Core expertise in complex systems"
+        },
+        {
+          "keyword": "End-to-end design",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Core skill, 0-to-1 experience"
+        },
+        {
+          "keyword": "User Research",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Core skill"
+        },
+        {
+          "keyword": "Design Systems",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Core skill"
+        },
+        {
+          "keyword": "Prototyping",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Core skill"
+        },
+        {
+          "keyword": "Figma",
+          "inProfile": true,
+          "relevance": "good",
+          "note": "Standard design tool"
+        },
+        {
+          "keyword": "Cross-functional collaboration",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Core strength"
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-07-21T20:36:26.718Z",
+      "isNew": true
+    },
+    {
+      "id": "job-30yvyf",
+      "title": "Senior Product Designer",
+      "company": "Remote",
+      "companyDomain": "remote.com",
+      "industry": "B2B SaaS, HRTech, Fintech",
+      "location": "Remote (U.S. Only)",
+      "postedAt": "2026-07-20",
+      "fitScore": 9,
+      "fitTier": "Strong Fit",
+      "fitExplanation": "This Senior Product Designer role is an excellent fit, leveraging Michael's B2B SaaS and HR Tech background (from iCIMS and Infragistics). The emphasis on autonomous leadership, shaping strategy, complex problem-solving, and AI prototyping aligns with his capabilities and preference for ambiguous 0-to-1 problem spaces. His strong visual craft is also valued in creating high-fidelity UIs for complex systems.",
+      "source": "Inclusivelyremote",
+      "applyUrl": "https://www.remote.com/careers/senior-product-designer",
+      "isOffLinkedIn": true,
+      "jobDescription": "The Senior Product Designer will lead end-to-end design for a feature area within Remote's global employment platform. Key responsibilities include influencing product strategy, identifying opportunities, and collaborating with stakeholders. The role requires applying appropriate research methodologies to understand customer challenges, solving problems holistically with systems thinking, and utilizing AI prototyping tools for rapid conceptual exploration. Crafting high-fidelity user interfaces, demonstrating maturity in interaction design, and maintaining high-quality standards are essential. Candidates should be comfortable operating autonomously, navigating ambiguity, and leading design within a product team. Experience in designing complex B2B SaaS solutions, HRTech, or FinTech is preferred. The role also involves contributing to shaping the design culture.",
+      "specialty": "Global Employment/HRTech",
+      "salary": "$60,000 - $100,000",
+      "keywords": [
+        {
+          "keyword": "Senior Product Designer",
+          "inProfile": true,
+          "relevance": "perfect",
+          "note": "Target title"
+        },
+        {
+          "keyword": "B2B SaaS",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Core expertise"
+        },
+        {
+          "keyword": "HRTech",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Deep context from iCIMS and Infragistics"
+        },
+        {
+          "keyword": "Complex Problem Solving",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Core expertise in complex B2B systems"
+        },
+        {
+          "keyword": "0-to-1 design",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Thrives in ambiguous problem spaces"
+        },
+        {
+          "keyword": "AI prototyping",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Explicitly mentioned in job, candidate uses"
+        },
+        {
+          "keyword": "High-fidelity UI",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Visual craft is a core strength"
+        },
+        {
+          "keyword": "User Research",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Core skill"
+        },
+        {
+          "keyword": "Design Systems",
+          "inProfile": true,
+          "relevance": "good",
+          "note": "Systems thinking aligns with design systems"
+        },
+        {
+          "keyword": "Cross-functional collaboration",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Core strength"
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-07-21T20:36:26.718Z",
+      "isNew": true
+    },
+    {
+      "id": "job-o7g1yc",
+      "title": "Principal Product Designer",
+      "company": "Square",
+      "companyDomain": "block.xyz",
+      "industry": "Fintech, Payments, eCommerce, Software",
+      "location": "Remote (U.S. Only)",
+      "postedAt": "2026-07-21",
+      "fitScore": 10,
+      "fitTier": "Strong Fit",
+      "fitExplanation": "This Principal Product Designer role at Square (Block, Inc.) is an exceptional fit. It aligns perfectly with Michael's 10+ years of experience and his aspiration for Staff/Lead roles, as Principal is an equivalent or slightly higher IC level. His deep expertise in transactional flows, payment reconciliation, and seller tools is directly applicable to Point of Sale and seller workflows. The role's emphasis on leading vision-heavy design, AI-driven experiences, visual/interaction design, and design systems strongly matches Michael's profile and skills.",
+      "source": "BeBee",
+      "applyUrl": "https://us.bebee.com/job/20260721-6d73c242e20b666a3371465e9d91f630",
+      "isOffLinkedIn": false,
+      "jobDescription": "Square (Block, Inc.) is seeking an experienced Principal Product Designer to join the Point of Sale Design team, responsible for core POS experiences for sellers and buyers. This role involves leading vision-heavy design projects, crafting visual and interaction designs, building prototypes, and collaborating with product, engineering, and hardware partners to integrate AI-driven features. The designer will drive projects from vision through shipped product, elevating execution and product vision while raising design standards and systems thinking. Key requirements include a strong understanding of AI application in design, robust visual and interaction design skills, excellent prototyping abilities, and a systems-thinking mindset. Experience leading ambitious projects and collaborating across diverse teams is essential.",
+      "specialty": "Point of Sale / Seller Workflows",
+      "salary": "$251,600 - $377,400",
+      "keywords": [
+        {
+          "keyword": "Principal Product Designer",
+          "inProfile": true,
+          "relevance": "perfect",
+          "note": "Target level, equivalent to Staff/Lead"
+        },
+        {
+          "keyword": "Point of Sale",
+          "inProfile": false,
+          "relevance": "required",
+          "note": "Directly related to payment/transactional flows"
+        },
+        {
+          "keyword": "Seller Workflows",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Core expertise from Tackle.io"
+        },
+        {
+          "keyword": "FinTech",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Deep context"
+        },
+        {
+          "keyword": "Payments",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Deep context, transactional flows"
+        },
+        {
+          "keyword": "Complex Systems",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Core expertise in complex B2B systems"
+        },
+        {
+          "keyword": "AI-driven experiences",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Explicitly mentioned in job, candidate uses AI tools"
+        },
+        {
+          "keyword": "Visual Design",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Core strength, mentioned as important for craft"
+        },
+        {
+          "keyword": "Interaction Design",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Core strength, mentioned as important for craft"
+        },
+        {
+          "keyword": "Prototyping",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Core skill, mentioned as crucial for vision"
+        },
+        {
+          "keyword": "Design Systems",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Core skill, mentioned for raising standards"
+        },
+        {
+          "keyword": "Cross-functional collaboration",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Core strength"
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-07-21T20:36:26.718Z",
+      "isNew": true
+    },
+    {
+      "id": "job-yhiekf",
+      "title": "Sr Staff Product Designer",
+      "company": "Adobe",
+      "companyDomain": "adobe.com",
+      "industry": "Software, Cloud Infrastructure, Developer Tools",
+      "location": "Hybrid (New York, NY)",
+      "postedAt": "2026-07-21",
+      "fitScore": 8,
+      "fitTier": "Good Fit",
+      "fitExplanation": "This role is a good fit for Michael, aligning with his target of Staff Product Designer and his proficiency with AI tools (Figma Make, Cursor). The focus on designing AI-native tools and complex 3D systems, coupled with a hands-on IC role, appeals to his interest in ambiguous 0-to-1 problem spaces and building trustworthy workflows. While not strictly B2B SaaS, Adobe's creative tools are enterprise software used by professionals. The NYC hybrid location is acceptable, incurring a slight score deduction.",
+      "source": "Adobe Careers",
+      "applyUrl": "https://careers.adobe.com/us/en/job/R170470/Sr-Staff-Product-Designer-Video-Apps",
+      "isOffLinkedIn": true,
+      "jobDescription": "Adobe is seeking a Sr Staff Product Designer to design and build AI-native tools and workflows for video applications. This hands-on IC role operates at the intersection of generative models, 3D systems, and creator-facing tools, requiring comfort across design, product, and engineering. Responsibilities include developing tools for precise control over generative outputs, leveraging 3D scenes as AI inputs, and creating workflows for iteration and refinement. The designer will translate emerging model capabilities into clear interactions, integrate AI consistently across products, and pressure-test ideas with code-based prototypes. The role involves navigating ambiguity while delivering concrete outcomes and contributing to Adobe Design's mission of delivering exceptional experiences.",
+      "specialty": "Video Apps / AI-Native Tools",
+      "keywords": [
+        {
+          "keyword": "Sr Staff Product Designer",
+          "inProfile": true,
+          "relevance": "perfect",
+          "note": "Target level"
+        },
+        {
+          "keyword": "AI-native tools",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Candidate uses AI tools, seeks AI-driven products"
+        },
+        {
+          "keyword": "Generative AI",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Emerging tech, aligns with AI interest"
+        },
+        {
+          "keyword": "Complex Systems",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Core expertise in complex B2B systems"
+        },
+        {
+          "keyword": "0-to-1 design",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Thrives in ambiguity and early exploration"
+        },
+        {
+          "keyword": "Prototyping (code-based)",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Advanced prototyping, candidate has strong prototyping skills"
+        },
+        {
+          "keyword": "Visual Design",
+          "inProfile": true,
+          "relevance": "true",
+          "note": "Core strength, highly valued in video applications"
+        },
+        {
+          "keyword": "Interaction Design",
+          "inProfile": true,
+          "relevance": "true",
+          "note": "Core strength"
+        },
+        {
+          "keyword": "Figma",
+          "inProfile": true,
+          "relevance": "good",
+          "note": "Standard tool, but also emphasizes code-based prototyping"
+        },
+        {
+          "keyword": "Cross-functional collaboration",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Core strength"
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-07-21T20:36:26.718Z",
+      "isNew": true
+    },
+    {
+      "id": "job-73uchm",
+      "title": "Senior Product Designer",
+      "company": "Bloomberg L.P.",
+      "companyDomain": "bloomberg.com",
+      "industry": "Fintech, Financial Services",
+      "location": "Hybrid (New York, NY)",
+      "postedAt": "2026-07-21",
+      "fitScore": 7,
+      "fitTier": "Good Fit",
+      "fitExplanation": "This Senior Product Designer role is a good fit, particularly for Michael's experience in improving user sign-up conversion and reducing churn, directly relevant to 'subscriber activation'. The NYC hybrid location is a match. While the primary focus on a 'consumer subscription business' within media is a moderate alignment, Bloomberg's core business in financial information provides an underlying FinTech context. Michael's strong communication and collaboration skills are also key requirements.",
+      "source": "Vaia - Talents",
+      "applyUrl": "N/A",
+      "isOffLinkedIn": true,
+      "jobDescription": "Bloomberg L.P. is seeking a Senior Product Designer for its consumer subscription business, focusing on subscriber activation. This role involves designing activation touchpoints, including welcome flows, personalized content introductions, and milestone moments, to foster early product connection and guide new subscribers toward long-term value. The designer will collaborate with product managers, developers, and editors to create intuitive and compelling experiences for the consumer-facing product suite, reimagining how editorial content meets users. Key responsibilities also include strong verbal and written communication to convey complex ideas and shape narratives across disciplines, as well as fostering a culture of feedback.",
+      "specialty": "Subscriber Activation",
+      "keywords": [
+        {
+          "keyword": "Senior Product Designer",
+          "inProfile": true,
+          "relevance": "perfect",
+          "note": "Target title"
+        },
+        {
+          "keyword": "Subscriber Activation",
+          "inProfile": false,
+          "relevance": "good",
+          "note": "Related to user conversion/adoption, a key outcome for candidate"
+        },
+        {
+          "keyword": "User Conversion",
+          "inProfile": true,
+          "relevance": "strong",
+          "note": "Directly relates to candidate's impact metrics (sign-up conversion)"
+        },
+        {
+          "keyword": "Personalized Content",
+          "inProfile": false,
+          "relevance": "good",
+          "note": "Relevant to user experience design"
+        },
+        {
+          "keyword": "UI Design",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Core skill"
+        },
+        {
+          "keyword": "Cross-functional collaboration",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Core strength"
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-07-21T20:36:26.718Z",
+      "isNew": true
     }
   ],
-  "scannedAt": "2026-07-21T12:43:56.213Z"
+  "scannedAt": "2026-07-21T20:38:12.568Z"
 }
