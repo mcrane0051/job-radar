@@ -2094,7 +2094,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-07-21T20:36:26.718Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-xxv3ft",
@@ -2183,7 +2183,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-07-21T20:36:26.718Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-30yvyf",
@@ -2266,7 +2266,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-07-21T20:36:26.718Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-o7g1yc",
@@ -2361,7 +2361,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-07-21T20:36:26.718Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-yhiekf",
@@ -2443,7 +2443,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-07-21T20:36:26.718Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-73uchm",
@@ -2501,8 +2501,186 @@
       ],
       "status": "New",
       "scannedAt": "2026-07-21T20:36:26.718Z",
+      "isNew": false
+    },
+    {
+      "id": "job-l0eg9q",
+      "title": "Senior Product Design Engineer",
+      "company": "Cortex",
+      "companyDomain": "get-cortex.com",
+      "industry": "Developer Tools, Enterprise Software, B2B SaaS",
+      "location": "Remote (U.S. Only)",
+      "postedAt": "2026-07-22",
+      "fitScore": 6,
+      "fitTier": "Possible",
+      "fitExplanation": "Michael's extensive experience in complex B2B SaaS and enterprise software, particularly in design systems and 0-to-1 discovery, aligns well with Cortex's Series C stage and industry focus on developer tools. He also effectively uses AI tools in his practice. However, the 'Design Engineer' title and the strong preference for deep experience in React, Typescript, and Tailwind are a notable stretch, as Michael's primary expertise is in product design with a strong visual craft, rather than hands-on front-end development. His technical mindset and collaboration skills are strong, but the coding requirements present a gap.",
+      "source": "Jobgether",
+      "applyUrl": "N/A",
+      "isOffLinkedIn": true,
+      "jobDescription": "Cortex, an AI-powered Internal Developer Portal company that recently closed a $60M Series C funding round, is seeking a Senior Product Design Engineer. This role focuses on being a crucial link between the design and front-end engineering teams to enhance software development. The company aims to help engineering teams streamline their processes, enforce reliability, and improve service quality for major organizations. The position requires contributing significantly to or owning a design system and ensuring the impact of designs at scale. Candidates should have a minimum of 5-7 years of experience in product-led environments, ideally at the intersection of design and code. While not strictly mandatory, deep experience with technologies such as React, Typescript, and Tailwind is highly preferred, along with a portfolio showcasing attention to detail and design skills. The role is fully remote within the U.S.",
+      "specialty": "Internal Developer Portal, Developer Tools",
+      "salary": "",
+      "keywords": [
+        {
+          "keyword": "B2B SaaS",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Strong fit with Michael's primary expertise."
+        },
+        {
+          "keyword": "Developer Tools",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Matches Michael's industry preference."
+        },
+        {
+          "keyword": "Enterprise Software",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Aligns with Michael's experience in complex systems."
+        },
+        {
+          "keyword": "Series C",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Meets company stage preference."
+        },
+        {
+          "keyword": "Design System",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael has experience in owning and contributing to design systems."
+        },
+        {
+          "keyword": "Remote",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Matches Michael's location preference."
+        },
+        {
+          "keyword": "Product Design Engineer",
+          "inProfile": false,
+          "relevance": "required",
+          "note": "This is a hybrid design-engineering role; Michael is a Product Designer by primary training."
+        },
+        {
+          "keyword": "React",
+          "inProfile": false,
+          "relevance": "preferred",
+          "note": "Michael does not have deep coding experience, which is a preferred skill for this role."
+        },
+        {
+          "keyword": "Typescript",
+          "inProfile": false,
+          "relevance": "preferred",
+          "note": "Michael does not have deep coding experience, which is a preferred skill for this role."
+        },
+        {
+          "keyword": "Tailwind",
+          "inProfile": false,
+          "relevance": "preferred",
+          "note": "Michael does not have deep coding experience, which is a preferred skill for this role."
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-07-22T13:42:56.531Z",
+      "isNew": true
+    },
+    {
+      "id": "job-nxo9ci",
+      "title": "Senior/Staff Product Designer",
+      "company": "n8n",
+      "companyDomain": "n8n.io",
+      "industry": "B2B SaaS, Workflow Automation, AI Tools, Enterprise Software",
+      "location": "Remote (U.S. Only)",
+      "postedAt": "2026-07-22",
+      "fitScore": 9,
+      "fitTier": "Strong Fit",
+      "fitExplanation": "This role is an excellent match for Michael Crane. n8n is a Series C B2B SaaS company specializing in complex workflows and AI-powered automation, which aligns perfectly with Michael's 10+ years of experience in complex B2B SaaS, transactional flows, and his ability to make intricate systems delightful. He thrives in ambiguous 0-to-1 problem spaces, leads design strategy, and has a strong visual craft background, all highly valued in this position. The role's emphasis on product design excellence, a technical mindset, ownership, and working on AI-powered workflows and enterprise features directly leverages Michael's strengths and experience, including his use of AI tools in design. The remote U.S. location, specifically mentioning New Jersey, New York, and Pennsylvania, is an ideal fit for his work arrangement preferences.",
+      "source": "Jobgether",
+      "applyUrl": "N/A",
+      "isOffLinkedIn": true,
+      "jobDescription": "n8n, a Series C company with a $2.5 billion valuation, is actively seeking a Senior/Staff Product Designer to join their remote-first team. This role offers the opportunity to drive high-impact design initiatives across key product areas, including AI-powered workflows, enterprise features, growth journeys, or new marketplace functionalities, spanning the entire design lifecycle from discovery to delivery. The company is particularly interested in designers with experience in technical B2B platforms, focusing on aspects like scale, governance, and collaboration (for their Enterprise team), or those who have worked with AI tools, agents, or builders (for their AI team) to define the future of AI-powered automation. Candidates should possess over 5 years of product design experience demonstrating significant impact and ownership of end-to-end features, showcasing excellence in UX, UI, and qualitative research. A technical mindset, effective collaboration with engineers, and an understanding of web technologies are essential. The position requires fast, focused execution in an MVP-driven environment, balancing quality and speed amidst ambiguity. The role is fully remote for candidates in New Jersey, New York, and Pennsylvania, among other U.S. locations.",
+      "specialty": "Workflow Automation, AI-Powered Workflows, Enterprise Features, Marketplace",
+      "salary": "",
+      "keywords": [
+        {
+          "keyword": "Senior Product Designer",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Matches Michael's target role level and current experience."
+        },
+        {
+          "keyword": "Staff Product Designer",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Matches Michael's target role level and readiness."
+        },
+        {
+          "keyword": "B2B SaaS",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael's primary domain expertise."
+        },
+        {
+          "keyword": "Complex Workflows",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Directly aligns with Michael's experience in transactional flows, payment reconciliation, and seller workflows."
+        },
+        {
+          "keyword": "AI Tools",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael uses AI tools and the role is focused on AI-powered workflows."
+        },
+        {
+          "keyword": "Enterprise Software",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Deep context and experience for Michael."
+        },
+        {
+          "keyword": "0-to-1 Discovery",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael thrives in ambiguous problem spaces."
+        },
+        {
+          "keyword": "Design Systems",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael has established scalable design systems."
+        },
+        {
+          "keyword": "Series C",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Meets company stage preference."
+        },
+        {
+          "keyword": "Remote",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Matches Michael's preferred work arrangement and specified U.S. locations."
+        },
+        {
+          "keyword": "Technical mindset",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael collaborates closely with engineering and product."
+        },
+        {
+          "keyword": "Visual craft",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael has a strong visual eye and applies it to enterprise software."
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-07-22T13:42:56.531Z",
       "isNew": true
     }
   ],
-  "scannedAt": "2026-07-21T20:38:12.568Z"
+  "scannedAt": "2026-07-22T13:43:48.062Z"
 }
