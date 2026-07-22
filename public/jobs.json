@@ -2584,7 +2584,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-07-22T13:42:56.531Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-nxo9ci",
@@ -2679,8 +2679,85 @@
       ],
       "status": "New",
       "scannedAt": "2026-07-22T13:42:56.531Z",
+      "isNew": false
+    },
+    {
+      "id": "job-owwvy1",
+      "title": "Lead Product Designer",
+      "company": "Twilio",
+      "companyDomain": "twilio.com",
+      "industry": "Developer Tools, Cloud Infrastructure, B2B SaaS",
+      "location": "Remote (US-based)",
+      "postedAt": "2026-07-22",
+      "fitScore": 9,
+      "fitTier": "Strong Fit",
+      "fitExplanation": "This role is a strong fit due to its fully remote nature, Lead Product Designer title, and focus on highly technical software products, developer tools, infrastructure, and complex B2B/SaaS platforms. Michael has over 10 years of experience, including leading product design for an enterprise multi-cloud transactional platform and prior experience in developer tools. His expertise in making complex systems delightful and tactile, alongside strong systems thinking and experience in complex data architectures, directly aligns with the job's requirements for structural design and unifying fragmented platform experiences. Furthermore, Michael's proven success in cross-functional leadership, partnering with engineering and product leaders to shape design strategy, directly addresses the role's need for executive cross-functional leadership.",
+      "source": "Weworkremotely.com",
+      "applyUrl": "N/A",
+      "isOffLinkedIn": true,
+      "jobDescription": "Twilio is seeking a Lead Product Designer to lead the design of highly technical software products, specifically focusing on developer tools, cloud infrastructure, and complex B2B/SaaS platforms. The role requires an individual with expert-level systems thinking capabilities, demonstrated through structural design, cross-product workflow mapping, and the ability to manage highly complex data architectures. A key responsibility will be to unify fragmented platform experiences, ensuring cohesion and clarity across various product touchpoints. This designer will also engage in executive cross-functional leadership, partnering closely with engineering and product leaders (Director/VP level) to navigate organizational complexity, align on cross-product strategies, and contribute to shaping multi-year product roadmaps. Candidates should possess a minimum of 8+ years of professional product design experience in these specialized areas.",
+      "specialty": "",
+      "salary": "$159,210 - $208,000",
+      "keywords": [
+        {
+          "keyword": "Product Design",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Candidate has 10+ years experience, targeting Lead/Staff level."
+        },
+        {
+          "keyword": "Developer Tools",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Candidate has deep experience in developer tools and enterprise software."
+        },
+        {
+          "keyword": "Cloud Infrastructure",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Candidate leads design for a multi-cloud transactional platform."
+        },
+        {
+          "keyword": "B2B SaaS",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Candidate specializes in complex B2B SaaS products."
+        },
+        {
+          "keyword": "Complex Systems",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Candidate specializes in making complex systems delightful and tactile, matching the need for structural design and complex data architectures."
+        },
+        {
+          "keyword": "Systems Thinking",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Explicitly required in the job description for expert-level systems thinking."
+        },
+        {
+          "keyword": "Data Architecture",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Required for highly complex data architectures; candidate has experience with complex data systems."
+        },
+        {
+          "keyword": "Cross-functional Leadership",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Required for partnering with engineering and product leaders; candidate has experience shaping design strategy at the team and org level."
+        },
+        {
+          "keyword": "Figma",
+          "inProfile": true,
+          "relevance": "desired",
+          "note": "Candidate's primary design tool."
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-07-22T20:31:41.475Z",
       "isNew": true
     }
   ],
-  "scannedAt": "2026-07-22T13:43:48.062Z"
+  "scannedAt": "2026-07-22T20:32:46.069Z"
 }
