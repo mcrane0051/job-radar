@@ -2756,8 +2756,207 @@
       ],
       "status": "New",
       "scannedAt": "2026-07-22T20:31:41.475Z",
+      "isNew": false
+    },
+    {
+      "id": "job-zgg9cq",
+      "title": "Senior Product Designer",
+      "company": "Salsify",
+      "companyDomain": "salsify.com",
+      "industry": "B2B SaaS",
+      "location": "Remote (U.S. Only)",
+      "postedAt": "2026-07-22",
+      "fitScore": 9,
+      "fitTier": "Strong Fit",
+      "fitExplanation": "This role is a strong fit due to its focus on B2B SaaS and enterprise applications, specifically involving complex domains and commerce infrastructure, which aligns well with Michael's experience in multi-cloud transactional platforms. The emphasis on using emerging AI technologies also directly matches Michael's current practice with tools like Figma Make and Cursor. The requirement for a designer to partner directly with Product Management and Engineering, as well as conduct user research, perfectly aligns with Michael's collaborative and full-lifecycle design approach.",
+      "source": "DailyRemote",
+      "applyUrl": "N/A",
+      "isOffLinkedIn": true,
+      "jobDescription": "The Senior Product Designer will lead the user experience for the GDSN team, focusing on creating intuitive end-to-end experiences for retailers and brands. This involves close collaboration with Product Management and Engineering counterparts to translate complex business processes into delightful product solutions within an Enterprise SaaS environment. The ideal candidate embraces making complex domains approachable and is eager to leverage emerging AI technologies to enhance the design process. Responsibilities also include gathering data and conducting research to understand user needs and improving shopper-centric, frictionless commerce experiences.",
+      "specialty": "GDSN (Global Data Synchronization Network)",
+      "keywords": [
+        {
+          "keyword": "Enterprise SAAS companies",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Matches Michael's primary experience."
+        },
+        {
+          "keyword": "B2B applications",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Core expertise."
+        },
+        {
+          "keyword": "emerging AI technologies",
+          "inProfile": true,
+          "relevance": "strong plus",
+          "note": "Michael uses AI tools (Figma Make, Cursor)."
+        },
+        {
+          "keyword": "complex domains",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael specializes in complex systems."
+        },
+        {
+          "keyword": "Product Management and Engineering counterparts",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael works closely with PMs and Eng leads."
+        },
+        {
+          "keyword": "gather data and conduct research",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael conducts user research."
+        },
+        {
+          "keyword": "end-to-end experiences",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael operates effectively across the full design lifecycle."
+        },
+        {
+          "keyword": "core commerce infrastructure",
+          "inProfile": true,
+          "relevance": "strong plus",
+          "note": "Matches Michael's experience in cloud marketplace/revenue operations infrastructure."
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-07-23T12:49:13.343Z",
+      "isNew": true
+    },
+    {
+      "id": "job-droul5",
+      "title": "Senior Product Designer",
+      "company": "Melio",
+      "companyDomain": "melio.com",
+      "industry": "Fintech",
+      "location": "Hybrid in NYC",
+      "postedAt": "2026-07-22",
+      "fitScore": 7,
+      "fitTier": "Good Fit",
+      "fitExplanation": "This role is a good fit due to its focus on a B2B payments platform within the FinTech industry, which strongly aligns with Michael's deep context in finance, payment reconciliation, and transactional flows. The requirement to lead end-to-end product design, collaborate with cross-functional teams, and conduct user research also aligns perfectly with his skills and experience. A 2-point deduction was applied because the role is hybrid, despite being in an acceptable location (NYC), as Michael primarily prefers remote work.",
+      "source": "Built In NYC",
+      "applyUrl": "N/A",
+      "isOffLinkedIn": true,
+      "jobDescription": "Melio is seeking a Senior Product Designer to lead key aspects of its B2B payment platform's design, guiding the user experience from prioritization through launch. The role involves creating seamless and impactful experiences for diverse partners, collaborating closely with Principal Designers, Product Managers, and Engineering leads, and working with design teams from leading U.S. financial institutions. Responsibilities also include owning end-to-end product design, conducting user research, prototyping in Figma, and engaging directly with customers to gather insights and develop solutions.",
+      "specialty": "B2B Payments Platform",
+      "keywords": [
+        {
+          "keyword": "B2B payments platform",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Strong match with Michael's FinTech/transactional flows experience."
+        },
+        {
+          "keyword": "end-to-end product design",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael operates across the full design lifecycle."
+        },
+        {
+          "keyword": "Partner with PMs, engineers, principal and partner design teams",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael works closely with PMs, Eng leads, and shapes design strategy."
+        },
+        {
+          "keyword": "user research and prototyping in Figma",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael's core skills and tools."
+        },
+        {
+          "keyword": "collaborate with design teams from leading U.S. financial institutions",
+          "inProfile": true,
+          "relevance": "strong plus",
+          "note": "Matches Michael's deep context in finance/FinTech adjacent work."
+        },
+        {
+          "keyword": "complex business processes",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael specializes in complex systems."
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-07-23T12:49:13.343Z",
+      "isNew": true
+    },
+    {
+      "id": "job-4bmzmw",
+      "title": "Lead Product Designer",
+      "company": "PatientPoint",
+      "companyDomain": "patientpoint.com",
+      "industry": "Digital Health (B2B SaaS)",
+      "location": "Remote (United States)",
+      "postedAt": "2026-07-23",
+      "fitScore": 9,
+      "fitTier": "Strong Fit",
+      "fitExplanation": "This role is an excellent fit, aligning with Michael's expertise in complex B2B SaaS product design, particularly for data-heavy interfaces and operational workflows. As a Lead Product Designer in an individual contributor capacity, it perfectly matches Michael's target role level and his ability to lead through craft. The emphasis on strong discovery skills, experience with internal tooling and enterprise software, and advanced proficiency in Figma and design systems are all core strengths highlighted in his profile.",
+      "source": "Dynamite Jobs",
+      "applyUrl": "N/A",
+      "isOffLinkedIn": true,
+      "jobDescription": "PatientPoint is seeking a Lead Product Designer to own the user experience of an internal operational platform and support a provider-facing product. This is a senior individual contributor role focused on leadership through craft and expertise, without direct reports. The ideal candidate will be passionate about complex workflows and the humans who rely on the tools designed. Requirements include experience with operational or technical domains (internal tooling, B2B SaaS, enterprise software), strong discovery skills, and advanced proficiency in Figma (including systems thinking, prototyping, and developer handoff). The role also involves independent design execution and collaboration with Product Managers and Engineering leads.",
+      "specialty": "Internal Operational Platform / Provider-facing product",
+      "salary": "$101.6k - $177k",
+      "keywords": [
+        {
+          "keyword": "internal operational platform",
+          "inProfile": true,
+          "relevance": "strong plus",
+          "note": "Matches Michael's experience in enterprise tools and complex workflows."
+        },
+        {
+          "keyword": "Lead Product Designer",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Target role level and Michael has lead experience."
+        },
+        {
+          "keyword": "individual contributor role",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Matches Michael's preference for IC with leadership ability."
+        },
+        {
+          "keyword": "complex workflows",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Core expertise."
+        },
+        {
+          "keyword": "B2B SaaS, or enterprise software",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Primary industry expertise."
+        },
+        {
+          "keyword": "Strong discovery skills",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael operates across full design lifecycle from 0-to-1 discovery."
+        },
+        {
+          "keyword": "Figma, including systems thinking, prototyping, and developer handoff",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Core tools and skills, design systems expertise."
+        },
+        {
+          "keyword": "Collaborate with Product Managers and Engineering leads",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael works closely with PMs and Eng leads."
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-07-23T12:49:13.343Z",
       "isNew": true
     }
   ],
-  "scannedAt": "2026-07-22T20:32:46.069Z"
+  "scannedAt": "2026-07-23T12:49:48.179Z"
 }
