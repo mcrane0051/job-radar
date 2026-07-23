@@ -2826,7 +2826,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-07-23T12:49:13.343Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-droul5",
@@ -2884,7 +2884,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-07-23T12:49:13.343Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-4bmzmw",
@@ -2955,8 +2955,145 @@
       ],
       "status": "New",
       "scannedAt": "2026-07-23T12:49:13.343Z",
+      "isNew": false
+    },
+    {
+      "id": "job-qawf2p",
+      "title": "Staff Product Designer",
+      "company": "Gusto",
+      "companyDomain": "gusto.com",
+      "industry": "Fintech",
+      "location": "Remote (US)",
+      "postedAt": "2026-07-22",
+      "fitScore": 9,
+      "fitTier": "Strong Fit",
+      "fitExplanation": "Michael's extensive experience (10+ years) and target for Staff-level roles align well with this position. His deep context in complex B2B SaaS, finance, payment reconciliation, transactional flows, and revenue operations infrastructure directly matches Gusto's focus on building an AI-first financial platform for small businesses. The role's emphasis on defining UX vision and strategy, identifying systemic gaps, shaping product strategy, and operating as a senior individual contributor is a strong match for Michael's leadership and end-to-end design lifecycle experience. The requirement for 'extraordinary UX and visual design craft' and 'systems thinking' resonates with his design philosophy of clarity, trust, and tactile interaction in high-stakes problem spaces, as does the integration of AI. Gusto's company stage (Series E/F) comfortably meets Michael's preference for Series C or later, and the remote work option is highly preferred.",
+      "source": "Gusto Careers",
+      "applyUrl": "https://gusto.com/careers/senior-staff-product-designer-finance",
+      "isOffLinkedIn": true,
+      "jobDescription": {
+        "summary": "Gusto is seeking a Senior Staff Product Designer to lead the UX vision and strategy across its core financial product areas, including Business Money, Consumer Money, Payments, and Risk. The role involves defining innovative, AI-first financial user experiences, identifying systemic design opportunities, and shaping product strategy alongside cross-functional leadership.",
+        "coreResponsibilities": [
+          "Set the UX vision and strategy for financial products, ensuring a cohesive platform experience across multiple teams.",
+          "Identify and drive high-impact design opportunities that span various product areas, bringing cross-functional partners together.",
+          "Influence product strategy, roadmap priorities, and team objectives through a design-centric lens, collaborating with product directors and engineering leaders.",
+          "Act as a direct individual contributor on high-priority design projects.",
+          "Contribute to the development of other designers and elevate the overall design craft within the team.",
+          "Design for complex, mission-critical financial systems, emphasizing reliability, security, and simplicity at scale.",
+          "Define new design patterns and interaction models, and contribute to the evolution of existing design systems.",
+          "Balance a long-term strategic vision with rapid iteration and execution in ambiguous problem spaces."
+        ],
+        "requirements": [
+          "8-10+ years of product design experience, with a focus on complex, technical, or large-scale product domains.",
+          "A portfolio showcasing exceptional UX and visual design craft, demonstrating high-quality, polished product work.",
+          "Proven ability to lead design direction, drive alignment, and influence cross-functional partners.",
+          "Experience designing for deeply technical systems, financial workflows, or other complex problem spaces.",
+          "Expertise in systems thinking, capable of translating complex concepts into clear, elegant, and scalable experiences.",
+          "Experience contributing to or evolving a design system, including components, patterns, interaction models, and visual standards.",
+          "Ability to define net-new patterns and interaction models in ambiguous or emerging product areas.",
+          "Comfort operating in ambiguity while balancing long-term vision with rapid iteration and execution.",
+          "AI fluency, including knowledge of tools and workflows that enhance exploration, prototyping, or operational efficiency.",
+          "A deep affinity for Gusto's mission to empower small businesses through modern, credible financial tools."
+        ]
+      },
+      "specialty": "Finance",
+      "salary": "$172,000 - $215,000",
+      "keywords": [
+        {
+          "keyword": "product design",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael has over 10 years of product design experience at a senior/lead level."
+        },
+        {
+          "keyword": "B2B SaaS",
+          "inProfile": true,
+          "relevance": "strong alignment",
+          "note": "Gusto's platform serves small businesses, directly aligning with Michael's B2B SaaS expertise."
+        },
+        {
+          "keyword": "fintech",
+          "inProfile": true,
+          "relevance": "strong alignment",
+          "note": "The role is deeply embedded in financial products, matching Michael's deep context in finance and fintech."
+        },
+        {
+          "keyword": "complex systems",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "The job explicitly requires designing for complex, mission-critical financial systems, which is Michael's specialization."
+        },
+        {
+          "keyword": "transactional flows",
+          "inProfile": true,
+          "relevance": "strong alignment",
+          "note": "Responsibilities include money movement and payments, matching Michael's experience in transactional flows."
+        },
+        {
+          "keyword": "payment reconciliation",
+          "inProfile": true,
+          "relevance": "strong alignment",
+          "note": "The role covers payments and risk, closely related to Michael's experience in payment reconciliation and contract management."
+        },
+        {
+          "keyword": "0-to-1 discovery",
+          "inProfile": true,
+          "relevance": "strong alignment",
+          "note": "The role involves defining AI-first financial UX and new patterns in ambiguous areas, aligning with Michael's 0-to-1 experience."
+        },
+        {
+          "keyword": "design strategy",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "A core responsibility is setting UX vision and strategy across product areas."
+        },
+        {
+          "keyword": "visual craft",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Job explicitly requires 'extraordinary UX and visual design craft'."
+        },
+        {
+          "keyword": "design systems",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Experience contributing to or evolving a design system is a key requirement."
+        },
+        {
+          "keyword": "AI tools",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "AI fluency and defining AI-first financial UX are central to the role, aligning with Michael's recent use of AI tools."
+        },
+        {
+          "keyword": "Figma",
+          "inProfile": true,
+          "relevance": "implied",
+          "note": "A standard tool in the industry, highly likely used by Gusto's design team."
+        },
+        {
+          "keyword": "user research",
+          "inProfile": true,
+          "relevance": "implied",
+          "note": "Expected at this senior level for grounding design decisions, though not explicitly detailed in the responsibility summary."
+        },
+        {
+          "keyword": "cross-functional collaboration",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "The role involves influencing cross-functional partners and collaborating with product and engineering leadership."
+        },
+        {
+          "keyword": "enterprise software",
+          "inProfile": true,
+          "relevance": "strong alignment",
+          "note": "Gusto's platform, serving small businesses with complex financial operations, shares characteristics with enterprise software Michael has experience with."
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-07-23T20:20:24.469Z",
       "isNew": true
     }
   ],
-  "scannedAt": "2026-07-23T12:49:48.179Z"
+  "scannedAt": "2026-07-23T20:21:33.445Z"
 }
