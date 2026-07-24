@@ -2266,7 +2266,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-07-24T12:45:43.607Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-o7g1yc",
@@ -3157,7 +3157,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-07-24T12:45:43.607Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-xxuy38",
@@ -3198,7 +3198,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-07-24T12:45:43.607Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-dp08ab",
@@ -3263,7 +3263,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-07-24T12:45:43.607Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-yv37wy",
@@ -3328,7 +3328,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-07-24T12:45:43.607Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-rjxe4h",
@@ -3387,7 +3387,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-07-24T12:45:43.607Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-1cyw2z",
@@ -3446,7 +3446,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-07-24T12:45:43.607Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-6yn6wb",
@@ -3487,7 +3487,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-07-24T12:45:43.607Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-lbq9hs",
@@ -3564,8 +3564,322 @@
       ],
       "status": "New",
       "scannedAt": "2026-07-24T12:45:43.607Z",
+      "isNew": false
+    },
+    {
+      "id": "job-nb6i9e",
+      "title": "Product Design Lead",
+      "company": "Rosie's People Inc. (Client: International Fintech)",
+      "companyDomain": "N/A",
+      "industry": "Fintech, Payments",
+      "location": "Hybrid, New York, NY",
+      "postedAt": "2026-07-23",
+      "fitScore": 9,
+      "fitTier": "Strong Fit",
+      "fitExplanation": "This role is a strong fit given Michael's experience as a Lead Product Designer, his deep context in fintech and transactional flows, and the company's focus on payments and financial technology solutions. The hybrid location in NYC is acceptable, though remote is preferred. The role involves shaping UX strategy and contributing to design systems, aligning with Michael's skills and desire to lead.",
+      "source": "Lensa",
+      "applyUrl": "N/A",
+      "isOffLinkedIn": true,
+      "jobDescription": "The Product Design Lead will shape the future user experience of a rapidly scaling international fintech platform, focusing on cross-border money movement. The role involves working closely with founders, engineering teams, and senior stakeholders to define and evolve the customer experience across multiple products and markets. The position combines strategic design leadership with hands-on execution, emphasizing complex user journeys, scalable design systems, and strong cross-functional collaboration.\n\n**Core Responsibilities:**\n*   Lead product design initiatives across the organization's digital products and customer experiences.\n*   Help shape and evolve the overall user experience strategy.\n*   Design intuitive, engaging, and customer-focused product experiences.\n*   Translate business objectives and customer needs into effective design solutions.\n*   Collaborate closely with engineering, product, and leadership teams.\n*   Support the redesign and continuous improvement of customer-facing products.\n*   Create user flows, wireframes, prototypes, and high-fidelity designs.\n*   Contribute to the development and maintenance of scalable design systems.\n*   Support user research, testing, and customer feedback initiatives.\n*   Use data, customer insights, and design thinking principles to improve product experiences.\n*   Champion customer-centric design approaches throughout the organization and establish design best practices.\n\n**Requirements:**\n*   5+ years of experience in Product Design, UX Design, UI Design, or Digital Product Design with a track record of shipping.\n*   Strong portfolio demonstrating customer-focused digital product design work.\n*   Experience in fintech, payments, SaaS, consumer tech, or high-growth startups.\n*   Solid understanding of UX principles, interaction design, and user-centered design methods.\n*   Experience collaborating with engineers and product stakeholders.\n*   Ability to balance strategic thinking with hands-on execution.",
+      "specialty": "Fintech",
+      "salary": "$169K - $208K",
+      "keywords": [
+        {
+          "keyword": "Fintech",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Deep context in Finance and FinTech adjacent."
+        },
+        {
+          "keyword": "Payments",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Experience in transactional flows and payment reconciliation."
+        },
+        {
+          "keyword": "B2B SaaS",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Primary industry expertise."
+        },
+        {
+          "keyword": "Design Systems",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Experience establishing scalable design systems."
+        },
+        {
+          "keyword": "User Research",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "User research, usability testing, synthesizing insights."
+        },
+        {
+          "keyword": "User Flows",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Experience creating user flows."
+        },
+        {
+          "keyword": "Wireframes",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Experience creating wireframes."
+        },
+        {
+          "keyword": "Prototypes",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "High-fidelity interactive prototyping."
+        },
+        {
+          "keyword": "UI Design",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Strong visual eye and UI design skills."
+        },
+        {
+          "keyword": "Interaction Design",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Tactile interaction design, interaction design expertise."
+        },
+        {
+          "keyword": "Cross-functional Collaboration",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Operates effectively across full design lifecycle, works closely with PMs, engineers, executives."
+        },
+        {
+          "keyword": "Strategic Thinking",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Shapes design strategy at team and org level, leads design initiatives."
+        },
+        {
+          "keyword": "Complex UX Challenges",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Specializes in making complex systems delightful and tactile."
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-07-24T20:40:49.677Z",
+      "isNew": true
+    },
+    {
+      "id": "job-edbad1",
+      "title": "Senior Product Designer",
+      "company": "Fountain",
+      "companyDomain": "N/A",
+      "industry": "B2B SaaS, Enterprise Software (CRM)",
+      "location": "Remote, United States",
+      "postedAt": "2026-07-23",
+      "fitScore": 10,
+      "fitTier": "Strong Fit",
+      "fitExplanation": "This remote Senior Product Designer role at Fountain is an excellent fit for Michael. It aligns perfectly with his expertise in complex B2B SaaS, enterprise software (CRM), and data-heavy interfaces. His experience with AI tools and driving measurable outcomes directly matches the job requirements. The remote nature of the role is highly preferred.",
+      "source": "JobLeads.com",
+      "applyUrl": "N/A",
+      "isOffLinkedIn": true,
+      "jobDescription": "Fountain is seeking a Senior Product Designer to take end-to-end ownership of their CRM product, from research and ideation to polished designs and post-release iteration. The role requires balancing user needs, business objectives, and technical feasibility to create a category-defining CRM. The designer will collaborate with Design, Product Managers, Engineering, CS, and Data teams, and will work with AI product surfaces, including an agentic system. The role is fully remote within the US and requires 6+ hours overlap with US Pacific Time.\n\n**Core Responsibilities:**\n*   Lead the design of Fountain's CRM product, from discovery through delivery.\n*   Design agentic-first experiences that reduce recruiter workload, surface talent intelligence, and drive measurable hiring outcomes.\n*   Translate complex workflows and data into intuitive, elegant user experiences.\n*   Conduct user research to deeply understand user needs and validate solutions.\n*   Balance user needs, business objectives, and technical feasibility to create a category-defining CRM.\n*   Work closely with Design, Product Managers, Engineering, CS, and Data teams.\n*   Design for AI-driven experiences and leverage AI tools as part of the design process.\n\n**Requirements:**\n*   7+ years of product design experience in high-complexity B2B SaaS.\n*   A strong portfolio showcasing user-focused problem-solving and elegant product solutions.\n*   Exceptional interaction design and visual craft, with a strong command of visual design and usability best practices.\n*   Expert-level proficiency in design tooling (currently Figma) and strong AI fluency across tools such as Claude.\n*   Comfort owning ambiguity and driving projects independently.",
+      "specialty": "CRM",
+      "salary": "N/A",
+      "keywords": [
+        {
+          "keyword": "B2B SaaS",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Primary industry expertise."
+        },
+        {
+          "keyword": "CRM",
+          "inProfile": false,
+          "relevance": "preferred",
+          "note": "Enterprise software, aligns with complex B2B systems Michael has experience with."
+        },
+        {
+          "keyword": "Complex Workflows",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Specializes in complex B2B SaaS products and workflows."
+        },
+        {
+          "keyword": "Data-heavy interfaces",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Experience with complex data systems and data-heavy interfaces."
+        },
+        {
+          "keyword": "User Research",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Conducts user research and synthesizes insights."
+        },
+        {
+          "keyword": "Interaction Design",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Strong interaction design and visual craft."
+        },
+        {
+          "keyword": "Visual Craft",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Strong visual eye and applies visual craft."
+        },
+        {
+          "keyword": "Figma",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Expert in Figma, listed in tools."
+        },
+        {
+          "keyword": "AI tools",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Uses AI tools to accelerate discovery and prototyping."
+        },
+        {
+          "keyword": "Cross-functional Collaboration",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Works closely with PMs, engineers, CS, data."
+        },
+        {
+          "keyword": "End-to-end design",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Operates across the full design lifecycle."
+        },
+        {
+          "keyword": "Ambiguous problem spaces",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Thrives in ambiguous 0-to-1 discovery."
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-07-24T20:40:49.677Z",
+      "isNew": true
+    },
+    {
+      "id": "job-yf7oh0",
+      "title": "Staff Product Designer",
+      "company": "Nova Credit",
+      "companyDomain": "N/A",
+      "industry": "Finance, Banking, Fintech",
+      "location": "Remote, United States",
+      "postedAt": "2026-07-24",
+      "fitScore": 10,
+      "fitTier": "Strong Fit",
+      "fitExplanation": "This Staff Product Designer role at Nova Credit is an excellent match for Michael's profile. His 10+ years of experience, including deep context in finance and fintech adjacent areas like payment reconciliation and transactional flows, directly aligns with the company's industry. The remote work arrangement is highly preferred, and the Staff level is precisely what he is targeting. Nova Credit is a late-stage company, meeting his preference.",
+      "source": "Jobright",
+      "applyUrl": "N/A",
+      "isOffLinkedIn": true,
+      "jobDescription": "Nova Credit is seeking a Staff Product Designer. The company operates in the Finance, Banking, and Fintech industries and is a late-stage company. The role requires a candidate with 8+ years of experience and is a full-time, remote position within the United States.\n\n**Core Responsibilities:** (Specific responsibilities were not detailed in the provided snippet, but typical for a Staff Product Designer in this industry would include:)\n*   Lead complex design initiatives for financial and banking products.\n*   Drive user experience strategy and execution across product areas.\n*   Collaborate with cross-functional teams to deliver impactful fintech solutions.\n*   Contribute to the evolution of design systems and best practices within a regulated industry.\n\n**Requirements:**\n*   8+ years of experience at a Staff Product Designer level or equivalent.\n*   Full-time availability.\n*   Experience in the Finance, Banking, or Fintech sectors.",
+      "specialty": "Finance & Banking",
+      "salary": "$197K - $240K",
+      "keywords": [
+        {
+          "keyword": "Finance",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Deep context in Finance and FinTech adjacent."
+        },
+        {
+          "keyword": "Banking",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Aligns with FinTech experience."
+        },
+        {
+          "keyword": "Fintech",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Deep context in FinTech adjacent."
+        },
+        {
+          "keyword": "Staff Product Designer",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Targeted role level."
+        },
+        {
+          "keyword": "Late Stage Company",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Company stage preference (Late Stage for Nova Credit)."
+        },
+        {
+          "keyword": "Complex systems",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Experience in complex data systems and transactional flows."
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-07-24T20:40:49.677Z",
+      "isNew": true
+    },
+    {
+      "id": "job-ocq5tg",
+      "title": "Staff Product Designer",
+      "company": "Brex",
+      "companyDomain": "N/A",
+      "industry": "Finance, Travel (Fintech)",
+      "location": "Hybrid, New York, NY",
+      "postedAt": "2026-07-23",
+      "fitScore": 9,
+      "fitTier": "Strong Fit",
+      "fitExplanation": "This Staff Product Designer role at Brex is a strong fit. Michael's 10+ years of experience aligns with the role's requirements, and his deep background in fintech and transactional flows is highly relevant to Brex's industry. The hybrid model in NYC is a permissible location, although remote is his preference. Brex's late-stage status also meets his company stage criteria.",
+      "source": "Jobright",
+      "applyUrl": "N/A",
+      "isOffLinkedIn": true,
+      "jobDescription": "Brex is seeking a Staff Product Designer for its platform, operating in the Finance and Travel (Fintech) industries. The company is identified as a late-stage organization, and the role requires a candidate with 10+ years of experience. This is a full-time, hybrid position based in New York, NY, with potential for other specified locations.\n\n**Core Responsibilities:** (Specific responsibilities were not detailed in the provided snippet, but typical for a Staff Product Designer in this industry would include:)\n*   Lead design efforts for financial products, potentially involving payment processing or corporate spend management.\n*   Develop intuitive user experiences for B2B clients in the fintech space.\n*   Collaborate with product and engineering teams to define and execute design strategy.\n*   Contribute to and maintain design systems for consistency and scalability.\n\n**Requirements:**\n*   10+ years of experience at a Staff Product Designer level or equivalent.\n*   Full-time availability.\n*   Experience in the Finance or Fintech industries.",
+      "specialty": "Finance & Travel",
+      "salary": "$240K - $300K",
+      "keywords": [
+        {
+          "keyword": "Finance",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Deep context in Finance and FinTech adjacent."
+        },
+        {
+          "keyword": "Fintech",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Deep context in FinTech adjacent (payment reconciliation, transactional flows)."
+        },
+        {
+          "keyword": "Staff Product Designer",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Targeted role level."
+        },
+        {
+          "keyword": "Late Stage Company",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Company stage preference (Late Stage for Brex)."
+        },
+        {
+          "keyword": "Complex systems",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Experience in complex data systems and transactional flows."
+        },
+        {
+          "keyword": "B2B SaaS",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Brex serves businesses, aligning with B2B SaaS experience."
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-07-24T20:40:49.677Z",
       "isNew": true
     }
   ],
-  "scannedAt": "2026-07-24T12:47:24.065Z"
+  "scannedAt": "2026-07-24T20:41:59.900Z"
 }
