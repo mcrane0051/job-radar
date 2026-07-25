@@ -2190,83 +2190,106 @@
       "title": "Senior Product Designer",
       "company": "Remote",
       "companyDomain": "remote.com",
-      "industry": "HRTech, FinTech, B2B SaaS",
-      "location": "Remote (US Only)",
-      "postedAt": "2026-07-23",
-      "fitScore": 10,
+      "industry": "B2B SaaS, HRTech, FinTech",
+      "location": "Remote (US)",
+      "postedAt": "2026-07-25",
+      "fitScore": 9,
       "fitTier": "Strong Fit",
-      "fitExplanation": "This role is a perfect match for Michael's preference for complex B2B SaaS, especially in HRTech and FinTech domains. The emphasis on influencing strategy, leading design autonomously, and navigating ambiguity aligns directly with his strengths. The fully remote nature is a key preference. The company, Remote, is well past Series C funding.",
-      "source": "Remote.co",
+      "fitExplanation": "This remote Senior Product Designer role aligns exceptionally well with Michael's 10+ years of experience in complex B2B SaaS, particularly his background in FinTech-adjacent areas and HRTech. The emphasis on influencing product strategy, leading vision initiatives, and autonomously owning design for complex domains directly matches his lead designer experience and ability to shape design strategy. His proficiency with AI-assisted design, systems thinking, and strong visual craft further solidify this as a strong fit.",
+      "source": "Jobgether",
       "applyUrl": "N/A",
-      "isOffLinkedIn": true,
-      "jobDescription": "This Senior Product Designer role focuses on delivering quality user experiences and shaping design culture within a global employment platform. The position involves influencing product strategy, identifying impact opportunities, collaborating with cross-functional teams, and applying various research methodologies. The ideal candidate will be experienced in end-to-end design, comfortable leading design autonomously within a product team, and adept at navigating ambiguity. Experience with complex B2B SaaS solutions in HRTech or FinTech is preferred. The company values innovation and incorporates AI capabilities into roles for building a best-in-class HR platform.\n\nCore Responsibilities:\n*   Influence product strategy and identify impact opportunities.\n*   Collaborate with stakeholders and cross-functional peers.\n*   Apply appropriate research methodologies.\n*   Lead design autonomously within a product team.\n*   Navigate ambiguity in design challenges.\n*   Deliver remarkable user experiences for a global HR platform.\n\nRequirements:\n*   Well-experienced with a high level of maturity in the end-to-end design process.\n*   Comfortable leading design autonomously within a product team.\n*   Ability to navigate ambiguity.\n*   Experience designing complex B2B SaaS solutions (HRTech, FinTech preferred).\n*   Strong collaboration skills with Designers, Engineers, and Product Managers.\n*   Experience working remotely is a plus.",
-      "specialty": "HRTech, FinTech",
-      "salary": "$60,000 - $140,400",
+      "jobDescription": "This Senior Product Designer position at Remote focuses on shaping design culture and delivering impactful user experiences for complex B2B SaaS solutions, with a preference for candidates experienced in HRTech and FinTech. The role involves influencing product strategy, applying research methodologies to understand customer challenges, and crafting high-fidelity user interfaces rapidly. The successful candidate will lead vision initiatives and independently manage design for intricate domains or multiple projects. It requires a systems thinker comfortable in fast-paced environments, with a strong portfolio demonstrating excellence in interaction and visual design, technical depth, and the ability to build for scale while navigating ambiguity. Experience with AI-assisted design is also a key requirement.",
+      "specialty": "",
+      "salary": "",
       "keywords": [
         {
           "keyword": "B2B SaaS",
           "inProfile": true,
           "relevance": "required",
-          "note": "Explicitly mentioned as preferred"
+          "note": "Explicitly required and strong match with Michael's core experience."
         },
         {
           "keyword": "HRTech",
           "inProfile": true,
           "relevance": "preferred",
-          "note": "Explicitly mentioned as preferred"
+          "note": "Preferred experience; Michael has a background in HR tech with iCIMS."
         },
         {
           "keyword": "FinTech",
           "inProfile": true,
           "relevance": "preferred",
-          "note": "Explicitly mentioned as preferred"
+          "note": "Preferred experience; Michael has deep context in finance and FinTech adjacent areas."
         },
         {
-          "keyword": "End-to-end design",
+          "keyword": "cross-functional collaboration",
           "inProfile": true,
           "relevance": "required",
-          "note": "Candidate excels in full design lifecycle"
+          "note": "Strong cross-functional collaboration is a key requirement, matching Michael's experience working closely with product managers, engineering leads, and executives."
         },
         {
-          "keyword": "Strategy",
+          "keyword": "systems thinker",
           "inProfile": true,
           "relevance": "required",
-          "note": "Candidate shapes design strategy"
+          "note": "The role seeks a systems thinker, directly aligning with Michael's rigorous systems thinking design philosophy."
         },
         {
-          "keyword": "User Research",
+          "keyword": "complex domains",
           "inProfile": true,
           "relevance": "required",
-          "note": "Candidate applies research methodologies"
+          "note": "The role emphasizes ownership of design for complex domains, a specialization for Michael in B2B SaaS."
         },
         {
-          "keyword": "Cross-functional collaboration",
+          "keyword": "high-fidelity user interfaces",
           "inProfile": true,
           "relevance": "required",
-          "note": "Candidate works with Designers, Engineers, Product Managers"
+          "note": "Crafting high-fidelity UIs is a responsibility, aligning with Michael's visual craft and polish."
         },
         {
-          "keyword": "Ambiguity",
+          "keyword": "influencing strategy",
           "inProfile": true,
           "relevance": "required",
-          "note": "Candidate is comfortable navigating ambiguity"
+          "note": "Influencing strategy for the product team is a core task, matching Michael's experience shaping design strategy."
         },
         {
-          "keyword": "Design culture",
+          "keyword": "user research",
           "inProfile": true,
           "relevance": "required",
-          "note": "Candidate helps shape design culture"
+          "note": "Applying research methodology is a responsibility, and Michael lists User Research in his skills and has conducted it."
         },
         {
-          "keyword": "AI capabilities",
+          "keyword": "end-to-end design process",
           "inProfile": true,
-          "relevance": "mentioned",
-          "note": "Company uses AI, candidate uses AI tools"
+          "relevance": "required",
+          "note": "The role seeks maturity across the end-to-end design process, which Michael effectively operates across."
+        },
+        {
+          "keyword": "navigating ambiguity",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Comfort with navigating ambiguity is noted, aligning with Michael's ability to thrive in 0-to-1 discovery."
+        },
+        {
+          "keyword": "visual design",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Excellent visual design is a key attribute, matching Michael's strong visual eye and graphic design foundation."
+        },
+        {
+          "keyword": "prototyping",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Technical depth including prototyping is mentioned, aligning with Michael's prototyping skills."
+        },
+        {
+          "keyword": "AI-assisted design",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Fluency with AI-assisted design is a requirement, directly matching Michael's experience using AI tools like Figma Make and Cursor."
         }
       ],
       "status": "New",
-      "scannedAt": "2026-07-24T12:45:43.607Z",
-      "isNew": false
+      "scannedAt": "2026-07-25T20:15:45.938Z",
+      "isNew": true
     },
     {
       "id": "job-o7g1yc",
@@ -3879,7 +3902,207 @@
       "status": "New",
       "scannedAt": "2026-07-24T20:40:49.677Z",
       "isNew": false
+    },
+    {
+      "id": "job-2wi3e9",
+      "title": "Senior Product Designer",
+      "company": "(Undisclosed)",
+      "companyDomain": "N/A",
+      "industry": "Marketplace, B2B SaaS",
+      "location": "Remote (USA)",
+      "postedAt": "2026-07-24",
+      "fitScore": 9.5,
+      "fitTier": "Strong Fit",
+      "fitExplanation": "This role is an exceptionally strong fit for Michael, particularly due to its focus on a B2B marketplace and outcome-driven design, aligning perfectly with his experience in cloud marketplace infrastructure and achieving significant impact metrics. The emphasis on continuous discovery, product trio collaboration, and being 'AI-first' directly mirrors Michael's preferred work style and skill set, including his use of AI tools. Being a remote position further enhances its suitability.",
+      "source": "Dynamite Jobs",
+      "applyUrl": "N/A",
+      "jobDescription": "This Senior Product Designer position is with the #1 lead marketplace in the USA, a company focused on accelerating B2B lead generation. The role requires an end-to-end product designer skilled in UX, UI, interaction, and prototyping, with a proven track record of moving business metrics through shipped experiments. Key responsibilities include leading the experience layer of the product, participating in continuous discovery within a product trio (PM + Designer + Engineer), mapping end-to-end flows to identify friction, and designing and running assumption-test prototypes. Candidates must be comfortable with Figma and code prototypes, have experience running numerous usability tests, and be 'AI-first by default.' High ownership and strong decision-making in ambiguous, fast-moving environments are essential.",
+      "specialty": "Lead Marketplace",
+      "salary": "",
+      "keywords": [
+        {
+          "keyword": "marketplace",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "The company is described as the '#1 lead marketplace in the USA,' aligning perfectly with Michael's cloud marketplace/revenue operations infrastructure experience."
+        },
+        {
+          "keyword": "B2B SaaS",
+          "inProfile": true,
+          "relevance": "implied",
+          "note": "The role involves a 'marketplace for future customers' and 'businesses shop for leads,' strongly implying a B2B SaaS context."
+        },
+        {
+          "keyword": "end-to-end product designer",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "The role requires an 'end-to-end product designer,' aligning with Michael's ability to operate across the full design lifecycle."
+        },
+        {
+          "keyword": "UX, UI, interaction, prototyping",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "These are explicitly required design skills, all listed in Michael's design practice."
+        },
+        {
+          "keyword": "outcome-driven",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "The role seeks someone whose design 'moved a real business metric,' directly matching Michael's notable outcomes and impact metrics."
+        },
+        {
+          "keyword": "Figma",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Comfort in Figma is a requirement, and Michael lists Figma in his tools."
+        },
+        {
+          "keyword": "code prototypes",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Comfort with 'code prototypes' is mentioned, which aligns with Michael's rapid prototyping skills and technical depth."
+        },
+        {
+          "keyword": "usability tests",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Experience running '50+ usability tests' is a requirement, matching Michael's user research experience."
+        },
+        {
+          "keyword": "continuous discovery",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "The role emphasizes a 'continuous discovery' environment, a key strength of Michael's in ambiguous 0-to-1 problem spaces."
+        },
+        {
+          "keyword": "product trio",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Working within a 'product trio (PM + Designer + Engineer)' aligns with Michael's collaborative approach with product and engineering."
+        },
+        {
+          "keyword": "AI-first",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "The requirement to be 'AI-first by default' and use AI to 3x output directly matches Michael's experience using AI tools like Figma Make and Cursor."
+        },
+        {
+          "keyword": "ambiguous problem spaces",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "High ownership and strong decision-making in 'ambiguous, fast-moving environments' is sought, aligning with Michael's ability to thrive in ambiguous 0-to-1 problem spaces."
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-07-25T20:15:45.938Z",
+      "isNew": true
+    },
+    {
+      "id": "job-uhr84j",
+      "title": "Staff Experience Designer",
+      "company": "PayPal, Inc.",
+      "companyDomain": "paypal.com",
+      "industry": "Fintech, Marketplace, Enterprise",
+      "location": "New York City, NY (Hybrid)",
+      "postedAt": "2026-07-25",
+      "fitScore": 8,
+      "fitTier": "Good Fit",
+      "fitExplanation": "This Staff Experience Designer role at PayPal is a strong match, aligning with Michael's target level and extensive experience in FinTech, marketplace infrastructure, and complex enterprise software. His background in transactional flows and data systems is highly relevant to servicing experiences. While the role is hybrid in NYC (a permissible location, but less preferred than remote), the strategic focus, emphasis on AI-powered assistance, and leadership opportunities in influencing cross-functional teams resonate well with Michael's skills and aspirations, warranting a slight score adjustment for location preference.",
+      "source": "Ladders",
+      "applyUrl": "N/A",
+      "jobDescription": "PayPal is seeking a Staff Experience Designer to contribute to the evolution of customer servicing experiences, transitioning towards intelligent, personalized, and predictive solutions through proactive features, self-service, and AI-powered assistance. This role involves tackling complex customer problems at scale and influencing the strategic direction of servicing across the PayPal ecosystem. Key responsibilities include developing plans for enhancing user and customer experiences, leading projects within the product function, designing improvements based on business needs and industry trends, and collaborating extensively with stakeholders to prioritize user needs in design. The ideal candidate will have a background in complex problem spaces such as consumer products, fintech, marketplaces, or enterprise environments. They must demonstrate a proven ability to drive alignment and influence decisions across multiple teams, utilize research, data, and experimentation for strategic decision-making, and possess strong interaction design, information architecture, prototyping, storytelling, and mentorship skills.",
+      "specialty": "Servicing",
+      "salary": "",
+      "keywords": [
+        {
+          "keyword": "Fintech",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "PayPal is a major FinTech company, aligning with Michael's deep context in finance and FinTech adjacent areas."
+        },
+        {
+          "keyword": "marketplace",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Relevant background in marketplaces is sought, matching Michael's experience with marketplace infrastructure."
+        },
+        {
+          "keyword": "enterprise",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Experience in enterprise environments is a requirement, aligning with Michael's focus on enterprise software."
+        },
+        {
+          "keyword": "complex problem spaces",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "The role involves shaping solutions across 'complex problem spaces,' a core specialization for Michael."
+        },
+        {
+          "keyword": "drive alignment",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Proven ability to 'drive alignment across multiple teams' is required, matching Michael's experience in cross-functional collaboration."
+        },
+        {
+          "keyword": "strategic decision-making",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Strategic decision-making using research and data is emphasized, aligning with Michael's experience shaping design strategy and using data-informed approaches."
+        },
+        {
+          "keyword": "user research",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Strategic decision-making utilizes research, and Michael lists User Research in his skills."
+        },
+        {
+          "keyword": "data",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Data is mentioned as a tool for strategic decision-making, aligning with Michael's data-informed approach."
+        },
+        {
+          "keyword": "interaction design",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Strong interaction design skills are required, matching Michael's listed design practice."
+        },
+        {
+          "keyword": "information architecture",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Strong information architecture skills are required, matching Michael's listed design practice."
+        },
+        {
+          "keyword": "prototyping",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Strong prototyping skills are required, matching Michael's listed design practice."
+        },
+        {
+          "keyword": "mentorship",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "The role involves elevating quality through mentorship, aligning with Michael's experience managing and mentoring designers."
+        },
+        {
+          "keyword": "AI-powered assistance",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "The role focuses on AI-powered assistance, aligning with Michael's experience using AI tools in discovery."
+        },
+        {
+          "keyword": "customer servicing experiences",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "The core of the role is shaping 'customer servicing experiences,' which aligns with Michael's work on seller workflows and self-serve onboarding."
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-07-25T20:15:45.938Z",
+      "isNew": true
     }
   ],
-  "scannedAt": "2026-07-25T12:10:25.946Z"
+  "scannedAt": "2026-07-25T20:16:42.746Z"
 }
