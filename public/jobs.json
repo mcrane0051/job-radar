@@ -4102,7 +4102,410 @@
       "status": "New",
       "scannedAt": "2026-07-25T20:15:45.938Z",
       "isNew": false
+    },
+    {
+      "id": "job-db3wj4",
+      "title": "Senior Product Designer",
+      "company": "Clio",
+      "companyDomain": "clio.com",
+      "industry": "Legal Tech, B2B SaaS, Enterprise Software, AI, Data & Analytics",
+      "location": "Remote - USA",
+      "postedAt": "2026-07-25",
+      "fitScore": 9,
+      "fitTier": "Strong Fit",
+      "fitExplanation": "This role is a strong fit due to its remote nature and focus on B2B SaaS for legal professionals, aligning with Michael's extensive experience in complex B2B SaaS and enterprise software. The emphasis on insights, reporting, data visualization, and AI tools directly matches Michael's expertise in data-heavy interfaces and his fluency with AI in design. The company stage (Series D) also meets the minimum requirement. Michael's experience in defining experience strategy and leading end-to-end design processes is highly relevant.",
+      "source": "MyWorkdayJobs",
+      "applyUrl": "N/A",
+      "isOffLinkedIn": true,
+      "jobDescription": "The Senior Product Designer will define and execute the experience strategy for real-time insights, complex reporting, and analytics within Clio's legal AI technology platform. This role involves developing tools that help users understand business performance across critical areas like firm growth, case management, finance, and firm operations. The designer will lead the end-to-end design process, from strategy to execution, working closely with Product Management and Engineering. Responsibilities include simplifying complex domain logic into intuitive interfaces for non-technical users, collaborating with data and platform teams, and excelling in interaction design, information architecture, and visual design. Experience with data-heavy products, dashboards, and analytics tools is key. Fluency in AI tools like Figma Make, Claude, and Gemini in the design process is highly valued.",
+      "specialty": "Insights and Reporting",
+      "keywords": [
+        {
+          "keyword": "B2B SaaS",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Direct match."
+        },
+        {
+          "keyword": "data-heavy interfaces",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Explicitly mentioned requirement."
+        },
+        {
+          "keyword": "AI tools",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Fluency in AI tools expected, aligns with profile."
+        },
+        {
+          "keyword": "design systems",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Expertise in design systems needed for scalable experiences."
+        },
+        {
+          "keyword": "enterprise software",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Primary industry focus."
+        },
+        {
+          "keyword": "complex workflows",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Simplifying complex domain logic is a key responsibility."
+        },
+        {
+          "keyword": "cross-functional collaboration",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Works closely with product and engineering."
+        },
+        {
+          "keyword": "Figma",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Strong capabilities in design and prototyping tools required."
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-07-26T20:17:36.986Z",
+      "isNew": true
+    },
+    {
+      "id": "job-ahoegn",
+      "title": "Senior Product Designer",
+      "company": "Alation",
+      "companyDomain": "alation.com",
+      "industry": "Enterprise Software, B2B SaaS, Data Management",
+      "location": "Remote - US",
+      "postedAt": "2026-07-25",
+      "fitScore": 8,
+      "fitTier": "Good Fit",
+      "fitExplanation": "This remote Senior Product Designer role at Alation, a Series F company, is a good fit due to its focus on enterprise software and B2B SaaS, where Michael has extensive experience. Alation's core business as a 'knowledge layer' for data aligns with Michael's expertise in complex data systems and information-dense enterprise software. While specific responsibilities are not fully detailed in the snippet, the company's nature suggests strong alignment with Michael's design philosophy of clarity and trustworthiness in complex systems.",
+      "source": "Consider.com (Costanoa Ventures Companies)",
+      "applyUrl": "N/A",
+      "isOffLinkedIn": true,
+      "jobDescription": "Alation is seeking a Senior Product Designer to contribute to their 'knowledge layer' platform, which empowers enterprises to drive business outcomes. The company serves global enterprises, including Cisco, DocuSign, and Nasdaq. The role involves designing for a data management platform within the enterprise software space, focusing on solutions that serve large organizations and handle complex information. (Detailed responsibilities are not provided in the snippet, but generally involve contributing to product design for their core platform).",
+      "keywords": [
+        {
+          "keyword": "Enterprise Software",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Core industry of the company."
+        },
+        {
+          "keyword": "B2B SaaS",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Company operates in B2B SaaS."
+        },
+        {
+          "keyword": "complex data systems",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Alation's product is a 'knowledge layer' for data."
+        },
+        {
+          "keyword": "remote",
+          "inProfile": true,
+          "relevance": "preferred",
+          "note": "Matches candidate's preference for remote work."
+        },
+        {
+          "keyword": "design systems",
+          "inProfile": true,
+          "relevance": "potential",
+          "note": "Likely involved in a company of this size and stage."
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-07-26T20:17:36.986Z",
+      "isNew": true
+    },
+    {
+      "id": "job-2l9rxi",
+      "title": "Senior Product Designer",
+      "company": "Fiserv",
+      "companyDomain": "fiserv.com",
+      "industry": "Fintech, Payments",
+      "location": "Onsite New York, NY",
+      "postedAt": "2026-07-25",
+      "fitScore": 7,
+      "fitTier": "Good Fit",
+      "fitExplanation": "This role at Fiserv/Clover is a good fit, particularly given Michael's experience with transactional flows and payment reconciliation in fintech-adjacent industries. The focus on enhancing digital experiences for merchants and customers, applying systems thinking, and potentially working with AI technology aligns well with his skills. However, the role is explicitly onsite in NYC, which results in a 2-point deduction from the fit score, as Michael prefers remote work. Fiserv is a large, publicly traded company, meeting the company stage requirement.",
+      "source": "MyWorkdayJobs",
+      "applyUrl": "N/A",
+      "isOffLinkedIn": true,
+      "jobDescription": "As a Senior Product Designer within the Clover Design team at Fiserv, the individual will enhance digital experiences for merchants and customers across various products and platforms. This position involves collaborating with cross-functional teams (designers, researchers, product managers, developers) to align design solutions with business goals and technical feasibility. The role requires applying best practices and systems thinking to drive innovation and growth for small and medium businesses and enterprises. Experience in fintech/payments and working with AI technology or designing AI-powered products is a plus. Mastery of advanced features in design and prototyping tools (e.g., Figma Make, Adobe Creative Suite) is also desired.",
+      "specialty": "Clover Merchant Experience",
+      "keywords": [
+        {
+          "keyword": "Fintech",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Primary industry focus, directly aligns with experience."
+        },
+        {
+          "keyword": "payments",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Directly aligns with experience in transactional flows."
+        },
+        {
+          "keyword": "transactional flows",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Directly aligns with experience."
+        },
+        {
+          "keyword": "AI technology",
+          "inProfile": true,
+          "relevance": "preferred",
+          "note": "Experience designing AI-powered products is a plus."
+        },
+        {
+          "keyword": "systems thinking",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Explicitly mentioned as a responsibility."
+        },
+        {
+          "keyword": "Figma",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Mastery of advanced features in design and prototyping tools."
+        },
+        {
+          "keyword": "Adobe Creative Suite",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Mastery of advanced features in design and prototyping tools."
+        },
+        {
+          "keyword": "cross-functional teams",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Collaborates with multiple stakeholders."
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-07-26T20:17:36.986Z",
+      "isNew": true
+    },
+    {
+      "id": "job-u6lmcu",
+      "title": "Senior Product Designer",
+      "company": "LucidLink",
+      "companyDomain": "lucidlink.com",
+      "industry": "Cloud Infrastructure, Enterprise Software, Data Management",
+      "location": "Remote - US",
+      "postedAt": "2026-07-25",
+      "fitScore": 8,
+      "fitTier": "Good Fit",
+      "fitExplanation": "This remote Senior Product Designer role at LucidLink, a Series C company, aligns well with Michael's experience in cloud infrastructure and enterprise software. The 'with AI' specialization further matches Michael's comfort with AI tools in his design practice. While specific day-to-day responsibilities are not detailed, the company's focus on cloud storage for creative teams implies complex data systems and enterprise-level UX, which are strong areas for Michael.",
+      "source": "Consider.com (Costanoa Ventures Companies)",
+      "applyUrl": "N/A",
+      "isOffLinkedIn": true,
+      "jobDescription": "LucidLink is hiring a Senior Product Designer with a focus on AI to contribute to their cloud storage and data management solutions. The role is remote within the USA. LucidLink provides a 'cloud-native file system' designed for creative professionals, implying work on complex interfaces for data access, collaboration, and asset management in a cloud infrastructure context. (Specific responsibilities are not provided in the snippet).",
+      "specialty": "AI",
+      "keywords": [
+        {
+          "keyword": "Cloud Infrastructure",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Company's core offering."
+        },
+        {
+          "keyword": "Enterprise Software",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Product designed for professional teams."
+        },
+        {
+          "keyword": "AI",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Specialization in the role, aligns with candidate's AI fluency."
+        },
+        {
+          "keyword": "Remote",
+          "inProfile": true,
+          "relevance": "preferred",
+          "note": "Matches candidate's preference for remote work."
+        },
+        {
+          "keyword": "complex data systems",
+          "inProfile": true,
+          "relevance": "potential",
+          "note": "Likely involved in cloud storage and file management."
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-07-26T20:17:36.986Z",
+      "isNew": true
+    },
+    {
+      "id": "job-u6ynmj",
+      "title": "Staff Product Designer",
+      "company": "Snorkel AI",
+      "companyDomain": "snorkel.ai",
+      "industry": "AI, Enterprise Software, Developer Tools, Data Platform, Machine Learning",
+      "location": "Remote - US",
+      "postedAt": "2026-07-25",
+      "fitScore": 9,
+      "fitTier": "Strong Fit",
+      "fitExplanation": "This Staff Product Designer role at Snorkel AI, a Series C company, is an excellent fit, leveraging Michael's Staff-level ambition and deep expertise in AI, enterprise software, and complex data systems. Snorkel AI's focus on an 'AI-powered data development platform' directly aligns with Michael's current work on transactional platforms, revenue operations infrastructure, and his proficiency with AI tools. The role's remote nature is also a strong preference match.",
+      "source": "Consider.com (Greylock Companies)",
+      "applyUrl": "N/A",
+      "isOffLinkedIn": true,
+      "jobDescription": "Snorkel AI is looking for a Staff Product Designer to work on their AI-powered data development platform. This platform provides high-quality training data for leading machine learning teams. The role is remote within the US. The designer will likely be responsible for shaping complex user workflows, data annotation interfaces, and overall platform experience for developers and data scientists. (Specific responsibilities are not provided in the snippet, but the company's mission implies designing for highly technical and data-intensive users).",
+      "keywords": [
+        {
+          "keyword": "AI",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Company's core technology and direct alignment with candidate's AI fluency."
+        },
+        {
+          "keyword": "Enterprise Software",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Platform serves enterprise users."
+        },
+        {
+          "keyword": "Developer Tools",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Platform for machine learning teams."
+        },
+        {
+          "keyword": "data-heavy interfaces",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Focus on data development platform."
+        },
+        {
+          "keyword": "Staff Product Designer",
+          "inProfile": true,
+          "relevance": "target_role",
+          "note": "Directly aligns with Michael's targeted role level."
+        },
+        {
+          "keyword": "Remote",
+          "inProfile": true,
+          "relevance": "preferred",
+          "note": "Matches candidate's preference for remote work."
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-07-26T20:17:36.986Z",
+      "isNew": true
+    },
+    {
+      "id": "job-ydhz5j",
+      "title": "Senior Product Designer",
+      "company": "Confidential",
+      "companyDomain": "N/A",
+      "industry": "AI, Data & Analytics, Enterprise Software, SaaS",
+      "location": "Hybrid New York, NY",
+      "postedAt": "2026-07-25",
+      "fitScore": 7,
+      "fitTier": "Good Fit",
+      "fitExplanation": "This confidential Senior Product Designer role, sourced via Myriad Venture Partners, presents a good fit due to its focus on AI, Data & Analytics, and enterprise software/SaaS, all strong areas for Michael. The role is hybrid in NYC, which is an acceptable location but incurs a 2-point deduction from the fit score due to Michael's preference for remote work. The company stage is inferred to be Series C or later based on other portfolio companies of the VC firm. The lack of specific company and detailed job description means a slightly lower score compared to other strong fits.",
+      "source": "Myriad Venture Partners",
+      "applyUrl": "N/A",
+      "isOffLinkedIn": true,
+      "jobDescription": "This confidential Senior Product Designer position is for a company in the AI, Data & Analytics, and Enterprise Software/SaaS space, within the portfolio of Myriad Venture Partners. The role is hybrid in New York, NY. The designer will likely contribute to products involving data-driven insights and complex analytical workflows, leveraging AI. (Specific responsibilities and company details are limited due to the confidential nature of the posting snippet).",
+      "keywords": [
+        {
+          "keyword": "AI",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Primary industry focus."
+        },
+        {
+          "keyword": "Data & Analytics",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Primary industry focus, aligns with Michael's data systems experience."
+        },
+        {
+          "keyword": "Enterprise Software",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Inferred industry alignment."
+        },
+        {
+          "keyword": "SaaS",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Inferred industry alignment."
+        },
+        {
+          "keyword": "Hybrid",
+          "inProfile": true,
+          "relevance": "acceptable",
+          "note": "Acceptable location, but with score deduction due to preference."
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-07-26T20:17:36.986Z",
+      "isNew": true
+    },
+    {
+      "id": "job-j623h",
+      "title": "Senior Product Designer",
+      "company": "NerdWallet",
+      "companyDomain": "nerdwallet.com",
+      "industry": "Fintech, Personal Finance",
+      "location": "Remote",
+      "postedAt": "2026-07-25",
+      "fitScore": 8,
+      "fitTier": "Good Fit",
+      "fitExplanation": "This remote Senior Product Designer role at NerdWallet, a publicly traded fintech company, is a good fit. Michael has deep context in finance and fintech-adjacent areas, including payment reconciliation and transactional flows. His experience with complex data systems and simplifying workflows will be valuable in a personal finance context. The 'Engagement' specialization suggests work on user adoption and interaction, which aligns with Michael's outcomes-driven approach.",
+      "source": "Samsara (aggregator)",
+      "applyUrl": "N/A",
+      "isOffLinkedIn": false,
+      "jobDescription": "NerdWallet is seeking a Senior Product Designer to focus on engagement within their personal finance platform. This remote role involves designing experiences that drive user adoption, retention, and interaction with various financial tools and information. The designer will work on improving workflows and simplifying complex financial data for a broad user base. (Specific responsibilities are not provided in the snippet).",
+      "specialty": "Engagement",
+      "keywords": [
+        {
+          "keyword": "Fintech",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Core industry, aligns with Michael's deep context."
+        },
+        {
+          "keyword": "remote",
+          "inProfile": true,
+          "relevance": "preferred",
+          "note": "Matches candidate's preference for remote work."
+        },
+        {
+          "keyword": "complex data systems",
+          "inProfile": true,
+          "relevance": "potential",
+          "note": "Likely involved in personal finance tools."
+        },
+        {
+          "keyword": "simplifying workflows",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Matches Michael's expertise in scaling existing products."
+        },
+        {
+          "keyword": "user adoption",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Aligned with 'Engagement' specialization."
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-07-26T20:17:36.986Z",
+      "isNew": true
     }
   ],
-  "scannedAt": "2026-07-26T12:17:12.780Z"
+  "scannedAt": "2026-07-26T20:18:38.678Z"
 }
