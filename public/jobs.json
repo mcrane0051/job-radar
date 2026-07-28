@@ -2190,15 +2190,16 @@
       "title": "Senior Product Designer",
       "company": "Remote",
       "companyDomain": "remote.com",
-      "industry": "B2B SaaS, HRTech, FinTech",
-      "location": "Remote (US)",
-      "postedAt": "2026-07-25",
+      "industry": "B2B SaaS, HR Tech, FinTech",
+      "location": "Remote US",
+      "postedAt": "2026-07-28",
       "fitScore": 9,
       "fitTier": "Strong Fit",
-      "fitExplanation": "This remote Senior Product Designer role aligns exceptionally well with Michael's 10+ years of experience in complex B2B SaaS, particularly his background in FinTech-adjacent areas and HRTech. The emphasis on influencing product strategy, leading vision initiatives, and autonomously owning design for complex domains directly matches his lead designer experience and ability to shape design strategy. His proficiency with AI-assisted design, systems thinking, and strong visual craft further solidify this as a strong fit.",
-      "source": "Jobgether",
-      "applyUrl": "N/A",
-      "jobDescription": "This Senior Product Designer position at Remote focuses on shaping design culture and delivering impactful user experiences for complex B2B SaaS solutions, with a preference for candidates experienced in HRTech and FinTech. The role involves influencing product strategy, applying research methodologies to understand customer challenges, and crafting high-fidelity user interfaces rapidly. The successful candidate will lead vision initiatives and independently manage design for intricate domains or multiple projects. It requires a systems thinker comfortable in fast-paced environments, with a strong portfolio demonstrating excellence in interaction and visual design, technical depth, and the ability to build for scale while navigating ambiguity. Experience with AI-assisted design is also a key requirement.",
+      "fitExplanation": "This role is an excellent fit, aligning perfectly with Michael's experience in complex B2B SaaS, HR tech (from iCIMS), and FinTech adjacent products. The role emphasizes end-to-end design, strategic influence, and navigating ambiguity, which are all areas where Michael excels. The fully remote nature is also a strong preference. The company is a Series C-funded entity, meeting the minimum company stage requirement.",
+      "source": "Remote.com Careers",
+      "applyUrl": "https://remote.com/careers/senior-product-designer-3101186",
+      "isOffLinkedIn": true,
+      "jobDescription": "Remote is seeking a Senior Product Designer to contribute to its global HR platform. This role involves designing complex B2B SaaS solutions, with a preference for candidates experienced in HRTech and FinTech. The successful candidate will lead design autonomously within a product team, influencing strategy and identifying opportunities for impact in collaboration with cross-functional peers. Responsibilities include applying appropriate research methodologies, empathizing with customers, and shaping the design culture. The company values innovation and AI capabilities, encouraging team members to contribute their talents to build a best-in-class HR platform.",
       "specialty": "",
       "salary": "",
       "keywords": [
@@ -2206,90 +2207,72 @@
           "keyword": "B2B SaaS",
           "inProfile": true,
           "relevance": "required",
-          "note": "Explicitly required and strong match with Michael's core experience."
+          "note": "Directly matches Michael's primary expertise."
         },
         {
           "keyword": "HRTech",
           "inProfile": true,
-          "relevance": "preferred",
-          "note": "Preferred experience; Michael has a background in HR tech with iCIMS."
+          "relevance": "required",
+          "note": "Michael has prior experience in HR tech with iCIMS."
         },
         {
           "keyword": "FinTech",
           "inProfile": true,
           "relevance": "preferred",
-          "note": "Preferred experience; Michael has deep context in finance and FinTech adjacent areas."
+          "note": "Michael has FinTech adjacent experience from Tackle.io."
         },
         {
-          "keyword": "cross-functional collaboration",
+          "keyword": "Complex B2B SaaS solutions",
           "inProfile": true,
           "relevance": "required",
-          "note": "Strong cross-functional collaboration is a key requirement, matching Michael's experience working closely with product managers, engineering leads, and executives."
+          "note": "Core of Michael's summary and expertise."
         },
         {
-          "keyword": "systems thinker",
+          "keyword": "End-to-end design process",
           "inProfile": true,
           "relevance": "required",
-          "note": "The role seeks a systems thinker, directly aligning with Michael's rigorous systems thinking design philosophy."
+          "note": "Michael operates across the full design lifecycle."
         },
         {
-          "keyword": "complex domains",
+          "keyword": "Autonomously lead design",
           "inProfile": true,
           "relevance": "required",
-          "note": "The role emphasizes ownership of design for complex domains, a specialization for Michael in B2B SaaS."
+          "note": "Matches Michael's experience in shaping design strategy and leading."
         },
         {
-          "keyword": "high-fidelity user interfaces",
+          "keyword": "Navigating ambiguity",
           "inProfile": true,
           "relevance": "required",
-          "note": "Crafting high-fidelity UIs is a responsibility, aligning with Michael's visual craft and polish."
+          "note": "Michael thrives in ambiguous 0-to-1 problem spaces."
         },
         {
-          "keyword": "influencing strategy",
+          "keyword": "Cross-functional collaboration",
           "inProfile": true,
           "relevance": "required",
-          "note": "Influencing strategy for the product team is a core task, matching Michael's experience shaping design strategy."
+          "note": "Key aspect of Michael's preferred team culture."
         },
         {
-          "keyword": "user research",
+          "keyword": "User research",
           "inProfile": true,
           "relevance": "required",
-          "note": "Applying research methodology is a responsibility, and Michael lists User Research in his skills and has conducted it."
+          "note": "Michael conducts user research and affinity mapping."
         },
         {
-          "keyword": "end-to-end design process",
+          "keyword": "Product strategy",
           "inProfile": true,
           "relevance": "required",
-          "note": "The role seeks maturity across the end-to-end design process, which Michael effectively operates across."
+          "note": "Michael has experience shaping design strategy at team and org level."
         },
         {
-          "keyword": "navigating ambiguity",
+          "keyword": "AI capabilities",
           "inProfile": true,
-          "relevance": "required",
-          "note": "Comfort with navigating ambiguity is noted, aligning with Michael's ability to thrive in 0-to-1 discovery."
-        },
-        {
-          "keyword": "visual design",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Excellent visual design is a key attribute, matching Michael's strong visual eye and graphic design foundation."
-        },
-        {
-          "keyword": "prototyping",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Technical depth including prototyping is mentioned, aligning with Michael's prototyping skills."
-        },
-        {
-          "keyword": "AI-assisted design",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Fluency with AI-assisted design is a requirement, directly matching Michael's experience using AI tools like Figma Make and Cursor."
+          "relevance": "nice_to_have",
+          "note": "Michael uses AI tools in his workflow."
         }
       ],
       "status": "New",
-      "scannedAt": "2026-07-25T20:15:45.938Z",
-      "isNew": false
+      "scannedAt": "2026-07-28T13:02:12.276Z",
+      "isNew": true
     },
     {
       "id": "job-o7g1yc",
@@ -4505,7 +4488,126 @@
       "status": "New",
       "scannedAt": "2026-07-26T20:17:36.986Z",
       "isNew": false
+    },
+    {
+      "id": "job-4ffll1",
+      "title": "Senior Product Designer",
+      "company": "Motion Recruitment Partners, LLC (Client: AI-powered mortgage fintech)",
+      "companyDomain": "N/A",
+      "industry": "FinTech, Enterprise Software, B2B SaaS, AI",
+      "location": "Remote US",
+      "postedAt": "2026-07-27",
+      "fitScore": 10,
+      "fitTier": "Strong Fit",
+      "fitExplanation": "This opportunity presents a near-perfect alignment with Michael's profile. The focus on AI-powered mortgage technology, complex financial workflows, data-rich enterprise products, and a strategic design role directly matches his deep context in FinTech-adjacent areas and complex B2B SaaS. His expertise in systems thinking, visual craft, and design ownership makes him an ideal candidate. The role is fully remote, which is his preference, and the client company is well-established, indicative of Series C+ stage.",
+      "source": "Dice.com (via Motion Recruitment Partners, LLC)",
+      "applyUrl": "N/A",
+      "isOffLinkedIn": false,
+      "jobDescription": "Motion Recruitment Partners is seeking a Senior Product Designer for a rapidly expanding FinTech company specializing in AI-native software for the mortgage industry. This remote position is crucial for transforming and modernizing complex financial workflows. The designer will own a core product area, influencing product strategy and crafting intuitive experiences for dense, high-stakes processes. The role requires an exceptional blend of UX craft, systems thinking, customer empathy, and experience designing data-rich enterprise products. It is not an execution-only role, requiring direct collaboration with customers, Product Management, and Engineering to define solutions. Key responsibilities include demonstrating end-to-end product design ownership, advanced Figma proficiency, and experience with user research, usability testing, and information architecture.",
+      "specialty": "AI-powered Mortgage Technology",
+      "salary": "$200k - $300k",
+      "keywords": [
+        {
+          "keyword": "Fintech",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Directly aligns with Michael's FinTech adjacent expertise (payment reconciliation, transactional flows)."
+        },
+        {
+          "keyword": "AI-native software",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael uses AI tools and has experience with AI-related initiatives."
+        },
+        {
+          "keyword": "Mortgage industry",
+          "inProfile": false,
+          "relevance": "nice_to_have",
+          "note": "Specific domain but highly relevant to Michael's financial workflow experience."
+        },
+        {
+          "keyword": "Complex workflows",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael specializes in complex data systems, transactional flows, seller workflows."
+        },
+        {
+          "keyword": "SaaS",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael has 10+ years in complex B2B SaaS."
+        },
+        {
+          "keyword": "Enterprise products",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael leads design for an enterprise multi-cloud transactional platform."
+        },
+        {
+          "keyword": "End-to-end product design ownership",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael operates effectively across the full design lifecycle."
+        },
+        {
+          "keyword": "High-quality interaction design",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael emphasizes tactile interaction design and visual craft."
+        },
+        {
+          "keyword": "Figma",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Proficient in Figma, including component libraries and prototyping."
+        },
+        {
+          "keyword": "Design systems",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael established a scalable design system at Infragistics."
+        },
+        {
+          "keyword": "User research",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael conducts user research and discovery."
+        },
+        {
+          "keyword": "Information architecture",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael lists IA as a core design practice."
+        },
+        {
+          "keyword": "Product strategy",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael has experience shaping design strategy and influencing stakeholders."
+        },
+        {
+          "keyword": "Systems thinking",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael applies rigorous systems thinking."
+        },
+        {
+          "keyword": "Data-rich enterprise products",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael's work involves complex data systems and information-dense software."
+        },
+        {
+          "keyword": "UX craft",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael's design philosophy emphasizes visual craft and polish."
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-07-28T13:02:12.276Z",
+      "isNew": true
     }
   ],
-  "scannedAt": "2026-07-27T20:44:02.591Z"
+  "scannedAt": "2026-07-28T13:03:06.995Z"
 }
