@@ -2235,7 +2235,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-07-30T20:34:53.782Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-o7g1yc",
@@ -5662,7 +5662,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-07-30T20:34:53.782Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-jpxcky",
@@ -5725,7 +5725,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-07-30T20:34:53.782Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-dasm9x",
@@ -5782,7 +5782,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-07-30T20:34:53.782Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-lped2s",
@@ -5845,7 +5845,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-07-30T20:34:53.782Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-3ez288",
@@ -5896,7 +5896,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-07-30T20:34:53.782Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-dqo7og",
@@ -5959,7 +5959,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-07-30T20:34:53.782Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-9wqmim",
@@ -6022,7 +6022,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-07-30T20:34:53.782Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-4f6ibg",
@@ -6085,8 +6085,8 @@
       ],
       "status": "New",
       "scannedAt": "2026-07-30T20:34:53.782Z",
-      "isNew": true
+      "isNew": false
     }
   ],
-  "scannedAt": "2026-07-30T20:36:50.115Z"
+  "scannedAt": "2026-07-31T13:06:21.283Z"
 }
