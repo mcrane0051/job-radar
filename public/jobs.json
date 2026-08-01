@@ -6029,64 +6029,79 @@
       "title": "Senior Product Designer",
       "company": "Hightouch",
       "companyDomain": "hightouch.com",
-      "industry": "B2B SaaS, Marketing Tech, AI, Cloud Infrastructure",
-      "location": "Remote (US)",
-      "postedAt": "2026-07-30",
-      "fitScore": 10,
+      "industry": "B2B SaaS",
+      "location": "Remote",
+      "postedAt": "2026-07-31",
+      "fitScore": 9.5,
       "fitTier": "Strong Fit",
-      "fitExplanation": "This remote role at Hightouch is an excellent fit, leveraging Michael's strengths in AI-driven features, complex data systems, and B2B SaaS. Hightouch's focus on an 'agentic marketing platform' and 'AI Creative Tools' directly matches his experience with AI tools and making complex systems intuitive. His background in design systems and end-to-end design is highly valued. The company is a well-funded Series D organization. [cite: 2, 3, 4, 6, 7 of prev. turn output]",
-      "source": "Built In Boston",
-      "applyUrl": "N/A",
-      "specialty": "AI Creative Tools (Agentic Marketing Platform)",
-      "salary": "",
+      "fitExplanation": "This role is a strong fit as it's a remote Senior Product Designer position in B2B SaaS, which aligns perfectly with Michael's expertise. The focus on AI-first marketing platform, customer data platforms (CDP), and agentic marketing aligns with his experience in complex data systems and use of AI tools (Figma Make, Cursor). The role involves 0-to-1 product work, which Michael thrives in, and requires strong visual, UI, and interaction design skills, echoing his background in visual systems and craft. The company is Series C funded, meeting the minimum company stage requirement.",
+      "source": "Sapphire Ventures Job Board",
+      "applyUrl": "https://www.hightouch.com/careers/senior-product-designer-ai-creative-tools",
+      "isOffLinkedIn": false,
+      "jobDescription": "Hightouch is seeking a Senior Product Designer to shape the future of agentic marketing by designing AI-powered creative tools. This role involves end-to-end design for new product initiatives, blending first-party data with machine learning models to create innovative solutions.\n\nKey responsibilities include:\n*   Designing user-friendly features and applications for technical domains, particularly B2B data or marketing products.\n*   Driving 0-to-1 product development in a fast-moving, high-stakes environment.\n*   Applying sharp visual, UI, and interaction design skills to transform user problems into high-fidelity solutions.\n*   Engaging with emerging AI technologies and experimenting with new tools.\n*   Collaborating as a humble and kind team player.\n\nRequired qualifications:\n*   6+ years of experience in product design, ideally in technical or B2B data/marketing spaces.\n*   Demonstrated curiosity and practical engagement with AI technologies.\n*   Exceptional craft in visual, UI, and interaction design.\n*   A collaborative and empathetic approach to teamwork.\n*   Proficiency in Figma (bonus if familiar with Cursor, Framer, or Claude Code).",
+      "specialty": "AI Creative Tools",
       "keywords": [
         {
-          "keyword": "AI Creative Tools",
+          "keyword": "Product Design",
           "inProfile": true,
-          "relevance": "required",
-          "note": "Candidate has experience with AI tools (Figma Make, Cursor)."
-        },
-        {
-          "keyword": "Agentic marketing platform",
-          "inProfile": false,
-          "relevance": "strong match",
-          "note": "Relates to Michael's experience in revenue operations and seller workflows."
+          "relevance": "required"
         },
         {
           "keyword": "B2B SaaS",
           "inProfile": true,
-          "relevance": "required",
-          "note": "Candidate specializes in complex B2B SaaS products."
+          "relevance": "required"
         },
         {
-          "keyword": "Complex data workflows",
+          "keyword": "AI",
           "inProfile": true,
           "relevance": "required",
-          "note": "Candidate specializes in complex data systems."
+          "note": "Candidate uses Figma Make and Cursor; job lists Cursor, Claude Code as bonus"
         },
         {
-          "keyword": "Design systems",
+          "keyword": "UI Design",
           "inProfile": true,
-          "relevance": "required",
-          "note": "Candidate has experience establishing scalable design systems."
+          "relevance": "required"
         },
         {
-          "keyword": "End-to-end design",
+          "keyword": "Interaction Design",
           "inProfile": true,
-          "relevance": "required",
-          "note": "Candidate operates effectively across the full design lifecycle."
+          "relevance": "required"
         },
         {
-          "keyword": "Cloud infrastructure",
+          "keyword": "Figma",
           "inProfile": true,
-          "relevance": "strong match",
-          "note": "Candidate has deep context in cloud marketplace / revenue operations infrastructure."
+          "relevance": "required"
+        },
+        {
+          "keyword": "User Research",
+          "inProfile": true,
+          "relevance": "implied"
+        },
+        {
+          "keyword": "0-to-1",
+          "inProfile": true,
+          "relevance": "required"
+        },
+        {
+          "keyword": "Enterprise Software",
+          "inProfile": true,
+          "relevance": "required"
+        },
+        {
+          "keyword": "Data-heavy interfaces",
+          "inProfile": true,
+          "relevance": "required"
+        },
+        {
+          "keyword": "Design Systems",
+          "inProfile": true,
+          "relevance": "good to have"
         }
       ],
       "status": "New",
-      "scannedAt": "2026-07-30T20:34:53.782Z",
-      "isNew": false
+      "scannedAt": "2026-08-01T12:13:01.593Z",
+      "isNew": true
     }
   ],
-  "scannedAt": "2026-07-31T20:36:54.276Z"
+  "scannedAt": "2026-08-01T12:13:26.275Z"
 }
