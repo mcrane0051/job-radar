@@ -787,242 +787,6 @@
       "isNew": false
     },
     {
-      "id": "e508781a-f8e6-4f8e-bae1-e88e6464a0c5",
-      "title": "Senior Product Designer",
-      "company": "CoLab",
-      "companyDomain": "colabsoftware.com",
-      "industry": "AI Platform, Enterprise SaaS, Developer Tools",
-      "location": "Remote - US",
-      "postedAt": "2026-07-18",
-      "fitScore": 9,
-      "fitTier": "Strong Fit",
-      "fitExplanation": "This role is an excellent match for Michael's expertise in complex B2B SaaS and enterprise software, particularly his experience with AI tools and making complex systems delightful. He thrives in ambiguous 0-to-1 problem spaces and demonstrates strong systems thinking and UX architecture skills, which are critical for this role. The remote location aligns with his preference. The focus on engineering teams and developer tools also resonates with his background.",
-      "source": "Dynamite Jobs",
-      "applyUrl": "N/A",
-      "jobDescription": "CoLab is building an AI platform to streamline design reviews and foster a knowledge repository for mechanical engineering teams. This Senior Product Designer position requires leading design for enterprise SaaS products, focusing on complex platform and administrative experiences. The ideal candidate excels in systems, scalability, and solving intricate UX challenges, aiming to shape product thinking and influence strategy beyond just visual design. The role involves navigating ambiguity and clarifying complex problem spaces.",
-      "specialty": "AI Platform for Mechanical Engineering",
-      "keywords": [
-        {
-          "keyword": "Figma",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Fluency in Figma"
-        },
-        {
-          "keyword": "Design Systems",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Structured design systems, contributing to shared patterns and systems"
-        },
-        {
-          "keyword": "Complex Systems",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Deep experience designing complex systems, admin tools, or enterprise platform features"
-        },
-        {
-          "keyword": "Enterprise SaaS",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "4+ years in enterprise SaaS"
-        },
-        {
-          "keyword": "UX Architecture",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Strong UX architecture skills"
-        },
-        {
-          "keyword": "Systems Thinking",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Strong systems thinking; designing for scale and change"
-        },
-        {
-          "keyword": "Customer Discovery",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Experience conducting customer discovery"
-        },
-        {
-          "keyword": "Usability Testing",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Experience conducting usability testing"
-        },
-        {
-          "keyword": "Mentorship",
-          "inProfile": true,
-          "relevance": "preferred",
-          "note": "Mentor other designers"
-        },
-        {
-          "keyword": "AI",
-          "inProfile": true,
-          "relevance": "preferred",
-          "note": "AI platform for driving stronger engineering decisions"
-        },
-        {
-          "keyword": "Ambiguity",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Thrives on ambiguity, bringing clarity to complex problem spaces"
-        },
-        {
-          "keyword": "0-to-1",
-          "inProfile": true,
-          "relevance": "preferred",
-          "note": "Bring clarity to complex problem spaces where customer needs...aren't yet fully defined"
-        }
-      ],
-      "status": "New",
-      "scannedAt": "2026-07-19T11:43:01.744Z",
-      "isNew": false
-    },
-    {
-      "id": "b125660c-8d21-412a-8ebb-0e9ba9fa4585",
-      "title": "Senior Product Designer",
-      "company": "Tria Federal",
-      "companyDomain": "triafederal.com",
-      "industry": "Federal Healthcare Modernization, Enterprise Systems",
-      "location": "Remote - US",
-      "postedAt": "2026-07-18",
-      "fitScore": 8,
-      "fitTier": "Strong Fit",
-      "fitExplanation": "This role strongly aligns with Michael's experience in designing complex enterprise systems and leading design efforts. His proficiency in user research, workflow analysis, and translating insights into intuitive product experiences is directly applicable. While healthcare is a moderate alignment, the focus on operational workflows and regulatory requirements in a high-stakes, large-scale modernization initiative fits his background well. The remote working model is also a strong preference.",
-      "source": "ClearanceJobs",
-      "applyUrl": "N/A",
-      "jobDescription": "Tria Federal is seeking a Senior Product Designer to lead human-centered design for a new product team engaged in a federal healthcare modernization initiative. This role involves integrating design thinking and human-centered practices throughout the software development lifecycle. Responsibilities include ensuring a clear understanding of user needs, operational workflows, and regulatory requirements, and reflecting these in product decisions. The designer will lead both research and design, synthesizing insights into actionable direction and translating them into experience concepts, interaction models, workflows, and prototypes.",
-      "keywords": [
-        {
-          "keyword": "Human-Centered Design",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Guide human-centered design efforts"
-        },
-        {
-          "keyword": "Enterprise Systems",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Leading design efforts for complex digital products or enterprise systems"
-        },
-        {
-          "keyword": "Complex Digital Products",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Leading design efforts for complex digital products or enterprise systems"
-        },
-        {
-          "keyword": "User Research",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Lead both research and design activities; conduct user research"
-        },
-        {
-          "keyword": "Operational Workflows",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Ensure user needs, operational workflows, and regulatory requirements are clearly understood"
-        },
-        {
-          "keyword": "Regulatory Requirements",
-          "inProfile": false,
-          "relevance": "bonus",
-          "note": "Ensuring regulatory requirements are clearly understood"
-        },
-        {
-          "keyword": "Design Leadership",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Serve as the design lead embedded within a product team"
-        },
-        {
-          "keyword": "Prototypes",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Translate research findings into... prototype solutions"
-        },
-        {
-          "keyword": "Interaction Design",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Translate research findings into... interaction models"
-        }
-      ],
-      "status": "New",
-      "scannedAt": "2026-07-19T11:43:01.744Z",
-      "isNew": false
-    },
-    {
-      "id": "05b4ad3d-357a-4722-91ef-b587ff5ceee0",
-      "title": "Senior Product Designer",
-      "company": "Flatiron Health",
-      "companyDomain": "flatiron.com",
-      "industry": "Health Tech, B2B SaaS",
-      "location": "Hybrid in New York, NY",
-      "postedAt": "2026-07-18",
-      "fitScore": 7,
-      "fitTier": "Strong Fit",
-      "fitExplanation": "This position is a good fit given Michael's strong background in complex B2B SaaS product design and experience with AI tools and cross-functional collaboration. The focus on clinical workflows aligns with his ability to make complex systems clear and trustworthy. While healthcare is a moderate alignment, the B2B SaaS and workflow complexity are strong matches. The hybrid location in NYC is acceptable, though Michael prefers remote (hence a 1-point deduction).",
-      "source": "Built In NYC",
-      "applyUrl": "N/A",
-      "jobDescription": "Flatiron Health is seeking a Senior Product Designer to enhance clinical workflows within their OncoEMR platform, a B2B SaaS product for cancer care. This hybrid role involves close collaboration with healthcare professionals, conducting user research, and leveraging AI design tools. The designer will communicate design solutions through presentations and workshops, partner with product managers, engineers, and clinical experts on roadmap development, and contribute to the ongoing evolution of the shared design system.",
-      "specialty": "Clinical Workflows",
-      "keywords": [
-        {
-          "keyword": "B2B SaaS",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Enhance clinical workflows in OncoEMR (B2B SaaS platform)"
-        },
-        {
-          "keyword": "Complex Workflows",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Enhance clinical workflows"
-        },
-        {
-          "keyword": "User Research",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Conduct user research"
-        },
-        {
-          "keyword": "AI Design Tools",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Applying AI design tools"
-        },
-        {
-          "keyword": "Design Systems",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Contribute to our shared design system"
-        },
-        {
-          "keyword": "Cross-functional collaboration",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Collaborate and partner with product managers, engineers, and clinical experts"
-        },
-        {
-          "keyword": "Presentations",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Communicate your ideas through design presentations and workshops"
-        },
-        {
-          "keyword": "Hybrid",
-          "inProfile": true,
-          "relevance": "acceptable",
-          "note": "Hybrid in New York, NY"
-        }
-      ],
-      "status": "New",
-      "scannedAt": "2026-07-19T11:43:01.744Z",
-      "isNew": false
-    },
-    {
       "id": "job-44w9wn",
       "title": "Senior Product Designer",
       "company": "Canals",
@@ -1460,7 +1224,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-08-01T20:15:23.315Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-xxv3ft",
@@ -5528,7 +5292,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-08-01T20:15:23.315Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-rv694z",
@@ -5593,7 +5357,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-08-01T20:15:23.315Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-rhgy3q",
@@ -5664,7 +5428,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-08-01T20:15:23.315Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-s1zaq0",
@@ -5729,7 +5493,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-08-01T20:15:23.315Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-7jetyk",
@@ -5794,7 +5558,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-08-01T20:15:23.315Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-729nvd",
@@ -5841,7 +5605,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-08-01T20:15:23.315Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-3q1hks",
@@ -5900,7 +5664,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-08-01T20:15:23.315Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-hh2yq9",
@@ -5947,7 +5711,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-08-01T20:15:23.315Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-kdezhz",
@@ -6018,7 +5782,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-08-01T20:15:23.315Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-bwrzjl",
@@ -6089,7 +5853,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-08-01T20:15:23.315Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-9guo7b",
@@ -6148,8 +5912,48 @@
       ],
       "status": "New",
       "scannedAt": "2026-08-01T20:15:23.315Z",
+      "isNew": false
+    },
+    {
+      "id": "job-iqjv6",
+      "title": "Senior/Staff Product Designer",
+      "company": "Grow Therapy",
+      "companyDomain": "growtherapy.com",
+      "industry": "Healthcare, Marketplace, SaaS, Fintech",
+      "location": "Remote (U.S.)",
+      "postedAt": "2026-08-01",
+      "fitScore": 9,
+      "fitTier": "Strong Fit",
+      "fitExplanation": "This role is a strong fit due to its focus on a three-sided marketplace in the healthcare SaaS space, empowering providers and engaging insurance payors, aligning with Michael's deep experience in marketplace infrastructure and transactional flows. The emphasis on 0-to-1 products and driving strategic initiatives from concept to launch directly matches Michael's comfort with ambiguous problem spaces and full design lifecycle involvement. The mention of design systems and AI tools further aligns with his skills and background. The company is well-funded (Series D) ensuring stability.",
+      "source": "Built In NYC",
+      "applyUrl": "N/A",
+      "isOffLinkedIn": false,
+      "jobDescription": "Grow Therapy is seeking a Senior or Staff Product Designer to join their growing Design team and shape the future of mental health technology. This role offers significant ownership and influence, focusing on 0-to-1 products impacting millions of users. Responsibilities include driving strategic product initiatives from concept to launch, designing and prototyping end-to-end user experiences with pixel-perfect execution, championing design excellence, and leading cross-functional collaboration with Engineering, Product Management, and other stakeholders. The role operates at the intersection of product strategy, brand excellence, and user experience. The company utilizes AI and automated tools in recruitment, and designers are expected to operate in a rapidly evolving industry.\n\nCore Responsibilities:\n*   Drive strategic product initiatives from concept to launch, influencing product strategy and business outcomes.\n*   Design and prototype end-to-end user experiences with pixel-perfect execution.\n*   Champion design excellence, ensuring high-quality brand experience at every touchpoint.\n*   Lead cross-functional collaboration with Engineering, Product Management, and other stakeholders.\n*   Work on 0-to-1 products with significant user impact in a high-growth environment.\n\nRequirements:\n*   5+ years of product design experience with a strong portfolio showcasing strategic thinking and execution.\n*   Senior-level experience leading complex, high-impact product initiatives.\n*   Experience with consumer-facing products with significant user impact.\n*   Proficiency in design tools (Figma, Photoshop, etc.).\n*   Strong understanding of design systems, accessibility, and responsive design principles.\n*   Excellent communication skills to present and defend design decisions.",
+      "specialty": "",
+      "status": "New",
+      "scannedAt": "2026-08-02T12:15:32.616Z",
+      "isNew": true
+    },
+    {
+      "id": "job-xwoiac",
+      "title": "Staff Product Designer",
+      "company": "Affirm",
+      "companyDomain": "affirm.com",
+      "industry": "Fintech, Payments, Financial Services, Big Data, Mobile",
+      "location": "Remote (U.S.)",
+      "postedAt": "2026-08-01",
+      "fitScore": 9,
+      "fitTier": "Strong Fit",
+      "fitExplanation": "This Staff Product Designer role at Affirm is an excellent match, focusing on AI-driven experiences within consumer finance and payments. Michael's background includes deep context in payment reconciliation, transactional flows, and complex data systems, which directly aligns with Affirm's product areas. His experience in making complex systems delightful and tactile, alongside his strong visual craft and rigorous systems thinking, is highly relevant for designing intuitive AI-driven interfaces and financial products. The explicit mention of design systems as a top skill further strengthens the alignment.",
+      "source": "Built In",
+      "applyUrl": "N/A",
+      "isOffLinkedIn": false,
+      "jobDescription": "Affirm is seeking an experienced Staff Product Designer to shape AI-driven experiences across consumer touchpoints, with a focus on their app and card experience. The role involves leading AI and agentic design initiatives, translating complex user needs into proactive, intuitive interfaces, and collaborating extensively with product, engineering, data science, marketing, and research teams. The designer will be instrumental in defining design language and patterns for trusted, proactive AI interactions and balancing rapid iteration with long-term strategic vision across the product ecosystem.\n\nCore Responsibilities:\n*   Lead AI/agentic design initiatives for Affirm's consumer experiences.\n*   Collaborate cross-functionally with product, engineering, data science, marketing, and research teams to translate user needs into intuitive experiences.\n*   Define design language and patterns for trusted, proactive AI interactions.\n*   Drive design initiatives for Affirm's app and card experience.\n*   Balance rapid iteration with long-term strategic vision across the product ecosystem.\n\nRequirements:\n*   8+ years in product design with a track record of shipping complex experiences at scale.\n*   Strong understanding of human-centered AI principles applied to consumer finance.\n*   Experience designing AI-driven, agentic, or conversational interfaces with measurable user value.\n*   Ability to prototype multi-modal, non-linear flows to validate complex AI interactions.\n*   Proficiency in design systems and interaction patterns.",
+      "specialty": "AI-Driven FinTech",
+      "status": "New",
+      "scannedAt": "2026-08-02T12:15:32.616Z",
       "isNew": true
     }
   ],
-  "scannedAt": "2026-08-01T20:16:50.876Z"
+  "scannedAt": "2026-08-02T12:16:25.087Z"
 }
