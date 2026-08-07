@@ -266,342 +266,6 @@
       "isNew": false
     },
     {
-      "id": "job-zgg9cq",
-      "title": "Senior Product Designer",
-      "company": "Salsify",
-      "companyDomain": "salsify.com",
-      "industry": "B2B SaaS",
-      "location": "Remote (U.S. Only)",
-      "postedAt": "2026-07-22",
-      "fitScore": 9,
-      "fitTier": "Strong Fit",
-      "fitExplanation": "This role is a strong fit due to its focus on B2B SaaS and enterprise applications, specifically involving complex domains and commerce infrastructure, which aligns well with Michael's experience in multi-cloud transactional platforms. The emphasis on using emerging AI technologies also directly matches Michael's current practice with tools like Figma Make and Cursor. The requirement for a designer to partner directly with Product Management and Engineering, as well as conduct user research, perfectly aligns with Michael's collaborative and full-lifecycle design approach.",
-      "source": "DailyRemote",
-      "applyUrl": "N/A",
-      "isOffLinkedIn": true,
-      "jobDescription": "The Senior Product Designer will lead the user experience for the GDSN team, focusing on creating intuitive end-to-end experiences for retailers and brands. This involves close collaboration with Product Management and Engineering counterparts to translate complex business processes into delightful product solutions within an Enterprise SaaS environment. The ideal candidate embraces making complex domains approachable and is eager to leverage emerging AI technologies to enhance the design process. Responsibilities also include gathering data and conducting research to understand user needs and improving shopper-centric, frictionless commerce experiences.",
-      "specialty": "GDSN (Global Data Synchronization Network)",
-      "keywords": [
-        {
-          "keyword": "Enterprise SAAS companies",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Matches Michael's primary experience."
-        },
-        {
-          "keyword": "B2B applications",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Core expertise."
-        },
-        {
-          "keyword": "emerging AI technologies",
-          "inProfile": true,
-          "relevance": "strong plus",
-          "note": "Michael uses AI tools (Figma Make, Cursor)."
-        },
-        {
-          "keyword": "complex domains",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Michael specializes in complex systems."
-        },
-        {
-          "keyword": "Product Management and Engineering counterparts",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Michael works closely with PMs and Eng leads."
-        },
-        {
-          "keyword": "gather data and conduct research",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Michael conducts user research."
-        },
-        {
-          "keyword": "end-to-end experiences",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Michael operates effectively across the full design lifecycle."
-        },
-        {
-          "keyword": "core commerce infrastructure",
-          "inProfile": true,
-          "relevance": "strong plus",
-          "note": "Matches Michael's experience in cloud marketplace/revenue operations infrastructure."
-        }
-      ],
-      "status": "New",
-      "scannedAt": "2026-07-23T12:49:13.343Z",
-      "isNew": false
-    },
-    {
-      "id": "job-droul5",
-      "title": "Senior Product Designer",
-      "company": "Melio",
-      "companyDomain": "melio.com",
-      "industry": "Fintech",
-      "location": "Hybrid in NYC",
-      "postedAt": "2026-07-22",
-      "fitScore": 7,
-      "fitTier": "Good Fit",
-      "fitExplanation": "This role is a good fit due to its focus on a B2B payments platform within the FinTech industry, which strongly aligns with Michael's deep context in finance, payment reconciliation, and transactional flows. The requirement to lead end-to-end product design, collaborate with cross-functional teams, and conduct user research also aligns perfectly with his skills and experience. A 2-point deduction was applied because the role is hybrid, despite being in an acceptable location (NYC), as Michael primarily prefers remote work.",
-      "source": "Built In NYC",
-      "applyUrl": "N/A",
-      "isOffLinkedIn": true,
-      "jobDescription": "Melio is seeking a Senior Product Designer to lead key aspects of its B2B payment platform's design, guiding the user experience from prioritization through launch. The role involves creating seamless and impactful experiences for diverse partners, collaborating closely with Principal Designers, Product Managers, and Engineering leads, and working with design teams from leading U.S. financial institutions. Responsibilities also include owning end-to-end product design, conducting user research, prototyping in Figma, and engaging directly with customers to gather insights and develop solutions.",
-      "specialty": "B2B Payments Platform",
-      "keywords": [
-        {
-          "keyword": "B2B payments platform",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Strong match with Michael's FinTech/transactional flows experience."
-        },
-        {
-          "keyword": "end-to-end product design",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Michael operates across the full design lifecycle."
-        },
-        {
-          "keyword": "Partner with PMs, engineers, principal and partner design teams",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Michael works closely with PMs, Eng leads, and shapes design strategy."
-        },
-        {
-          "keyword": "user research and prototyping in Figma",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Michael's core skills and tools."
-        },
-        {
-          "keyword": "collaborate with design teams from leading U.S. financial institutions",
-          "inProfile": true,
-          "relevance": "strong plus",
-          "note": "Matches Michael's deep context in finance/FinTech adjacent work."
-        },
-        {
-          "keyword": "complex business processes",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Michael specializes in complex systems."
-        }
-      ],
-      "status": "New",
-      "scannedAt": "2026-07-23T12:49:13.343Z",
-      "isNew": false
-    },
-    {
-      "id": "job-4bmzmw",
-      "title": "Lead Product Designer",
-      "company": "PatientPoint",
-      "companyDomain": "patientpoint.com",
-      "industry": "Digital Health (B2B SaaS)",
-      "location": "Remote (United States)",
-      "postedAt": "2026-07-23",
-      "fitScore": 9,
-      "fitTier": "Strong Fit",
-      "fitExplanation": "This role is an excellent fit, aligning with Michael's expertise in complex B2B SaaS product design, particularly for data-heavy interfaces and operational workflows. As a Lead Product Designer in an individual contributor capacity, it perfectly matches Michael's target role level and his ability to lead through craft. The emphasis on strong discovery skills, experience with internal tooling and enterprise software, and advanced proficiency in Figma and design systems are all core strengths highlighted in his profile.",
-      "source": "Dynamite Jobs",
-      "applyUrl": "N/A",
-      "isOffLinkedIn": true,
-      "jobDescription": "PatientPoint is seeking a Lead Product Designer to own the user experience of an internal operational platform and support a provider-facing product. This is a senior individual contributor role focused on leadership through craft and expertise, without direct reports. The ideal candidate will be passionate about complex workflows and the humans who rely on the tools designed. Requirements include experience with operational or technical domains (internal tooling, B2B SaaS, enterprise software), strong discovery skills, and advanced proficiency in Figma (including systems thinking, prototyping, and developer handoff). The role also involves independent design execution and collaboration with Product Managers and Engineering leads.",
-      "specialty": "Internal Operational Platform / Provider-facing product",
-      "salary": "$101.6k - $177k",
-      "keywords": [
-        {
-          "keyword": "internal operational platform",
-          "inProfile": true,
-          "relevance": "strong plus",
-          "note": "Matches Michael's experience in enterprise tools and complex workflows."
-        },
-        {
-          "keyword": "Lead Product Designer",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Target role level and Michael has lead experience."
-        },
-        {
-          "keyword": "individual contributor role",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Matches Michael's preference for IC with leadership ability."
-        },
-        {
-          "keyword": "complex workflows",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Core expertise."
-        },
-        {
-          "keyword": "B2B SaaS, or enterprise software",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Primary industry expertise."
-        },
-        {
-          "keyword": "Strong discovery skills",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Michael operates across full design lifecycle from 0-to-1 discovery."
-        },
-        {
-          "keyword": "Figma, including systems thinking, prototyping, and developer handoff",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Core tools and skills, design systems expertise."
-        },
-        {
-          "keyword": "Collaborate with Product Managers and Engineering leads",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Michael works closely with PMs and Eng leads."
-        }
-      ],
-      "status": "New",
-      "scannedAt": "2026-07-23T12:49:13.343Z",
-      "isNew": false
-    },
-    {
-      "id": "job-qawf2p",
-      "title": "Staff Product Designer",
-      "company": "Gusto",
-      "companyDomain": "gusto.com",
-      "industry": "Fintech",
-      "location": "Remote (US)",
-      "postedAt": "2026-07-22",
-      "fitScore": 9,
-      "fitTier": "Strong Fit",
-      "fitExplanation": "Michael's extensive experience (10+ years) and target for Staff-level roles align well with this position. His deep context in complex B2B SaaS, finance, payment reconciliation, transactional flows, and revenue operations infrastructure directly matches Gusto's focus on building an AI-first financial platform for small businesses. The role's emphasis on defining UX vision and strategy, identifying systemic gaps, shaping product strategy, and operating as a senior individual contributor is a strong match for Michael's leadership and end-to-end design lifecycle experience. The requirement for 'extraordinary UX and visual design craft' and 'systems thinking' resonates with his design philosophy of clarity, trust, and tactile interaction in high-stakes problem spaces, as does the integration of AI. Gusto's company stage (Series E/F) comfortably meets Michael's preference for Series C or later, and the remote work option is highly preferred.",
-      "source": "Gusto Careers",
-      "applyUrl": "https://gusto.com/careers/senior-staff-product-designer-finance",
-      "isOffLinkedIn": true,
-      "jobDescription": {
-        "summary": "Gusto is seeking a Senior Staff Product Designer to lead the UX vision and strategy across its core financial product areas, including Business Money, Consumer Money, Payments, and Risk. The role involves defining innovative, AI-first financial user experiences, identifying systemic design opportunities, and shaping product strategy alongside cross-functional leadership.",
-        "coreResponsibilities": [
-          "Set the UX vision and strategy for financial products, ensuring a cohesive platform experience across multiple teams.",
-          "Identify and drive high-impact design opportunities that span various product areas, bringing cross-functional partners together.",
-          "Influence product strategy, roadmap priorities, and team objectives through a design-centric lens, collaborating with product directors and engineering leaders.",
-          "Act as a direct individual contributor on high-priority design projects.",
-          "Contribute to the development of other designers and elevate the overall design craft within the team.",
-          "Design for complex, mission-critical financial systems, emphasizing reliability, security, and simplicity at scale.",
-          "Define new design patterns and interaction models, and contribute to the evolution of existing design systems.",
-          "Balance a long-term strategic vision with rapid iteration and execution in ambiguous problem spaces."
-        ],
-        "requirements": [
-          "8-10+ years of product design experience, with a focus on complex, technical, or large-scale product domains.",
-          "A portfolio showcasing exceptional UX and visual design craft, demonstrating high-quality, polished product work.",
-          "Proven ability to lead design direction, drive alignment, and influence cross-functional partners.",
-          "Experience designing for deeply technical systems, financial workflows, or other complex problem spaces.",
-          "Expertise in systems thinking, capable of translating complex concepts into clear, elegant, and scalable experiences.",
-          "Experience contributing to or evolving a design system, including components, patterns, interaction models, and visual standards.",
-          "Ability to define net-new patterns and interaction models in ambiguous or emerging product areas.",
-          "Comfort operating in ambiguity while balancing long-term vision with rapid iteration and execution.",
-          "AI fluency, including knowledge of tools and workflows that enhance exploration, prototyping, or operational efficiency.",
-          "A deep affinity for Gusto's mission to empower small businesses through modern, credible financial tools."
-        ]
-      },
-      "specialty": "Finance",
-      "salary": "$172,000 - $215,000",
-      "keywords": [
-        {
-          "keyword": "product design",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Michael has over 10 years of product design experience at a senior/lead level."
-        },
-        {
-          "keyword": "B2B SaaS",
-          "inProfile": true,
-          "relevance": "strong alignment",
-          "note": "Gusto's platform serves small businesses, directly aligning with Michael's B2B SaaS expertise."
-        },
-        {
-          "keyword": "fintech",
-          "inProfile": true,
-          "relevance": "strong alignment",
-          "note": "The role is deeply embedded in financial products, matching Michael's deep context in finance and fintech."
-        },
-        {
-          "keyword": "complex systems",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "The job explicitly requires designing for complex, mission-critical financial systems, which is Michael's specialization."
-        },
-        {
-          "keyword": "transactional flows",
-          "inProfile": true,
-          "relevance": "strong alignment",
-          "note": "Responsibilities include money movement and payments, matching Michael's experience in transactional flows."
-        },
-        {
-          "keyword": "payment reconciliation",
-          "inProfile": true,
-          "relevance": "strong alignment",
-          "note": "The role covers payments and risk, closely related to Michael's experience in payment reconciliation and contract management."
-        },
-        {
-          "keyword": "0-to-1 discovery",
-          "inProfile": true,
-          "relevance": "strong alignment",
-          "note": "The role involves defining AI-first financial UX and new patterns in ambiguous areas, aligning with Michael's 0-to-1 experience."
-        },
-        {
-          "keyword": "design strategy",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "A core responsibility is setting UX vision and strategy across product areas."
-        },
-        {
-          "keyword": "visual craft",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Job explicitly requires 'extraordinary UX and visual design craft'."
-        },
-        {
-          "keyword": "design systems",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Experience contributing to or evolving a design system is a key requirement."
-        },
-        {
-          "keyword": "AI tools",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "AI fluency and defining AI-first financial UX are central to the role, aligning with Michael's recent use of AI tools."
-        },
-        {
-          "keyword": "Figma",
-          "inProfile": true,
-          "relevance": "implied",
-          "note": "A standard tool in the industry, highly likely used by Gusto's design team."
-        },
-        {
-          "keyword": "user research",
-          "inProfile": true,
-          "relevance": "implied",
-          "note": "Expected at this senior level for grounding design decisions, though not explicitly detailed in the responsibility summary."
-        },
-        {
-          "keyword": "cross-functional collaboration",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "The role involves influencing cross-functional partners and collaborating with product and engineering leadership."
-        },
-        {
-          "keyword": "enterprise software",
-          "inProfile": true,
-          "relevance": "strong alignment",
-          "note": "Gusto's platform, serving small businesses with complex financial operations, shares characteristics with enterprise software Michael has experience with."
-        }
-      ],
-      "status": "New",
-      "scannedAt": "2026-07-23T20:20:24.469Z",
-      "isNew": false
-    },
-    {
       "id": "job-6h826h",
       "title": "Senior Product Designer",
       "company": "B Capital",
@@ -5189,7 +4853,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-08-05T20:39:19.663Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-20ihkb",
@@ -5271,7 +4935,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-08-05T20:39:19.663Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-9slcfv",
@@ -5353,7 +5017,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-08-05T20:39:19.663Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-7r3ncx",
@@ -5429,7 +5093,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-08-05T20:39:19.663Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-tsmh0w",
@@ -5494,7 +5158,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-08-05T20:39:19.663Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-750c91",
@@ -5570,8 +5234,8 @@
       ],
       "status": "New",
       "scannedAt": "2026-08-05T20:39:19.663Z",
-      "isNew": true
+      "isNew": false
     }
   ],
-  "scannedAt": "2026-08-05T20:40:16.868Z"
+  "scannedAt": "2026-08-07T00:44:46.643Z"
 }
