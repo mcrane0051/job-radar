@@ -2027,78 +2027,54 @@
       "id": "job-v6zscs",
       "title": "Lead Product Designer",
       "company": "b.well Connected Health",
-      "companyDomain": "bwell.com",
-      "industry": "Healthcare Technology (B2B SaaS)",
-      "location": "Remote, United States",
-      "postedAt": "2026-07-29",
-      "fitScore": 9,
-      "fitTier": "Strong Fit",
-      "fitExplanation": "This Lead Product Designer role presents a strong fit for Michael, particularly given his 10+ years of experience, including 4 years in a lead capacity. The emphasis on owning and elevating the end-to-end user experience, leading design from discovery to delivery, and collaborating with cross-functional teams aligns perfectly with his strengths. His experience in complex B2B SaaS and platform-level design is highly relevant. The mention of AI specialists is also a good match for his recent use of AI tools. The company's Series C funding meets his preference for stability.",
-      "source": "Remote Figma Jobs (DailyRemote)",
+      "companyDomain": "b.well.com",
+      "industry": "Healthcare Technology (B2B, AI, Data)",
+      "location": "Remote (U.S. Only)",
+      "postedAt": "2026-08-07",
+      "fitScore": 8,
+      "fitTier": "Good Fit",
+      "fitExplanation": "This Lead Product Designer role aligns well with Michael's expertise in complex data systems and platform design, especially his ability to 'lead with curiosity, back decisions with data, and operate as a true thought partner to product managers, engineers, and executives.' While healthcare is not a primary industry for Michael, the focus on 'transforming healthcare into a simple, on-demand experience' and 'unify fragmented health data' parallels his experience in making complex B2B systems clear and trustworthy. The Series C stage and remote work arrangement are also excellent fits. The role's emphasis on AI interactions is a plus, given Michael's use of AI tools.",
+      "source": "WhatJobs US",
       "applyUrl": "N/A",
-      "isOffLinkedIn": false,
-      "jobDescription": "This Lead Product Designer role focuses on owning and elevating the end-to-end user experience across the company's healthcare technology platform. Key responsibilities include:\n*   Leading end-to-end product design from discovery through delivery.\n*   Collaborating with cross-functional teams, including engineering and AI specialists.\n*   Designing accessible, responsive experiences.\n*   Contributing to design systems to improve overall design maturity.\n\nThe role typically requires 5-10 years of experience in product design.",
-      "specialty": "",
+      "isOffLinkedIn": true,
+      "jobDescription": "b.well Connected Health is seeking a Lead Product Designer to take ownership of the end-to-end user experience for its product ecosystem, focusing on the intersection of AI, healthcare data, and consumer-grade digital experiences. This role requires a designer who can lead with curiosity, use data to inform decisions, and partner effectively with product managers, engineers, and executives to shape design strategy. Responsibilities include defining AI interactions and contributing to a culture where experience quality is a competitive advantage. Prior experience with regulatory or compliance requirements (e.g., HIPAA) is a plus.",
+      "specialty": "AI, Healthcare Data",
       "salary": "$150k - $170k",
       "keywords": [
         {
-          "keyword": "End-to-end user experience",
+          "keyword": "Lead Product Designer",
           "inProfile": true,
           "relevance": "required",
-          "note": "Michael operates across the full design lifecycle."
+          "note": "Targeting Lead Product Designer roles"
         },
         {
-          "keyword": "Lead end-to-end product design",
+          "keyword": "complex data systems",
+          "inProfile": true,
+          "relevance": "strong alignment",
+          "note": "Candidate specializes in complex data systems."
+        },
+        {
+          "keyword": "AI interactions",
+          "inProfile": true,
+          "relevance": "preferred",
+          "note": "Candidate has used AI tools in design process."
+        },
+        {
+          "keyword": "design strategy",
           "inProfile": true,
           "relevance": "required",
-          "note": "Michael has lead design experience and 0-to-1 expertise."
+          "note": "Candidate has experience shaping design strategy at team and org level."
         },
         {
-          "keyword": "Collaborate with cross-functional teams",
+          "keyword": "cross-functional collaboration",
           "inProfile": true,
           "relevance": "required",
-          "note": "Michael is experienced in cross-functional collaboration with product and engineering."
-        },
-        {
-          "keyword": "Engineering and AI specialists",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Michael has experience using AI tools to accelerate design workflows."
-        },
-        {
-          "keyword": "Design accessible, responsive experiences",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Michael's skills include Accessibility and UI Design."
-        },
-        {
-          "keyword": "Contribute to design systems",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Michael has significant experience with design systems and consistency at scale."
-        },
-        {
-          "keyword": "5-10 years experience",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Michael has 10+ years of experience, exceeding the requirement."
-        },
-        {
-          "keyword": "B2B SaaS",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "The company operates in the B2B SaaS healthcare technology space."
-        },
-        {
-          "keyword": "Visual quality and interaction polish",
-          "inProfile": true,
-          "relevance": "implicitly required",
-          "note": "Michael's philosophy emphasizes visual craft and tactile interaction design for trustworthiness."
+          "note": "Candidate operates effectively across the full design lifecycle, working closely with product managers, engineering leads, and executives."
         }
       ],
       "status": "New",
-      "scannedAt": "2026-07-29T20:17:50.628Z",
-      "isNew": false
+      "scannedAt": "2026-08-08T19:44:30.585Z",
+      "isNew": true
     },
     {
       "id": "job-syuuu7",
@@ -4569,7 +4545,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-08-08T11:43:19.401Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-gu762m",
@@ -4639,7 +4615,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-08-08T11:43:19.401Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-hwe8mm",
@@ -4703,8 +4679,177 @@
       ],
       "status": "New",
       "scannedAt": "2026-08-08T11:43:19.401Z",
+      "isNew": false
+    },
+    {
+      "id": "job-dlc65o",
+      "title": "Senior Product Designer",
+      "company": "Ashby",
+      "companyDomain": "ashby.co",
+      "industry": "B2B SaaS",
+      "location": "Remote (U.S. Only)",
+      "postedAt": "2026-08-08",
+      "fitScore": 9,
+      "fitTier": "Strong Fit",
+      "fitExplanation": "This role is a strong fit given Michael's extensive experience in complex B2B SaaS, particularly the emphasis on 'first principles' thinking and designing for desktop SaaS. The company stage (Series D) and remote nature align perfectly with preferences. The listed salary range is also attractive. Michael's background in visual craft and making complex systems delightful would be highly valued here.",
+      "source": "Wellfound",
+      "applyUrl": "N/A",
+      "isOffLinkedIn": true,
+      "jobDescription": "Ashby is seeking a Senior Product Designer with over 4 years of experience in desktop SaaS product design. The ideal candidate will possess the ability to approach design challenges from first principles, rather than solely relying on standard UX processes. This individual will be instrumental in shaping intuitive and effective product experiences within a rapidly growing B2B SaaS environment.",
+      "specialty": "",
+      "salary": "$150k - $210k",
+      "keywords": [
+        {
+          "keyword": "desktop SaaS",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Candidate specializes in B2B SaaS"
+        },
+        {
+          "keyword": "first principles",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Candidate thrives in ambiguous 0-to-1 problem spaces where structure needs to be created."
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-08-08T19:44:30.585Z",
+      "isNew": true
+    },
+    {
+      "id": "job-f2gtjc",
+      "title": "Staff Product Designer",
+      "company": "ElevenLabs",
+      "companyDomain": "elevenlabs.io",
+      "industry": "Audio AI Platform, SaaS",
+      "location": "Remote (U.S. Only)",
+      "postedAt": "2026-08-08",
+      "fitScore": 8,
+      "fitTier": "Good Fit",
+      "fitExplanation": "This Staff Product Designer role at ElevenLabs presents a good fit due to its focus on 'destroying complexity as an art form' within an AI platform, aligning with Michael's philosophy of making complex systems delightful and tactile. The company is Series C and growing rapidly, which fits the preference for stability and resources. Michael's experience with 0-to-1 discovery, visual craft, and design systems would be highly valuable in shaping the product's direction. While not a core industry, the AI/SaaS platform aspect is a strong match. The 'Anywhere in the World' remote nature is assumed to include the US.",
+      "source": "Tacit Talents",
+      "applyUrl": "N/A",
+      "isOffLinkedIn": true,
+      "jobDescription": "ElevenLabs is seeking a Staff Product Designer to lead the design of its audio AI platform, with a focus on simplifying complex interactions and ensuring every feature is intuitive, elegant, and enjoyable to use. This role involves shaping the product's direction, collaborating closely with leadership, product, and engineering teams, and leading the design process from concept to execution. The company is a rapidly growing Series C organization.",
+      "specialty": "Audio AI Platform",
+      "keywords": [
+        {
+          "keyword": "Staff Product Designer",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Targeting Staff Product Designer roles"
+        },
+        {
+          "keyword": "destroying complexity",
+          "inProfile": true,
+          "relevance": "strong alignment",
+          "note": "Candidate specializes in making complex systems delightful."
+        },
+        {
+          "keyword": "AI capabilities",
+          "inProfile": true,
+          "relevance": "preferred",
+          "note": "Candidate uses AI tools in design process."
+        },
+        {
+          "keyword": "0-to-1 discovery",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Candidate thrives in ambiguous 0-to-1 problem spaces."
+        },
+        {
+          "keyword": "design systems",
+          "inProfile": true,
+          "relevance": "strong alignment",
+          "note": "Candidate has experience with design systems and consistency at scale."
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-08-08T19:44:30.585Z",
+      "isNew": true
+    },
+    {
+      "id": "job-l214g",
+      "title": "Senior Product Designer I",
+      "company": "ClickHouse",
+      "companyDomain": "clickhouse.com",
+      "industry": "Cloud Infrastructure, Developer Tools, Database Systems",
+      "location": "Remote (U.S. Only)",
+      "postedAt": "2026-08-08",
+      "fitScore": 9,
+      "fitTier": "Strong Fit",
+      "fitExplanation": "This Senior Product Designer I role at ClickHouse is an excellent match, aligning perfectly with Michael's deep context in cloud infrastructure and developer tools, as well as his expertise in complex data systems. The role emphasizes leading design direction, managing a team, leveraging AI capabilities, and contributing to a design system – all areas where Michael excels. The company's Series D funding and remote U.S. location further strengthen the fit. Michael's ability to 'navigate ambiguity' and balance 'strategic thinking with hands-on' execution makes this a strong alignment.",
+      "source": "Tacit Talents",
+      "applyUrl": "N/A",
+      "isOffLinkedIn": true,
+      "jobDescription": "ClickHouse is seeking a Senior Product Designer I to lead design direction for key product initiatives within the database systems domain. This role involves managing and mentoring a small team of designers, leveraging AI capabilities, and delivering scalable, accessible experiences. The designer will collaborate cross-functionally to align products with user needs and business goals, and actively contribute to the evolution of the design system, processes, and culture. The ideal candidate is skilled at navigating ambiguity and balancing strategic thinking with hands-on design. ClickHouse is a Series D funded company.",
+      "specialty": "Database Systems",
+      "keywords": [
+        {
+          "keyword": "Senior Product Designer",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Targeting Senior Product Designer roles"
+        },
+        {
+          "keyword": "cloud infrastructure",
+          "inProfile": true,
+          "relevance": "strong alignment",
+          "note": "Candidate has deep context in cloud infrastructure."
+        },
+        {
+          "keyword": "developer tools",
+          "inProfile": true,
+          "relevance": "strong alignment",
+          "note": "Candidate has deep context in developer tools."
+        },
+        {
+          "keyword": "complex data systems",
+          "inProfile": true,
+          "relevance": "strong alignment",
+          "note": "Candidate specializes in complex data systems."
+        },
+        {
+          "keyword": "leading design direction",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Candidate has lead design experience."
+        },
+        {
+          "keyword": "managing and mentoring designers",
+          "inProfile": true,
+          "relevance": "strong alignment",
+          "note": "Candidate has experience managing and mentoring a team of designers."
+        },
+        {
+          "keyword": "AI capabilities",
+          "inProfile": true,
+          "relevance": "preferred",
+          "note": "Candidate uses AI tools in design process."
+        },
+        {
+          "keyword": "design systems",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Candidate has experience establishing and scaling design systems."
+        },
+        {
+          "keyword": "cross-functional collaboration",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Candidate is experienced in cross-functional collaboration."
+        },
+        {
+          "keyword": "navigating ambiguity",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Candidate thrives in ambiguous 0-to-1 problem spaces."
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-08-08T19:44:30.585Z",
       "isNew": true
     }
   ],
-  "scannedAt": "2026-08-08T11:44:22.465Z"
+  "scannedAt": "2026-08-08T19:45:15.974Z"
 }
