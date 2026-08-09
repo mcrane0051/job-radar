@@ -4730,7 +4730,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-08-09T11:45:02.178Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-p1kv9n",
@@ -4817,7 +4817,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-08-09T11:45:02.178Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-u9ld3b",
@@ -4900,7 +4900,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-08-09T11:45:02.178Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-idsbcg",
@@ -4975,8 +4975,8 @@
       ],
       "status": "New",
       "scannedAt": "2026-08-09T11:45:02.178Z",
-      "isNew": true
+      "isNew": false
     }
   ],
-  "scannedAt": "2026-08-09T11:45:51.417Z"
+  "scannedAt": "2026-08-09T19:49:29.385Z"
 }
