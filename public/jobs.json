@@ -73,59 +73,77 @@
       "title": "Lead Product Designer",
       "company": "Circle",
       "companyDomain": "circle.com",
-      "industry": "Fintech, Blockchain, Payments",
-      "location": "Remote (U.S. Only)",
-      "postedAt": "2026-08-01",
+      "industry": "Fintech",
+      "location": "Remote - US",
+      "postedAt": "2026-08-10",
       "fitScore": 9,
       "fitTier": "Strong Fit",
-      "fitExplanation": "This role is an excellent fit, leveraging Michael's extensive experience in fintech, payment reconciliation, and transactional flows within a platform context. Designing for platform-level systems like authentication and billing directly aligns with his work on transactional platforms and revenue operations infrastructure. The company's industry (Fintech, Payments, Blockchain) is a strong match, and the remote nature is a preference. Michael's experience in bringing visual craft and rigorous systems thinking to complex workflows is highly relevant.",
-      "source": "Built In Austin",
-      "applyUrl": "N/A",
+      "fitExplanation": "This Lead Product Designer, Arc Platform role at Circle is an excellent match given Michael's deep expertise in FinTech-adjacent areas like payment reconciliation, transactional flows, and marketplace infrastructure, as well as his strong background in design systems. Circle is a public company, satisfying the stage requirement. The role's focus on defining blockchain-native user experiences and economic clarity within a fintech context directly aligns with Michael's skill set in clarifying complex, high-stakes problem spaces. The remote US option is ideal.",
+      "source": "Web3.career",
+      "applyUrl": "https://web3.career/jobs/lead-product-designer-arc-platform-circle-46700",
       "isOffLinkedIn": false,
-      "jobDescription": "Circle is seeking a Lead Product Designer for their Identity Team. This role focuses on designing platform-level systems such as authentication, roles & permissions, and billing. The designer will audit fragmented workflows, create cohesive and scalable UI systems, and craft high-fidelity visual designs while balancing security flows and developer/designer consumable components. Circle operates in the blockchain, fintech, payments, financial services, cryptocurrency, and web3 space.\n\nCore Responsibilities:\n* Lead product design for platform-level systems (Authentication, Roles & Permissions, Billing).\n* Audit fragmented workflows and create cohesive, scalable UI systems.\n* Craft high-fidelity visual design, balancing security and developer/designer components.\n\nRequirements:\n* Deep experience in consumer-facing technology, fintech, or platform products.\n* Portfolio showing range across strategic and executional work.\n* Ability to make and defend strategic design decisions (balancing user needs, business goals, technical constraints).\n* Influence roadmap and prioritization conversations at the leadership level.",
-      "specialty": "Identity Team",
-      "salary": "$173,000 - $225,000",
+      "jobDescription": "Circle is hiring a Lead Product Designer for their Arc Platform. This role is crucial for defining blockchain-native user experiences, ensuring economic clarity, and developing reusable design systems. The designer will partner with Product and Engineering teams, set design direction, mentor other designers, and ensure usability, trust, and scalability across platform surfaces within the Fintech, Payments, and Blockchain industries.\n\nCore responsibilities and requirements include:\n*   Define blockchain-native user experiences.\n*   Focus on economic clarity and trust in financial/payment flows.\n*   Develop and maintain reusable design systems.\n*   Partner closely with Product and Engineering.\n*   Set design direction and mentor other designers.\n*   Ensure usability, trust, and scalability across various platform surfaces.\n*   Top skills include Blockchain, Fintech, Payments, Financial Services, Cryptocurrency, Web3.",
+      "specialty": "Arc Platform",
+      "salary": "$173k - $225k",
       "keywords": [
         {
           "keyword": "Fintech",
           "inProfile": true,
           "relevance": "required",
-          "note": "Deep context in Finance and FinTech adjacent – payment reconciliation, transactional flows, contract management"
+          "note": "Michael has deep context in Finance and FinTech adjacent industries."
         },
         {
-          "keyword": "Platform-level design",
+          "keyword": "Payments",
           "inProfile": true,
           "relevance": "required",
-          "note": "Platform or systems-level design work"
+          "note": "Michael has experience with payment reconciliation and transactional flows."
         },
         {
-          "keyword": "Transactional flows",
+          "keyword": "Blockchain-native user experiences",
           "inProfile": true,
-          "relevance": "required",
-          "note": "Experience with transactional flows, payment reconciliation"
+          "relevance": "good-to-have",
+          "note": "While not explicit blockchain experience, Michael's strength in complex data systems and transactional flows is highly transferable."
         },
         {
-          "keyword": "Design systems",
+          "keyword": "Economic clarity",
           "inProfile": true,
           "relevance": "required",
-          "note": "Experience establishing a scalable design system (Figma component library)"
+          "note": "Michael's philosophy emphasizes clarity and trust in high-stakes problem spaces."
         },
         {
-          "keyword": "Visual design",
+          "keyword": "Reusable design systems",
           "inProfile": true,
           "relevance": "required",
-          "note": "Strong visual eye for a product designer, applies visual craft and polish"
+          "note": "Michael has extensive experience establishing and scaling design systems."
         },
         {
-          "keyword": "Remote",
+          "keyword": "Cross-functional partnership (Product/Engineering)",
           "inProfile": true,
           "relevance": "required",
-          "note": "Open to remote work arrangement"
+          "note": "Michael is embedded with product and engineering teams and has strong PM partnership."
+        },
+        {
+          "keyword": "Mentoring designers",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael has experience managing and mentoring a team of 3 designers."
+        },
+        {
+          "keyword": "Scalability",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael's work at Infragistics established a scalable design system."
+        },
+        {
+          "keyword": "Trust in systems",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael's design philosophy explicitly mentions building trust in systems."
         }
       ],
       "status": "New",
-      "scannedAt": "2026-08-01T20:15:23.315Z",
-      "isNew": false
+      "scannedAt": "2026-08-10T20:01:50.764Z",
+      "isNew": true
     },
     {
       "id": "job-xxv3ft",
@@ -3318,88 +3336,64 @@
       "title": "Staff Product Designer",
       "company": "GitLab",
       "companyDomain": "gitlab.com",
-      "industry": "Developer Tools, Cloud Infrastructure, B2B SaaS",
-      "location": "Remote (U.S. Only)",
-      "postedAt": "2026-08-02",
-      "fitScore": 9,
+      "industry": "Developer Tools",
+      "location": "Remote - Anywhere",
+      "postedAt": "2026-08-09",
+      "fitScore": 10,
       "fitTier": "Strong Fit",
-      "fitExplanation": "This Staff Product Designer role at GitLab is an excellent match for Michael's expertise in developer tools, cloud infrastructure, and B2B SaaS. The focus on complex platform experiences, design systems, and mentoring aligns perfectly with his skills and career trajectory. The remote U.S. location is preferred.",
-      "source": "Greenhouse",
-      "applyUrl": "https://boards.greenhouse.io/gitlab/jobs/5267180002",
-      "jobDescription": "GitLab, an intelligent orchestration platform for DevSecOps, is seeking a Staff Product Designer for their Knowledge Graph. This remote U.S. role involves leading the design of cross-cutting platform experiences – foundational elements that impact every workflow within the product. The designer will partner closely with Product Management, Engineering, and other designers to translate ambiguity into clear direction, define solutions, and ship work that significantly improves the experience for developers and DevSecOps teams. Key responsibilities include leading design for complex, ambiguous projects, contributing to the Pajamas Design System, mentoring other designers, and grounding work in user research and feedback. The role emphasizes systems thinking, visual craft, and leveraging AI as a productivity multiplier.",
-      "specialty": "Knowledge Graph (DevSecOps Platform)",
-      "salary": null,
+      "fitExplanation": "This Staff Product Designer role at GitLab is an exceptional fit. GitLab is a remote-first, public B2B SaaS company specializing in developer tools and enterprise software, directly aligning with Michael's preferred industries and work arrangement. The 'Knowledge Graph' specialization strongly matches Michael's expertise in complex data systems, ambiguous problem spaces, and 0-to-1 discovery work. His experience shaping design strategy at the team and org level, combined with his Staff-level aspirations, makes this a perfect match.",
+      "source": "GitLab Careers Page",
+      "applyUrl": "N/A",
+      "isOffLinkedIn": false,
+      "jobDescription": "GitLab is seeking a remote Staff Product Designer for their Knowledge Graph area. This role involves designing and implementing solutions that help users understand and navigate complex interconnected data within the GitLab platform. The designer will tackle ambiguous problems, contribute to the overall product strategy, and collaborate extensively with engineering and product management teams. GitLab operates with an emphasis on CI/CD stages and pipeline architecture, requiring a designer who can integrate seamlessly into a developer-centric ecosystem.\n\nCore responsibilities and requirements include:\n*   Lead end-to-end design for the Knowledge Graph product area.\n*   Address complex, ambiguous problems involving interconnected data.\n*   Collaborate with product and engineering teams in a remote-first environment.\n*   Contribute to design strategy at the product area level.\n*   Experience with developer tools and enterprise software.",
+      "specialty": "Knowledge Graph",
       "keywords": [
         {
-          "keyword": "Staff Product Designer",
-          "inProfile": true,
-          "relevance": "target",
-          "note": "Direct match for Michael's target role level."
-        },
-        {
-          "keyword": "developer tools",
+          "keyword": "Complex data systems",
           "inProfile": true,
           "relevance": "required",
-          "note": "Direct industry expertise for Michael."
+          "note": "Michael specializes in complex data systems."
         },
         {
-          "keyword": "cloud infrastructure",
+          "keyword": "0-to-1 discovery",
           "inProfile": true,
           "relevance": "required",
-          "note": "Strong alignment with Michael's industry preferences (DevSecOps often involves cloud)."
+          "note": "Michael thrives in ambiguous 0-to-1 problem spaces."
         },
         {
-          "keyword": "B2B SaaS",
+          "keyword": "Developer tools",
           "inProfile": true,
           "relevance": "required",
-          "note": "Primary industry expertise for Michael."
+          "note": "Michael has deep context in developer tools and enterprise software."
         },
         {
-          "keyword": "complex systems",
+          "keyword": "Enterprise software",
           "inProfile": true,
           "relevance": "required",
-          "note": "Core expertise for Michael (cross-cutting platform experiences, ambiguous problems)."
+          "note": "Michael has extensive experience in enterprise software design."
         },
         {
-          "keyword": "design systems",
+          "keyword": "Remote work",
           "inProfile": true,
           "relevance": "required",
-          "note": "Michael has strong experience in building and scaling design systems."
+          "note": "Michael is open to remote work and GitLab is a remote-first company."
         },
         {
-          "keyword": "mentoring",
+          "keyword": "Design strategy",
           "inProfile": true,
           "relevance": "required",
-          "note": "Michael has experience leading and mentoring designers."
+          "note": "Michael has experience shaping design strategy at team and org levels."
         },
         {
-          "keyword": "user research",
+          "keyword": "Cross-functional collaboration",
           "inProfile": true,
           "relevance": "required",
-          "note": "Key design practice for Michael."
-        },
-        {
-          "keyword": "visual craft",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Emphasis on craft and quality."
-        },
-        {
-          "keyword": "AI as a productivity multiplier",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Michael uses AI tools to accelerate his work."
-        },
-        {
-          "keyword": "cross-functional collaboration",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Michael thrives in collaborative environments."
+          "note": "Michael operates effectively across the full design lifecycle, working closely with product managers and engineering leads."
         }
       ],
       "status": "New",
-      "scannedAt": "2026-08-03T20:39:35.429Z",
-      "isNew": false
+      "scannedAt": "2026-08-10T20:01:50.764Z",
+      "isNew": true
     },
     {
       "id": "job-xfi4f7",
@@ -3580,7 +3574,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-08-10T11:59:11.528Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-20ihkb",
@@ -4729,8 +4723,250 @@
       ],
       "status": "New",
       "scannedAt": "2026-08-10T11:59:11.528Z",
+      "isNew": false
+    },
+    {
+      "id": "job-9pajak",
+      "title": "Lead Product Designer",
+      "company": "Cisco",
+      "companyDomain": "cisco.com",
+      "industry": "Cloud Infrastructure",
+      "location": "Remote - US",
+      "postedAt": "2026-08-09",
+      "fitScore": 9,
+      "fitTier": "Strong Fit",
+      "fitExplanation": "Michael's 10+ years of experience, including leading design initiatives for complex B2B SaaS products and expertise in data-intensive interfaces, aligns perfectly with this Lead Product Designer role. The focus on AI-enabled product design, ML, automation, and data visualization in enterprise/platform products directly matches his background in making complex systems delightful and tactile. His experience with shaping design strategy and cross-functional collaboration is also a strong asset for a Lead role at a large, established company like Cisco. The company is public, meeting the Series C or later requirement.",
+      "source": "BeBee",
+      "applyUrl": "https://www.bebee.com/job/20260808-lead-product-designer-ai-and-intelligence-cisco",
+      "isOffLinkedIn": false,
+      "jobDescription": "The Lead Product Designer, AI and Intelligence at Cisco is responsible for leading AI-enabled product design initiatives across key Cisco Networking platforms. This role involves shaping user experiences from discovery through launch and iteration, turning ambiguous AI/ML opportunities into clear product concepts and shipped experiences. The designer will focus on creating interfaces that help customers understand, decide, and act with confidence within intelligent network solutions.\n\nCore responsibilities and requirements include:\n*   Lead end-to-end design initiatives for AI-powered, ML-enabled, automation-heavy, or data-intensive product experiences.\n*   Shape complex customer journeys, data visualization, and decision-support interfaces.\n*   Translate ambiguous AI/ML opportunities into clear product concepts, flows, and prototypes.\n*   Possess 10+ years of professional product design experience, specifically with enterprise, platform, or technical products.\n*   Demonstrate experience designing and shipping customer-facing AI-enabled products in production, including generative AI or other intelligent product experiences.\n*   A strong portfolio showcasing relevant work is required.",
+      "specialty": "AI and Intelligence",
+      "salary": "$169,300 - $237,200",
+      "keywords": [
+        {
+          "keyword": "AI-enabled product design",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael has experience using AI tools (Figma Make, Cursor) and explicitly designs for complex systems, which often leverage AI/ML for data-intensive workflows."
+        },
+        {
+          "keyword": "ML-enabled products",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "As above, Michael's experience in complex data systems and enterprise tools is highly relevant."
+        },
+        {
+          "keyword": "Automation-heavy products",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael's work at Tackle.io enabled 500+ enterprise sellers to onboard self-serve, indicating experience with automating workflows."
+        },
+        {
+          "keyword": "Data-intensive product experiences",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael specializes in complex data systems, transactional flows, and payment reconciliation."
+        },
+        {
+          "keyword": "Enterprise/platform/technical products",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael's entire career is focused on B2B SaaS and enterprise software, including a multi-cloud transactional platform."
+        },
+        {
+          "keyword": "Complex customer journeys",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael operates across the full design lifecycle, from 0-to-1 discovery to shipped product, involving complex journeys."
+        },
+        {
+          "keyword": "Data visualization",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael's work involves information-dense enterprise software where visual hierarchy and clarity are crucial."
+        },
+        {
+          "keyword": "Decision-support interfaces",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Relevant to complex data systems and enterprise tools."
+        },
+        {
+          "keyword": "10+ years experience",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael has 10+ years of experience."
+        },
+        {
+          "keyword": "Generative AI",
+          "inProfile": true,
+          "relevance": "good-to-have",
+          "note": "Michael uses AI tools (Figma Make, Cursor) for discovery and prototyping, indicating familiarity."
+        },
+        {
+          "keyword": "Portfolio",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Standard for product design roles."
+        },
+        {
+          "keyword": "Figma",
+          "inProfile": true,
+          "relevance": "good-to-have",
+          "note": "Michael is proficient in Figma."
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-08-10T20:01:50.764Z",
+      "isNew": true
+    },
+    {
+      "id": "job-byq8gd",
+      "title": "Staff Product Designer",
+      "company": "ButterflyMX",
+      "companyDomain": "butterflymx.com",
+      "industry": "Enterprise Software",
+      "location": "Remote - US",
+      "postedAt": "2026-08-09",
+      "fitScore": 9,
+      "fitTier": "Strong Fit",
+      "fitExplanation": "This Staff Product Designer role at ButterflyMX is a strong fit due to its remote US location, recent posting date, and company stage (Private Equity round, indicating maturity). Michael's expertise in complex B2B SaaS, enterprise software, and systems-level design aligns well with ButterflyMX's integrated property access control and security solutions, which blend hardware and cloud-managed software for B2B2C audiences. His experience shaping product experiences across desktop, mobile, and touchscreen interfaces, as well as focusing on intuitive user experiences for operational flows, directly mirrors the job requirements.",
+      "source": "ButterflyMX Careers Page",
+      "applyUrl": "https://www.butterflymx.com/careers/staff-product-designer",
+      "isOffLinkedIn": true,
+      "jobDescription": "ButterflyMX is seeking a Staff Product Designer to shape product experiences across desktop, mobile, and touchscreen interfaces. This role involves close collaboration with product and hardware teams to create intuitive user experiences for their integrated property access control and security solutions. The company operates in the multifamily, commercial, student housing, and gated communities sectors, providing solutions that combine hardware (video intercoms, smart locks, etc.) with cloud-managed software to control access, automate operations, and integrate with existing proptech.\n\nCore responsibilities and requirements include:\n*   Shape product experiences across desktop, mobile, and touchscreen interfaces.\n*   Collaborate closely with product and hardware teams to create intuitive user experiences.\n*   Focus on improving security, streamlining building operations, and enhancing resident experience.\n*   Work within a B2B2C context, serving property owners, managers, residents, and visitors.",
+      "specialty": "",
+      "keywords": [
+        {
+          "keyword": "Desktop interface design",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael has extensive experience designing for web and enterprise software."
+        },
+        {
+          "keyword": "Mobile interface design",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael has experience with mobile applications (Slingshot)."
+        },
+        {
+          "keyword": "Touchscreen interface design",
+          "inProfile": true,
+          "relevance": "good-to-have",
+          "note": "While not explicitly listed, his experience in UI/UX across platforms and visual craft would be transferable."
+        },
+        {
+          "keyword": "Complex user experiences",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael specializes in making complex systems delightful and tactile."
+        },
+        {
+          "keyword": "B2B2C products",
+          "inProfile": true,
+          "relevance": "good-to-have",
+          "note": "Michael's B2B SaaS experience, especially in marketplace infrastructure and seller/buyer workflows, aligns with B2B2C dynamics."
+        },
+        {
+          "keyword": "Integrated solutions (hardware/software)",
+          "inProfile": true,
+          "relevance": "good-to-have",
+          "note": "Michael's experience with complex systems and platforms would be valuable in this integrated environment."
+        },
+        {
+          "keyword": "Cloud-managed software",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael has deep context in cloud marketplace and revenue operations infrastructure."
+        },
+        {
+          "keyword": "Property access control/security solutions",
+          "inProfile": true,
+          "relevance": "good-to-have",
+          "note": "Specific domain experience, but general enterprise software/SaaS experience applies."
+        },
+        {
+          "keyword": "Cross-functional collaboration",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael operates effectively with product managers, engineering leads, and executives."
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-08-10T20:01:50.764Z",
+      "isNew": true
+    },
+    {
+      "id": "job-g576op",
+      "title": "Senior Product Designer",
+      "company": "Major League Baseball",
+      "companyDomain": "mlb.com",
+      "industry": "Media",
+      "location": "Hybrid - NYC",
+      "postedAt": "2026-08-09",
+      "fitScore": 7,
+      "fitTier": "Good Fit",
+      "fitExplanation": "This Senior Product Designer role at Major League Baseball is a good fit, with a 1-point deduction for being a hybrid role. While MLB is primarily a consumer-facing organization, the role focuses on the complex digital products within their App, Web, and Streaming platforms, which likely involve data-heavy interfaces and intricate user flows for fan engagement, statistics, and potentially transactional elements. Michael's strong background in visual systems, design systems, and making complex systems clear and trustworthy is highly relevant. The hybrid location in NYC is acceptable based on preferences.",
+      "source": "Indeed",
+      "applyUrl": "N/A",
+      "isOffLinkedIn": false,
+      "jobDescription": "Major League Baseball is looking for a Senior Product Designer for their MLB App, Web, and Streaming platforms. This role involves shaping the fan experience across various digital touchpoints. The designer will conduct independent research to inform foundational thinking and iterative design decisions, and work closely with the design systems team to evolve and expand the Basepath product design system.\n\nCore responsibilities and requirements include:\n*   Lead design for MLB App, Web, and Streaming products.\n*   Conduct independent research for foundational and iterative design.\n*   Collaborate with the design systems team on evolution and expansion.\n*   Focus on user-centric design for consumer-facing digital experiences.",
+      "specialty": "MLB App, Web and Streaming",
+      "salary": "$130,000 - $160,000",
+      "keywords": [
+        {
+          "keyword": "Consumer-facing digital products",
+          "inProfile": false,
+          "relevance": "required",
+          "note": "While Michael prefers B2B, his visual craft and complex system design skills are highly transferable to complex consumer apps like MLB's streaming and app platforms."
+        },
+        {
+          "keyword": "Design systems",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael has extensive experience in design systems, reducing design-to-development cycles significantly."
+        },
+        {
+          "keyword": "User research",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael conducts user research and uses it to define product direction."
+        },
+        {
+          "keyword": "Web design",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael has a foundation in visual systems and years of digital campaign work, transitioning into platform product design."
+        },
+        {
+          "keyword": "Mobile app design",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael led zero-to-one design of Slingshot, a SaaS work management platform (web, macOS, iOS, Android)."
+        },
+        {
+          "keyword": "Streaming platform design",
+          "inProfile": false,
+          "relevance": "good-to-have",
+          "note": "Specific domain, but general complex system design applies."
+        },
+        {
+          "keyword": "Visual craft",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael has an unusually strong visual eye and applies it to bring clarity and polish."
+        },
+        {
+          "keyword": "Interaction design",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael emphasizes tactile interaction design in his philosophy."
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-08-10T20:01:50.764Z",
       "isNew": true
     }
   ],
-  "scannedAt": "2026-08-10T12:00:02.338Z"
+  "scannedAt": "2026-08-10T20:02:48.113Z"
 }
