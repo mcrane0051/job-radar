@@ -143,7 +143,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-08-10T20:01:50.764Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-xxv3ft",
@@ -3393,7 +3393,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-08-10T20:01:50.764Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-xfi4f7",
@@ -4818,7 +4818,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-08-10T20:01:50.764Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-byq8gd",
@@ -4894,7 +4894,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-08-10T20:01:50.764Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-g576op",
@@ -4965,8 +4965,147 @@
       ],
       "status": "New",
       "scannedAt": "2026-08-10T20:01:50.764Z",
+      "isNew": false
+    },
+    {
+      "id": "job-jamlm9",
+      "title": "Lead Product Designer",
+      "company": "A Place for Mom",
+      "companyDomain": "aplaceformom.com",
+      "industry": "Marketplace",
+      "location": "Remote",
+      "postedAt": "2026-08-10",
+      "fitScore": 9,
+      "fitTier": "Strong Fit",
+      "fitExplanation": "This role aligns exceptionally well with Michael's profile. It's a Lead Product Designer position at an established marketplace company, focusing on complex B2B-like workflows for providers in the aging care industry. Michael has extensive experience in marketplace infrastructure, complex B2B SaaS, and transactional flows. The role emphasizes end-to-end design, working with cross-functional teams, and experimenting with AI tools, all areas where Michael excels and has deep experience. The remote nature is also a strong preference.",
+      "source": "Anchormust",
+      "applyUrl": "N/A",
+      "jobDescription": "The Lead Product Designer for Provider Experience will be responsible for owning the end-to-end product design for provider-facing workstreams within a marketplace setting. This involves leading design from initial discovery and journey mapping through to prototyping and production-ready designs. The role requires partnering deeply with Product Managers, Engineers, Researchers, Marketing, Sales, and senior leaders to align teams around clear design direction. The designer will work across provider-facing workflows, partner tools, marketing touchpoints, and internal systems that support the provider experience, always with an eye on the broader marketplace journey. A key aspect is experimenting with AI tools to explore product directions, prototype workflows, synthesize inputs, and improve design speed and quality, while understanding where AI genuinely enhances the experience versus where human judgment and trust are paramount. The ideal candidate is a high-agency builder who thrives in ambiguity, takes ownership, and uses design, data, and AI-native tools to accelerate the team's work and elevate quality. They should have strong design judgment, be flexible in process, and know when to prototype, simplify, or advocate for better system patterns. Requirements include 7+ years of product design experience on complex web, SaaS, marketplace, CRM, internal-tool, partner-portal, or operations-facing products. The role is for someone curious about the future of product design and actively experimenting with AI tools.",
+      "specialty": "Provider Experience",
+      "salary": "$165,000 - $185,000",
+      "keywords": [
+        {
+          "keyword": "Lead Product Designer",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Matches desired title."
+        },
+        {
+          "keyword": "Marketplace",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Deep context in cloud marketplace/revenue operations infrastructure."
+        },
+        {
+          "keyword": "B2B SaaS",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Primary industry expertise."
+        },
+        {
+          "keyword": "Complex workflows",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Specializes in complex B2B SaaS products and data systems."
+        },
+        {
+          "keyword": "0-to-1 discovery",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Operates effectively across the full design lifecycle from ambiguous 0-to-1 discovery."
+        },
+        {
+          "keyword": "Cross-functional collaboration",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Works closely with product managers, engineering leads, and executives."
+        },
+        {
+          "keyword": "AI tools",
+          "inProfile": true,
+          "relevance": "good",
+          "note": "Uses AI tools (Figma Make, Cursor) to accelerate discovery, prototyping."
+        },
+        {
+          "keyword": "Design systems",
+          "inProfile": true,
+          "relevance": "preferred",
+          "note": "Has experience establishing scalable design systems."
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-08-11T11:56:51.169Z",
+      "isNew": true
+    },
+    {
+      "id": "job-3zeuol",
+      "title": "Senior Product Designer",
+      "company": "Lattice",
+      "companyDomain": "lattice.com",
+      "industry": "HR Tech",
+      "location": "Remote",
+      "postedAt": "2026-08-10",
+      "fitScore": 9,
+      "fitTier": "Strong Fit",
+      "fitExplanation": "This role is an excellent match, particularly given Michael's strong background in HR tech (iCIMS) and his focus on complex B2B SaaS. The emphasis on an \"AI-native product suite\" and joining a \"new, experimental team\" perfectly aligns with his interest in 0-to-1 problem spaces and utilizing AI tools. His experience with design systems and cross-functional collaboration is also highly relevant. The Senior Product Designer title and remote location are ideal.",
+      "source": "Anchormust",
+      "applyUrl": "N/A",
+      "jobDescription": "The Senior Product Designer will join a new AI team to help shape and ship a reimagined way of capturing work and growth within Lattice's unified people platform. This role involves designing for both new surfaces within Lattice and external tools used by customers. The designer will be instrumental in building the next generation of an AI-native product suite, working side-by-side with Product, Engineering, Data, and customers to create experiences that are lovable, measurable, and scalable. The position requires partnering with engineering to fine-tune AI outputs to align with ideal user experiences and building a strong understanding of the entire product suite to ensure AI strengthens existing customer workflows. Key responsibilities include designing detailed interaction patterns, collaborating closely with engineering on execution quality, and working with an established design system while also creating new components for AI-native interactions. The ideal candidate is comfortable with ambiguity, a demonstrated self-starter, and capable of prototyping in code, pushing pixels, and aligning stakeholders through documentation. The role values collaborative partners who champion design and are committed to elevating the team. Requirements include proven success working with design systems and strong communication skills to articulate customer challenges and design decisions.",
+      "specialty": "AI",
+      "keywords": [
+        {
+          "keyword": "Senior Product Designer",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Matches desired title."
+        },
+        {
+          "keyword": "HR Tech",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Deep context in HR tech/talent acquisition (iCIMS background)."
+        },
+        {
+          "keyword": "B2B SaaS",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Primary industry expertise in complex B2B SaaS products."
+        },
+        {
+          "keyword": "AI-native product suite",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Focus on AI aligns with Michael's use of AI tools (Figma Make, Cursor)."
+        },
+        {
+          "keyword": "0-to-1 and ambiguous problem spaces",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Thrives when structure needs to be created, not just followed."
+        },
+        {
+          "keyword": "Design systems",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Experience establishing a scalable design system (Figma component library)."
+        },
+        {
+          "keyword": "Cross-functional collaboration",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Embedded with product and engineering, strong PM partnership."
+        },
+        {
+          "keyword": "Complex systems",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Specializes in making complex systems delightful and tactile."
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-08-11T11:56:51.169Z",
       "isNew": true
     }
   ],
-  "scannedAt": "2026-08-10T20:02:48.113Z"
+  "scannedAt": "2026-08-11T11:57:28.993Z"
 }
