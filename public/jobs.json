@@ -82,107 +82,76 @@
       "title": "Senior Product Designer",
       "company": "NMI",
       "companyDomain": "nmi.com",
-      "industry": "Fintech, B2B SaaS, Payments Infrastructure",
-      "location": "Remote, US",
-      "postedAt": "2026-08-11",
-      "fitScore": 9,
+      "industry": "Payments, Fintech, B2B SaaS",
+      "location": "Remote (United States)",
+      "postedAt": "2026-08-13",
+      "fitScore": 10,
       "fitTier": "Strong Fit",
-      "fitExplanation": "This role is an excellent match for Michael's profile, focusing on complex B2B payments products and technical workflows within the FinTech industry. His extensive experience with transactional platforms, revenue operations, design systems, and cross-functional collaboration aligns perfectly with the responsibilities. The use of AI tools is also a direct match with Michael's skills. NMI is a well-established company, well beyond the Series C requirement.",
-      "source": "Greenhouse (via Built In Chicago/Startup Jobs)",
-      "applyUrl": "https://nmi.applytojob.com/apply/Q8F3VfO1eK/Senior-Product-Designer-FintechPayments",
+      "fitExplanation": "This role is an ideal match, directly aligning with Michael's experience in complex B2B SaaS, payments, and fintech. He specializes in technical B2B workflows, greenfield design, and simplifying complex systems, which are all explicitly mentioned. The remote nature, Senior Product Designer title, and focus on high-impact product experiences make this an exceptionally strong fit. NMI is a mature company, well past Series C.",
+      "source": "The SaaS Jobs",
+      "applyUrl": "N/A",
       "isOffLinkedIn": false,
-      "jobDescription": "NMI is seeking a Senior Product Designer to join their Product team. This role focuses on crafting engaging experiences across a complex set of payment products and features, leading end-to-end design for technical B2B workflows, and delivering intuitive, high-impact product experiences. The designer will balance usability, business outcomes, and technical feasibility, working closely with product managers, engineers, and other stakeholders.\n\nCore Responsibilities:\n* Design end-to-end experiences by creating journey maps, user flows, wireframes, prototypes, and high-fidelity designs.\n* Plan and conduct user research and usability testing to gather insights and validate design decisions.\n* Build and maintain design systems to ensure consistency, scalability, and efficiency across NMI's products.\n* Benchmark designs against competitors and identify improvement opportunities.\n* Utilize AI tools (e.g., v0, Cursor, Figma AI features) as a core part of the design and research workflow.\n* Contribute to adjacent initiatives like updating design-driven materials for customer engagement and supporting special projects.\n\nRequirements:\n* 4+ years of experience designing B2B digital products and systems with a strong portfolio.\n* Proven ability to collaborate cross-functionally and strong communication skills.\n* Experience unifying multiple products or platforms under a cohesive design system.\n* Experience with developer-facing products (API, SDK, platform-as-a-product).\n* Experience conducting user research and translating findings into actionable designs.\n* Familiarity with service design techniques (e.g., journey mapping, service blueprints).",
-      "specialty": "Fintech/Payments",
-      "salary": "$120,000 - $140,000",
+      "jobDescription": "Craft an engaging experience across complex payments products and features, leading end-to-end design for technical B2B workflows. This involves greenfield design and redesign work on existing Payment Gateway products. Collaborate cross-functionally to identify user needs and translate insights into scalable design solutions, balancing usability, business outcomes, and technical feasibility. The role emphasizes strategic design thinking in ambiguous environments and growing influence.",
+      "specialty": "",
       "keywords": [
         {
           "keyword": "B2B SaaS",
           "inProfile": true,
           "relevance": "required",
-          "note": "Job is explicitly B2B payments infrastructure."
+          "note": "Explicitly mentioned as a core requirement and Michael's primary expertise."
+        },
+        {
+          "keyword": "payments products",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Directly matches Michael's experience in payment reconciliation and transactional flows."
         },
         {
           "keyword": "Fintech",
           "inProfile": true,
           "relevance": "required",
-          "note": "Core industry focus of the role."
+          "note": "Implied by payments products. Michael has deep context."
         },
         {
-          "keyword": "Payments",
+          "keyword": "technical B2B workflows",
           "inProfile": true,
           "relevance": "required",
-          "note": "Directly aligns with Michael's transactional flows and payment reconciliation experience."
+          "note": "Explicitly aligns with Michael's specialization."
         },
         {
-          "keyword": "Complex systems",
+          "keyword": "greenfield design",
           "inProfile": true,
           "relevance": "required",
-          "note": "Job description emphasizes 'complex set of payments products and features' and 'technical B2B workflows'."
+          "note": "Matches Michael's 0-to-1 and ambiguous problem space expertise."
         },
         {
-          "keyword": "Design Systems",
+          "keyword": "complex systems",
           "inProfile": true,
           "relevance": "required",
-          "note": "Responsibility includes 'Build and maintain design systems'."
+          "note": "Michael specializes in making complex systems delightful."
         },
         {
-          "keyword": "User Research",
+          "keyword": "end-to-end design",
           "inProfile": true,
           "relevance": "required",
-          "note": "Responsibility includes 'Plan and conduct user research'."
+          "note": "Michael operates effectively across the full design lifecycle."
         },
         {
-          "keyword": "Wireframing",
+          "keyword": "cross-functional collaboration",
           "inProfile": true,
           "relevance": "required",
-          "note": "Responsibility includes 'Create... wireframes'."
+          "note": "Explicitly mentioned, aligning with Michael's collaboration style."
         },
         {
-          "keyword": "Prototyping",
+          "keyword": "design thinking",
           "inProfile": true,
           "relevance": "required",
-          "note": "Responsibility includes 'Create... prototypes' and 'accelerate prototyping' with AI tools."
-        },
-        {
-          "keyword": "Figma",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Explicitly mentioned as a tool (Figma AI features)."
-        },
-        {
-          "keyword": "AI tools",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Explicitly mentioned (v0, Cursor, Figma AI features)."
-        },
-        {
-          "keyword": "0-to-1 discovery",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Role spans 'greenfield design (building new experiences from the ground up) and redesign work'."
-        },
-        {
-          "keyword": "Cross-functional collaboration",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Emphasized in the job description."
-        },
-        {
-          "keyword": "Enterprise software",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "NMI provides embedded payments infrastructure for software platforms and ISOs."
-        },
-        {
-          "keyword": "Developer tools",
-          "inProfile": true,
-          "relevance": "nice_to_have",
-          "note": "Experience with developer-facing products is a requirement."
+          "note": "Role emphasizes strategic design thinking, a core part of Michael's process."
         }
       ],
       "status": "New",
-      "scannedAt": "2026-08-11T20:04:36.927Z",
-      "isNew": false
+      "scannedAt": "2026-08-13T19:59:27.407Z",
+      "isNew": true
     },
     {
       "id": "job-30yvyf",
@@ -1569,20 +1538,59 @@
       "title": "Staff Product Designer",
       "company": "Affirm",
       "companyDomain": "affirm.com",
-      "industry": "Fintech, Payments, Financial Services, Big Data, Mobile",
-      "location": "Remote (U.S.)",
-      "postedAt": "2026-08-01",
+      "industry": "Fintech, Payments, Financial Services, Big Data",
+      "location": "Remote (United States)",
+      "postedAt": "2026-08-12",
       "fitScore": 9,
       "fitTier": "Strong Fit",
-      "fitExplanation": "This Staff Product Designer role at Affirm is an excellent match, focusing on AI-driven experiences within consumer finance and payments. Michael's background includes deep context in payment reconciliation, transactional flows, and complex data systems, which directly aligns with Affirm's product areas. His experience in making complex systems delightful and tactile, alongside his strong visual craft and rigorous systems thinking, is highly relevant for designing intuitive AI-driven interfaces and financial products. The explicit mention of design systems as a top skill further strengthens the alignment.",
-      "source": "Built In",
+      "fitExplanation": "This remote Staff Product Designer role at Affirm (a public fintech company) is an excellent match for Michael's experience in fintech, payments, and designing high-impact products. His ability to work with complex data systems and transactional flows, coupled with his product thinking and visual craft, would be highly valuable in this domain. The Staff title aligns with his target level.",
+      "source": "Built In NYC",
       "applyUrl": "N/A",
       "isOffLinkedIn": false,
-      "jobDescription": "Affirm is seeking an experienced Staff Product Designer to shape AI-driven experiences across consumer touchpoints, with a focus on their app and card experience. The role involves leading AI and agentic design initiatives, translating complex user needs into proactive, intuitive interfaces, and collaborating extensively with product, engineering, data science, marketing, and research teams. The designer will be instrumental in defining design language and patterns for trusted, proactive AI interactions and balancing rapid iteration with long-term strategic vision across the product ecosystem.\n\nCore Responsibilities:\n*   Lead AI/agentic design initiatives for Affirm's consumer experiences.\n*   Collaborate cross-functionally with product, engineering, data science, marketing, and research teams to translate user needs into intuitive experiences.\n*   Define design language and patterns for trusted, proactive AI interactions.\n*   Drive design initiatives for Affirm's app and card experience.\n*   Balance rapid iteration with long-term strategic vision across the product ecosystem.\n\nRequirements:\n*   8+ years in product design with a track record of shipping complex experiences at scale.\n*   Strong understanding of human-centered AI principles applied to consumer finance.\n*   Experience designing AI-driven, agentic, or conversational interfaces with measurable user value.\n*   Ability to prototype multi-modal, non-linear flows to validate complex AI interactions.\n*   Proficiency in design systems and interaction patterns.",
-      "specialty": "AI-Driven FinTech",
+      "jobDescription": "Design high-impact products, particularly within the app and card experience for a financial technology firm. The role requires collaboration across teams to innovate financial solutions and improve user experiences. Ideal candidates are proactive with strong design skills, passionate about enhancing user experiences within financial services.",
+      "specialty": "",
+      "keywords": [
+        {
+          "keyword": "Fintech",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Directly aligns with Michael's deep context."
+        },
+        {
+          "keyword": "Payments",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Relevant to Michael's experience in payment reconciliation and transactional flows."
+        },
+        {
+          "keyword": "high-impact products",
+          "inProfile": true,
+          "relevance": "highly relevant",
+          "note": "Matches Michael's focus on measured outcomes and impact metrics."
+        },
+        {
+          "keyword": "complex data systems",
+          "inProfile": true,
+          "relevance": "highly relevant",
+          "note": "Likely relevant for financial products, aligning with Michael's specialization.",
+          "confidence": "moderate"
+        },
+        {
+          "keyword": "user experience",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Central to Michael's design philosophy and practice."
+        },
+        {
+          "keyword": "cross-functional collaboration",
+          "inProfile": true,
+          "relevance": "highly relevant",
+          "note": "Explicitly mentioned, aligning with Michael's collaboration style."
+        }
+      ],
       "status": "New",
-      "scannedAt": "2026-08-02T12:15:32.616Z",
-      "isNew": false
+      "scannedAt": "2026-08-13T19:59:27.407Z",
+      "isNew": true
     },
     {
       "id": "job-mmhutc",
@@ -4026,8 +4034,289 @@
       ],
       "status": "New",
       "scannedAt": "2026-08-13T12:00:07.037Z",
+      "isNew": false
+    },
+    {
+      "id": "job-qawf2p",
+      "title": "Staff Product Designer",
+      "company": "Gusto",
+      "companyDomain": "gusto.com",
+      "industry": "Fintech, HR Tech, B2B SaaS",
+      "location": "Hybrid in New York, NY, USA",
+      "postedAt": "2026-08-13",
+      "fitScore": 8,
+      "fitTier": "Good Fit",
+      "fitExplanation": "This role is a strong match for Michael's expertise in complex B2B SaaS, fintech, and HR Tech, as well as his experience with transactional flows and enterprise workflows. The Staff Product Designer title aligns with his target level. He also has strong experience in design systems, which is typically relevant for Staff-level roles. However, it is a hybrid role, which he prefers less than remote, resulting in a 1-point deduction. Gusto is a well-established company (Series F funding).",
+      "source": "Built In NYC",
+      "applyUrl": "N/A",
+      "isOffLinkedIn": false,
+      "jobDescription": "Lead end-to-end design for contractor products, collaborating with cross-functional teams to enhance user experiences and implement strategic design solutions. This role focuses on improving a B2B payment platform. Responsibilities include guiding user experience from prioritization through launch, working independently to steer decisions, and bringing fresh ideas to the platform.",
+      "specialty": "Contractors",
+      "salary": "$146k - $222k",
+      "keywords": [
+        {
+          "keyword": "B2B SaaS",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Explicitly mentioned as a core industry for the role and Michael's primary expertise."
+        },
+        {
+          "keyword": "Fintech",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Role is in Fintech/HR Tech. Michael has deep context in FinTech adjacent areas."
+        },
+        {
+          "keyword": "HR Tech",
+          "inProfile": true,
+          "relevance": "highly relevant",
+          "note": "Role is in HR Tech. Michael has HR Tech background (iCIMS, Slingshot)."
+        },
+        {
+          "keyword": "complex workflows",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Role involves enhancing user experiences and implementing strategic design solutions for a payment platform, implying complex workflows. Michael specializes in complex B2B SaaS and transactional flows."
+        },
+        {
+          "keyword": "design systems",
+          "inProfile": true,
+          "relevance": "highly relevant",
+          "note": "While not explicitly listed as a core responsibility in the snippet, Staff roles often involve design system contributions, which Michael excels at.",
+          "confidence": "moderate"
+        },
+        {
+          "keyword": "Figma",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Standard tool for product design, and Michael is proficient.",
+          "confidence": "moderate"
+        },
+        {
+          "keyword": "cross-functional collaboration",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Explicitly mentioned as a key aspect of the role, aligning with Michael's collaboration style."
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-08-13T19:59:27.407Z",
+      "isNew": true
+    },
+    {
+      "id": "job-6psnek",
+      "title": "Lead Product Designer",
+      "company": "Rocket Companies",
+      "companyDomain": "rocketcompanies.com",
+      "industry": "Fintech, Financial Services",
+      "location": "Remote",
+      "postedAt": "2026-08-12",
+      "fitScore": 9,
+      "fitTier": "Strong Fit",
+      "fitExplanation": "This is an excellent remote Lead Product Designer role within FinTech for a public company, perfectly aligning with Michael's target level, industry expertise, and preference for remote work. His strong background in design systems and platform-level design is directly relevant to this specialty. The focus on financial services strongly matches his deep context in this area.",
+      "source": "Built In",
+      "applyUrl": "N/A",
+      "isOffLinkedIn": false,
+      "jobDescription": "Lead design for the company's design systems, driving the evolution of reusable components, patterns, and guidelines. Partner closely with engineers, prioritize accessibility, and contribute to the overall brand standards. This role involves enhancing user experiences through robust design system contributions.",
+      "specialty": "Design Systems",
+      "salary": "$146k - $335k",
+      "keywords": [
+        {
+          "keyword": "Lead Product Designer",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Matches Michael's target role level."
+        },
+        {
+          "keyword": "Fintech",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Matches Michael's deep context."
+        },
+        {
+          "keyword": "Design Systems",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Directly aligns with Michael's expertise in establishing and scaling design systems."
+        },
+        {
+          "keyword": "platform design",
+          "inProfile": true,
+          "relevance": "highly relevant",
+          "note": "Design systems work is inherently platform-level, which Michael has experience with."
+        },
+        {
+          "keyword": "accessibility",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael lists Accessibility as a design practice."
+        },
+        {
+          "keyword": "cross-functional collaboration",
+          "inProfile": true,
+          "relevance": "highly relevant",
+          "note": "Implicit in working with engineers and driving brand standards. Michael excels in this area.",
+          "confidence": "moderate"
+        },
+        {
+          "keyword": "Figma",
+          "inProfile": true,
+          "relevance": "highly relevant",
+          "note": "Likely a core tool, Michael is proficient.",
+          "confidence": "moderate"
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-08-13T19:59:27.407Z",
+      "isNew": true
+    },
+    {
+      "id": "job-xmnif0",
+      "title": "Senior Product Designer",
+      "company": "Apollo.io",
+      "companyDomain": "apollo.io",
+      "industry": "Enterprise Web, B2B SaaS, Information Technology, Sales Software",
+      "location": "Remote",
+      "postedAt": "2026-08-12",
+      "fitScore": 9,
+      "fitTier": "Strong Fit",
+      "fitExplanation": "This remote Senior Product Designer role at Apollo.io, an enterprise B2B SaaS company, is an excellent fit. Michael's expertise in enterprise software, complex data systems, and AI-native design aligns perfectly. His proficiency with Figma, user research, and design systems are also directly applicable. Apollo.io has raised Series D funding, meeting the company stage requirement.",
+      "source": "Built In NYC",
+      "applyUrl": "N/A",
+      "isOffLinkedIn": false,
+      "jobDescription": "Lead AI-native product design for Apollo's Extension and Admin surfaces. Collaborate with Product Managers, engineers, and AI teams to prototype, test, and ship explainable, trustworthy LLM-driven experiences. Contribute to the design system in Figma, run user research and experiments, and ensure cross-surface consistency and high-quality execution.",
+      "specialty": "",
+      "keywords": [
+        {
+          "keyword": "B2B SaaS",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Core industry for the role and Michael's primary expertise."
+        },
+        {
+          "keyword": "enterprise software",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Matches Michael's specialization."
+        },
+        {
+          "keyword": "AI-native design",
+          "inProfile": true,
+          "relevance": "highly relevant",
+          "note": "Michael uses AI tools (Figma Make, Cursor) and thrives in 0-to-1 and ambiguous problem spaces, which often involve emerging tech like AI."
+        },
+        {
+          "keyword": "complex data systems",
+          "inProfile": true,
+          "relevance": "highly relevant",
+          "note": "Likely relevant for sales intelligence platforms, aligning with Michael's specialization.",
+          "confidence": "moderate"
+        },
+        {
+          "keyword": "Figma",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Explicitly mentioned as a core tool. Michael is proficient."
+        },
+        {
+          "keyword": "user research",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Explicitly mentioned as a responsibility. Michael lists user research as a key design practice."
+        },
+        {
+          "keyword": "design systems",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Explicitly mentioned as a contribution area. Michael has strong experience."
+        },
+        {
+          "keyword": "cross-functional collaboration",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Explicitly mentioned, aligning with Michael's collaboration style."
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-08-13T19:59:27.407Z",
+      "isNew": true
+    },
+    {
+      "id": "job-dr2qio",
+      "title": "Senior Product Designer",
+      "company": "LawVu",
+      "companyDomain": "lawvu.com",
+      "industry": "Legal Tech, B2B SaaS, Enterprise Software",
+      "location": "Remote",
+      "postedAt": "2026-08-13",
+      "fitScore": 9,
+      "fitTier": "Strong Fit",
+      "fitExplanation": "This remote Senior Product Designer role at LawVu, a Series C Legal Tech company, is a strong match. Michael's expertise in complex B2B SaaS, enterprise software, simplifying complex workflows, and utilizing AI-assisted design tools is directly relevant. His strong interaction and systems design skills are also explicitly sought after.",
+      "source": "BeBee",
+      "applyUrl": "N/A",
+      "isOffLinkedIn": false,
+      "jobDescription": "Lead design discovery through customer insight, journey mapping, prototyping, usability testing, data and experimentation. Shape the product's next evolution by creating an intuitive experience for drafting, reviewing, contract lifecycle management, and the wider LegalOS. Work alongside Product, Legal, and Engineering from discovery through delivery, bringing deep customer understanding and strong design judgment. Use AI-assisted design and prototyping tools to increase speed and explore how AI can improve legal work.",
+      "specialty": "",
+      "keywords": [
+        {
+          "keyword": "B2B SaaS",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Core industry for the role and Michael's primary expertise."
+        },
+        {
+          "keyword": "Legal Tech",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Matches Michael's industry interest in enterprise software and complex workflows."
+        },
+        {
+          "keyword": "complex workflows",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Explicitly mentioned (drafting, reviewing, contract lifecycle management), aligning with Michael's specialization."
+        },
+        {
+          "keyword": "AI-assisted design tools",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Explicitly mentioned as a requirement. Michael uses Figma Make and Cursor."
+        },
+        {
+          "keyword": "interaction design",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Explicitly mentioned. Michael lists this as a skill."
+        },
+        {
+          "keyword": "systems design",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Explicitly mentioned. Michael emphasizes rigorous systems thinking."
+        },
+        {
+          "keyword": "full design lifecycle",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Implied by 'discovery through delivery and iteration'. Michael operates across the full design lifecycle."
+        },
+        {
+          "keyword": "Figma",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Explicitly mentioned. Michael is proficient."
+        },
+        {
+          "keyword": "user research",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Explicitly mentioned (customer insight, usability testing). Michael lists this as a skill."
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-08-13T19:59:27.407Z",
       "isNew": true
     }
   ],
-  "scannedAt": "2026-08-13T12:04:26.748Z"
+  "scannedAt": "2026-08-13T20:00:32.786Z"
 }
