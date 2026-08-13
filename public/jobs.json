@@ -318,82 +318,6 @@
       "isNew": false
     },
     {
-      "id": "job-ro6bh7",
-      "title": "Senior Product Designer",
-      "company": "Laravel LLC",
-      "companyDomain": "laravel.com",
-      "industry": "Developer Tools",
-      "location": "Remote",
-      "postedAt": "2026-07-29",
-      "fitScore": 9,
-      "fitTier": "Strong Fit",
-      "fitExplanation": "This role is a strong fit due to its focus on developer tools and B2B SaaS, which aligns perfectly with Michael's expertise in complex B2B SaaS products and experience with enterprise software. His 10+ years of experience significantly exceed the 6+ years required. The emphasis on simplifying complex technical problems, working with engineering teams, and evolving design systems directly matches his skill set and past achievements. The remote nature of the role also aligns with his preferences.",
-      "source": "Virtual Vocations",
-      "applyUrl": "N/A",
-      "isOffLinkedIn": false,
-      "jobDescription": "This remote Senior Product Designer role focuses on owning product design for Laravel Cloud, involving end-to-end feature creation and close collaboration with engineers to deliver developer-focused solutions. Core responsibilities include:\n*   Designing new features from exploration and wireframes to polished, production-ready UI.\n*   Collaborating with engineers to ship designs quickly while maintaining quality.\n*   Contributing to and evolving the design system as products grow.\n\nRequired qualifications include 6+ years of product design experience, preferably in developer tools or technical B2B SaaS, a strong portfolio demonstrating effective design, the ability to simplify complex technical problems for users, experience working closely with engineering teams, and familiarity with design systems and their evolution.",
-      "specialty": "Laravel Cloud",
-      "keywords": [
-        {
-          "keyword": "Product design experience",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Michael has 10+ years, exceeding the 6+ years required."
-        },
-        {
-          "keyword": "Developer tools",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Matches Michael's industry expertise."
-        },
-        {
-          "keyword": "B2B SaaS",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Matches Michael's primary industry expertise."
-        },
-        {
-          "keyword": "Strong portfolio",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Michael's profile emphasizes his strong product thinking and visual craft."
-        },
-        {
-          "keyword": "Simplify complex technical problems",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "A core aspect of Michael's design philosophy and expertise."
-        },
-        {
-          "keyword": "Working closely with engineering teams",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Michael thrives in cross-functional collaboration with engineering."
-        },
-        {
-          "keyword": "Design systems and their evolution",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Michael has extensive experience in establishing and evolving design systems."
-        },
-        {
-          "keyword": "End-to-end features",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Michael operates across the full design lifecycle from 0-to-1."
-        },
-        {
-          "keyword": "Wireframes to polished UI",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Matches Michael's skills in UI Design and high-fidelity prototyping."
-        }
-      ],
-      "status": "New",
-      "scannedAt": "2026-07-29T20:17:50.628Z",
-      "isNew": false
-    },
-    {
       "id": "job-v6zscs",
       "title": "Lead Product Designer",
       "company": "b.well Connected Health",
@@ -3990,7 +3914,120 @@
       "status": "New",
       "scannedAt": "2026-08-11T11:56:51.169Z",
       "isNew": false
+    },
+    {
+      "id": "job-k9y5s7",
+      "title": "Senior Product Designer",
+      "company": "Tremendous",
+      "companyDomain": "tremendous.com",
+      "industry": "B2B SaaS, Fintech",
+      "location": "Remote (United States)",
+      "postedAt": "2026-08-12",
+      "fitScore": 9,
+      "fitTier": "Strong Fit",
+      "fitExplanation": "Michael's 10+ years of experience, including 4 years in a senior/lead capacity, significantly exceed the 8+ years required for this role. His deep expertise in complex B2B SaaS, transactional flows, and financial platforms aligns perfectly with Tremendous's global payouts platform for businesses. The job emphasizes simplifying complex systems, owning design end-to-end, contributing to design systems, and leveraging AI tools (like v0, Claude, Cursor), all areas where Michael has demonstrated strong experience and notable outcomes at Tackle.io and Infragistics. The fully remote nature of the role and focus on clarity and trust in complex systems are direct matches for his preferences and design philosophy. Furthermore, the company's profitability and growth indicate the desired stability and resources. Michael's background in visual systems and copywriting skills are also highly relevant as designers at Tremendous own product copy. The role is an IC contributor, which aligns with Michael's current targeting.",
+      "source": "Tremendous Careers Page",
+      "applyUrl": "https://www.tremendous.com/careers",
+      "isOffLinkedIn": true,
+      "jobDescription": "Tremendous operates a global platform that enables businesses to efficiently send thousands of payouts worldwide. The company is committed to designing thoughtful and intuitive experiences for complex systems, prioritizing depth and scalability over rapid, superficial changes. As a fully remote organization with a high-documentation and low-meeting culture, Tremendous fosters an environment where team members can focus on impactful work. The Senior Product Designer will take full ownership of a specific product area, crafting elegant interfaces and overseeing all product-related content. Key aspects of the role include strategic input, active contribution to the company's design system, and the innovative application of AI tools in the design process.\n\nCore Responsibilities:\n*   Lead the end-to-end design for a designated product area, focusing on user experience and achieving business goals.\n*   Develop rational, elegant, and intuitive interfaces, ensuring a balance between ease of implementation and high visual quality.\n*   Manage and create product copy integrated into designs.\n*   Provide strategic influence by contributing to the team's vision, planning, and roadmap development.\n*   Actively build, improve, and maintain the company's design system to ensure consistency and usability across the financial platform.\n*   Produce comprehensive documentation (e.g., Figma files, Notion docs) to provide clear context, constraints, and options, facilitating asynchronous collaboration.\n*   Proactively integrate and utilize AI tools (such as v0, Claude, or Cursor) throughout the design workflow for research, rapid prototyping, and iterative design.\n*   Conduct user research and usability tests to gain a deep understanding of user needs and validate design solutions.\n*   Design for a diverse user base, incorporating principles of accessibility and internationalization.\n*   Engage in close collaboration with Product Managers and Engineers.\n\nRequirements:\n*   Minimum of 8 years of experience in product design.\n*   Prior experience in a startup or fast-paced product company environment.\n*   A portfolio demonstrating the creation of functional, simple, and delightful user interfaces, with a strong emphasis on problem-solving and user impact.\n*   Demonstrated experience in developing, maintaining, and enhancing design systems.\n*   Exceptional written communication and copywriting skills.\n*   Experience applying AI tools in the design workflow, including for prototyping.\n*   Capability to navigate ambiguity, conduct independent research, and make informed decisions.\n*   Experience designing for complex systems and financial platforms is considered a significant advantage.",
+      "specialty": "Financial Platform / Payouts",
+      "salary": "$200,000 - $265,000",
+      "keywords": [
+        {
+          "keyword": "Product Design",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael has 10+ years experience, significantly exceeding the 8+ years required."
+        },
+        {
+          "keyword": "B2B SaaS",
+          "inProfile": true,
+          "relevance": "highly relevant",
+          "note": "Tremendous is a B2B platform, aligning with Michael's primary industry expertise."
+        },
+        {
+          "keyword": "Fintech",
+          "inProfile": true,
+          "relevance": "highly relevant",
+          "note": "The platform handles payouts and is a financial platform, directly matching Michael's fintech experience."
+        },
+        {
+          "keyword": "Complex Systems",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "A core aspect of Michael's expertise is making complex systems delightful and tactile, directly addressed in the job description."
+        },
+        {
+          "keyword": "Design Systems",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael has extensive experience in establishing and contributing to design systems, a key requirement."
+        },
+        {
+          "keyword": "AI Tools",
+          "inProfile": true,
+          "relevance": "highly relevant",
+          "note": "Michael actively uses AI tools (Figma Make, Cursor) and the role explicitly requires experience with AI in the design workflow."
+        },
+        {
+          "keyword": "User Research",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael conducts user research across the full design lifecycle."
+        },
+        {
+          "keyword": "Prototyping",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael excels in high-fidelity interactive prototyping."
+        },
+        {
+          "keyword": "UI Design",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael's background in visual systems and graphic design provides a strong foundation for UI craft."
+        },
+        {
+          "keyword": "User Flows",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael specializes in complex workflow design."
+        },
+        {
+          "keyword": "Interaction Design",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael's design philosophy emphasizes tactile interaction design."
+        },
+        {
+          "keyword": "Written Communication",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael's background and the role's requirement for owning product copy are a strong match."
+        },
+        {
+          "keyword": "0-to-1 discovery",
+          "inProfile": true,
+          "relevance": "highly relevant",
+          "note": "Michael thrives in ambiguous 0-to-1 problem spaces, which is relevant for a role owning a product area end-to-end."
+        },
+        {
+          "keyword": "Cross-functional collaboration",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael operates effectively in cross-functional teams."
+        },
+        {
+          "keyword": "Remote",
+          "inProfile": true,
+          "relevance": "preferred",
+          "note": "The role is fully remote in the US, aligning with Michael's preference."
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-08-13T12:00:07.037Z",
+      "isNew": true
     }
   ],
-  "scannedAt": "2026-08-12T20:05:22.841Z"
+  "scannedAt": "2026-08-13T12:04:26.748Z"
 }
