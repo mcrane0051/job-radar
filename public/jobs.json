@@ -151,57 +151,6 @@
       ],
       "status": "New",
       "scannedAt": "2026-08-13T19:59:27.407Z",
-      "isNew": true
-    },
-    {
-      "id": "job-30yvyf",
-      "title": "Senior Product Designer",
-      "company": "Remote",
-      "companyDomain": "remote.com",
-      "industry": "B2B SaaS, HRTech, FinTech",
-      "location": "Remote (U.S. Only)",
-      "postedAt": "2026-07-30",
-      "fitScore": 9,
-      "fitTier": "Strong Fit",
-      "fitExplanation": "This role is a strong fit due to its remote nature, focus on complex B2B SaaS solutions, and preference for candidates with HRTech and FinTech experience, all of which align perfectly with Michael's profile. He has over 10 years of experience, leads design initiatives, and is comfortable with ambiguity, matching the requirements. The company is Series C funded, meeting the minimum stage requirement.",
-      "source": "Remote.co",
-      "applyUrl": "N/A",
-      "specialty": "",
-      "salary": "$160,000 - $175,000",
-      "keywords": [
-        {
-          "keyword": "B2B SaaS",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Candidate specializes in complex B2B SaaS products."
-        },
-        {
-          "keyword": "HRTech",
-          "inProfile": true,
-          "relevance": "preferred",
-          "note": "Candidate has deep context in HR tech."
-        },
-        {
-          "keyword": "FinTech",
-          "inProfile": true,
-          "relevance": "preferred",
-          "note": "Candidate has strong finance and FinTech adjacent experience."
-        },
-        {
-          "keyword": "Cross-functional collaboration",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Candidate operates effectively across the full design lifecycle, working closely with product managers, engineering leads, and executives."
-        },
-        {
-          "keyword": "Ambiguity",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Candidate thrives in ambiguous 0-to-1 problem spaces."
-        }
-      ],
-      "status": "New",
-      "scannedAt": "2026-07-30T20:34:53.782Z",
       "isNew": false
     },
     {
@@ -337,417 +286,6 @@
       ],
       "status": "New",
       "scannedAt": "2026-08-08T19:44:30.585Z",
-      "isNew": false
-    },
-    {
-      "id": "job-syuuu7",
-      "title": "Senior Staff Product Designer",
-      "company": "Gusto",
-      "companyDomain": "gusto.com",
-      "industry": "Fintech, HR Tech, B2B SaaS",
-      "location": "Remote or Hybrid (New York, NY)",
-      "postedAt": "2026-07-29",
-      "fitScore": 9,
-      "fitTier": "Strong Fit",
-      "fitExplanation": "This Senior Staff role at Gusto is an excellent match given Michael's 10+ years of experience and his desire for staff-level work. Gusto operates in the FinTech and HR Tech industries, which are areas of deep context for the candidate, including transactional flows and payment reconciliation. The role offers remote flexibility, with a hybrid option in NYC, which is acceptable. The company is well-established (Series E).",
-      "source": "JobLeads.com",
-      "applyUrl": "N/A",
-      "specialty": "Finance",
-      "salary": "$172,000 - $253,000",
-      "keywords": [
-        {
-          "keyword": "Fintech",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Candidate has deep context in Finance and FinTech adjacent roles."
-        },
-        {
-          "keyword": "HR Tech",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Candidate has HR tech background (iCIMS)."
-        },
-        {
-          "keyword": "Senior Staff",
-          "inProfile": true,
-          "relevance": "target level",
-          "note": "Candidate is targeting Staff Product Designer roles."
-        },
-        {
-          "keyword": "Remote",
-          "inProfile": true,
-          "relevance": "preferred",
-          "note": "Candidate prefers remote work."
-        },
-        {
-          "keyword": "Hybrid (NYC)",
-          "inProfile": true,
-          "relevance": "acceptable",
-          "note": "NYC is an acceptable hybrid location."
-        }
-      ],
-      "status": "New",
-      "scannedAt": "2026-07-30T20:34:53.782Z",
-      "isNew": false
-    },
-    {
-      "id": "job-jpxcky",
-      "title": "Senior Staff Product Designer",
-      "company": "Stripe",
-      "companyDomain": "stripe.com",
-      "industry": "Fintech, Financial Infrastructure",
-      "location": "Hybrid in New York, NY",
-      "postedAt": "2026-07-29",
-      "fitScore": 8,
-      "fitTier": "Good Fit",
-      "fitExplanation": "This Staff-level role at Stripe is an outstanding match for Michael's expertise in financial infrastructure, complex transactional systems, and marketplace experience. His ability to shape strategy in ambiguous, high-stakes environments and work with AI tools is directly relevant. The company is a prominent FinTech leader. While the hybrid NYC location is acceptable, it incurs a slight deduction as remote is preferred.",
-      "source": "WhatJobs US",
-      "applyUrl": "N/A",
-      "specialty": "Risk",
-      "salary": "$228,300 - $342,500",
-      "keywords": [
-        {
-          "keyword": "Risk",
-          "inProfile": false,
-          "relevance": "required",
-          "note": "Focus area aligns with candidate's experience in high-stakes problem spaces."
-        },
-        {
-          "keyword": "Fintech",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Candidate has deep context in Finance and FinTech adjacent roles."
-        },
-        {
-          "keyword": "Platform design",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Candidate has platform-level design work experience."
-        },
-        {
-          "keyword": "AI-driven workflows",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Candidate has experience with AI tools and complex AI-driven systems."
-        },
-        {
-          "keyword": "Complex product work",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Candidate specializes in complex B2B SaaS products and systems."
-        },
-        {
-          "keyword": "Ambiguous spaces",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Candidate thrives in ambiguous 0-to-1 discovery through to shipped product."
-        },
-        {
-          "keyword": "Systems thinking",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Candidate applies rigorous systems thinking to design."
-        }
-      ],
-      "status": "New",
-      "scannedAt": "2026-07-30T20:34:53.782Z",
-      "isNew": false
-    },
-    {
-      "id": "job-dasm9x",
-      "title": "Senior Product Designer",
-      "company": "Uber",
-      "companyDomain": "uber.com",
-      "industry": "Marketplace, Enterprise Software, Logistics",
-      "location": "Hybrid in New York City, US",
-      "postedAt": "2026-07-29",
-      "fitScore": 7,
-      "fitTier": "Good Fit",
-      "fitExplanation": "This role involves designing for Uber's delivery marketplace, aligning with Michael's experience in marketplace infrastructure and complex logistical/technical systems. His background in 0-to-1 design, end-to-end ownership, and contributing to design systems is highly relevant. The preferred qualifications mention Fintech and Enterprise/Operational tools. The hybrid NYC location is acceptable, but leads to a slight score reduction.",
-      "source": "Uber Careers",
-      "applyUrl": "N/A",
-      "specialty": "Uber Direct & Connect",
-      "salary": "",
-      "keywords": [
-        {
-          "keyword": "Marketplace",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Candidate has experience with marketplace infrastructure."
-        },
-        {
-          "keyword": "Logistical and technical systems",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Candidate specializes in making complex systems delightful."
-        },
-        {
-          "keyword": "End-to-end design",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Candidate operates effectively across the full design lifecycle."
-        },
-        {
-          "keyword": "Design systems",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Candidate has experience establishing scalable design systems."
-        },
-        {
-          "keyword": "Fintech (preferred)",
-          "inProfile": true,
-          "relevance": "preferred",
-          "note": "Candidate has FinTech adjacent experience."
-        },
-        {
-          "keyword": "Enterprise/Operational tools (preferred)",
-          "inProfile": true,
-          "relevance": "preferred",
-          "note": "Candidate has deep context in enterprise software."
-        }
-      ],
-      "status": "New",
-      "scannedAt": "2026-07-30T20:34:53.782Z",
-      "isNew": false
-    },
-    {
-      "id": "job-lped2s",
-      "title": "Senior Product Designer",
-      "company": "Suralink",
-      "companyDomain": "suralink.com",
-      "industry": "B2B SaaS, Fintech, Accounting/Compliance Software",
-      "location": "Remote",
-      "postedAt": "2026-07-30",
-      "fitScore": 9,
-      "fitTier": "Strong Fit",
-      "fitExplanation": "This remote role is an exceptionally strong fit, particularly due to its focus on AI-powered B2B SaaS for accounting/fintech/compliance, a domain highly aligned with Michael's expertise in complex data systems, transactional flows, and making systems trustworthy. His experience with 0-to-1 initiatives, design systems, Figma, and data-driven decision-making is directly applicable. While a Series A company, its significant strategic growth investment suggests ample resources and stability, meeting the candidate's core need for meaningful runway. [cite: 1, 2, 3, 4, 5, 9 of prev. turn output]",
-      "source": "Jobgether",
-      "applyUrl": "N/A",
-      "specialty": "AI-Powered B2B SaaS",
-      "salary": "",
-      "keywords": [
-        {
-          "keyword": "AI-powered",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Candidate has experience with AI tools and AI-assisted workflows."
-        },
-        {
-          "keyword": "B2B SaaS",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Candidate specializes in complex B2B SaaS products."
-        },
-        {
-          "keyword": "0-to-1 initiatives",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Candidate thrives in ambiguous 0-to-1 problem spaces."
-        },
-        {
-          "keyword": "Design system",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Candidate has experience establishing scalable design systems."
-        },
-        {
-          "keyword": "Figma",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Candidate is proficient in Figma."
-        },
-        {
-          "keyword": "Fintech",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Candidate has deep context in Finance and FinTech adjacent roles."
-        },
-        {
-          "keyword": "Compliance-driven",
-          "inProfile": true,
-          "relevance": "strong match",
-          "note": "Candidate specializes in high-stakes, high-complexity problem spaces where clarity and trust are the design challenge."
-        }
-      ],
-      "status": "New",
-      "scannedAt": "2026-07-30T20:34:53.782Z",
-      "isNew": false
-    },
-    {
-      "id": "job-3ez288",
-      "title": "Senior Product Designer",
-      "company": "Playlab",
-      "companyDomain": "playlab.com",
-      "industry": "Artificial Intelligence, Fintech, B2B, Educational Technology",
-      "location": "Remote (United States)",
-      "postedAt": "2026-07-30",
-      "fitScore": 8,
-      "fitTier": "Good Fit",
-      "fitExplanation": "This remote role aligns well with Michael's expertise in AI-powered workflows and FinTech, particularly in banking and credit unions. His ability to design intuitive user experiences for complex systems is highly relevant. Although Playlab is a non-profit, its mission to build AI-powered tools and experiences, and providing infrastructure for researchers, suggests a stable and impactful environment, which could meet the spirit of Michael's 'meaningful runway' preference despite not being a Series C for-profit. [cite: 4, 9 of prev. turn output]",
-      "source": "Remote Rocketship",
-      "applyUrl": "N/A",
-      "specialty": "AI-powered workflow agents for banking and credit unions",
-      "salary": "$120,000 - $170,000",
-      "keywords": [
-        {
-          "keyword": "AI-powered workflow agents",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Candidate has experience with AI tools."
-        },
-        {
-          "keyword": "Banking",
-          "inProfile": true,
-          "relevance": "strong match",
-          "note": "Candidate has FinTech adjacent experience, including payment reconciliation and transactional flows."
-        },
-        {
-          "keyword": "Fintech",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Candidate has deep context in FinTech adjacent roles."
-        },
-        {
-          "keyword": "Intuitive user experiences",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Candidate specializes in making complex systems delightful and tactile."
-        },
-        {
-          "keyword": "Remote",
-          "inProfile": true,
-          "relevance": "preferred",
-          "note": "Candidate prefers remote work."
-        }
-      ],
-      "status": "New",
-      "scannedAt": "2026-07-30T20:34:53.782Z",
-      "isNew": false
-    },
-    {
-      "id": "job-dqo7og",
-      "title": "Senior Product Designer",
-      "company": "Salesforce",
-      "companyDomain": "salesforce.com",
-      "industry": "Enterprise Software, AI, CRM, Cloud Infrastructure",
-      "location": "Remote (US)",
-      "postedAt": "2026-07-29",
-      "fitScore": 10,
-      "fitTier": "Strong Fit",
-      "fitExplanation": "This role at Salesforce is an outstanding fit. It focuses on defining AI-powered merchandising experiences within their Commerce Cloud, directly aligning with Michael's expertise in complex B2B SaaS, enterprise seller tools, and AI-driven workflows. His 0-to-1 experience, design systems background, and ability to simplify complex platforms are highly relevant. Salesforce is a leader in enterprise software and well beyond Series C. The remote-friendly nature (with potential for higher salary in SF/NYC) also fits his preferences. [cite: 12 of prev. turn output]",
-      "source": "myworkdayjobs.com",
-      "applyUrl": "N/A",
-      "specialty": "Commerce Cloud - Agentic Merchandising",
-      "salary": "$148,500 - $223,900",
-      "keywords": [
-        {
-          "keyword": "Agentic merchandising",
-          "inProfile": false,
-          "relevance": "strong match",
-          "note": "Relates to Michael's experience in seller workflows and revenue operations."
-        },
-        {
-          "keyword": "AI",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Candidate has experience with AI tools."
-        },
-        {
-          "keyword": "Enterprise software",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Candidate specializes in complex B2B SaaS products and enterprise software."
-        },
-        {
-          "keyword": "Platform complexity",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Candidate focuses on simplifying workflows and scaling existing products."
-        },
-        {
-          "keyword": "Design systems",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Candidate has experience establishing scalable design systems."
-        },
-        {
-          "keyword": "User-centered design",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Candidate's design philosophy is user-centered."
-        },
-        {
-          "keyword": "0-to-1",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Candidate thrives in ambiguous 0-to-1 problem spaces."
-        }
-      ],
-      "status": "New",
-      "scannedAt": "2026-07-30T20:34:53.782Z",
-      "isNew": false
-    },
-    {
-      "id": "job-9wqmim",
-      "title": "Senior Product Designer",
-      "company": "DXC Technology",
-      "companyDomain": "dxc.com",
-      "industry": "Enterprise Technology, AI, Insurance Tech, B2B SaaS",
-      "location": "Remote (US)",
-      "postedAt": "2026-07-29",
-      "fitScore": 10,
-      "fitTier": "Strong Fit",
-      "fitExplanation": "This remote role at DXC Technology is a perfect match for Michael. It involves shaping the next generation of enterprise insurance technology with a focus on AI-powered and workflow automation initiatives. His expertise in complex B2B SaaS, data-rich interfaces, end-to-end design, and leadership/mentorship capabilities are directly sought after. DXC Technology is a global enterprise well beyond Series C. [cite: 16 of prev. turn output]",
-      "source": "myworkdayjobs.com",
-      "applyUrl": "N/A",
-      "specialty": "UX, AI & Automation for Smart Apps (Insurance Tech)",
-      "salary": "",
-      "keywords": [
-        {
-          "keyword": "Enterprise insurance technology",
-          "inProfile": true,
-          "relevance": "strong match",
-          "note": "Candidate has FinTech adjacent experience and complex workflow design."
-        },
-        {
-          "keyword": "AI-powered",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Candidate has experience with AI tools and AI-assisted workflows."
-        },
-        {
-          "keyword": "Workflow automation",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Candidate has experience in simplifying workflows and scaling existing products."
-        },
-        {
-          "keyword": "Complex business challenges",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Candidate specializes in complex B2B SaaS products and problem spaces."
-        },
-        {
-          "keyword": "End-to-end design",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Candidate operates effectively across the full design lifecycle."
-        },
-        {
-          "keyword": "Data-rich, workflow-driven enterprise applications",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Candidate specializes in complex B2B SaaS product design, data-heavy interfaces, and transactional workflows."
-        },
-        {
-          "keyword": "Mentorship",
-          "inProfile": true,
-          "relevance": "desired",
-          "note": "Candidate brings mentorship experience."
-        }
-      ],
-      "status": "New",
-      "scannedAt": "2026-07-30T20:34:53.782Z",
       "isNew": false
     },
     {
@@ -1590,7 +1128,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-08-13T19:59:27.407Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-mmhutc",
@@ -4101,7 +3639,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-08-13T19:59:27.407Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-6psnek",
@@ -4168,7 +3706,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-08-13T19:59:27.407Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-xmnif0",
@@ -4239,7 +3777,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-08-13T19:59:27.407Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-dr2qio",
@@ -4315,8 +3853,8 @@
       ],
       "status": "New",
       "scannedAt": "2026-08-13T19:59:27.407Z",
-      "isNew": true
+      "isNew": false
     }
   ],
-  "scannedAt": "2026-08-13T20:00:32.786Z"
+  "scannedAt": "2026-08-14T11:58:00.556Z"
 }
