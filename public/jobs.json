@@ -289,84 +289,6 @@
       "isNew": false
     },
     {
-      "id": "job-4f6ibg",
-      "title": "Senior Product Designer",
-      "company": "Hightouch",
-      "companyDomain": "hightouch.com",
-      "industry": "B2B SaaS",
-      "location": "Remote",
-      "postedAt": "2026-07-31",
-      "fitScore": 9.5,
-      "fitTier": "Strong Fit",
-      "fitExplanation": "This role is a strong fit as it's a remote Senior Product Designer position in B2B SaaS, which aligns perfectly with Michael's expertise. The focus on AI-first marketing platform, customer data platforms (CDP), and agentic marketing aligns with his experience in complex data systems and use of AI tools (Figma Make, Cursor). The role involves 0-to-1 product work, which Michael thrives in, and requires strong visual, UI, and interaction design skills, echoing his background in visual systems and craft. The company is Series C funded, meeting the minimum company stage requirement.",
-      "source": "Sapphire Ventures Job Board",
-      "applyUrl": "https://www.hightouch.com/careers/senior-product-designer-ai-creative-tools",
-      "isOffLinkedIn": false,
-      "jobDescription": "Hightouch is seeking a Senior Product Designer to shape the future of agentic marketing by designing AI-powered creative tools. This role involves end-to-end design for new product initiatives, blending first-party data with machine learning models to create innovative solutions.\n\nKey responsibilities include:\n*   Designing user-friendly features and applications for technical domains, particularly B2B data or marketing products.\n*   Driving 0-to-1 product development in a fast-moving, high-stakes environment.\n*   Applying sharp visual, UI, and interaction design skills to transform user problems into high-fidelity solutions.\n*   Engaging with emerging AI technologies and experimenting with new tools.\n*   Collaborating as a humble and kind team player.\n\nRequired qualifications:\n*   6+ years of experience in product design, ideally in technical or B2B data/marketing spaces.\n*   Demonstrated curiosity and practical engagement with AI technologies.\n*   Exceptional craft in visual, UI, and interaction design.\n*   A collaborative and empathetic approach to teamwork.\n*   Proficiency in Figma (bonus if familiar with Cursor, Framer, or Claude Code).",
-      "specialty": "AI Creative Tools",
-      "keywords": [
-        {
-          "keyword": "Product Design",
-          "inProfile": true,
-          "relevance": "required"
-        },
-        {
-          "keyword": "B2B SaaS",
-          "inProfile": true,
-          "relevance": "required"
-        },
-        {
-          "keyword": "AI",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Candidate uses Figma Make and Cursor; job lists Cursor, Claude Code as bonus"
-        },
-        {
-          "keyword": "UI Design",
-          "inProfile": true,
-          "relevance": "required"
-        },
-        {
-          "keyword": "Interaction Design",
-          "inProfile": true,
-          "relevance": "required"
-        },
-        {
-          "keyword": "Figma",
-          "inProfile": true,
-          "relevance": "required"
-        },
-        {
-          "keyword": "User Research",
-          "inProfile": true,
-          "relevance": "implied"
-        },
-        {
-          "keyword": "0-to-1",
-          "inProfile": true,
-          "relevance": "required"
-        },
-        {
-          "keyword": "Enterprise Software",
-          "inProfile": true,
-          "relevance": "required"
-        },
-        {
-          "keyword": "Data-heavy interfaces",
-          "inProfile": true,
-          "relevance": "required"
-        },
-        {
-          "keyword": "Design Systems",
-          "inProfile": true,
-          "relevance": "good to have"
-        }
-      ],
-      "status": "New",
-      "scannedAt": "2026-08-01T12:13:01.593Z",
-      "isNew": false
-    },
-    {
       "id": "job-z26ku6",
       "title": "Senior Product Designer",
       "company": "Allocate",
@@ -3942,8 +3864,113 @@
       ],
       "status": "New",
       "scannedAt": "2026-08-15T11:33:46.295Z",
+      "isNew": false
+    },
+    {
+      "id": "job-rd0qi",
+      "title": "Senior Product Designer",
+      "company": "GoGuardian",
+      "companyDomain": "goguardian.com",
+      "industry": "EdTech / B2B SaaS",
+      "location": "Remote (U.S. Only)",
+      "postedAt": "2026-08-14",
+      "fitScore": 8,
+      "fitTier": "Good Fit",
+      "fitExplanation": "This role is a strong fit for Michael due to its focus on end-to-end design for complex products within a B2B context, which aligns with his extensive experience in B2B SaaS and 0-to-1 ambiguous problem spaces. The emphasis on user-centered design, clarity from complexity, and strong visual/interaction craft directly matches his design philosophy and skillset. While EdTech is not an industry of deep context for Michael, his transferable skills in complex systems, data, and workflows are highly relevant. The role's high-autonomy nature and strategic input also align with his target level.",
+      "source": "HighFive Partners Job Board",
+      "applyUrl": "N/A",
+      "jobDescription": "This Senior Product Designer role is within GoGuardian's New Products team, which operates like an internal startup, focusing on developing new educational technology solutions. The designer will own the end-to-end user experience for one of these products, driving strategy, interaction design, and visual craft. The position requires translating complex insights and systems into clear, intuitive experiences for K-12 educational users.\n\n**Core Responsibilities:**\n*   Lead the entire user experience for a specific product, from initial strategy to polished, shipped design.\n*   Make strategic design decisions grounded in product goals, customer needs, and business outcomes.\n*   Bring innovative ideas and a clear design perspective to the digital safety insights domain.\n*   Collaborate closely with Product Managers and senior engineers throughout the product lifecycle, from strategy and discovery to implementation, making thoughtful tradeoffs.\n*   Understand the underlying reasons for design work, connecting decisions to broader objectives.\n*   Create clarity from complexity, designing experiences that help users understand and navigate data, workflows, and new systems.\n*   Maintain a high standard for both interaction and visual design, focusing on quality and attention to detail.\n\n**Key Requirements:**\n*   Strong portfolio showcasing successful product designs and user-centered design principles.\n*   Demonstrated ability to own end-to-end user experience for a product.\n*   Experience making strategic design decisions informed by product goals and customer needs.\n*   Proven ability to create clear, intuitive experiences from complex data, workflows, or systems.\n*   High standards for interaction and visual design craft.\n*   Collaborative mindset, working effectively with cross-functional teams (PMs, engineers).\n*   Ability to work in a high-autonomy environment.",
+      "salary": "$145,000 - $165,000",
+      "keywords": [
+        {
+          "keyword": "User Research",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Job requires conducting research to inform decisions."
+        },
+        {
+          "keyword": "User Flows",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Implied in end-to-end design ownership and creating clarity from complex workflows."
+        },
+        {
+          "keyword": "Journey Mapping",
+          "inProfile": true,
+          "relevance": "good",
+          "note": "Implied in understanding and shaping end-to-end user experience."
+        },
+        {
+          "keyword": "Information Architecture",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Crucial for creating clarity from complex systems."
+        },
+        {
+          "keyword": "UI Design",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Explicitly mentioned 'polished visual craft' and 'visually compelling interfaces'."
+        },
+        {
+          "keyword": "Wireframing",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Implied in end-to-end design process."
+        },
+        {
+          "keyword": "Prototyping",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Implied in end-to-end design process and iterating on solutions."
+        },
+        {
+          "keyword": "Design Systems",
+          "inProfile": true,
+          "relevance": "good",
+          "note": "While not explicitly mentioned, strong craft and consistency often leverage design systems."
+        },
+        {
+          "keyword": "0-to-1 discovery",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "The role is within a 'New Products team' operating like a startup, indicating 0-to-1 work."
+        },
+        {
+          "keyword": "Complex B2B SaaS",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "GoGuardian is a B2B company providing solutions to schools/districts (B2B SaaS)."
+        },
+        {
+          "keyword": "Data-heavy interfaces",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Implied in 'navigating data' and 'digital safety insights space'."
+        },
+        {
+          "keyword": "Cross-functional collaboration",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Explicitly mentioned collaboration with PMs and engineers."
+        },
+        {
+          "keyword": "Design strategy",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Explicitly mentioned 'lead the design for your product, from strategy'."
+        },
+        {
+          "keyword": "Figma",
+          "inProfile": true,
+          "relevance": "good",
+          "note": "Standard tool for product designers, likely used."
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-08-15T19:34:23.909Z",
       "isNew": true
     }
   ],
-  "scannedAt": "2026-08-15T11:34:52.919Z"
+  "scannedAt": "2026-08-15T19:35:52.273Z"
 }
