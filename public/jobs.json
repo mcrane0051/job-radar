@@ -3854,7 +3854,96 @@
       "status": "New",
       "scannedAt": "2026-08-13T19:59:27.407Z",
       "isNew": false
+    },
+    {
+      "id": "job-rvo4z6",
+      "title": "Staff Product Designer",
+      "company": "ServiceNow",
+      "companyDomain": "servicenow.com",
+      "industry": "Enterprise Software, B2B SaaS, Cloud Computing",
+      "location": "Remote, US",
+      "postedAt": "2026-08-14",
+      "fitScore": 9,
+      "fitTier": "Strong Fit",
+      "fitExplanation": "This role is a strong fit given Michael's extensive experience (10+ years) in complex B2B SaaS and enterprise software, specifically with cloud-based platforms and workflows. His background in design systems, leading end-to-end design, and focusing on user experience for diverse audiences directly aligns with the job's emphasis on designing complex information architectures and UX systems for enterprise users. The company's focus on digital workflows and cloud computing further enhances the alignment. The \"Staff Product Designer\" title also matches his target level, and the remote US location is a preferred arrangement.",
+      "source": "Welcome to the Jungle (formerly Otta)",
+      "applyUrl": "N/A",
+      "isOffLinkedIn": false,
+      "jobDescription": "ServiceNow is seeking a Staff Product Designer for their Customer & Partner Experience (CPEX) team. This role involves leading cross-functional design initiatives and shaping the user experience strategy for ServiceNow's next-generation mobile platform and personalization engine. The ideal candidate will have substantial experience in digital product design, encompassing both B2B SaaS and B2C principles, and a proven track record in developing complex information architectures and user experience systems for varied user groups. The position requires strong design leadership, the ability to guide teams through rapid iteration cycles, manage feedback effectively, and maintain high-quality standards across concurrent projects. A key aspect of the role is articulating UX architecture frameworks that seamlessly integrate platform conventions into cohesive web experiences. ServiceNow specializes in cloud-based digital workflows for enterprises, aiming to simplify IT service management and offer highly customizable solutions. The company is a large, established enterprise, indicating a stable environment with significant resources. \n\n**Core Responsibilities and Requirements:**\n*   Lead product design for enterprise multi-cloud transactional platforms, focusing on customer and partner experiences.\n*   Design complex information architectures and robust UX systems for diverse user segments (learners, administrators, community members).\n*   Drive end-to-end design strategy, from narrative development to high-fidelity execution.\n*   Exhibit design leadership by guiding teams through rapid iteration, managing feedback, and ensuring quality.\n*   Develop UX architecture frameworks to translate platform conventions into unified web experiences.\n*   Collaborate with cross-functional teams to deliver impactful product experiences.\n*   Demonstrate strong expertise in B2B SaaS and, ideally, B2C design.\n*   Proficiency in Figma for design work.",
+      "specialty": "Customer & Partner Experience (CPEX)",
+      "salary": "$149.8k - $262.2k",
+      "keywords": [
+        {
+          "keyword": "B2B SaaS",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Explicitly required in job description, a core area of Michael's expertise."
+        },
+        {
+          "keyword": "Enterprise UX",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Job focuses on cloud-based digital workflows for enterprises, aligning with Michael's experience."
+        },
+        {
+          "keyword": "Cloud Computing",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "ServiceNow is a leader in cloud-based digital workflows, a strong match for Michael's cloud marketplace/revenue operations experience."
+        },
+        {
+          "keyword": "Design Systems",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael has experience establishing scalable design systems; job mentions articulating UX architecture frameworks and platform conventions."
+        },
+        {
+          "keyword": "Information Architecture",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Explicitly mentioned as a key requirement, matching Michael's skills."
+        },
+        {
+          "keyword": "UX Systems",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Explicitly mentioned as a key requirement, matching Michael's skills."
+        },
+        {
+          "keyword": "Design Leadership",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Job requires demonstrated design leadership, aligning with Michael's Lead Product Designer experience at Tackle.io and team lead at Infragistics."
+        },
+        {
+          "keyword": "Figma",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Explicitly mentioned as a required tool."
+        },
+        {
+          "keyword": "Complex workflows",
+          "inProfile": true,
+          "relevance": "good",
+          "note": "Job involves designing complex information architectures and UX systems, matching Michael's work on transactional flows and seller workflows."
+        },
+        {
+          "keyword": "0-to-1 discovery",
+          "inProfile": true,
+          "relevance": "good",
+          "note": "Michael thrives in ambiguous 0-to-1 problem spaces, which is relevant for next-generation platform strategy."
+        },
+        {
+          "keyword": "Cross-functional collaboration",
+          "inProfile": true,
+          "relevance": "good",
+          "note": "Job emphasizes cross-functional design initiatives, aligning with Michael's collaborative approach."
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-08-15T11:33:46.295Z",
+      "isNew": true
     }
   ],
-  "scannedAt": "2026-08-14T19:58:05.493Z"
+  "scannedAt": "2026-08-15T11:34:52.919Z"
 }
