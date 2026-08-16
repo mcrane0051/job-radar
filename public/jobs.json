@@ -289,691 +289,6 @@
       "isNew": false
     },
     {
-      "id": "job-z26ku6",
-      "title": "Senior Product Designer",
-      "company": "Allocate",
-      "companyDomain": "allocate.co",
-      "industry": "Fintech",
-      "location": "Remote (U.S. Only)",
-      "postedAt": "2026-08-01",
-      "fitScore": 9,
-      "fitTier": "Strong Fit",
-      "fitExplanation": "This role is a strong fit due to its focus on a remote Senior Product Designer position within the fintech industry, which aligns perfectly with Michael's deep experience in transactional flows and payment reconciliation. The emphasis on leading discovery and design efforts for an AI-powered platform also matches Michael's expertise in making complex systems delightful and tactile, as well as his recent experience with AI tools. The mention of strong information architecture and problem-solving in data-dense domains (fintech, analytics, developer tools, admin platforms) directly reflects his strengths.",
-      "source": "WhatJobs",
-      "applyUrl": "N/A",
-      "isOffLinkedIn": false,
-      "jobDescription": "Allocate is seeking a Senior Product Designer to shape the user experience for their AI-powered technology. This individual will own key product areas, lead discovery and design efforts, and collaborate closely with product managers, engineers, and other designers. The role emphasizes autonomy, collaboration, and user-centricity.\n\nCore Responsibilities:\n* Lead the end-to-end design process from research to final designs.\n* Design intuitive desktop and mobile experiences.\n* Simplify complex user journeys and business workflows.\n* Work within established design systems.\n* Collaborate with Product, Engineering, Research, and Design teams.\n* Present design concepts and explain design decisions.\n\nRequirements:\n* Strong portfolio demonstrating information architecture and problem-solving in data-dense domains (fintech, analytics, developer tools, or admin platforms).\n* Experience shipping high-quality design for complex workflows.\n* Experience designing configuration, settings, or admin experiences where error prevention and scale are critical.\n* Strategic thinking and ability to connect design decisions to business objectives.\n* Grounded in design thinking and user-centered methodologies.\n* Clear communication skills with strong rationale for decisions.\n* Ability to translate ambiguity into clear direction.",
-      "specialty": "Fintech Platform Leader",
-      "salary": "$120,000 - $180,000",
-      "keywords": [
-        {
-          "keyword": "Fintech",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Deep context in Finance and FinTech adjacent - payment reconciliation, transactional flows, contract management"
-        },
-        {
-          "keyword": "AI-powered technology",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Used AI tools (Figma Make, Cursor) to accelerate discovery, prototyping, and stakeholder alignment"
-        },
-        {
-          "keyword": "Complex workflows",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Specializes in complex B2B SaaS products, complex data systems, seller workflows, transactional flows, payment reconciliation, and marketplace infrastructure"
-        },
-        {
-          "keyword": "Data-dense domains",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Complex B2B SaaS product design — data-heavy interfaces"
-        },
-        {
-          "keyword": "Design systems",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Experience establishing a scalable design system (Figma component library)"
-        },
-        {
-          "keyword": "User-centered methodologies",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Operates effectively across the full design lifecycle: from ambiguous 0-to-1 discovery through to shipped product and measured outcomes; User Research"
-        },
-        {
-          "keyword": "Remote",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Open to remote work arrangement"
-        }
-      ],
-      "status": "New",
-      "scannedAt": "2026-08-01T20:15:23.315Z",
-      "isNew": false
-    },
-    {
-      "id": "job-rv694z",
-      "title": "Staff Product Designer",
-      "company": "Twilio",
-      "companyDomain": "twilio.com",
-      "industry": "B2B SaaS, AI, Software",
-      "location": "Remote (U.S. Only)",
-      "postedAt": "2026-07-31",
-      "fitScore": 9,
-      "fitTier": "Strong Fit",
-      "fitExplanation": "This role is an excellent match due to its focus on an AI-powered B2B data product, which aligns with Michael's deep experience in complex B2B SaaS, data-heavy interfaces, and his recent use of AI tools. The responsibilities of translating complex AI and data concepts into intuitive interfaces, defining workflows, and contributing to design systems are all core strengths. The remote work arrangement is also a strong preference for Michael.",
-      "source": "Built In Boston",
-      "applyUrl": "N/A",
-      "isOffLinkedIn": false,
-      "jobDescription": "Twilio is hiring a Staff Product Designer to design the end-to-end UX for an AI-powered B2B data product. This individual will be responsible for translating complex AI and data concepts into intuitive and trustworthy interfaces, conducting user research, defining workflows, and collaborating with Product, Engineering, and Data Science teams. The role also involves contributing to and maintaining design systems and ensuring design quality through product launches.\n\nCore Responsibilities:\n* Design end-to-end UX for an AI-powered B2B data product.\n* Translate complex AI and data concepts into intuitive, trustworthy interfaces.\n* Conduct user research and define workflows.\n* Collaborate with Product, Engineering, and Data Science teams.\n* Contribute to design systems and maintain design quality through launches.\n\nRequirements:\n* Strong experience designing for complex B2B SaaS products.\n* Proven ability to work with AI and data-driven products.\n* Expertise in user research, workflow definition, and interface design.\n* Experience contributing to or leading design system initiatives.\n* Excellent collaboration and communication skills.",
-      "specialty": "AI-powered B2B Data Product",
-      "salary": "$159,000 - $208,000",
-      "keywords": [
-        {
-          "keyword": "B2B SaaS",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Specializes in complex B2B SaaS products"
-        },
-        {
-          "keyword": "AI-powered product design",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Used AI tools (Figma Make, Cursor) to accelerate discovery, prototyping, and stakeholder alignment"
-        },
-        {
-          "keyword": "Data-heavy interfaces",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Complex B2B SaaS product design — data-heavy interfaces"
-        },
-        {
-          "keyword": "Complex workflows",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Experience with complex data systems, seller workflows, transactional flows, payment reconciliation, and marketplace infrastructure"
-        },
-        {
-          "keyword": "User research",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Operates effectively across the full design lifecycle: from ambiguous 0-to-1 discovery through to shipped product and measured outcomes; User Research"
-        },
-        {
-          "keyword": "Design systems",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Experience establishing a scalable design system (Figma component library)"
-        },
-        {
-          "keyword": "Remote",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Open to remote work arrangement"
-        }
-      ],
-      "status": "New",
-      "scannedAt": "2026-08-01T20:15:23.315Z",
-      "isNew": false
-    },
-    {
-      "id": "job-rhgy3q",
-      "title": "Senior Staff Product Designer",
-      "company": "Cherry",
-      "companyDomain": "withcherry.com",
-      "industry": "Fintech",
-      "location": "Remote (U.S. Only)",
-      "postedAt": "2026-08-01",
-      "fitScore": 9,
-      "fitTier": "Strong Fit",
-      "fitExplanation": "This role aligns extremely well with Michael's profile, particularly his expertise in complex B2B SaaS products, transactional flows, and payment reconciliation, as the job involves 'checkout flows and financing tools'. The emphasis on making tools clear, reliable, and best-in-class for providers, combined with contributing to experience strategy and balancing short-term delivery with long-term systems thinking, speaks directly to Michael's design philosophy and capabilities. The Staff level and remote nature are also strong positives.",
-      "source": "ZipRecruiter",
-      "applyUrl": "N/A",
-      "isOffLinkedIn": false,
-      "jobDescription": "Cherry is seeking a Senior Staff Product Designer to contribute to the future of design across either their Core Experience or Checkout Experience pillar. The role focuses on ensuring tools and experiences for providers are clear, reliable, and best-in-class. This designer will contribute to experience strategy, drive design across various surfaces (provider app, checkout flows, financing tools), and shape solution direction. They will also contribute directly to design work, aim for measurable improvements, and work at the intersection of strong product judgment and high visual and interaction craft, balancing short-term delivery with long-term systems thinking. The role also includes team leadership aspects like providing direction, feedback, and coaching to other designers, and contributing to the quality bar across the pillar.\n\nCore Responsibilities:\n* Contribute to experience strategy, identifying high-leverage opportunities to improve provider outcomes.\n* Drive design across all surfaces within the pillar, including provider apps, checkout flows, and financing tools.\n* Shape solution direction and align cross-functional teams.\n* Contribute directly to design work and execution.\n* Drive measurable improvements in experience quality, conversion, and provider satisfaction.\n* Balance short-term delivery with long-term systems thinking.\n* Manage and develop a small team of product designers, providing direction and coaching.\n* Contribute to the quality bar across the pillar.\n\nRequirements:\n* Proven experience in a senior or staff product design role.\n* Strong product judgment and high visual and interaction craft.\n* Experience with complex workflows and enterprise tools.\n* Ability to lead design strategy and influence product direction.\n* Experience with team leadership, mentoring, and raising design quality.\n* Comfort working across the full design lifecycle.",
-      "specialty": "Core Experience or Checkout Experience",
-      "salary": "$180,000 - $220,000 (estimated based on similar roles and level)",
-      "keywords": [
-        {
-          "keyword": "Fintech",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Deep context in Finance and FinTech adjacent – payment reconciliation, transactional flows, contract management"
-        },
-        {
-          "keyword": "Complex B2B SaaS product design",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Specializes in complex B2B SaaS products"
-        },
-        {
-          "keyword": "Transactional flows",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Experience with transactional flows, payment reconciliation"
-        },
-        {
-          "keyword": "Visual craft",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Brings product thinking and visual craft into B2B software; unusually strong visual eye"
-        },
-        {
-          "keyword": "Design strategy",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Experience shaping design strategy at the team and org level"
-        },
-        {
-          "keyword": "Design systems",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Design systems and consistency at scale"
-        },
-        {
-          "keyword": "Mentorship",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Managed and mentored a team of 3 designers; mentored designers through career transitions and promotions"
-        },
-        {
-          "keyword": "Remote",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Open to remote work arrangement"
-        }
-      ],
-      "status": "New",
-      "scannedAt": "2026-08-01T20:15:23.315Z",
-      "isNew": false
-    },
-    {
-      "id": "job-s1zaq0",
-      "title": "Senior Product Designer",
-      "company": "Patlytics, Inc.",
-      "companyDomain": "patlytics.com",
-      "industry": "B2B SaaS, Legal Tech, AI",
-      "location": "Hybrid in NYC",
-      "postedAt": "2026-08-01",
-      "fitScore": 8,
-      "fitTier": "Good Fit",
-      "fitExplanation": "This hybrid role in NYC (a target location) is a strong match, particularly given Michael's experience in complex B2B SaaS and his recent engagement with AI tools. The requirement for designing workflow-heavy products, ideally in legal tech or enterprise tools, directly aligns with his expertise. His background in making complex systems tactile and trustworthy is critical for designing AI-powered products and understanding the UX challenges of LLM-based systems. The 1-2 point deduction for hybrid still keeps this a strong candidate.",
-      "source": "ZipRecruiter",
-      "applyUrl": "N/A",
-      "isOffLinkedIn": false,
-      "jobDescription": "Patlytics, Inc. is seeking a Senior Product Designer with 6+ years of experience for a hybrid role in New York City. This role involves end-to-end ownership of complex, workflow-heavy products, ideally in B2B SaaS, legal tech, professional services, or enterprise tools for expert users. A key aspect is the proven ability to design for AI-powered products, understanding the unique UX challenges of LLM-based systems (handling uncertainty, surfacing confidence, designing for variable outputs, managing user trust), and having shipped solutions that address them. The designer will make AI legible, designing interfaces that surface AI-generated insights in transparent, verifiable, and actionable ways, and stay at the forefront of AI interaction design.\n\nCore Responsibilities:\n* Own end-to-end design for complex, workflow-heavy products in B2B SaaS.\n* Design for AI-powered and LLM-based systems, addressing unique UX challenges like uncertainty and trust.\n* Make AI legible by designing transparent, verifiable, and actionable interfaces for AI-generated insights.\n* Stay at the forefront of AI interaction design, incorporating emerging patterns for human-AI collaboration.\n* Collaborate with product, engineering, and go-to-market teams.\n\nRequirements:\n* 6+ years of product design experience with a strong portfolio.\n* Expertise in complex, workflow-heavy products, ideally B2B SaaS, legal tech, or enterprise tools.\n* Proven ability to design for AI-powered products and LLM-based systems.\n* Understanding of UX challenges related to AI (uncertainty, trust, variable outputs).\n* Experience with prototyping and rapid iteration.\n* Strong communication and alignment skills.",
-      "specialty": "AI-powered Legal Tech",
-      "salary": "$160,000 - $210,000 (estimated based on NYC market for senior AI/B2B roles)",
-      "keywords": [
-        {
-          "keyword": "B2B SaaS",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Specializes in complex B2B SaaS products"
-        },
-        {
-          "keyword": "Legal Tech",
-          "inProfile": false,
-          "relevance": "strong_plus",
-          "note": "Relevant for 'industries with deep context' (enterprise software), Michael has HR tech background which is adjacent to specialized B2B"
-        },
-        {
-          "keyword": "Complex, workflow-heavy products",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Experience with complex data systems, seller workflows, transactional flows, payment reconciliation, and marketplace infrastructure"
-        },
-        {
-          "keyword": "AI-powered product design",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Used AI tools (Figma Make, Cursor) to accelerate discovery, prototyping, and stakeholder alignment"
-        },
-        {
-          "keyword": "User trust",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Clarity and trust are the design challenge in high-stakes problem spaces; visual craft is how users build trust"
-        },
-        {
-          "keyword": "Prototyping",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "High-fidelity interactive prototyping that bridges strategy and engineering"
-        },
-        {
-          "keyword": "Hybrid NYC",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Hybrid in NYC is a target location for Michael"
-        }
-      ],
-      "status": "New",
-      "scannedAt": "2026-08-01T20:15:23.315Z",
-      "isNew": false
-    },
-    {
-      "id": "job-7jetyk",
-      "title": "Senior Product Designer",
-      "company": "Tria Federal",
-      "companyDomain": "triafederal.com",
-      "industry": "Government, B2B SaaS, AI",
-      "location": "Remote (U.S. Only)",
-      "postedAt": "2026-08-01",
-      "fitScore": 8,
-      "fitTier": "Good Fit",
-      "fitExplanation": "This remote role is a good fit, aligning with Michael's expertise in complex B2B SaaS, operational workflows, and the application of design systems. His experience in making complex systems clear and trustworthy is particularly valuable for navigating regulatory requirements and AI-augmented human experiences within the federal space. The role's emphasis on integrating design thinking and contributing to design systems resonates strongly with his background. The security clearance requirement is a significant factor to note.",
-      "source": "ClearanceJobs",
-      "applyUrl": "N/A",
-      "isOffLinkedIn": false,
-      "jobDescription": "Tria Federal is seeking a Senior Product Designer for a remote role. This position involves serving as the design lead embedded within a product team, responsible for integrating design thinking and human-centered practices directly into the software development lifecycle. The designer will ensure user needs, operational workflows, and regulatory requirements are understood and reflected in product decisions from discovery through delivery. The role requires a T-shaped design leader who can lead both research and design activities, contribute to shared design systems, and help position Tria as a leader in modern, AI-augmented human experience delivery within the federal space.\n\nCore Responsibilities:\n* Integrate design thinking and human-centered practices into the software development lifecycle.\n* Ensure user needs, operational workflows, and regulatory requirements are reflected in product decisions.\n* Lead research and design activities.\n* Contribute to the development and adoption of shared design systems and reusable experience patterns.\n* Help establish best practices for integrating human-centered design into Agile delivery environments.\n* Contribute to reusable frameworks, playbooks, and templates.\n* Support efforts related to digital transformation and human-centered design, particularly in AI-augmented human experience delivery.\n\nRequirements:\n* Experience translating complex business, policy, or regulatory requirements into usable digital experiences.\n* Knowledge of accessibility compliance (Section 508 and WCAG 2.1 or higher).\n* Strong facilitation and communication skills.\n* Experience contributing to or maintaining design systems.\n* Ability to obtain and maintain a Public Trust clearance.\n* U.S. Citizenship required.\n* T-shaped design leader capabilities (research and design).",
-      "specialty": "AI-augmented Human Experience (Federal)",
-      "salary": "$140,000 - $190,000 (estimated for federal contractor senior design role)",
-      "keywords": [
-        {
-          "keyword": "B2B SaaS",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Specializes in complex B2B SaaS products, enterprise software"
-        },
-        {
-          "keyword": "Operational workflows",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Experience with seller workflows, transactional flows, payment reconciliation, and marketplace infrastructure"
-        },
-        {
-          "keyword": "Regulatory requirements",
-          "inProfile": true,
-          "relevance": "strong_plus",
-          "note": "Experience in high-stakes, high-complexity problem spaces where clarity and trust are the design challenge"
-        },
-        {
-          "keyword": "AI-augmented human experience",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Used AI tools (Figma Make, Cursor) to accelerate discovery, prototyping, and stakeholder alignment"
-        },
-        {
-          "keyword": "Design systems",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Experience establishing a scalable design system (Figma component library)"
-        },
-        {
-          "keyword": "User research",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Operates effectively across the full design lifecycle: from ambiguous 0-to-1 discovery through to shipped product and measured outcomes; User Research"
-        },
-        {
-          "keyword": "Remote",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Open to remote work arrangement"
-        }
-      ],
-      "status": "New",
-      "scannedAt": "2026-08-01T20:15:23.315Z",
-      "isNew": false
-    },
-    {
-      "id": "job-729nvd",
-      "title": "Senior Product Designer",
-      "company": "Filevine",
-      "companyDomain": "filevine.com",
-      "industry": "Legal Tech, Software",
-      "location": "Remote (U.S. Only)",
-      "postedAt": "2026-08-01",
-      "fitScore": 7,
-      "fitTier": "Good Fit",
-      "fitExplanation": "This remote Senior Product Designer role in legal tech presents a good fit, as legal tech involves complex workflows and data often seen in B2B SaaS. Michael's experience in streamlining complex data systems and enterprise software would be highly transferable. While legal tech isn't explicitly listed as a 'deep context' industry, it falls under enterprise software, and his ability to bring clarity and trust to high-stakes environments is very relevant.",
-      "source": "Built In",
-      "applyUrl": "N/A",
-      "isOffLinkedIn": false,
-      "jobDescription": "Filevine is seeking a Senior Product Designer. The specific details of the job description are not available in the provided snippet beyond the title and company, but given the company's industry (Legal Tech, Software), the role likely involves designing complex B2B SaaS solutions for legal professionals. It is a remote position.\n\nCore Responsibilities (Inferred based on industry and level):\n* Lead design initiatives for legal technology products.\n* Translate complex legal workflows and data into intuitive user experiences.\n* Conduct user research and gather feedback from legal professionals.\n* Collaborate with product managers and engineers to define and deliver solutions.\n* Contribute to the overall product strategy and design system.",
-      "specialty": "",
-      "salary": "$140,000 - $180,000 (estimated based on similar roles and industry)",
-      "keywords": [
-        {
-          "keyword": "Legal Tech",
-          "inProfile": false,
-          "relevance": "strong_plus",
-          "note": "Falls under Michael's broader enterprise software experience, similar complexity to HR tech"
-        },
-        {
-          "keyword": "Complex workflows",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Experience with complex data systems, seller workflows, transactional flows, payment reconciliation, and marketplace infrastructure"
-        },
-        {
-          "keyword": "B2B SaaS",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Specializes in complex B2B SaaS products"
-        },
-        {
-          "keyword": "Remote",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Open to remote work arrangement"
-        }
-      ],
-      "status": "New",
-      "scannedAt": "2026-08-01T20:15:23.315Z",
-      "isNew": false
-    },
-    {
-      "id": "job-3q1hks",
-      "title": "Senior Product Designer",
-      "company": "Stable",
-      "companyDomain": "usestable.com",
-      "industry": "Software, Information Technology",
-      "location": "Remote (U.S. Only)",
-      "postedAt": "2026-07-31",
-      "fitScore": 7,
-      "fitTier": "Good Fit",
-      "fitExplanation": "This remote Senior Product Designer role at Stable is a good fit for Michael, particularly given his strong background in B2B SaaS and enterprise software. While the specific product focus isn't detailed, his ability to manage full design lifecycles, develop design systems, and collaborate cross-functionally would be highly valuable in a software/IT context. Michael thrives in ambiguous problem spaces, and this role could offer such opportunities.",
-      "source": "Built In",
-      "applyUrl": "N/A",
-      "isOffLinkedIn": false,
-      "jobDescription": "Stable (usestable.com) is looking for a Senior Product Designer for a remote position. The specific details regarding the product and responsibilities are not available in the provided snippet. However, as a company operating in the Software and Information Technology sectors, the role likely involves designing and improving complex software solutions, potentially B2B SaaS or enterprise-level applications.\n\nCore Responsibilities (Inferred based on industry and level):\n* Lead design for key product areas, from concept to launch.\n* Conduct user research to understand user needs and pain points.\n* Create wireframes, prototypes, and high-fidelity designs.\n* Collaborate closely with product management and engineering teams.\n* Contribute to the evolution of the company's design system.\n* Advocate for user-centered design practices.",
-      "specialty": "",
-      "salary": "$130,000 - $170,000 (estimated based on similar remote senior design roles)",
-      "keywords": [
-        {
-          "keyword": "B2B SaaS",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Specializes in complex B2B SaaS products"
-        },
-        {
-          "keyword": "Enterprise software",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Lead product design for an enterprise multi-cloud transactional platform"
-        },
-        {
-          "keyword": "Design systems",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Experience establishing a scalable design system (Figma component library)"
-        },
-        {
-          "keyword": "Full design lifecycle",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Operates effectively across the full design lifecycle"
-        },
-        {
-          "keyword": "Cross-functional collaboration",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Worked closely with product managers, engineering leads, and executives"
-        },
-        {
-          "keyword": "Remote",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Open to remote work arrangement"
-        }
-      ],
-      "status": "New",
-      "scannedAt": "2026-08-01T20:15:23.315Z",
-      "isNew": false
-    },
-    {
-      "id": "job-hh2yq9",
-      "title": "Senior Product Designer - UX/UI Specialist",
-      "company": "Liberate Labs",
-      "companyDomain": "liberatelabs.com",
-      "industry": "Software",
-      "location": "Remote (U.S. Only)",
-      "postedAt": "2026-07-31",
-      "fitScore": 6,
-      "fitTier": "Possible",
-      "fitExplanation": "This remote Senior Product Designer role is a possible fit, particularly with the 'UX/UI Specialist' designation, which aligns with Michael's strong visual craft and experience in UI design. His background in complex B2B SaaS and design systems would be valuable. However, without specific industry or product details, it's hard to assess the complexity and problem space alignment fully, hence a moderate score.",
-      "source": "Built In",
-      "applyUrl": "N/A",
-      "isOffLinkedIn": false,
-      "jobDescription": "Liberate Labs is searching for a remote Senior Product Designer with a specialization in UX/UI. While the specific product focus and responsibilities are not detailed in the snippet, the role emphasizes expertise in user experience and user interface design. The company operates in the software industry.\n\nCore Responsibilities (Inferred based on title and level):\n* Drive UX strategy and execution for key product features.\n* Create high-fidelity UI designs, wireframes, and prototypes.\n* Conduct usability testing and user research.\n* Collaborate with cross-functional teams to translate requirements into design solutions.\n* Ensure visual consistency and adherence to design systems.\n* Elevate the overall user experience through strong visual and interaction design.",
-      "specialty": "UX/UI Specialist",
-      "salary": "$135,000 - $175,000 (estimated based on similar remote senior design roles)",
-      "keywords": [
-        {
-          "keyword": "UI Design",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Strong visual eye, applies visual craft and polish to information-dense enterprise software; UI Design skill"
-        },
-        {
-          "keyword": "UX Design",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Operates effectively across the full design lifecycle; User Research, User Flows, Journey Mapping, IA, Prototyping"
-        },
-        {
-          "keyword": "Design systems",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Experience establishing a scalable design system (Figma component library); Design systems and consistency at scale"
-        },
-        {
-          "keyword": "Remote",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Open to remote work arrangement"
-        }
-      ],
-      "status": "New",
-      "scannedAt": "2026-08-01T20:15:23.315Z",
-      "isNew": false
-    },
-    {
-      "id": "job-kdezhz",
-      "title": "Senior Product Designer",
-      "company": "CodePath.org",
-      "companyDomain": "codepath.org",
-      "industry": "Edtech, Social Impact",
-      "location": "Remote (U.S. Only)",
-      "postedAt": "2026-07-31",
-      "fitScore": 7,
-      "fitTier": "Good Fit",
-      "fitExplanation": "This remote Senior Product Designer role is a good fit despite being in Edtech (moderate alignment for Michael). The responsibilities, particularly mapping flows, navigation, IA, building/maintaining a design system, and product discovery, align strongly with Michael's core skills in complex system design and scaling products. His expertise in creating structure in ambiguous spaces is also very relevant to shaping a learning platform. The salary range is also suitable.",
-      "source": "Built In Philadelphia, PA",
-      "applyUrl": "N/A",
-      "isOffLinkedIn": false,
-      "jobDescription": "CodePath.org is seeking a remote Senior Product Designer to own the end-to-end experience design for their learning platform. This includes mapping user flows, navigation, and information architecture, as well as building and maintaining a design system. The designer will lead product discovery with users and stakeholders, produce engineer-ready wireframes, prototypes, and specifications, and partner closely with product managers and engineers. The role also involves directing a UI contractor to ensure high-quality, consistent experiences. The company is in the Edtech and Social Impact industries.\n\nCore Responsibilities:\n* Own end-to-end experience design for CodePath's learning platform.\n* Map flows, navigation, and information architecture.\n* Build and maintain a design system.\n* Run product discovery with users and stakeholders.\n* Produce engineer-ready wireframes, prototypes, and specifications.\n* Partner with PMs and engineers.\n* Direct a UI contractor for quality and consistency.\n\nRequirements:\n* Proven experience in end-to-end product design.\n* Expertise in information architecture, user flows, and navigation.\n* Strong experience with design systems (building and maintaining).\n* Experience in user research and product discovery.\n* Proficiency with Figma and prototyping tools.\n* Strong collaboration skills with product and engineering.",
-      "specialty": "Learning Platform",
-      "salary": "$148,000 - $190,000",
-      "keywords": [
-        {
-          "keyword": "Information Architecture",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "IA is a core design practice skill"
-        },
-        {
-          "keyword": "User Flows",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "User Flows is a core design practice skill"
-        },
-        {
-          "keyword": "Design systems",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Experience establishing a scalable design system (Figma component library); Design systems and consistency at scale"
-        },
-        {
-          "keyword": "Product discovery",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Operates effectively across the full design lifecycle: from ambiguous 0-to-1 discovery"
-        },
-        {
-          "keyword": "Figma",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Proficient in Figma"
-        },
-        {
-          "keyword": "Prototyping",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Prototyping is a core design practice skill"
-        },
-        {
-          "keyword": "Cross-functional collaboration",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Worked closely with product managers, engineering leads, and executives"
-        },
-        {
-          "keyword": "Remote",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Open to remote work arrangement"
-        }
-      ],
-      "status": "New",
-      "scannedAt": "2026-08-01T20:15:23.315Z",
-      "isNew": false
-    },
-    {
-      "id": "job-bwrzjl",
-      "title": "Senior Staff Product Designer",
-      "company": "Datadog",
-      "companyDomain": "datadoghq.com",
-      "industry": "Cloud, Security, Software, AI",
-      "location": "Hybrid in NYC",
-      "postedAt": "2026-07-31",
-      "fitScore": 8,
-      "fitTier": "Good Fit",
-      "fitExplanation": "This hybrid role in NYC (a target location) is a strong fit. Michael's expertise in making complex, data-dense systems delightful and tactile, along with his strong visual eye and experience in building design systems, directly aligns with the role's focus on leading a new visual direction for a complex, data-dense product. His ability to influence stakeholders and raise product craftsmanship is also highly relevant for a Staff-level position. The 1-2 point deduction for hybrid still keeps this a strong candidate.",
-      "source": "Built In NYC",
-      "applyUrl": "N/A",
-      "isOffLinkedIn": false,
-      "jobDescription": "Datadog is seeking a Senior Staff Product Designer for their Design Lab in a hybrid capacity in New York, NY. This role involves leading and executing a new visual direction for a complex, data-dense product. The designer will translate visual principles into hierarchy, layout, navigation, interaction, and system patterns, then prototype, test, and refine them. They will partner with Product Design, Design Systems, and Engineering to systemize and implement these patterns, influence stakeholders, maintain visual quality across teams, and produce artifacts and narratives that drive adoption and raise product craftsmanship. Datadog operates in the AI, Cloud, Security, and Software industries.\n\nCore Responsibilities:\n* Lead and execute a new visual direction for a complex, data-dense product.\n* Translate visual principles into hierarchy, layout, navigation, interaction, and system patterns.\n* Prototype, test, and refine design patterns.\n* Partner with Product Design, Design Systems, and Engineering to systemize and implement patterns.\n* Influence stakeholders and maintain visual quality across teams.\n* Produce artifacts and narratives that drive adoption and raise product craftsmanship.\n\nRequirements:\n* Proven experience in a Senior Staff or similar leadership design role.\n* Expertise in designing for complex, data-dense products.\n* Strong visual design and interaction design skills.\n* Experience with design systems and their implementation.\n* Ability to lead strategy, influence stakeholders, and drive adoption of design principles.\n* Experience with prototyping and user testing.\n* Background in AI, Cloud, Security, or Software industries preferred.",
-      "specialty": "Design Lab",
-      "salary": "$204,000 - $255,000",
-      "keywords": [
-        {
-          "keyword": "Complex, data-dense product",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Complex B2B SaaS product design — data-heavy interfaces"
-        },
-        {
-          "keyword": "Visual direction",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Strong visual eye for a product designer; applies visual craft and polish"
-        },
-        {
-          "keyword": "Interaction design",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Tactile interaction design is a core philosophy"
-        },
-        {
-          "keyword": "Design systems",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Experience establishing a scalable design system (Figma component library); Design systems and consistency at scale"
-        },
-        {
-          "keyword": "Prototyping",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "High-fidelity interactive prototyping that bridges strategy and engineering"
-        },
-        {
-          "keyword": "Cloud infrastructure",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Cloud marketplace / revenue operations infrastructure (deep — Tackle)"
-        },
-        {
-          "keyword": "Cross-functional collaboration",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Worked closely with product managers, engineering leads, and executives"
-        },
-        {
-          "keyword": "Hybrid NYC",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Hybrid in NYC is a target location for Michael"
-        }
-      ],
-      "status": "New",
-      "scannedAt": "2026-08-01T20:15:23.315Z",
-      "isNew": false
-    },
-    {
-      "id": "job-9guo7b",
-      "title": "Product Designer",
-      "company": "Metabase",
-      "companyDomain": "metabase.com",
-      "industry": "Developer Tools, Data, AI",
-      "location": "Remote (U.S. Only)",
-      "postedAt": "2026-07-31",
-      "fitScore": 7,
-      "fitTier": "Good Fit",
-      "fitExplanation": "While the title is 'Product Designer' (not Senior/Staff/Lead), the responsibilities align with Michael's experience in complex data systems, developer tools, and recent engagement with AI/LLM. His ability to think in terms of journeys, build things, and articulate complex ideas remotely is a strong match. The focus on new features and LLM-based interactions suggests a need for a high-impact individual contributor, which aligns with Michael's readiness for Staff-level work.",
-      "source": "Wellfound",
-      "applyUrl": "https://wellfound.com/jobs/2600868-product-designer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-      "isOffLinkedIn": false,
-      "jobDescription": "Metabase is hiring a remote Product Designer. This role involves thinking in terms of user journeys, being biased toward building things rather than just presentations, and collaborating asynchronously. The ideal candidate is thorough, attentive to detail, and has a high internal bar for craft. Recent projects include creating a new Documents feature, envisioning new ways to view and explore metrics, and creating patterns for LLM-based SQL generation, natural language queries, and asynchronous agentic work. Experience building or using developer tools is a plus.\n\nCore Responsibilities:\n* Think in terms of journeys, not screens.\n* Bias toward building things, not slide decks.\n* Work out-in-the-open to receive feedback and iterate with the team.\n* Communicate design decisions and rationales clearly.\n* Comfortable with asynchronous collaboration.\n* Contribute to new features like Documents and metric exploration.\n* Design patterns and surfaces for LLM-based SQL generation, natural language queries, and agentic work.\n\nRequirements:\n* Experience building or using developer tools (plus).\n* Strong ability to communicate design decisions.\n* Thorough and attentive to detail, with a high internal bar for craft.\n* Comfortable with asynchronous collaboration.",
-      "specialty": "",
-      "salary": "$93,000 - $210,000",
-      "keywords": [
-        {
-          "keyword": "Developer tools",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Deep context in developer tools and enterprise software"
-        },
-        {
-          "keyword": "Complex data systems",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "My work spans complex data systems"
-        },
-        {
-          "keyword": "LLM-based SQL generation",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Used AI tools (Figma Make, Cursor) to accelerate discovery, prototyping, and stakeholder alignment"
-        },
-        {
-          "keyword": "User journeys",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "User Flows, Journey Mapping is a core design practice skill"
-        },
-        {
-          "keyword": "Prototyping",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "High-fidelity interactive prototyping that bridges strategy and engineering"
-        },
-        {
-          "keyword": "Remote",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Open to remote work arrangement"
-        }
-      ],
-      "status": "New",
-      "scannedAt": "2026-08-01T20:15:23.315Z",
-      "isNew": false
-    },
-    {
       "id": "job-iqjv6",
       "title": "Senior/Staff Product Designer",
       "company": "Grow Therapy",
@@ -3969,8 +3284,268 @@
       ],
       "status": "New",
       "scannedAt": "2026-08-15T19:34:23.909Z",
+      "isNew": false
+    },
+    {
+      "id": "job-dau4zr",
+      "title": "Senior Product Designer",
+      "company": "Rula",
+      "companyDomain": "rula.com",
+      "industry": "B2B SaaS, Mental Healthcare",
+      "location": "Remote (U.S. Only)",
+      "postedAt": "2026-08-15",
+      "fitScore": 10,
+      "fitTier": "Strong Fit",
+      "fitExplanation": "This role is an excellent match for Michael's profile, aligning with his expertise in complex B2B SaaS products and 0-to-1 discovery. The focus on streamlining clinical workflows and building AI-enabled experiences directly corresponds to his experience with complex data systems, transactional flows, and the application of AI tools in design. The requirement for contributing to enterprise-grade design systems and conducting user research with business owners also aligns perfectly with his skills and preferences. The company stage (Series C) and remote US location are ideal.",
+      "source": "Rula Careers (Ashby)",
+      "applyUrl": "https://jobs.ashbyhq.com/rula/d1088719-75c6-47a3-b09b-4e0e56149448",
+      "isOffLinkedIn": false,
+      "jobDescription": "As a Senior Product Designer on Rula's Provider Team, you will be instrumental in designing tools that empower therapists to deliver exceptional mental health care. This includes streamlining administrative tasks and developing intelligent, AI-powered experiences that facilitate informed clinical decisions. The position requires a designer who thrives in ambiguous environments, is adept at taking products from concept (0→1) to execution, and maintains a high degree of ownership throughout the design process. You will proactively identify opportunities, strategically contribute to the future of care delivery, and create polished, thoughtfully crafted experiences. Collaboration with Product, Engineering, Clinical, and Research teams is essential. Preferred qualifications include experience in high-trust, platform domains such as healthcare, fintech, or enterprise systems, designing for business or practice management teams with dynamic, complex workflows, and translating ambiguous problems into AI-enabled solutions. Experience with user research among business owners to identify workflow friction and contributing to enterprise-grade design systems is also valued. Familiarity with accessibility requirements for finance/healthcare experiences is a plus.",
+      "specialty": "",
+      "salary": "$180k - $221k",
+      "keywords": [
+        {
+          "keyword": "B2B SaaS",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Explicitly mentioned in preferred qualifications and core to company's offering."
+        },
+        {
+          "keyword": "0-to-1 design",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Explicitly mentioned as a key responsibility ('taking 0→1 products from concept to execution')."
+        },
+        {
+          "keyword": "AI tools",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Emphasis on 'AI-enabled experiences' and 'leveraging AI strategically' aligns with Michael's recent use of AI tools."
+        },
+        {
+          "keyword": "complex workflows",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Designing for 'dynamic, complex workflows' and 'streamlining administrative work' aligns with Michael's expertise in complex systems."
+        },
+        {
+          "keyword": "Design Systems",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "'Contributing to or building enterprise-grade design systems' is a preferred qualification and a key strength for Michael."
+        },
+        {
+          "keyword": "User Research",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "'Conducting user research with business or practice owners to uncover workflow friction' is a preferred qualification and a core skill for Michael."
+        },
+        {
+          "keyword": "Enterprise Systems",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "'Experience working in high-trust, platform domains including healthcare, fintech, and enterprise systems' is a preferred qualification."
+        },
+        {
+          "keyword": "cross-functional collaboration",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "'close partnership with Product, Engineering, Clinical, and Research' is a key aspect of the role."
+        },
+        {
+          "keyword": "visual craft",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "'deliver polished, thoughtfully crafted experiences' aligns with Michael's design philosophy."
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-08-16T11:34:00.955Z",
+      "isNew": true
+    },
+    {
+      "id": "job-4dpc5f",
+      "title": "Senior Product Designer",
+      "company": "Boulevard",
+      "companyDomain": "joinblvd.com",
+      "industry": "B2B SaaS, FinTech, Commerce",
+      "location": "Remote (U.S. Only)",
+      "postedAt": "2026-08-15",
+      "fitScore": 9,
+      "fitTier": "Strong Fit",
+      "fitExplanation": "This role is highly aligned with Michael's expertise in complex B2B SaaS and FinTech-adjacent products, particularly around revenue management and transactional flows. The emphasis on translating complex financial and operational requirements into intuitive experiences and ensuring clarity and trust directly matches Michael's background in payment reconciliation and marketplace infrastructure. The explicit mention of using AI tools in the design workflow is a strong point of alignment, as is the focus on design systems and end-to-end ownership. The remote US location and Series C+ company stage are ideal.",
+      "source": "Boulevard Careers (via vmysmartpros)",
+      "applyUrl": "https://joinblvd.com/careers/senior-product-designer-remote",
+      "isOffLinkedIn": false,
+      "jobDescription": "The Senior Product Designer at Boulevard will take ownership of high-impact product areas centered on how businesses manage and expand their revenue. A core responsibility is to translate intricate financial and operational demands into straightforward, intuitive user experiences, with a strong focus on clarity, accuracy, and building trust within every flow. The role encourages the strategic use of AI tools (like Claude or ChatGPT) to aid in discovery, prototyping, and to thoroughly test logic and edge cases. Key responsibilities also include validating assumptions through lightweight research, engaging directly with customers, conducting usability tests, and iterating designs based on empirical evidence. The designer is expected to contribute to a culture that prioritizes quality, clarity, and measurable outcomes over mere artifacts, while maintaining a high standard for visual craft, usability, and consistency. Active participation in evolving Boulevard's design system through component extension and pattern definition is also crucial. Required experience includes designing complex, systems-heavy products, ideally within B2B, fintech, or commerce sectors, and a proven track record of owning projects from initial problem definition through to launch and demonstrated impact. Clear communication and effective collaboration with cross-functional stakeholders (engineers, product managers) are essential.",
+      "specialty": "Commerce & Fintech",
+      "salary": "",
+      "keywords": [
+        {
+          "keyword": "B2B SaaS",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Explicitly mentioned in required experience and core to company's offering."
+        },
+        {
+          "keyword": "Fintech",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Explicitly mentioned in required experience and core to company's offering."
+        },
+        {
+          "keyword": "Commerce",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Explicitly mentioned in required experience and core to company's offering."
+        },
+        {
+          "keyword": "complex systems",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "'Experience designing complex, systems-heavy products' directly aligns with Michael's expertise."
+        },
+        {
+          "keyword": "transactional flows",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "'shape how businesses manage and grow revenue' and 'complex financial and operational requirements' align with Michael's transactional and payment reconciliation experience."
+        },
+        {
+          "keyword": "AI tools",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "'Use AI tools such as Claude or ChatGPT in your design workflow' is a specific requirement."
+        },
+        {
+          "keyword": "Design Systems",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "'Contribute to the evolution of Boulevards design system' is a key responsibility."
+        },
+        {
+          "keyword": "User Research",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "'Validate assumptions through lightweight research. Talk directly with customers, run usability tests, and iterate based on evidence' are core responsibilities."
+        },
+        {
+          "keyword": "0-to-1 and ambiguous problem spaces",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "'owning projects from problem definition through launch and measurable impact' aligns with Michael's full design lifecycle experience."
+        },
+        {
+          "keyword": "visual craft",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "'Maintain a high bar for clarity, usability, visual craft, and consistency' is a key expectation."
+        },
+        {
+          "keyword": "cross-functional collaboration",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "'Comfort collaborating directly with engineers, product, and other cross-functional stakeholders' is emphasized."
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-08-16T11:34:00.955Z",
+      "isNew": true
+    },
+    {
+      "id": "job-8wr3a",
+      "title": "Senior Product Designer",
+      "company": "Linear",
+      "companyDomain": "linear.app",
+      "industry": "B2B SaaS, Developer Tools",
+      "location": "Remote (U.S.)",
+      "postedAt": "2026-08-16",
+      "fitScore": 9,
+      "fitTier": "Strong Fit",
+      "fitExplanation": "This role is an exceptionally strong match for Michael, given Linear's reputation as a B2B SaaS platform for developer tools (issue tracking). Michael has deep context in B2B SaaS and developer tools, and a strong background in design systems. The mention of 'deep match on 6 years design systems + B2B SaaS experience' from the AI matching service directly reflects his core strengths. The role targets a Senior Product Designer level, and the company is well-established (beyond Series C). While the full job description isn't available, the strong keyword alignment from the matching service indicates a high probability of fit.",
+      "source": "Resumly (Linear Careers)",
+      "applyUrl": "https://linear.app/careers/senior-product-designer",
+      "isOffLinkedIn": false,
+      "jobDescription": "(Based on AI matching service summary) This Senior Product Designer role at Linear focuses heavily on design systems and B2B SaaS experience. The position requires a deep understanding of how to build and maintain scalable design systems within a complex B2B software environment. Candidates are expected to contribute to the core product experience, ensuring consistency and efficiency across the platform. The role is suitable for individuals with significant experience in product design within the B2B SaaS domain, particularly those with a strong portfolio demonstrating their work with design systems.",
+      "specialty": "",
+      "salary": "",
+      "keywords": [
+        {
+          "keyword": "B2B SaaS",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Linear is a prominent B2B SaaS company, and the match highlights this experience."
+        },
+        {
+          "keyword": "Design Systems",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Explicitly mentioned as a core area of the match and a significant strength for Michael."
+        },
+        {
+          "keyword": "Developer Tools",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Linear operates within the developer tools industry, which is a 'deep context' industry for Michael."
+        },
+        {
+          "keyword": "Senior Product Designer",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Direct match with Michael's target role levels."
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-08-16T11:34:00.955Z",
+      "isNew": true
+    },
+    {
+      "id": "job-r6tqx4",
+      "title": "Staff Product Designer",
+      "company": "Vercel",
+      "companyDomain": "vercel.com",
+      "industry": "Developer Tools",
+      "location": "Remote (U.S.)",
+      "postedAt": "2026-08-16",
+      "fitScore": 9,
+      "fitTier": "Strong Fit",
+      "fitExplanation": "This Staff Product Designer role at Vercel is an excellent fit, leveraging Michael's deep expertise in developer tools and design systems. Vercel is a leading company in the developer tools space, and Michael lists this as an industry with deep context. The AI matching service's mention of 'strong overlap in developer tools + portfolio work' and 'Motion Design Systems' indicates a role that aligns well with his focus on visual craft, interaction design, and consistency at scale. The Staff level is also a target for Michael. The remote location and company stage (well beyond Series C) are highly favorable.",
+      "source": "Resumly (Vercel Careers)",
+      "applyUrl": "https://vercel.com/careers/staff-product-designer",
+      "isOffLinkedIn": false,
+      "jobDescription": "(Based on AI matching service summary) The Staff Product Designer at Vercel is sought for their strong background in developer tools and a compelling portfolio. The role places significant emphasis on motion design systems, indicating a need for a designer with advanced visual craft and expertise in building scalable and consistent design foundations for complex products. Candidates should demonstrate a strong overlap between their experience and Vercel's focus on developer experience and tools. This position requires a designer capable of operating at a strategic level within the product design function.",
+      "specialty": "",
+      "salary": "",
+      "keywords": [
+        {
+          "keyword": "Developer Tools",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Vercel is a prominent developer tools company, a 'deep context' industry for Michael."
+        },
+        {
+          "keyword": "Design Systems",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "The match highlights 'Motion Design Systems', aligning with Michael's design systems expertise."
+        },
+        {
+          "keyword": "Staff Product Designer",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Direct match with Michael's target role levels."
+        },
+        {
+          "keyword": "visual craft",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "'Motion Design Systems' implies a strong focus on visual quality and interaction design, a key aspect of Michael's philosophy."
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-08-16T11:34:00.955Z",
       "isNew": true
     }
   ],
-  "scannedAt": "2026-08-15T19:35:52.273Z"
+  "scannedAt": "2026-08-16T11:34:57.320Z"
 }
