@@ -289,26 +289,6 @@
       "isNew": false
     },
     {
-      "id": "job-iqjv6",
-      "title": "Senior/Staff Product Designer",
-      "company": "Grow Therapy",
-      "companyDomain": "growtherapy.com",
-      "industry": "Healthcare, Marketplace, SaaS, Fintech",
-      "location": "Remote (U.S.)",
-      "postedAt": "2026-08-01",
-      "fitScore": 9,
-      "fitTier": "Strong Fit",
-      "fitExplanation": "This role is a strong fit due to its focus on a three-sided marketplace in the healthcare SaaS space, empowering providers and engaging insurance payors, aligning with Michael's deep experience in marketplace infrastructure and transactional flows. The emphasis on 0-to-1 products and driving strategic initiatives from concept to launch directly matches Michael's comfort with ambiguous problem spaces and full design lifecycle involvement. The mention of design systems and AI tools further aligns with his skills and background. The company is well-funded (Series D) ensuring stability.",
-      "source": "Built In NYC",
-      "applyUrl": "N/A",
-      "isOffLinkedIn": false,
-      "jobDescription": "Grow Therapy is seeking a Senior or Staff Product Designer to join their growing Design team and shape the future of mental health technology. This role offers significant ownership and influence, focusing on 0-to-1 products impacting millions of users. Responsibilities include driving strategic product initiatives from concept to launch, designing and prototyping end-to-end user experiences with pixel-perfect execution, championing design excellence, and leading cross-functional collaboration with Engineering, Product Management, and other stakeholders. The role operates at the intersection of product strategy, brand excellence, and user experience. The company utilizes AI and automated tools in recruitment, and designers are expected to operate in a rapidly evolving industry.\n\nCore Responsibilities:\n*   Drive strategic product initiatives from concept to launch, influencing product strategy and business outcomes.\n*   Design and prototype end-to-end user experiences with pixel-perfect execution.\n*   Champion design excellence, ensuring high-quality brand experience at every touchpoint.\n*   Lead cross-functional collaboration with Engineering, Product Management, and other stakeholders.\n*   Work on 0-to-1 products with significant user impact in a high-growth environment.\n\nRequirements:\n*   5+ years of product design experience with a strong portfolio showcasing strategic thinking and execution.\n*   Senior-level experience leading complex, high-impact product initiatives.\n*   Experience with consumer-facing products with significant user impact.\n*   Proficiency in design tools (Figma, Photoshop, etc.).\n*   Strong understanding of design systems, accessibility, and responsive design principles.\n*   Excellent communication skills to present and defend design decisions.",
-      "specialty": "",
-      "status": "New",
-      "scannedAt": "2026-08-02T12:15:32.616Z",
-      "isNew": false
-    },
-    {
       "id": "job-xwoiac",
       "title": "Staff Product Designer",
       "company": "Affirm",
@@ -3361,7 +3341,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-08-16T11:34:00.955Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-4dpc5f",
@@ -3450,7 +3430,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-08-16T11:34:00.955Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-8wr3a",
@@ -3497,7 +3477,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-08-16T11:34:00.955Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-r6tqx4",
@@ -3544,8 +3524,84 @@
       ],
       "status": "New",
       "scannedAt": "2026-08-16T11:34:00.955Z",
+      "isNew": false
+    },
+    {
+      "id": "job-ofqcx2",
+      "title": "Staff Product Designer",
+      "company": "HubSpot",
+      "companyDomain": "hubspot.com",
+      "industry": "B2B SaaS",
+      "location": "Remote",
+      "postedAt": "2026-08-16",
+      "fitScore": 9,
+      "fitTier": "Strong Fit",
+      "fitExplanation": "This role is a Staff Product Designer position focused on Design Systems within a complex B2B SaaS platform, which aligns perfectly with Michael's target level, deep experience in design systems, and strong preference for B2B SaaS. The job emphasizes moving beyond maintenance to defining how a large B2B platform builds product in an AI-native era, matching Michael's expertise in shaping design strategy and utilizing AI tools. His background in visual systems and ability to work at scale are highly valued. HubSpot is a well-established company, meeting the Series C or later requirement. The role is fully remote, which is preferred by the candidate.",
+      "source": "Himalayas",
+      "applyUrl": "N/A",
+      "isOffLinkedIn": true,
+      "jobDescription": "HubSpot is seeking a Staff Product Designer to work on Trellis, their enterprise design system, which functions as product infrastructure for various Hubs (CRM, Marketing, Sales, Service, Commerce, AI). The role involves modernizing the design system to make it trusted, self-serve, and useful, reducing fragmentation, improving adoption, and shaping contribution models. Designers will make decisions affecting many product teams and define how a large B2B platform operates in an AI-native environment. The ideal candidate will have a background in design systems, product foundations, platform design, visual systems, component libraries, interaction patterns, enterprise product design, developer tools, or complex B2B SaaS, with a strong understanding of how these components connect. This position requires comfort with product strategy, detailed interaction design, system architecture, documentation, and cross-functional partnerships, and is not merely a maintenance role.",
+      "specialty": "Design Systems",
+      "keywords": [
+        {
+          "keyword": "Design Systems",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael has strong experience establishing scalable design systems, reducing design-to-development cycles, and building Figma component libraries."
+        },
+        {
+          "keyword": "B2B SaaS",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael's primary industry of expertise is complex B2B SaaS products."
+        },
+        {
+          "keyword": "Enterprise Product Design",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael specializes in enterprise multi-cloud transactional platforms and complex B2B software."
+        },
+        {
+          "keyword": "Platform Design",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "The role involves product infrastructure and platform design. Michael has experience at Tackle.io with a transactional platform and Infragistics with a work management platform."
+        },
+        {
+          "keyword": "Visual Systems",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael's foundation is in visual systems and graphic design, which is highly relevant to this aspect of design systems."
+        },
+        {
+          "keyword": "Figma",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael lists Figma as a primary tool and has experience with Figma component libraries."
+        },
+        {
+          "keyword": "Cross-functional Collaboration",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "The job description emphasizes cross-functional partnership, which aligns with Michael's experience working closely with product managers, engineering leads, and executives."
+        },
+        {
+          "keyword": "AI tools",
+          "inProfile": true,
+          "relevance": "moderate",
+          "note": "The role mentions working in an 'AI native era.' Michael has experience using AI tools like Figma Make and Cursor in his design workflow."
+        },
+        {
+          "keyword": "0-to-1 discovery",
+          "inProfile": true,
+          "relevance": "moderate",
+          "note": "The role is described as a 'modernization journey' and 'not a role where you simply maintain what exists,' aligning with Michael's preference for 0-to-1 and ambiguous problem spaces."
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-08-16T19:33:46.092Z",
       "isNew": true
     }
   ],
-  "scannedAt": "2026-08-16T11:34:57.320Z"
+  "scannedAt": "2026-08-16T19:34:26.910Z"
 }
