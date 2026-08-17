@@ -3166,105 +3166,57 @@
       "title": "Senior Product Designer",
       "company": "GoGuardian",
       "companyDomain": "goguardian.com",
-      "industry": "EdTech / B2B SaaS",
-      "location": "Remote (U.S. Only)",
-      "postedAt": "2026-08-14",
-      "fitScore": 8,
+      "industry": "K-12 EdTech, Digital Safety (B2B SaaS)",
+      "location": "Remote - United States",
+      "postedAt": "2026-08-16",
+      "fitScore": 7,
       "fitTier": "Good Fit",
-      "fitExplanation": "This role is a strong fit for Michael due to its focus on end-to-end design for complex products within a B2B context, which aligns with his extensive experience in B2B SaaS and 0-to-1 ambiguous problem spaces. The emphasis on user-centered design, clarity from complexity, and strong visual/interaction craft directly matches his design philosophy and skillset. While EdTech is not an industry of deep context for Michael, his transferable skills in complex systems, data, and workflows are highly relevant. The role's high-autonomy nature and strategic input also align with his target level.",
-      "source": "HighFive Partners Job Board",
+      "fitExplanation": "This role is a good fit due to its Senior Product Designer title and remote U.S. location, aligning with Michael's preferences. GoGuardian operates in the K-12 EdTech sector with a focus on Digital Safety, which falls under general B2B SaaS, an area where Michael has extensive experience. The responsibilities involving UX/UI Design, User Experience, Product Strategy, and Design Systems strongly match Michael's design practice skills and expertise in scaling products and cross-functional collaboration. While not Michael's primary deep context industry, his background in complex B2B software and ability to thrive in ambiguous problem spaces makes this a strong contender. The company is confirmed to be Series C or later.",
+      "source": "EdTechJobs.io",
       "applyUrl": "N/A",
-      "jobDescription": "This Senior Product Designer role is within GoGuardian's New Products team, which operates like an internal startup, focusing on developing new educational technology solutions. The designer will own the end-to-end user experience for one of these products, driving strategy, interaction design, and visual craft. The position requires translating complex insights and systems into clear, intuitive experiences for K-12 educational users.\n\n**Core Responsibilities:**\n*   Lead the entire user experience for a specific product, from initial strategy to polished, shipped design.\n*   Make strategic design decisions grounded in product goals, customer needs, and business outcomes.\n*   Bring innovative ideas and a clear design perspective to the digital safety insights domain.\n*   Collaborate closely with Product Managers and senior engineers throughout the product lifecycle, from strategy and discovery to implementation, making thoughtful tradeoffs.\n*   Understand the underlying reasons for design work, connecting decisions to broader objectives.\n*   Create clarity from complexity, designing experiences that help users understand and navigate data, workflows, and new systems.\n*   Maintain a high standard for both interaction and visual design, focusing on quality and attention to detail.\n\n**Key Requirements:**\n*   Strong portfolio showcasing successful product designs and user-centered design principles.\n*   Demonstrated ability to own end-to-end user experience for a product.\n*   Experience making strategic design decisions informed by product goals and customer needs.\n*   Proven ability to create clear, intuitive experiences from complex data, workflows, or systems.\n*   High standards for interaction and visual design craft.\n*   Collaborative mindset, working effectively with cross-functional teams (PMs, engineers).\n*   Ability to work in a high-autonomy environment.",
-      "salary": "$145,000 - $165,000",
+      "jobDescription": "The Senior Product Designer will join the Product team to shape user experiences for K-12 educational products, specifically focusing on digital safety. Responsibilities include contributing to UX/UI design, user experience strategy, and product strategy, from concept to production. The role requires collaboration with Product Managers and Engineers to translate requirements into user-centered solutions and contributing to the design system.",
+      "specialty": "",
       "keywords": [
         {
-          "keyword": "User Research",
+          "keyword": "UX/UI Design",
           "inProfile": true,
           "relevance": "required",
-          "note": "Job requires conducting research to inform decisions."
+          "note": "Strong alignment with candidate's skills and visual craft."
         },
         {
-          "keyword": "User Flows",
+          "keyword": "User Experience",
           "inProfile": true,
           "relevance": "required",
-          "note": "Implied in end-to-end design ownership and creating clarity from complex workflows."
+          "note": "Core to candidate's design philosophy and practice."
         },
         {
-          "keyword": "Journey Mapping",
-          "inProfile": true,
-          "relevance": "good",
-          "note": "Implied in understanding and shaping end-to-end user experience."
-        },
-        {
-          "keyword": "Information Architecture",
+          "keyword": "Product Strategy",
           "inProfile": true,
           "relevance": "required",
-          "note": "Crucial for creating clarity from complex systems."
-        },
-        {
-          "keyword": "UI Design",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Explicitly mentioned 'polished visual craft' and 'visually compelling interfaces'."
-        },
-        {
-          "keyword": "Wireframing",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Implied in end-to-end design process."
-        },
-        {
-          "keyword": "Prototyping",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Implied in end-to-end design process and iterating on solutions."
+          "note": "Candidate has experience shaping design strategy."
         },
         {
           "keyword": "Design Systems",
           "inProfile": true,
-          "relevance": "good",
-          "note": "While not explicitly mentioned, strong craft and consistency often leverage design systems."
+          "relevance": "required",
+          "note": "Candidate specializes in design systems and consistency at scale."
         },
         {
-          "keyword": "0-to-1 discovery",
+          "keyword": "B2B SaaS",
           "inProfile": true,
           "relevance": "required",
-          "note": "The role is within a 'New Products team' operating like a startup, indicating 0-to-1 work."
+          "note": "Candidate's primary industry expertise."
         },
         {
-          "keyword": "Complex B2B SaaS",
+          "keyword": "Remote",
           "inProfile": true,
-          "relevance": "required",
-          "note": "GoGuardian is a B2B company providing solutions to schools/districts (B2B SaaS)."
-        },
-        {
-          "keyword": "Data-heavy interfaces",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Implied in 'navigating data' and 'digital safety insights space'."
-        },
-        {
-          "keyword": "Cross-functional collaboration",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Explicitly mentioned collaboration with PMs and engineers."
-        },
-        {
-          "keyword": "Design strategy",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Explicitly mentioned 'lead the design for your product, from strategy'."
-        },
-        {
-          "keyword": "Figma",
-          "inProfile": true,
-          "relevance": "good",
-          "note": "Standard tool for product designers, likely used."
+          "relevance": "preferred",
+          "note": "Candidate prefers remote work."
         }
       ],
       "status": "New",
-      "scannedAt": "2026-08-15T19:34:23.909Z",
-      "isNew": false
+      "scannedAt": "2026-08-17T11:40:45.318Z",
+      "isNew": true
     },
     {
       "id": "job-dau4zr",
@@ -3600,8 +3552,71 @@
       ],
       "status": "New",
       "scannedAt": "2026-08-16T19:33:46.092Z",
+      "isNew": false
+    },
+    {
+      "id": "job-x3umin",
+      "title": "Lead Product Designer",
+      "company": "CRYPTO.com",
+      "companyDomain": "crypto.com",
+      "industry": "FinTech (Cryptocurrency)",
+      "location": "Hybrid in New York, New York",
+      "postedAt": "2026-08-16",
+      "fitScore": 7,
+      "fitTier": "Good Fit",
+      "fitExplanation": "This Lead Product Designer role at CRYPTO.com is a strong fit given Michael's deep context in Finance and FinTech-adjacent industries, particularly with transactional flows and complex data systems. His expertise in making complex systems delightful and tactile, alongside his experience in 0-to-1 discovery and scaling products, aligns well with the need to lead end-to-end UI/UX design for complex digital products. The role's hybrid location in NYC is acceptable given Michael's willingness for hybrid roles in the specified cities, though it incurs a slight score deduction due to his preference for remote work. CRYPTO.com is a well-established company, meeting the Series C or later requirement.",
+      "source": "Migrate Mate",
+      "applyUrl": "N/A",
+      "jobDescription": "The Lead Product Designer for the 'Predictions, OG' specialty will be responsible for the end-to-end UI/UX design process for complex digital products within a FinTech environment, specifically focusing on cryptocurrency and predictions. This involves transforming complex financial workflows into intuitive user experiences, using tools like Figma for wireframes, prototypes, and high-fidelity visual designs. The role requires conducting user research, usability testing, and data analysis to inform design decisions, and collaborating closely with cross-functional teams.",
+      "specialty": "Predictions, OG",
+      "keywords": [
+        {
+          "keyword": "FinTech",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Candidate has deep context in Finance and FinTech adjacent industries."
+        },
+        {
+          "keyword": "Transactional Flows",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Candidate specializes in transactional flows and payment reconciliation."
+        },
+        {
+          "keyword": "Complex B2B SaaS",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Candidate excels in complex data-heavy interfaces."
+        },
+        {
+          "keyword": "UI/UX Design",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Core skill, emphasizes visual craft and interaction design."
+        },
+        {
+          "keyword": "Figma",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Proficient in Figma, including design systems work."
+        },
+        {
+          "keyword": "User Research",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Experienced in user research and testing."
+        },
+        {
+          "keyword": "Hybrid NYC",
+          "inProfile": true,
+          "relevance": "acceptable",
+          "note": "Candidate is open to hybrid roles in NYC, but prefers remote."
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-08-17T11:40:45.318Z",
       "isNew": true
     }
   ],
-  "scannedAt": "2026-08-16T19:34:26.910Z"
+  "scannedAt": "2026-08-17T11:41:36.367Z"
 }
