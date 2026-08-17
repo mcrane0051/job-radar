@@ -3216,7 +3216,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-08-17T11:40:45.318Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-dau4zr",
@@ -3615,8 +3615,8 @@
       ],
       "status": "New",
       "scannedAt": "2026-08-17T11:40:45.318Z",
-      "isNew": true
+      "isNew": false
     }
   ],
-  "scannedAt": "2026-08-17T11:41:36.367Z"
+  "scannedAt": "2026-08-17T19:43:16.491Z"
 }
