@@ -2872,7 +2872,265 @@
       "status": "New",
       "scannedAt": "2026-08-17T11:40:45.318Z",
       "isNew": false
+    },
+    {
+      "id": "job-dat3wi",
+      "title": "Senior Product Designer",
+      "company": "Tilt",
+      "companyDomain": "tilt.com",
+      "industry": "FinTech, Financial Services, Commerce",
+      "location": "Remote",
+      "postedAt": "2026-08-18",
+      "fitScore": 9,
+      "fitTier": "Strong Fit",
+      "fitExplanation": "This role is a strong fit for Michael due to its focus on designing complex financial products, transactional tools, and cash management systems within the fintech industry. Michael's extensive experience with transactional flows, payment reconciliation, and complex data systems at Tackle.io directly aligns with these requirements. The emphasis on ambiguous problem spaces, AI-enabled tools, and strong visual/UI craft also mirrors Michael's expertise and design philosophy. His background in leading end-to-end design and cross-functional collaboration is highly relevant.",
+      "source": "Remotivated",
+      "applyUrl": "N/A",
+      "isOffLinkedIn": true,
+      "jobDescription": "The Senior Product Designer will shape the future of Tilt's products by owning complex, high-impact product experiences in areas such as cash management, financial wellness, and transaction-related tools. This individual contributor role requires strong product thinking, UX fundamentals, and exceptional visual and UI craft. The designer will collaborate closely with product managers, engineers, and other partners to transform ambiguous opportunities into intuitive experiences. Key responsibilities include presenting design work clearly to build alignment, contributing to the design culture through critique and mentorship, and thoughtfully applying AI-enabled tools in the design process. The ideal candidate has significant experience shipping complex digital products, particularly in fintech or financial services, a portfolio showcasing strong UX thinking and polished execution, and expertise in navigating ambiguous problem spaces.",
+      "specialty": "",
+      "keywords": [
+        {
+          "keyword": "complex digital products",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Matches Michael's experience in complex B2B SaaS and enterprise platforms."
+        },
+        {
+          "keyword": "fintech",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Direct match with Michael's deep context in finance and fintech adjacent industries."
+        },
+        {
+          "keyword": "financial services",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Strong alignment with Michael's experience in payment reconciliation and transactional flows."
+        },
+        {
+          "keyword": "cash management",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Directly related to Michael's work on transactional platforms and revenue operations."
+        },
+        {
+          "keyword": "transaction-related tools",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Perfect match with Michael's experience in core transaction and private offer workflows."
+        },
+        {
+          "keyword": "ambiguous product spaces",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Aligns with Michael's comfort in 0-to-1 discovery and ambiguous problem spaces."
+        },
+        {
+          "keyword": "AI-enabled tools",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael has experience using AI tools like Figma Make and Cursor."
+        },
+        {
+          "keyword": "UX thinking",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Core to Michael's design practice."
+        },
+        {
+          "keyword": "polished visual execution",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Matches Michael's strong visual eye and philosophy on visual craft."
+        },
+        {
+          "keyword": "UI craft",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Core to Michael's design practice and visual systems background."
+        },
+        {
+          "keyword": "interaction-design fundamentals",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Key skill for Michael, focusing on tactile interaction design."
+        },
+        {
+          "keyword": "cross-functional collaboration",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael thrives in cross-functional environments with PMs and engineers."
+        },
+        {
+          "keyword": "mentorship",
+          "inProfile": true,
+          "relevance": "good",
+          "note": "Michael has experience mentoring designers."
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-08-19T11:40:23.295Z",
+      "isNew": true
+    },
+    {
+      "id": "job-y11hxw",
+      "title": "Staff Product Designer",
+      "company": "Andela",
+      "companyDomain": "andela.com",
+      "industry": "Talent Marketplace, HR Tech, B2B SaaS, AI",
+      "location": "Remote",
+      "postedAt": "2026-08-18",
+      "fitScore": 9,
+      "fitTier": "Strong Fit",
+      "fitExplanation": "This Staff Product Designer role at Andela presents a strong fit given Michael's experience in HR tech (iCIMS) and marketplace infrastructure (Tackle.io). His ability to operate in ambiguous 0-to-1 problem spaces, define design frameworks, and contribute to high-level strategy aligns well with the description of a \"shaper\" who leads design initiatives for a global HR and talent platform. Andela's focus on AI-powered tools and scaling businesses through transformation also matches Michael's recent experience and career aspirations.",
+      "source": "Andela",
+      "applyUrl": "N/A",
+      "isOffLinkedIn": true,
+      "jobDescription": "As a Staff Product Designer at Andela, you will be a visionary leader, shaping how millions experience the future of work within a global talent marketplace and HR platform. This role involves tackling Andela's most ambiguous product challenges, bridging high-level business strategy with deep user empathy. You are expected to define frameworks, logic, and standards that guide the broader design team. The position emphasizes exceptional leadership, a low-ego, servant-leader approach, and a strong background in scaling businesses through transformation and growth. The platform incorporates AI-powered tools to streamline HR, payroll, compliance, and talent management across 150+ countries.",
+      "specialty": "",
+      "keywords": [
+        {
+          "keyword": "talent marketplaces",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Matches Michael's experience with marketplace infrastructure at Tackle.io."
+        },
+        {
+          "keyword": "HR platform",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Directly aligns with Michael's background in HR tech (iCIMS) and work management (Slingshot)."
+        },
+        {
+          "keyword": "global teams",
+          "inProfile": true,
+          "relevance": "good",
+          "note": "Relevant to Michael's work on multi-cloud platforms and large enterprise solutions."
+        },
+        {
+          "keyword": "AI-powered platform",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael has recent experience using AI tools in his design workflow."
+        },
+        {
+          "keyword": "ambiguous product challenges",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael thrives in 0-to-1 and ambiguous problem spaces."
+        },
+        {
+          "keyword": "high-level business strategy",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael has experience shaping design strategy at the team and org level."
+        },
+        {
+          "keyword": "user empathy",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Core design practice for Michael, including user research."
+        },
+        {
+          "keyword": "defines frameworks",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Directly relates to Michael's work in establishing scalable design systems."
+        },
+        {
+          "keyword": "scaling businesses",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Matches Michael's experience in scaling existing products and achieving adoption."
+        },
+        {
+          "keyword": "leadership",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael has team lead experience and is targeting Staff-level roles."
+        },
+        {
+          "keyword": "cross-functional",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael operates effectively in cross-functional teams."
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-08-19T11:40:23.295Z",
+      "isNew": true
+    },
+    {
+      "id": "job-30abzp",
+      "title": "Sr. Product Designer",
+      "company": "Benepass",
+      "companyDomain": "benepass.com",
+      "industry": "Fintech, HR Tech, Software, Financial Services",
+      "location": "Remote",
+      "postedAt": "2026-08-19",
+      "fitScore": 8,
+      "fitTier": "Good Fit",
+      "fitExplanation": "This role offers a strong alignment with Michael's deep expertise in both FinTech (payment reconciliation, transactional flows, contract management) and HR Tech (iCIMS background). As a Senior Product Designer focused on these integrated industries, Michael's experience in complex B2B SaaS, data-heavy interfaces, and making complex systems clear and trustworthy is highly relevant. Although the snippet provides limited detail, the core industry focus makes it a very good match for his domain expertise. The company stage (Series B) is slightly below Michael's preferred Series C+, but its proven PMF and significant funding suggest a stable and resourceful environment.",
+      "source": "Built In NYC",
+      "applyUrl": "N/A",
+      "isOffLinkedIn": true,
+      "jobDescription": "Benepass is seeking a Sr. Product Designer to contribute to their products within the FinTech, HR Tech, Software, and Financial Services industries. The role involves designing for complex B2B SaaS applications, focusing on product experiences that bridge financial and human resources solutions. (Additional specific responsibilities and requirements were not detailed in the provided snippet but are inferred from the industry focus).",
+      "specialty": "",
+      "keywords": [
+        {
+          "keyword": "Fintech",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Direct match with Michael's deep context in finance and fintech adjacent industries."
+        },
+        {
+          "keyword": "HR Tech",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Direct match with Michael's background in HR tech (iCIMS)."
+        },
+        {
+          "keyword": "Software",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Matches Michael's focus on B2B SaaS and enterprise software."
+        },
+        {
+          "keyword": "Financial Services",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Strong alignment with Michael's experience in payment reconciliation and transactional flows."
+        },
+        {
+          "keyword": "product design",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Core skill and target role for Michael."
+        },
+        {
+          "keyword": "B2B SaaS",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Primary industry focus for Michael."
+        },
+        {
+          "keyword": "complex systems",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Matches Michael's specialization in making complex systems delightful."
+        },
+        {
+          "keyword": "data-heavy interfaces",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Matches Michael's expertise in designing for data-dense enterprise software."
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-08-19T11:40:23.295Z",
+      "isNew": true
     }
   ],
-  "scannedAt": "2026-08-18T19:41:27.231Z"
+  "scannedAt": "2026-08-19T11:41:28.218Z"
 }
