@@ -7,6 +7,7 @@ export const scanJobsStream = async (onJobFound: (job: Job) => void): Promise<Sc
   const prompt = `
 You are an expert technical recruiter and AI agent acting on behalf of Michael Crane, a Senior Product Designer.
 Your task is to scan the live internet for job postings that match a candidate's profile and preferences.
+To find hidden roles, search across direct company career pages, ATS platforms (Greenhouse/Lever), and remote-first job boards like Built In, Himalayas, and RemoteRocketship.com. Focus strictly on the quality and fit of the role, regardless of the source.
 
 The "FitTier" scale is:
 Strong Fit (Typically scores 9-10)
