@@ -2971,7 +2971,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-08-19T11:40:23.295Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-y11hxw",
@@ -3059,7 +3059,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-08-19T11:40:23.295Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-30abzp",
@@ -3129,8 +3129,103 @@
       ],
       "status": "New",
       "scannedAt": "2026-08-19T11:40:23.295Z",
+      "isNew": false
+    },
+    {
+      "id": "job-97rw3n",
+      "title": "Senior Product Designer",
+      "company": "Omada Health",
+      "companyDomain": "omadahealth.com",
+      "industry": "Healthtech",
+      "location": "Remote",
+      "postedAt": "2026-08-18",
+      "fitScore": 9,
+      "fitTier": "Strong Fit",
+      "fitExplanation": "This role is a strong fit as it aligns with Michael's expertise in complex B2B SaaS product design, 0-to-1 problem solving, and leveraging AI tools in the design workflow. The company stage (Series E/F) and remote location also meet his preferences. While Healthtech is a moderate alignment industry, the focus on human-centered design for lasting health changes and navigating undefined problems strongly resonates with Michael's preferred types of work. The experience level and emphasis on design systems and cross-functional collaboration are also excellent matches.",
+      "source": "Greenhouse",
+      "applyUrl": "https://boards.greenhouse.io/omadahealth/jobs/6573846002",
+      "isOffLinkedIn": true,
+      "jobDescription": "Omada Health is seeking a Senior Product Designer to join their innovation team, focusing on new care programs. This individual will be responsible for designing impactful, human-centered experiences that drive lasting health changes. The role involves deep collaboration with product managers, engineers, behavioral researchers, and data scientists to explore, design, prototype, test, and iterate on solutions. The ideal candidate thrives in ambiguous, 0-to-1 problem spaces, shaping undefined problems into clear concepts and shipped experiences. Responsibilities include defining problem spaces, driving the end-to-end design process (from concept to validation and execution in iterative cycles), and using rapid prototyping to explore and test ideas. The role emphasizes delivering consumer-grade mobile experiences with strong visual, interaction, and systems thinking. The designer will partner with various teams to shape strategy, translate business strategy and user needs into product opportunities, contribute to design systems, and design human-centered AI experiences using tools like Figma Make, Claude Code, Cursor, or Lovable.",
+      "specialty": "Innovation, Care Programs",
+      "salary": "$136,000 - $195,500",
+      "keywords": [
+        {
+          "keyword": "Product Design",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Extensive experience"
+        },
+        {
+          "keyword": "B2B SaaS",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Strong preference for B2B SaaS background"
+        },
+        {
+          "keyword": "0-to-1",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Thrives in ambiguous 0-to-1 spaces"
+        },
+        {
+          "keyword": "Complex Workflows",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Experience with complex systems and data-heavy interfaces"
+        },
+        {
+          "keyword": "AI tools",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Experience using Figma Make, Cursor, Claude Code mentioned in both profile and job"
+        },
+        {
+          "keyword": "Design Systems",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Experience working with and contributing to design systems"
+        },
+        {
+          "keyword": "User Research",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Strong commitment to human-centered design, grounding decisions in user research"
+        },
+        {
+          "keyword": "Prototyping",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Proficiency in rapid prototyping"
+        },
+        {
+          "keyword": "Figma",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Strong Figma proficiency"
+        },
+        {
+          "keyword": "Cross-functional collaboration",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Partnership with product, engineering, clinical, and research teams"
+        },
+        {
+          "keyword": "Mobile (iOS and Android)",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Experience designing for mobile is a plus"
+        },
+        {
+          "keyword": "Health, Wellness, or Behavior Change",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Experience in health-related domains"
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-08-19T19:39:37.699Z",
       "isNew": true
     }
   ],
-  "scannedAt": "2026-08-19T11:41:28.218Z"
+  "scannedAt": "2026-08-19T19:40:49.152Z"
 }
