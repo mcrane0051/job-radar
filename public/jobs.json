@@ -2926,7 +2926,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-08-21T11:42:22.821Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-nkxojj",
@@ -3003,7 +3003,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-08-21T11:42:22.821Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-9fp2ub",
@@ -3080,8 +3080,437 @@
       ],
       "status": "New",
       "scannedAt": "2026-08-21T11:42:22.821Z",
+      "isNew": false
+    },
+    {
+      "id": "job-w3ygvl",
+      "title": "Staff Product Designer",
+      "company": "Nourish",
+      "companyDomain": "joinnourish.com",
+      "industry": "Healthcare, AI, Fintech",
+      "location": "Hybrid in NYC",
+      "postedAt": "2026-08-20",
+      "fitScore": 7,
+      "fitTier": "Good Fit",
+      "fitExplanation": "This role aligns well with Michael's experience in complex problem-solving, AI integration, and design strategy within a B2B SaaS context. The focus on integrating AI in healthcare and shaping strategic product direction is highly relevant. While healthcare isn't a primary industry, the emphasis on craft and user experience for a complex, essential service makes it a strong challenge. The hybrid NYC location is acceptable but incurs a 1-point deduction from the score. The company's Series C stage meets the minimum requirement.",
+      "source": "Built In NYC",
+      "applyUrl": "N/A",
+      "jobDescription": "Nourish is seeking a Staff Product Designer to lead core product experiences and integrate AI into healthcare solutions. This role is crucial for scaling the company and seamlessly incorporating new offerings. The designer will own projects from conception to execution, setting the strategic foundation for product expansion. Responsibilities include conducting user research, evolving design systems, and mentoring junior designers. The ideal candidate is comfortable with ambiguity, can drive product decisions with strong opinions, and communicates ideas clearly and efficiently. The role demands a high bar for quality and accountability in a fast-paced environment. It requires expertise in design, user psychology, and data-driven decision-making to create intuitive experiences. The position involves working closely with the Head of Design within a small team that values empathy, trust, and collaboration.",
+      "specialty": "AI in Healthcare",
+      "keywords": [
+        {
+          "keyword": "User Research",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Good"
+        },
+        {
+          "keyword": "Design Systems",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Good"
+        },
+        {
+          "keyword": "Mentoring",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Good"
+        },
+        {
+          "keyword": "AI Integration",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Good"
+        },
+        {
+          "keyword": "Strategic Foundation",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Good"
+        },
+        {
+          "keyword": "Complex Systems",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Good"
+        },
+        {
+          "keyword": "B2B SaaS",
+          "inProfile": true,
+          "relevance": "implied",
+          "note": "Good"
+        },
+        {
+          "keyword": "Data-driven design",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Good"
+        },
+        {
+          "keyword": "Figma",
+          "inProfile": true,
+          "relevance": "implied",
+          "note": "Good"
+        },
+        {
+          "keyword": "Interaction Design",
+          "inProfile": true,
+          "relevance": "implied",
+          "note": "Good"
+        },
+        {
+          "keyword": "UI Design",
+          "inProfile": true,
+          "relevance": "implied",
+          "note": "Good"
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-08-21T19:37:32.815Z",
+      "isNew": true
+    },
+    {
+      "id": "job-vbxaiz",
+      "title": "Senior/Staff Product Designer",
+      "company": "Hightouch",
+      "companyDomain": "hightouch.com",
+      "industry": "B2B SaaS, Cloud Infrastructure, Developer Tools, AI",
+      "location": "Remote US",
+      "postedAt": "2026-08-20",
+      "fitScore": 9,
+      "fitTier": "Strong Fit",
+      "fitExplanation": "This role is an excellent fit, aligning perfectly with Michael's expertise in complex B2B SaaS, data-heavy interfaces, enterprise software, and leveraging AI tools. The focus on building scalable platform experiences for governance, access, teams, identity, and multi-organization workflows directly matches his experience with transactional platforms and complex data systems. The remote US location is ideal. His proficiency with AI tools like Figma Make and Cursor is explicitly called out as a bonus in the job description.",
+      "source": "MindPal Jobs",
+      "applyUrl": "N/A",
+      "specialty": "AI Creative Tools",
+      "jobDescription": "Hightouch is seeking a Senior/Staff Product Designer focused on AI Creative Tools. The role involves building scalable platform experiences for governance, access, teams, identity, and multi-organization workflows. The designer will partner with product and engineering to translate complex technical problems into high-quality, data-rich UIs, prototypes, and cohesive admin experiences. Key responsibilities include connecting with customers through research, synthesizing insights from usage data, influencing product direction, and collaborating with cross-functional teams. The ideal candidate will have 6+ years of experience designing features in technical spaces, a curiosity about AI, and sharp visual, UI, and interaction design skills. Proficiency in Figma is required, with a bonus for familiarity with Cursor, Framer, or Claude Code. The design team emphasizes weekly critiques, design jams, a robust design system, and continuous learning.",
+      "keywords": [
+        {
+          "keyword": "B2B SaaS",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Strong fit"
+        },
+        {
+          "keyword": "Data-rich interfaces",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Strong fit"
+        },
+        {
+          "keyword": "AI Tools",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Strong fit (Figma Make, Cursor explicitly mentioned)"
+        },
+        {
+          "keyword": "Platform experiences",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Strong fit"
+        },
+        {
+          "keyword": "Complex technical problems",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Strong fit"
+        },
+        {
+          "keyword": "User Research",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Good"
+        },
+        {
+          "keyword": "Design Systems",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Good"
+        },
+        {
+          "keyword": "Figma",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Good"
+        },
+        {
+          "keyword": "UI Design",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Good"
+        },
+        {
+          "keyword": "Interaction Design",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Good"
+        },
+        {
+          "keyword": "Prototyping",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Good"
+        },
+        {
+          "keyword": "Cross-functional collaboration",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Good"
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-08-21T19:37:32.815Z",
+      "isNew": true
+    },
+    {
+      "id": "job-2st3r4",
+      "title": "Design Lead",
+      "company": "Artera",
+      "companyDomain": "artera.ai",
+      "industry": "Healthcare Tech, B2B SaaS, AI",
+      "location": "Remote US",
+      "postedAt": "2026-08-20",
+      "fitScore": 8,
+      "fitTier": "Good Fit",
+      "fitExplanation": "This role offers a compelling blend of complex B2B SaaS, AI-driven insights, and intricate workflow design, all areas where Michael excels. While the core industry is healthcare tech, the emphasis on transforming complex medical data and provider workflows into intuitive experiences strongly aligns with his ability to make complex systems delightful and tactile. His experience leading and mentoring designers, coupled with a strong portfolio in complex system design and data visualization, makes this a good fit. The remote US location is ideal.",
+      "source": "ZipRecruiter",
+      "applyUrl": "N/A",
+      "jobDescription": "Artera is seeking a highly strategic and hands-on Design Lead to elevate the end-to-end user experience across their products and customer touchpoints. The role involves shaping interactions for clinicians, patients, and partners through web portals, test reports, and medical education materials. The Design Lead will manage an internal and external team of product designers, collaborating with cross-functional leaders to translate intricate medical data, AI-driven insights, and complex provider workflows into intuitive, accessible, and visually compelling experiences. Key requirements include a minimum of 8 years of digital product design experience with at least 2 years leading or mentoring design teams, a proven track record in healthcare or regulated B2B SaaS, and a robust portfolio showcasing complex system design, deep user research integration, and data visualization. Experience leading cross-functional initiatives is essential.",
+      "keywords": [
+        {
+          "keyword": "Design Lead",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Strong fit"
+        },
+        {
+          "keyword": "Complex system design",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Strong fit"
+        },
+        {
+          "keyword": "User Research",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Good"
+        },
+        {
+          "keyword": "Data Visualization",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Strong fit"
+        },
+        {
+          "keyword": "Cross-functional initiatives",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Good"
+        },
+        {
+          "keyword": "B2B SaaS",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Good"
+        },
+        {
+          "keyword": "AI-driven insights",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Strong fit"
+        },
+        {
+          "keyword": "Complex provider workflows",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Strong fit"
+        },
+        {
+          "keyword": "Mentoring design teams",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Good"
+        },
+        {
+          "keyword": "Portfolio",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Good"
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-08-21T19:37:32.815Z",
+      "isNew": true
+    },
+    {
+      "id": "job-t32rp5",
+      "title": "Staff Product Designer",
+      "company": "Render",
+      "companyDomain": "render.com",
+      "industry": "Cloud Infrastructure, Developer Tools, AI, B2B SaaS",
+      "location": "Remote US",
+      "postedAt": "2026-08-21",
+      "fitScore": 10,
+      "fitTier": "Strong Fit",
+      "fitExplanation": "This is an exceptionally strong fit for Michael. The role is explicitly in cloud infrastructure, developer tools, and AI-native applications, all areas of deep context and expertise for him. The Staff Product Designer title aligns with his career goals, and the remote US location is perfect. His experience in complex systems, platform design, and a strong visual craft will be highly valued in shaping the future of a modern cloud platform. The company's Series C funding provides the desired stability.",
+      "source": "Render Careers",
+      "applyUrl": "https://render.com/jobs/staff-product-designer-agent-experience",
+      "specialty": "Agent Experience",
+      "salary": "$218K - $300K",
+      "keywords": [
+        {
+          "keyword": "Cloud infrastructure",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Strong fit"
+        },
+        {
+          "keyword": "Developer tools",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Strong fit"
+        },
+        {
+          "keyword": "AI-native applications",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Strong fit"
+        },
+        {
+          "keyword": "Staff Product Designer",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Strong fit"
+        },
+        {
+          "keyword": "Complex systems",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Strong fit"
+        },
+        {
+          "keyword": "Platform design",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Strong fit"
+        },
+        {
+          "keyword": "SaaS products",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Strong fit"
+        },
+        {
+          "keyword": "User experience",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Good"
+        },
+        {
+          "keyword": "Craft",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Good"
+        },
+        {
+          "keyword": "Autoscaling",
+          "inProfile": false,
+          "relevance": "mentioned",
+          "note": "Related to cloud infrastructure"
+        },
+        {
+          "keyword": "Orchestration",
+          "inProfile": false,
+          "relevance": "mentioned",
+          "note": "Related to cloud infrastructure"
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-08-21T19:37:32.815Z",
+      "isNew": true
+    },
+    {
+      "id": "job-db3wj4",
+      "title": "Senior Product Designer",
+      "company": "Clio",
+      "companyDomain": "clio.com",
+      "industry": "Legal Tech, B2B SaaS, AI, FinTech adjacent",
+      "location": "Remote US",
+      "postedAt": "2026-08-19",
+      "fitScore": 8,
+      "fitTier": "Good Fit",
+      "fitExplanation": "This role presents a strong opportunity for Michael, aligning with his expertise in B2B SaaS, data-heavy interfaces, and complex data architecture. While legal tech is a new industry, the core challenges of simplifying complex domain logic, defining experience strategy for real-time insights, reporting, and analytics, and integrating AI are highly relevant to his skills. His background in transactional flows and payment reconciliation is also beneficial given the financial aspects of legal practice management. The remote US location is ideal.",
+      "source": "Memorisely",
+      "applyUrl": "N/A",
+      "specialty": "Clio Manage Team",
+      "salary": "$131,600 - $178,000 CAD",
+      "jobDescription": "Clio is seeking a Senior Product Designer for its Clio Manage team, focusing on redefining legal service experiences through AI-orchestrated and insight-driven practice management. The role involves shaping the product vision alongside Product Management and Engineering, leading the end-to-end design process from strategic discovery to launch and iteration. The designer will define and execute the experience strategy for real-time insights, complex reporting, and analytics, developing tools for understanding business performance across firm growth, case management, finance, and operations. The ideal candidate has 6+ years of experience in digital product design, preferably B2B SaaS, with a strong portfolio showcasing data-heavy products like dashboards and analytics tools. Expertise in interaction design, information architecture, and visual design is essential, along with the ability to simplify complex domain logic into intuitive interfaces.",
+      "keywords": [
+        {
+          "keyword": "B2B SaaS",
+          "inProfile": true,
+          "relevance": "preferred",
+          "note": "Strong fit"
+        },
+        {
+          "keyword": "Data-heavy products",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Strong fit (dashboards, analytics)"
+        },
+        {
+          "keyword": "Complex data architecture",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Strong fit"
+        },
+        {
+          "keyword": "AI-orchestrated",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Strong fit"
+        },
+        {
+          "keyword": "Interaction Design",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Good"
+        },
+        {
+          "keyword": "Information Architecture",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Good"
+        },
+        {
+          "keyword": "Visual Design",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Good"
+        },
+        {
+          "keyword": "Strategic discovery",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Good"
+        },
+        {
+          "keyword": "Cross-functional collaboration",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Good"
+        },
+        {
+          "keyword": "Finance operations",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Good (FinTech adjacent)"
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-08-21T19:37:32.815Z",
       "isNew": true
     }
   ],
-  "scannedAt": "2026-08-21T11:43:19.838Z"
+  "scannedAt": "2026-08-21T19:38:35.709Z"
 }
