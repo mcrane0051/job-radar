@@ -2844,7 +2844,244 @@
       "status": "New",
       "scannedAt": "2026-08-19T19:39:37.699Z",
       "isNew": false
+    },
+    {
+      "id": "job-droul5",
+      "title": "Senior Product Designer",
+      "company": "Melio",
+      "companyDomain": "melio.com",
+      "industry": "Fintech, B2B SaaS, Payments",
+      "location": "Hybrid in NYC",
+      "postedAt": "2026-08-21",
+      "fitScore": 9,
+      "fitTier": "Strong Fit",
+      "fitExplanation": "This role is an excellent match for Michael's 10+ years of experience specializing in complex B2B SaaS products, particularly with deep context in FinTech, payment reconciliation, and transactional flows from his time at Tackle.io. The focus on owning end-to-end product design for a B2B payments platform directly aligns with his expertise in making complex systems delightful and tactile. His strong visual craft, experience with design systems, and ability to collaborate cross-functionally are highly valued. The hybrid location in NYC is within his acceptable parameters, though it incurs a minor deduction from a perfect score due to his preference for remote.",
+      "source": "Built In / Greenhouse",
+      "applyUrl": "N/A",
+      "isOffLinkedIn": false,
+      "jobDescription": "Melio is seeking a Senior Product Designer to lead and own critical aspects of their B2B payments platform's product design, steering the user experience from prioritization through to launch. The role involves crafting tailored experiences for diverse partners and collaborating closely with Principal Designers, Product Managers, and Engineering leads to translate company strategy into impactful roadmap initiatives. Responsibilities include conducting user research and prototyping in Figma, working independently to steer decisions and bring fresh ideas, and contributing directly to enhancing Melio's B2B payment platform.\n\nCore Responsibilities & Requirements:\n*   Lead end-to-end product design for a B2B payments platform, guiding user experience from concept to launch.\n*   Craft tailored user experiences for various partners.\n*   Partner with Principal Designers, Product Managers, and Engineering leads to align company strategy with product roadmap initiatives.\n*   Conduct user research and prototyping utilizing Figma.\n*   Operate with high independence, driving projects and contributing innovative ideas.\n*   Ensure design consistency across multiple projects while maintaining a holistic perspective.\n*   Collaborate effectively in multidisciplinary and cross-functional teams, including across different time zones.\n*   **Required Skills/Experience:** 5+ years of product design experience in a software company with a strong end-to-end UX/UI portfolio, exceptional communication skills, a proactive and self-starting approach, a user-centered mindset, and mastery of Figma and prototyping.",
+      "specialty": "",
+      "salary": "$140,000 - $160,000",
+      "keywords": [
+        {
+          "keyword": "B2B SaaS",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Core expertise"
+        },
+        {
+          "keyword": "Fintech",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Deep context in payment reconciliation, transactional flows"
+        },
+        {
+          "keyword": "Complex systems",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Key design philosophy of making them delightful and tactile"
+        },
+        {
+          "keyword": "User Research",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Core design practice"
+        },
+        {
+          "keyword": "Prototyping",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Demonstrated mastery with Figma"
+        },
+        {
+          "keyword": "Figma",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Mastery explicitly required"
+        },
+        {
+          "keyword": "Cross-functional collaboration",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Emphasized as a type of work Michael does best"
+        },
+        {
+          "keyword": "Design Systems",
+          "inProfile": true,
+          "relevance": "strong alignment",
+          "note": "Experience establishing scalable design systems"
+        },
+        {
+          "keyword": "End-to-end UX/UI",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Demonstrated in his portfolio and experience"
+        },
+        {
+          "keyword": "Payment platforms",
+          "inProfile": true,
+          "relevance": "strong alignment",
+          "note": "Direct experience with transactional platforms"
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-08-21T11:42:22.821Z",
+      "isNew": true
+    },
+    {
+      "id": "job-nkxojj",
+      "title": "Senior Product Designer",
+      "company": "Lightning AI",
+      "companyDomain": "lightning.ai",
+      "industry": "Developer Tools, AI, Enterprise Software, Cloud Infrastructure",
+      "location": "Hybrid in NYC",
+      "postedAt": "2026-08-21",
+      "fitScore": 9,
+      "fitTier": "Strong Fit",
+      "fitExplanation": "This opportunity aligns strongly with Michael's expertise in designing complex B2B SaaS products and his ability to thrive in ambiguous 0-to-1 problem spaces. His current use of AI tools (Figma Make, Cursor) and experience with developer tools make him an ideal candidate for shaping groundbreaking technology on an AI/Machine Learning platform. The emphasis on blending UX, interaction, and visual design directly reflects his design philosophy and background in visual systems. The hybrid NYC location is acceptable, with a slight adjustment to the fit score.",
+      "source": "Jooble",
+      "applyUrl": "N/A",
+      "isOffLinkedIn": false,
+      "jobDescription": "Lightning AI is seeking a Senior Product Designer to shape groundbreaking technology for their machine learning platform. This role involves blending UX, interaction, and visual design to create products that users love. The designer will collaborate closely with product and engineering teams and engage in user testing to iterate on ideas. The focus is on complex AI Platform and ML Tools, catering to developers and enterprise users.\n\nCore Responsibilities & Requirements:\n*   Shape the design of a machine learning platform, focusing on groundbreaking technology.\n*   Integrate UX, interaction, and visual design principles to create engaging user experiences.\n*   Collaborate effectively with cross-functional product and engineering teams.\n*   Conduct user testing to validate and iterate on design concepts.\n*   Contribute to complex AI Platform and ML Tools development.",
+      "specialty": "AI Platform & ML Tools",
+      "salary": "",
+      "keywords": [
+        {
+          "keyword": "AI",
+          "inProfile": true,
+          "relevance": "strong alignment",
+          "note": "Uses AI tools, deep context with AI-driven products"
+        },
+        {
+          "keyword": "Machine Learning",
+          "inProfile": true,
+          "relevance": "strong alignment",
+          "note": "Related to AI, complex systems expertise"
+        },
+        {
+          "keyword": "Developer tools",
+          "inProfile": true,
+          "relevance": "strong alignment",
+          "note": "Deep context and experience"
+        },
+        {
+          "keyword": "Complex systems",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Key design philosophy, thrives in complex problem spaces"
+        },
+        {
+          "keyword": "B2B SaaS",
+          "inProfile": true,
+          "relevance": "core expertise",
+          "note": "Platform likely serves businesses/developers"
+        },
+        {
+          "keyword": "UX design",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Core design practice"
+        },
+        {
+          "keyword": "Interaction design",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Core design practice"
+        },
+        {
+          "keyword": "Visual design",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Strong background and philosophy, bringing visual craft to B2B"
+        },
+        {
+          "keyword": "Product thinking",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Emphasized in Michael's profile"
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-08-21T11:42:22.821Z",
+      "isNew": true
+    },
+    {
+      "id": "job-9fp2ub",
+      "title": "Senior Product Designer",
+      "company": "Stensul, Inc.",
+      "companyDomain": "stensul.com",
+      "industry": "B2B SaaS, AI, Enterprise Software",
+      "location": "Hybrid in NYC",
+      "postedAt": "2026-08-21",
+      "fitScore": 9,
+      "fitTier": "Strong Fit",
+      "fitExplanation": "This role at Stensul is a strong fit for Michael's expertise in complex B2B SaaS product design, particularly his ability to distill complex problems into holistic product experiences. His track record of owning end-to-end design, shaping product strategy, and contributing to design systems aligns perfectly with the job description. The 'AI-First SaaS' aspect is also a significant point of alignment, complementing his current experience with AI tools. Stensul being a Series C company meets his minimum company stage preference. The hybrid NYC location is acceptable, with a minor score adjustment.",
+      "source": "Jooble",
+      "applyUrl": "N/A",
+      "isOffLinkedIn": false,
+      "jobDescription": "Stensul, Inc. is seeking a Senior Product Designer to take ownership of end-to-end design for their AI-First SaaS platform. This individual will be responsible for distilling complex problems into holistic product experiences and shaping product strategy through insights gained from research and collaboration. The role requires close partnership with product managers and engineers to deliver production-ready UX solutions and contribute to the evolution of the company's design system.\n\nCore Responsibilities & Requirements:\n*   Distill complex problems into clear, holistic product experiences.\n*   Own end-to-end design for the platform, from discovery to implementation.\n*   Shape product strategy by leveraging insights and collaborative input.\n*   Partner closely with product managers and engineers to deliver high-quality UX solutions.\n*   Contribute to the ongoing development and consistency of the design system.\n*   **Required Skills/Experience:** Demonstrated experience in complex problem-solving, end-to-end product design ownership, strategic input, and working effectively with cross-functional teams. Strong UX skills are essential.",
+      "specialty": "AI-First SaaS",
+      "salary": "",
+      "keywords": [
+        {
+          "keyword": "Complex B2B SaaS",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Primary expertise"
+        },
+        {
+          "keyword": "0-to-1 problem spaces",
+          "inProfile": true,
+          "relevance": "strong alignment",
+          "note": "Thrives when structure needs to be created"
+        },
+        {
+          "keyword": "Scaling existing products",
+          "inProfile": true,
+          "relevance": "strong alignment",
+          "note": "Experience in simplifying workflows and improving adoption"
+        },
+        {
+          "keyword": "End-to-end design",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Demonstrated ownership in past roles"
+        },
+        {
+          "keyword": "Product strategy",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Experience shaping design strategy at team/org level"
+        },
+        {
+          "keyword": "Cross-functional collaboration",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Embedded with product and engineering, strong PM partnership"
+        },
+        {
+          "keyword": "Design systems",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Experience building and scaling design systems"
+        },
+        {
+          "keyword": "AI-First",
+          "inProfile": true,
+          "relevance": "strong alignment",
+          "note": "Uses AI tools to accelerate discovery and prototyping"
+        },
+        {
+          "keyword": "UX solutions",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Core design practice and focus"
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-08-21T11:42:22.821Z",
+      "isNew": true
     }
   ],
-  "scannedAt": "2026-08-20T11:43:32.463Z"
+  "scannedAt": "2026-08-21T11:43:19.838Z"
 }
