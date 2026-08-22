@@ -405,202 +405,6 @@
       "isNew": false
     },
     {
-      "id": "job-qeere5",
-      "title": "Staff Product Designer",
-      "company": "Aiwyn",
-      "companyDomain": "aiwyn.com",
-      "industry": "B2B SaaS, FinTech",
-      "location": "Remote (US)",
-      "postedAt": "2026-08-07",
-      "fitScore": 9,
-      "fitTier": "Strong Fit",
-      "fitExplanation": "This role is a strong fit due to its focus on complex B2B SaaS products and the ownership of a design system, which aligns perfectly with Michael's experience in scaling existing products and design systems. The emphasis on autonomy, ambiguous situations, and the use of AI tools also strongly matches his profile. His deep experience in transactional flows and financial adjacent industries (accounting firms) is a significant plus.",
-      "source": "Ladders",
-      "applyUrl": "N/A",
-      "jobDescription": "Aiwyn is seeking a Staff Product Designer to lead design for complex B2B SaaS products, specifically focusing on the strategic direction and quality of the design system. The role involves defining UI quality standards, collaborating on product strategy, addressing system-level design challenges, and leading research initiatives. A key aspect is preparing the design system for AI-driven prototyping and development. The designer will also coach and mentor other team members and operate autonomously in ambiguous situations, using AI tools for experimentation.\n\n**Core Responsibilities:**\n*   Define and uphold UI quality standards for product interfaces.\n*   Drive the strategic direction and consistency of the design system, advocating for its investment and promoting adoption.\n*   Contribute to the overall product strategy and vision in partnership with product leads.\n*   Address system-level design challenges impacting information architecture and shared components.\n*   Lead research initiatives to gather insights for broader product decisions.\n*   Coach and mentor other designers, elevating team practices and standards.\n*   Communicate design rationale effectively to diverse audiences.\n\n**Requirements:**\n*   8+ years of experience designing complex B2B SaaS products, operating across multiple product teams.\n*   Proven track record of owning or significantly shaping a design system (component strategy, documentation, governance).\n*   Familiarity with token-based design systems and component libraries (Figma, Storybook).\n*   Background in a design-forward, product-led company.\n*   Ability to autonomously manage complex, ambiguous cross-team initiatives from problem framing to execution.\n*   Strong mentoring skills and experience in shaping design practices.\n*   Excellent communication skills, particularly in influencing cross-functional leaders.\n*   Access to leading AI tools and a culture that integrates experimentation and curiosity.\n*   Preferred: Experience in accounting, financial services, or other operationally complex B2B verticals.",
-      "keywords": [
-        {
-          "keyword": "B2B SaaS",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Directly aligns with Michael's primary industry expertise."
-        },
-        {
-          "keyword": "Design System",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Michael has extensive experience establishing and scaling design systems."
-        },
-        {
-          "keyword": "Figma",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Michael is proficient in Figma."
-        },
-        {
-          "keyword": "AI tools",
-          "inProfile": true,
-          "relevance": "preferred",
-          "note": "Michael uses AI tools like Figma Make and Cursor."
-        },
-        {
-          "keyword": "0-to-1 discovery",
-          "inProfile": true,
-          "relevance": "strong plus",
-          "note": "The role mentions operating in ambiguous situations and shaping how the platform coheres."
-        },
-        {
-          "keyword": "Mentoring",
-          "inProfile": true,
-          "relevance": "strong plus",
-          "note": "Michael has managed and mentored teams."
-        },
-        {
-          "keyword": "Fintech",
-          "inProfile": true,
-          "relevance": "strong plus",
-          "note": "Accounting firms are fintech adjacent, aligning with Michael's finance/fintech background."
-        }
-      ],
-      "status": "New",
-      "scannedAt": "2026-08-08T11:43:19.401Z",
-      "isNew": false
-    },
-    {
-      "id": "job-gu762m",
-      "title": "Staff Product Designer",
-      "specialty": "Group Practices",
-      "company": "Headway",
-      "companyDomain": "headway.co",
-      "industry": "Healthtech, B2B SaaS, Marketplace",
-      "location": "Remote (US)",
-      "postedAt": "2026-08-05",
-      "fitScore": 9,
-      "fitTier": "Strong Fit",
-      "fitExplanation": "This role aligns closely with Michael's expertise in complex B2B SaaS, 0-to-1 product work, and platform/marketplace design. His background in transactional flows and enterprise UX, particularly with edge cases and incomplete data, is highly relevant for designing multi-user systems with varying permissions and complex billing. The company's Series D stage and remote work arrangement are also ideal.",
-      "source": "Built In",
-      "applyUrl": "N/A",
-      "salary": "$212,000 - $265,000",
-      "jobDescription": "Headway is hiring a Staff Product Designer to design end-to-end experiences for group practices within their mental healthcare platform. This involves owning onboarding, supervisory billing, administrative tooling, packaging, and practice-level analytics. The role requires navigating multi-user systems with role-based permissions and leading 0-to-1 product initiatives from concept to scale, while also contributing to AI-driven prototyping and design system improvements.\n\n**Core Responsibilities:**\n*   Design end-to-end experiences for group practices, including onboarding, supervisory billing, admin tooling, packaging, and practice-level analytics.\n*   Partner with Sales, Customer Success, Product, and Engineering to drive growth.\n*   Scale supervisory billing nationwide.\n*   Contribute to AI-driven prototyping and design system improvements.\n*   Lead 0-to-1 product initiatives, taking areas from concept to scale.\n\n**Requirements:**\n*   8+ years of product design experience.\n*   Experience designing multi-user systems with role-based permissions (admins, owners, supervisees).\n*   Proven 0-to-1 product experience, launching new product lines.\n*   Experience designing for platforms or marketplaces, balancing segment-specific needs.\n*   Strong visual and interaction design craft across onboarding, activation, dashboards, and operational workflows.\n*   Comfort partnering with Sales and Customer Success as core stakeholders.",
-      "keywords": [
-        {
-          "keyword": "B2B SaaS",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Aligns with Michael's core expertise."
-        },
-        {
-          "keyword": "0-to-1 discovery",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Explicitly a 0-to-1 product experience role."
-        },
-        {
-          "keyword": "Marketplace infrastructure",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Experience designing for platforms or marketplaces is required."
-        },
-        {
-          "keyword": "Transactional workflows",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Supervisory billing involves complex transactional flows."
-        },
-        {
-          "keyword": "Enterprise UX",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Designing for multi-user systems with permissions and operational workflows."
-        },
-        {
-          "keyword": "Design Systems",
-          "inProfile": true,
-          "relevance": "strong plus",
-          "note": "Explicitly mentions contributing to design system improvements."
-        },
-        {
-          "keyword": "AI tools",
-          "inProfile": true,
-          "relevance": "strong plus",
-          "note": "Mentions AI-driven prototyping."
-        },
-        {
-          "keyword": "Figma",
-          "inProfile": true,
-          "relevance": "strong plus",
-          "note": "Implied by strong visual and interaction design craft."
-        }
-      ],
-      "status": "New",
-      "scannedAt": "2026-08-08T11:43:19.401Z",
-      "isNew": false
-    },
-    {
-      "id": "job-hwe8mm",
-      "title": "Senior Product Designer",
-      "specialty": "Client Management",
-      "company": "Headway",
-      "companyDomain": "headway.co",
-      "industry": "Healthtech, B2B SaaS",
-      "location": "Hybrid in NYC",
-      "postedAt": "2026-08-05",
-      "fitScore": 7,
-      "fitTier": "Good Fit",
-      "fitExplanation": "This role is a good fit, combining B2B SaaS and complex workflow design (calendar, scheduling, messaging), which aligns with Michael's strengths. The hybrid nature in NYC is an acceptable location. The involvement with AI tools and design systems also matches his profile. The deduction in score is due to the hybrid nature.",
-      "source": "Built In NYC",
-      "applyUrl": "N/A",
-      "salary": "$180,000 - $225,000",
-      "jobDescription": "Headway is seeking a Senior Product Designer to lead design for client management functionalities, including calendar, scheduling, and provider-patient messaging, to reduce administrative burden for therapists. The role involves solving complex multi-state problems (timezones, booking conflicts), improving notifications and EHR usability, conducting research with providers, and contributing patterns to the Helix design system while prototyping using AI tools through launch and iteration. Headway is a Series D company.\n\n**Core Responsibilities:**\n*   Lead design for calendar, scheduling, and provider-patient messaging.\n*   Solve complex multi-state problems, such as timezones, booking, and conflicts.\n*   Improve notifications and EHR usability.\n*   Conduct user research with providers.\n*   Contribute patterns to the Helix design system.\n*   Prototype using AI tools through launch and iteration.\n\n**Requirements:**\n*   Experience designing complex scheduling, messaging, or CRM tools for B2B SaaS.\n*   Experience with multi-state logic or complex data.\n*   Strong user research and prototyping skills, including with AI tools.\n*   Experience with design systems.\n*   Ability to collaborate cross-functionally.",
-      "keywords": [
-        {
-          "keyword": "B2B SaaS",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Aligns with Michael's primary industry expertise."
-        },
-        {
-          "keyword": "Complex workflow design",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Focus on calendar, scheduling, and messaging workflows."
-        },
-        {
-          "keyword": "User Research",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Explicitly mentions conducting user research."
-        },
-        {
-          "keyword": "AI tools",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Explicitly mentions prototyping using AI tools."
-        },
-        {
-          "keyword": "Design Systems",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Explicitly mentions contributing to the design system."
-        },
-        {
-          "keyword": "Enterprise UX",
-          "inProfile": true,
-          "relevance": "strong plus",
-          "note": "Focus on improving administrative burden for professional users."
-        },
-        {
-          "keyword": "Figma",
-          "inProfile": true,
-          "relevance": "strong plus",
-          "note": "Implied by prototyping and design system work."
-        }
-      ],
-      "status": "New",
-      "scannedAt": "2026-08-08T11:43:19.401Z",
-      "isNew": false
-    },
-    {
       "id": "job-dlc65o",
       "title": "Senior Product Designer",
       "company": "Ashby",
@@ -1252,7 +1056,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-08-22T11:35:02.496Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-byq8gd",
@@ -3576,8 +3380,108 @@
       ],
       "status": "New",
       "scannedAt": "2026-08-22T11:35:02.496Z",
+      "isNew": false
+    },
+    {
+      "id": "job-jpxcky",
+      "title": "Senior Staff Product Designer",
+      "company": "Stripe",
+      "companyDomain": "stripe.com",
+      "industry": "Fintech",
+      "location": "Remote (United States)",
+      "postedAt": "2026-08-22",
+      "fitScore": 10,
+      "fitTier": "Strong Fit",
+      "fitExplanation": "This role at Stripe is an exceptional match for Michael Crane's profile. It requires 10+ years of design experience at a tech, product-driven company, which perfectly aligns with Michael's extensive background. The core focus on data & AI, platform design, and the creation of new products within a financial infrastructure context directly corresponds to Michael's deep expertise in complex B2B SaaS products, FinTech (specifically payment reconciliation and transactional flows), and marketplace infrastructure. His proven experience with AI tools (Figma Make, Cursor) is a significant asset for this role. Michael's strength in leading complex product work, shaping ambiguous 0-to-1 problem spaces, and driving clarity through rigorous systems thinking is highly valued here. The responsibilities involving data products, analytics, database, and data pipeline align seamlessly with his work on complex data systems and revenue tracking. Furthermore, the role's Staff-level designation and the remote (U.S. Only) work arrangement are ideal preferences for Michael. Stripe, being a company well past Series C funding, also meets the stability and resource requirements.",
+      "source": "Wellfound / Jooble",
+      "applyUrl": "N/A",
+      "jobDescription": "The Senior Staff Product Designer, Data & AI at Stripe is a pivotal role dedicated to fostering trust within the internet economy through innovative platform design and the development of new products. This position primarily involves crafting solutions that empower founders and finance teams to effectively understand and expand their businesses. The scope of work encompasses two main areas: Data Products, which includes analytics, database, and data pipeline solutions for analyzing Stripe data, and Ecosystems & Startups, focusing on platforms like Atlas, the App Marketplace, and the Business Network to facilitate company incorporation, tool integration, and business-to-business transactions. Key responsibilities for this role involve influencing cross-functional teams and product direction, adeptly navigating ambiguous problem spaces, establishing clarity through design, and spearheading complex product initiatives in close collaboration with product management and engineering leadership. Candidates are expected to present a robust portfolio showcasing exceptional craft, comprehensive systems thinking, end-to-end design capabilities, and a foundational understanding of AI tools. Ideal candidates thrive in environments that demand a blend of systems-level thinking, strategic planning, and zero-to-one product development, possessing the ability to distill intricate systems, policies, and edge cases into refined, user-friendly product experiences.",
+      "specialty": "Data & AI",
+      "salary": "$210,400 - $376,800",
+      "keywords": [
+        {
+          "keyword": "10+ years design experience",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Candidate has 10+ years of experience."
+        },
+        {
+          "keyword": "B2B SaaS",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Candidate specializes in complex B2B SaaS products."
+        },
+        {
+          "keyword": "Fintech",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Candidate has deep context in Finance and FinTech adjacent areas like payment reconciliation, transactional flows."
+        },
+        {
+          "keyword": "Cloud Infrastructure",
+          "inProfile": true,
+          "relevance": "strong",
+          "note": "Candidate has experience with multi-cloud transactional platforms (Tackle.io)."
+        },
+        {
+          "keyword": "Marketplace Infrastructure",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Candidate has experience with marketplace infrastructure at Tackle.io and the role involves 'App Marketplace'."
+        },
+        {
+          "keyword": "Data Systems",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Candidate specializes in complex data systems and the role focuses on Data & AI."
+        },
+        {
+          "keyword": "AI tools",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Candidate uses Figma Make, Cursor and role mentions understanding of AI tools."
+        },
+        {
+          "keyword": "Systems Thinking",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Candidate emphasizes rigorous systems thinking and role requires it."
+        },
+        {
+          "keyword": "0-to-1 design",
+          "inProfile": true,
+          "relevance": "strong",
+          "note": "Candidate thrives in ambiguous 0-to-1 problem spaces, and role mentions 'net-new product creation' and 'zero to one product thinking'."
+        },
+        {
+          "keyword": "Cross-functional collaboration",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Candidate emphasizes cross-functional collaboration, and role requires partnership with PM and Engineering."
+        },
+        {
+          "keyword": "Design Systems",
+          "inProfile": true,
+          "relevance": "strong",
+          "note": "Candidate has experience establishing scalable design systems."
+        },
+        {
+          "keyword": "Senior Staff Product Designer",
+          "inProfile": true,
+          "relevance": "target_title",
+          "note": "Matches candidate's target role level."
+        },
+        {
+          "keyword": "Remote US",
+          "inProfile": true,
+          "relevance": "location",
+          "note": "Matches candidate's preferred work arrangement."
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-08-22T19:34:58.692Z",
       "isNew": true
     }
   ],
-  "scannedAt": "2026-08-22T11:36:13.652Z"
+  "scannedAt": "2026-08-22T19:35:56.903Z"
 }
