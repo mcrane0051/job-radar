@@ -154,59 +154,6 @@
       "isNew": false
     },
     {
-      "id": "job-v6zscs",
-      "title": "Lead Product Designer",
-      "company": "b.well Connected Health",
-      "companyDomain": "b.well.com",
-      "industry": "Healthcare Technology (B2B, AI, Data)",
-      "location": "Remote (U.S. Only)",
-      "postedAt": "2026-08-07",
-      "fitScore": 8,
-      "fitTier": "Good Fit",
-      "fitExplanation": "This Lead Product Designer role aligns well with Michael's expertise in complex data systems and platform design, especially his ability to 'lead with curiosity, back decisions with data, and operate as a true thought partner to product managers, engineers, and executives.' While healthcare is not a primary industry for Michael, the focus on 'transforming healthcare into a simple, on-demand experience' and 'unify fragmented health data' parallels his experience in making complex B2B systems clear and trustworthy. The Series C stage and remote work arrangement are also excellent fits. The role's emphasis on AI interactions is a plus, given Michael's use of AI tools.",
-      "source": "WhatJobs US",
-      "applyUrl": "N/A",
-      "isOffLinkedIn": true,
-      "jobDescription": "b.well Connected Health is seeking a Lead Product Designer to take ownership of the end-to-end user experience for its product ecosystem, focusing on the intersection of AI, healthcare data, and consumer-grade digital experiences. This role requires a designer who can lead with curiosity, use data to inform decisions, and partner effectively with product managers, engineers, and executives to shape design strategy. Responsibilities include defining AI interactions and contributing to a culture where experience quality is a competitive advantage. Prior experience with regulatory or compliance requirements (e.g., HIPAA) is a plus.",
-      "specialty": "AI, Healthcare Data",
-      "salary": "$150k - $170k",
-      "keywords": [
-        {
-          "keyword": "Lead Product Designer",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Targeting Lead Product Designer roles"
-        },
-        {
-          "keyword": "complex data systems",
-          "inProfile": true,
-          "relevance": "strong alignment",
-          "note": "Candidate specializes in complex data systems."
-        },
-        {
-          "keyword": "AI interactions",
-          "inProfile": true,
-          "relevance": "preferred",
-          "note": "Candidate has used AI tools in design process."
-        },
-        {
-          "keyword": "design strategy",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Candidate has experience shaping design strategy at team and org level."
-        },
-        {
-          "keyword": "cross-functional collaboration",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Candidate operates effectively across the full design lifecycle, working closely with product managers, engineering leads, and executives."
-        }
-      ],
-      "status": "New",
-      "scannedAt": "2026-08-08T19:44:30.585Z",
-      "isNew": false
-    },
-    {
       "id": "job-xwoiac",
       "title": "Staff Product Designer",
       "company": "Affirm",
@@ -402,175 +349,6 @@
       ],
       "status": "New",
       "scannedAt": "2026-08-10T11:59:11.528Z",
-      "isNew": false
-    },
-    {
-      "id": "job-dlc65o",
-      "title": "Senior Product Designer",
-      "company": "Ashby",
-      "companyDomain": "ashby.co",
-      "industry": "B2B SaaS",
-      "location": "Remote (U.S. Only)",
-      "postedAt": "2026-08-08",
-      "fitScore": 9,
-      "fitTier": "Strong Fit",
-      "fitExplanation": "This role is a strong fit given Michael's extensive experience in complex B2B SaaS, particularly the emphasis on 'first principles' thinking and designing for desktop SaaS. The company stage (Series D) and remote nature align perfectly with preferences. The listed salary range is also attractive. Michael's background in visual craft and making complex systems delightful would be highly valued here.",
-      "source": "Wellfound",
-      "applyUrl": "N/A",
-      "isOffLinkedIn": true,
-      "jobDescription": "Ashby is seeking a Senior Product Designer with over 4 years of experience in desktop SaaS product design. The ideal candidate will possess the ability to approach design challenges from first principles, rather than solely relying on standard UX processes. This individual will be instrumental in shaping intuitive and effective product experiences within a rapidly growing B2B SaaS environment.",
-      "specialty": "",
-      "salary": "$150k - $210k",
-      "keywords": [
-        {
-          "keyword": "desktop SaaS",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Candidate specializes in B2B SaaS"
-        },
-        {
-          "keyword": "first principles",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Candidate thrives in ambiguous 0-to-1 problem spaces where structure needs to be created."
-        }
-      ],
-      "status": "New",
-      "scannedAt": "2026-08-08T19:44:30.585Z",
-      "isNew": false
-    },
-    {
-      "id": "job-f2gtjc",
-      "title": "Staff Product Designer",
-      "company": "ElevenLabs",
-      "companyDomain": "elevenlabs.io",
-      "industry": "Audio AI Platform, SaaS",
-      "location": "Remote (U.S. Only)",
-      "postedAt": "2026-08-08",
-      "fitScore": 8,
-      "fitTier": "Good Fit",
-      "fitExplanation": "This Staff Product Designer role at ElevenLabs presents a good fit due to its focus on 'destroying complexity as an art form' within an AI platform, aligning with Michael's philosophy of making complex systems delightful and tactile. The company is Series C and growing rapidly, which fits the preference for stability and resources. Michael's experience with 0-to-1 discovery, visual craft, and design systems would be highly valuable in shaping the product's direction. While not a core industry, the AI/SaaS platform aspect is a strong match. The 'Anywhere in the World' remote nature is assumed to include the US.",
-      "source": "Tacit Talents",
-      "applyUrl": "N/A",
-      "isOffLinkedIn": true,
-      "jobDescription": "ElevenLabs is seeking a Staff Product Designer to lead the design of its audio AI platform, with a focus on simplifying complex interactions and ensuring every feature is intuitive, elegant, and enjoyable to use. This role involves shaping the product's direction, collaborating closely with leadership, product, and engineering teams, and leading the design process from concept to execution. The company is a rapidly growing Series C organization.",
-      "specialty": "Audio AI Platform",
-      "keywords": [
-        {
-          "keyword": "Staff Product Designer",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Targeting Staff Product Designer roles"
-        },
-        {
-          "keyword": "destroying complexity",
-          "inProfile": true,
-          "relevance": "strong alignment",
-          "note": "Candidate specializes in making complex systems delightful."
-        },
-        {
-          "keyword": "AI capabilities",
-          "inProfile": true,
-          "relevance": "preferred",
-          "note": "Candidate uses AI tools in design process."
-        },
-        {
-          "keyword": "0-to-1 discovery",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Candidate thrives in ambiguous 0-to-1 problem spaces."
-        },
-        {
-          "keyword": "design systems",
-          "inProfile": true,
-          "relevance": "strong alignment",
-          "note": "Candidate has experience with design systems and consistency at scale."
-        }
-      ],
-      "status": "New",
-      "scannedAt": "2026-08-08T19:44:30.585Z",
-      "isNew": false
-    },
-    {
-      "id": "job-l214g",
-      "title": "Senior Product Designer I",
-      "company": "ClickHouse",
-      "companyDomain": "clickhouse.com",
-      "industry": "Cloud Infrastructure, Developer Tools, Database Systems",
-      "location": "Remote (U.S. Only)",
-      "postedAt": "2026-08-08",
-      "fitScore": 9,
-      "fitTier": "Strong Fit",
-      "fitExplanation": "This Senior Product Designer I role at ClickHouse is an excellent match, aligning perfectly with Michael's deep context in cloud infrastructure and developer tools, as well as his expertise in complex data systems. The role emphasizes leading design direction, managing a team, leveraging AI capabilities, and contributing to a design system – all areas where Michael excels. The company's Series D funding and remote U.S. location further strengthen the fit. Michael's ability to 'navigate ambiguity' and balance 'strategic thinking with hands-on' execution makes this a strong alignment.",
-      "source": "Tacit Talents",
-      "applyUrl": "N/A",
-      "isOffLinkedIn": true,
-      "jobDescription": "ClickHouse is seeking a Senior Product Designer I to lead design direction for key product initiatives within the database systems domain. This role involves managing and mentoring a small team of designers, leveraging AI capabilities, and delivering scalable, accessible experiences. The designer will collaborate cross-functionally to align products with user needs and business goals, and actively contribute to the evolution of the design system, processes, and culture. The ideal candidate is skilled at navigating ambiguity and balancing strategic thinking with hands-on design. ClickHouse is a Series D funded company.",
-      "specialty": "Database Systems",
-      "keywords": [
-        {
-          "keyword": "Senior Product Designer",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Targeting Senior Product Designer roles"
-        },
-        {
-          "keyword": "cloud infrastructure",
-          "inProfile": true,
-          "relevance": "strong alignment",
-          "note": "Candidate has deep context in cloud infrastructure."
-        },
-        {
-          "keyword": "developer tools",
-          "inProfile": true,
-          "relevance": "strong alignment",
-          "note": "Candidate has deep context in developer tools."
-        },
-        {
-          "keyword": "complex data systems",
-          "inProfile": true,
-          "relevance": "strong alignment",
-          "note": "Candidate specializes in complex data systems."
-        },
-        {
-          "keyword": "leading design direction",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Candidate has lead design experience."
-        },
-        {
-          "keyword": "managing and mentoring designers",
-          "inProfile": true,
-          "relevance": "strong alignment",
-          "note": "Candidate has experience managing and mentoring a team of designers."
-        },
-        {
-          "keyword": "AI capabilities",
-          "inProfile": true,
-          "relevance": "preferred",
-          "note": "Candidate uses AI tools in design process."
-        },
-        {
-          "keyword": "design systems",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Candidate has experience establishing and scaling design systems."
-        },
-        {
-          "keyword": "cross-functional collaboration",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Candidate is experienced in cross-functional collaboration."
-        },
-        {
-          "keyword": "navigating ambiguity",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Candidate thrives in ambiguous 0-to-1 problem spaces."
-        }
-      ],
-      "status": "New",
-      "scannedAt": "2026-08-08T19:44:30.585Z",
       "isNew": false
     },
     {
@@ -3480,8 +3258,66 @@
       ],
       "status": "New",
       "scannedAt": "2026-08-22T19:34:58.692Z",
+      "isNew": false
+    },
+    {
+      "id": "job-dxxm46",
+      "title": "Senior Product Designer",
+      "company": "Xplor",
+      "companyDomain": "xplortechnologies.com",
+      "industry": "B2B SaaS",
+      "location": "Remote",
+      "postedAt": "2026-08-23",
+      "fitScore": 8,
+      "fitTier": "Good Fit",
+      "fitExplanation": "This role is a strong match for Michael Crane's profile as a Senior Product Designer with deep experience in complex B2B SaaS products. Xplor Technologies (parent company of Mariana Tek) is a large, well-established organization, meeting the Series C or later company stage preference. The role's focus on a B2B SaaS environment aligns directly with Michael's primary industry expertise. The mention of AI in design, research, and copy resonates with Michael's stated use of AI tools in his workflow. Michael's demonstrated leadership and mentorship capabilities are also a good fit for a senior role requiring influence. The primary caveat is the brevity of the job description in the search result, which limits a full assessment of detailed responsibilities. It is assumed 'Remote (Work from Home)' implies Remote (U.S. Only) as per candidate preference, though this is not explicitly stated in the snippet.",
+      "source": "Himalayas",
+      "applyUrl": "N/A",
+      "isOffLinkedIn": true,
+      "jobDescription": "This Senior Product Designer position is responsible for leading design initiatives within a B2B SaaS environment, specifically for Mariana Tek's club management software. The role requires the ability to autonomously guide projects, influence stakeholders, and mentor fellow team members. Familiarity with integrating AI into design, research, and copywriting processes is a beneficial skill. The ideal candidate will leverage their product design expertise to contribute to a complex B2B platform.",
+      "specialty": "Mariana Tek",
+      "keywords": [
+        {
+          "keyword": "B2B SaaS",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Core industry match."
+        },
+        {
+          "keyword": "AI tools",
+          "inProfile": true,
+          "relevance": "preferred",
+          "note": "Candidate uses Figma Make, Cursor."
+        },
+        {
+          "keyword": "Leadership",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Candidate has lead experience and ability to mentor."
+        },
+        {
+          "keyword": "Design initiatives",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Candidate leads 0-to-1 discovery and full lifecycle."
+        },
+        {
+          "keyword": "Stakeholder influence",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Candidate works closely with PMs, engineering leads, executives."
+        },
+        {
+          "keyword": "Remote",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Matches candidate's preference for remote work."
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-08-23T11:34:40.114Z",
       "isNew": true
     }
   ],
-  "scannedAt": "2026-08-22T19:35:56.903Z"
+  "scannedAt": "2026-08-23T11:35:31.741Z"
 }
