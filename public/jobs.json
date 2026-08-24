@@ -277,157 +277,6 @@
       "isNew": false
     },
     {
-      "id": "job-kilfsi",
-      "title": "Senior Product Designer",
-      "company": "Mercury",
-      "companyDomain": "mercury.com",
-      "industry": "Fintech, B2B SaaS",
-      "location": "Remote",
-      "postedAt": "2026-08-09",
-      "fitScore": 9,
-      "fitTier": "Strong Fit",
-      "fitExplanation": "Michael's 10+ years of experience, including senior-level work, in complex B2B SaaS and fintech-adjacent domains (payment reconciliation, transactional flows, data-heavy interfaces) makes him an excellent fit for this role. His ability to transform complex systems into intuitive and delightful experiences, combined with his systems thinking and 0-to-1 problem-solving skills, directly addresses the need to reimagine accounting workflows. Mercury's status as a Series D company aligns with his preference for stable, well-resourced organizations.",
-      "source": "Google Search Result",
-      "applyUrl": "N/A",
-      "isOffLinkedIn": false,
-      "jobDescription": {
-        "summary": "This Senior Product Designer role at Mercury is focused on leading the design vision for Accounting Integrations. The primary objective is to reimagine how customers manage their accounting tasks within the Mercury platform, using automation and new interaction models to simplify complex financial workflows into intuitive product experiences.",
-        "responsibilities": [
-          "Lead the design vision for Mercury's Accounting Integrations experience, spanning from early product strategy to polished execution.",
-          "Reimagine and shape how customers prepare and complete accounting work within Mercury through thoughtful automation and innovative interaction models.",
-          "Translate highly complex accounting workflows into simple, intuitive product experiences that make financial operations feel straightforward.",
-          "Bring clarity to ambiguous problems and help teams align around a compelling product direction.",
-          "Balance the implementation of automation with ensuring transparency, trust, and user control."
-        ],
-        "requirements": [
-          "6+ years of experience leading complex, end-to-end product design initiatives.",
-          "A mindset that emphasizes systems and workflows over individual screen design.",
-          "A deep curiosity and willingness to obsessively learn new domains to challenge existing assumptions.",
-          "Proven ability to transform highly complex workflows into simple and intuitive product experiences.",
-          "Possesses strong product judgment, clear communication skills, and a high degree of ownership."
-        ]
-      },
-      "specialty": "Accounting Integrations",
-      "salary": "$189k - $236k",
-      "keywords": [
-        {
-          "keyword": "Accounting Integrations",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Michael has deep context in payment reconciliation and transactional flows, which are highly relevant to accounting integrations."
-        },
-        {
-          "keyword": "complex accounting workflows",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Michael specializes in complex data systems, transactional flows, and enterprise seller tools, making complex systems delightful and tactile."
-        },
-        {
-          "keyword": "systems and workflows",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Michael applies rigorous systems thinking to make complex workflows clear and trustworthy."
-        },
-        {
-          "keyword": "ambiguous problems",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Michael thrives in 0-to-1 and ambiguous problem spaces, structuring where needed."
-        },
-        {
-          "keyword": "lead end-to-end product design",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Michael operates effectively across the full design lifecycle, from discovery through to shipped product."
-        },
-        {
-          "keyword": "remote",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Michael is open to remote work."
-        }
-      ],
-      "status": "New",
-      "scannedAt": "2026-08-10T11:59:11.528Z",
-      "isNew": false
-    },
-    {
-      "id": "job-h4odcg",
-      "title": "Lead Product Designer",
-      "company": "Distro",
-      "companyDomain": "vensure.com",
-      "industry": "HR Tech, Fintech, Enterprise Software",
-      "location": "Remote",
-      "postedAt": "2026-08-09",
-      "fitScore": 9,
-      "fitTier": "Strong Fit",
-      "fitExplanation": "Michael's extensive experience (10+ years), including lead design roles and specialization in complex B2B SaaS, transactional flows, payment reconciliation, and HR tech, aligns perfectly with this position. His background in evolving design systems, defining user research strategies, and maintaining a high design quality bar directly matches the role's core responsibilities. The 'player-coach' aspect also resonates with his ability to lead and mentor designers.",
-      "source": "Google Search Result",
-      "applyUrl": "N/A",
-      "isOffLinkedIn": false,
-      "jobDescription": {
-        "summary": "This Lead Product Designer role at ListoGlobal, a Vensure Employer Solutions company, is a player-coach position. It emphasizes bringing clarity, consistency, and quality to the user experience across a complex Fintech and HRMS product focused on global payroll. The designer will be responsible for the entire design process, from initial research to defining interaction patterns and ensuring excellent implementation.",
-        "responsibilities": [
-          "Lead end-to-end design, encompassing user problem discovery, research, interaction pattern definition, and quality assurance.",
-          "Create and maintain comprehensive design documentation, specifications, and materials for developer handoff.",
-          "Own and continuously evolve the ListoGlobal design system and its component library.",
-          "Define and execute the user research strategy, including planning, conducting, and synthesizing insights to inform product decisions.",
-          "Establish and uphold a high standard for design quality across all released product experiences.",
-          "Present design work and its rationale clearly to senior stakeholders, including executive leadership."
-        ],
-        "requirements": [
-          "Expert proficiency in Figma, including components, variables, prototyping, and design system management.",
-          "Strong skills in user research and synthesis.",
-          "Ability to articulate design rationale clearly to both technical and non-technical audiences.",
-          "Self-directed and effective in a fully remote work environment.",
-          "Experience with complex Fintech and HRMS products (implied by the role's context)."
-        ]
-      },
-      "specialty": "Fintech & HRMS",
-      "salary": "$125k - $146k",
-      "keywords": [
-        {
-          "keyword": "complex Fintech and HRMS product",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Michael has deep context in FinTech (payment reconciliation, transactional flows) and HR Tech (iCIMS, Slingshot)."
-        },
-        {
-          "keyword": "Lead design end-to-end",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Michael operates effectively across the full design lifecycle, from 0-to-1 discovery through to shipped product."
-        },
-        {
-          "keyword": "Own and evolve design system",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Michael has experience establishing a scalable design system (Figma component library) and consistency at scale."
-        },
-        {
-          "keyword": "Define and execute user research strategy",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Michael conducts user research, affinity mapping, and stakeholder workshops."
-        },
-        {
-          "keyword": "Expert Figma proficiency",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Figma is a core tool in Michael's skill set, with experience in prototyping and design systems."
-        },
-        {
-          "keyword": "remote",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Michael is open to remote work and is effective working fully remotely."
-        }
-      ],
-      "status": "New",
-      "scannedAt": "2026-08-10T11:59:11.528Z",
-      "isNew": false
-    },
-    {
       "id": "job-9pajak",
       "title": "Lead Product Designer",
       "company": "Cisco",
@@ -2990,7 +2839,95 @@
       "status": "New",
       "scannedAt": "2026-08-23T11:34:40.114Z",
       "isNew": false
+    },
+    {
+      "id": "job-krzxx0",
+      "title": "Staff Product Designer",
+      "company": "Hightouch",
+      "companyDomain": "hightouch.com",
+      "industry": "B2B SaaS, Cloud Infrastructure, Developer Tools",
+      "location": "Remote (United States)",
+      "postedAt": "Pending Confirmation",
+      "fitScore": 9,
+      "fitTier": "Strong Fit",
+      "fitExplanation": "This role is an excellent match for Michael's expertise. As a Staff Product Designer focusing on AI Creative Tools, it aligns perfectly with his experience in complex B2B SaaS, data-heavy interfaces, and his proven track record of leveraging AI tools in his design process (Figma Make, Cursor). The remote US location is a strong preference, and Hightouch's Series E funding indicates the desired company stage. The emphasis on data platforms and AI tools directly correlates with Michael's background in multi-cloud transactional platforms and complex data systems.",
+      "source": "Hightouch Careers Page (implied)",
+      "applyUrl": "N/A",
+      "isOffLinkedIn": false,
+      "jobDescription": "Hightouch is seeking a Staff Product Designer to drive the design vision for their AI Creative Tools platform. This role involves designing sophisticated data-driven experiences that enable businesses to leverage AI for marketing and customer engagement. Responsibilities include owning the end-to-end design process, from discovery and user research to prototyping and high-fidelity execution. The ideal candidate will work closely with product managers, engineers, and AI specialists to translate complex technical capabilities into intuitive and powerful user interfaces. They will be instrumental in evolving the platform's design system and ensuring a consistent, high-quality user experience. The role requires a strong portfolio demonstrating experience with complex B2B SaaS products and a deep understanding of data workflows.",
+      "specialty": "AI Creative Tools",
+      "keywords": [
+        {
+          "keyword": "B2B SaaS",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Direct match with industry focus"
+        },
+        {
+          "keyword": "AI Tools",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Candidate actively uses Figma Make, Cursor"
+        },
+        {
+          "keyword": "Complex Data Systems",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Strong experience in data-heavy interfaces"
+        },
+        {
+          "keyword": "Product Design",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Core competency"
+        },
+        {
+          "keyword": "Remote",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Preferred work arrangement"
+        },
+        {
+          "keyword": "Staff Product Designer",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Targeted role level"
+        },
+        {
+          "keyword": "Design Systems",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Extensive experience establishing design systems"
+        },
+        {
+          "keyword": "User Research",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Experience conducting user research and discovery"
+        },
+        {
+          "keyword": "Prototyping",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Proficient in high-fidelity prototyping (Figma)"
+        },
+        {
+          "keyword": "Cloud Infrastructure",
+          "inProfile": true,
+          "relevance": "preferred",
+          "note": "Experience with multi-cloud platforms at Tackle.io"
+        },
+        {
+          "keyword": "Enterprise Software",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Specialization in complex enterprise products"
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-08-24T19:44:58.919Z",
+      "isNew": true
     }
   ],
-  "scannedAt": "2026-08-24T11:44:16.045Z"
+  "scannedAt": "2026-08-24T19:45:39.187Z"
 }
