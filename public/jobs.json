@@ -218,145 +218,6 @@
       "isNew": false
     },
     {
-      "id": "job-jamlm9",
-      "title": "Lead Product Designer",
-      "company": "A Place for Mom",
-      "companyDomain": "aplaceformom.com",
-      "industry": "Marketplace",
-      "location": "Remote",
-      "postedAt": "2026-08-10",
-      "fitScore": 9,
-      "fitTier": "Strong Fit",
-      "fitExplanation": "This role aligns exceptionally well with Michael's profile. It's a Lead Product Designer position at an established marketplace company, focusing on complex B2B-like workflows for providers in the aging care industry. Michael has extensive experience in marketplace infrastructure, complex B2B SaaS, and transactional flows. The role emphasizes end-to-end design, working with cross-functional teams, and experimenting with AI tools, all areas where Michael excels and has deep experience. The remote nature is also a strong preference.",
-      "source": "Anchormust",
-      "applyUrl": "N/A",
-      "jobDescription": "The Lead Product Designer for Provider Experience will be responsible for owning the end-to-end product design for provider-facing workstreams within a marketplace setting. This involves leading design from initial discovery and journey mapping through to prototyping and production-ready designs. The role requires partnering deeply with Product Managers, Engineers, Researchers, Marketing, Sales, and senior leaders to align teams around clear design direction. The designer will work across provider-facing workflows, partner tools, marketing touchpoints, and internal systems that support the provider experience, always with an eye on the broader marketplace journey. A key aspect is experimenting with AI tools to explore product directions, prototype workflows, synthesize inputs, and improve design speed and quality, while understanding where AI genuinely enhances the experience versus where human judgment and trust are paramount. The ideal candidate is a high-agency builder who thrives in ambiguity, takes ownership, and uses design, data, and AI-native tools to accelerate the team's work and elevate quality. They should have strong design judgment, be flexible in process, and know when to prototype, simplify, or advocate for better system patterns. Requirements include 7+ years of product design experience on complex web, SaaS, marketplace, CRM, internal-tool, partner-portal, or operations-facing products. The role is for someone curious about the future of product design and actively experimenting with AI tools.",
-      "specialty": "Provider Experience",
-      "salary": "$165,000 - $185,000",
-      "keywords": [
-        {
-          "keyword": "Lead Product Designer",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Matches desired title."
-        },
-        {
-          "keyword": "Marketplace",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Deep context in cloud marketplace/revenue operations infrastructure."
-        },
-        {
-          "keyword": "B2B SaaS",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Primary industry expertise."
-        },
-        {
-          "keyword": "Complex workflows",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Specializes in complex B2B SaaS products and data systems."
-        },
-        {
-          "keyword": "0-to-1 discovery",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Operates effectively across the full design lifecycle from ambiguous 0-to-1 discovery."
-        },
-        {
-          "keyword": "Cross-functional collaboration",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Works closely with product managers, engineering leads, and executives."
-        },
-        {
-          "keyword": "AI tools",
-          "inProfile": true,
-          "relevance": "good",
-          "note": "Uses AI tools (Figma Make, Cursor) to accelerate discovery, prototyping."
-        },
-        {
-          "keyword": "Design systems",
-          "inProfile": true,
-          "relevance": "preferred",
-          "note": "Has experience establishing scalable design systems."
-        }
-      ],
-      "status": "New",
-      "scannedAt": "2026-08-11T11:56:51.169Z",
-      "isNew": false
-    },
-    {
-      "id": "job-3zeuol",
-      "title": "Senior Product Designer",
-      "company": "Lattice",
-      "companyDomain": "lattice.com",
-      "industry": "HR Tech",
-      "location": "Remote",
-      "postedAt": "2026-08-10",
-      "fitScore": 9,
-      "fitTier": "Strong Fit",
-      "fitExplanation": "This role is an excellent match, particularly given Michael's strong background in HR tech (iCIMS) and his focus on complex B2B SaaS. The emphasis on an \"AI-native product suite\" and joining a \"new, experimental team\" perfectly aligns with his interest in 0-to-1 problem spaces and utilizing AI tools. His experience with design systems and cross-functional collaboration is also highly relevant. The Senior Product Designer title and remote location are ideal.",
-      "source": "Anchormust",
-      "applyUrl": "N/A",
-      "jobDescription": "The Senior Product Designer will join a new AI team to help shape and ship a reimagined way of capturing work and growth within Lattice's unified people platform. This role involves designing for both new surfaces within Lattice and external tools used by customers. The designer will be instrumental in building the next generation of an AI-native product suite, working side-by-side with Product, Engineering, Data, and customers to create experiences that are lovable, measurable, and scalable. The position requires partnering with engineering to fine-tune AI outputs to align with ideal user experiences and building a strong understanding of the entire product suite to ensure AI strengthens existing customer workflows. Key responsibilities include designing detailed interaction patterns, collaborating closely with engineering on execution quality, and working with an established design system while also creating new components for AI-native interactions. The ideal candidate is comfortable with ambiguity, a demonstrated self-starter, and capable of prototyping in code, pushing pixels, and aligning stakeholders through documentation. The role values collaborative partners who champion design and are committed to elevating the team. Requirements include proven success working with design systems and strong communication skills to articulate customer challenges and design decisions.",
-      "specialty": "AI",
-      "keywords": [
-        {
-          "keyword": "Senior Product Designer",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Matches desired title."
-        },
-        {
-          "keyword": "HR Tech",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Deep context in HR tech/talent acquisition (iCIMS background)."
-        },
-        {
-          "keyword": "B2B SaaS",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Primary industry expertise in complex B2B SaaS products."
-        },
-        {
-          "keyword": "AI-native product suite",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Focus on AI aligns with Michael's use of AI tools (Figma Make, Cursor)."
-        },
-        {
-          "keyword": "0-to-1 and ambiguous problem spaces",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Thrives when structure needs to be created, not just followed."
-        },
-        {
-          "keyword": "Design systems",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Experience establishing a scalable design system (Figma component library)."
-        },
-        {
-          "keyword": "Cross-functional collaboration",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Embedded with product and engineering, strong PM partnership."
-        },
-        {
-          "keyword": "Complex systems",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Specializes in making complex systems delightful and tactile."
-        }
-      ],
-      "status": "New",
-      "scannedAt": "2026-08-11T11:56:51.169Z",
-      "isNew": false
-    },
-    {
       "id": "job-k9y5s7",
       "title": "Senior Product Designer",
       "company": "Tremendous",
@@ -1110,7 +971,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-08-25T11:44:14.765Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-r6tqx4",
@@ -2297,7 +2158,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-08-25T11:44:14.765Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-oj8159",
@@ -2686,7 +2547,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-08-25T11:44:14.765Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-nagxy6",
@@ -2742,7 +2603,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-08-25T11:44:14.765Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-q8pv4h",
@@ -2805,7 +2666,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-08-25T11:44:14.765Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-q4edq7",
@@ -2868,7 +2729,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-08-25T11:44:14.765Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-8mrmgo",
@@ -2931,7 +2792,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-08-25T11:44:14.765Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-d5brko",
@@ -2994,7 +2855,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-08-25T11:44:14.765Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-zforbn",
@@ -3056,8 +2917,107 @@
       ],
       "status": "New",
       "scannedAt": "2026-08-25T11:44:14.765Z",
+      "isNew": false
+    },
+    {
+      "id": "job-14l93x",
+      "title": "Senior Product Designer",
+      "company": "Nebius",
+      "companyDomain": "nebius.com",
+      "industry": "Cloud Infrastructure",
+      "location": "Remote (US)",
+      "postedAt": "2026-08-24",
+      "fitScore": 10,
+      "fitTier": "Strong Fit",
+      "fitExplanation": "This role is an extremely strong match for Michael's profile, particularly his expertise in complex B2B SaaS, cloud marketplace/revenue operations infrastructure, and developer tools from his experience at Tackle.io and Infragistics. The focus on designing complex workflows for technical teams within a cloud platform aligns perfectly with his strengths in making complex systems delightful and tactile. His proficiency in Figma, systems thinking, and end-to-end design lifecycle experience are directly required. The public company stage meets his preference, and the remote (US) location is ideal.",
+      "source": "Wantapply.com",
+      "applyUrl": "N/A",
+      "jobDescription": "Lead design for Compute experiences within Nebius Console, focusing on complex, high-impact workflows for technical teams. This involves the creation, configuration, monitoring, and management of cloud resources. The designer will own the end-to-end design process from initial discovery and problem framing through to delivery, launch, and iteration. The role requires translating technical depth into intuitive, reliable product experiences. Collaboration with product managers, engineers, designers, researchers, and other stakeholders is essential throughout the product lifecycle. The ideal candidate will explore and validate design hypotheses using user insights, prototypes, and product data.\n\nCore Responsibilities:\n*   Own end-to-end design for Compute features in Nebius Console, covering the entire product lifecycle from discovery and problem framing to delivery, launch, and iteration.\n*   Design clear, scalable workflows for complex cloud infrastructure scenarios, including resource creation, configuration, management, monitoring, and troubleshooting.\n*   Translate business goals, technical constraints, and user needs into coherent user journeys, information architecture, and interaction models.\n*   Partner closely with Product Managers, Engineers, Designers, UX Researchers, and other stakeholders.\n*   Explore and validate design hypotheses through user insights, prototypes, product data, and feedback.\n\nRequirements:\n*   6+ years of experience as a Product Designer working on digital products.\n*   Strong product thinking and the ability to approach design through connected user scenarios, product goals, and system constraints.\n*   Experience designing complex B2B, SaaS, developer tools, infrastructure, or admin products.\n*   Ability to balance usability, consistency, technical feasibility, and innovation in complex systems.\n*   Strong systems thinking, attention to detail, and ability to work in a structured, systematic way.\n*   Strong proficiency in Figma, including complex flows, components, variants, and interactive prototypes.\n*   Ability to communicate design decisions clearly and constructively with both product and engineering teams.",
+      "specialty": "Compute, Nebius Console",
+      "keywords": [
+        {
+          "keyword": "Senior Product Designer",
+          "inProfile": true,
+          "relevance": "title",
+          "note": "Target role."
+        },
+        {
+          "keyword": "B2B SaaS",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Primary expertise."
+        },
+        {
+          "keyword": "cloud infrastructure",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Deep context from Tackle.io."
+        },
+        {
+          "keyword": "developer tools",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Deep context."
+        },
+        {
+          "keyword": "Remote (US)",
+          "inProfile": true,
+          "relevance": "location",
+          "note": "Preferred work arrangement."
+        },
+        {
+          "keyword": "Public company",
+          "inProfile": true,
+          "relevance": "company stage",
+          "note": "Meets Series C+ preference."
+        },
+        {
+          "keyword": "6+ years experience",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Candidate has 10+ years experience."
+        },
+        {
+          "keyword": "product thinking",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Core to candidate's philosophy."
+        },
+        {
+          "keyword": "complex systems",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Candidate specializes in this."
+        },
+        {
+          "keyword": "systems thinking",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Emphasized in candidate's design philosophy."
+        },
+        {
+          "keyword": "Figma",
+          "inProfile": true,
+          "relevance": "tool",
+          "note": "Primary tool used."
+        },
+        {
+          "keyword": "end-to-end design",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Candidate operates across full design lifecycle."
+        },
+        {
+          "keyword": "workflows",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Specializes in transactional and seller workflows."
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-08-25T19:46:02.720Z",
       "isNew": true
     }
   ],
-  "scannedAt": "2026-08-25T11:45:57.241Z"
+  "scannedAt": "2026-08-25T19:47:25.173Z"
 }
