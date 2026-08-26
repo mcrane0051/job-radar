@@ -3017,7 +3017,313 @@
       "status": "New",
       "scannedAt": "2026-08-25T19:46:02.720Z",
       "isNew": false
+    },
+    {
+      "id": "job-p1e7fp",
+      "title": "Senior Product Designer",
+      "company": "Forward Financing",
+      "companyDomain": "forwardfinancing.com",
+      "industry": "Fintech, B2B SaaS",
+      "location": "Remote, US",
+      "postedAt": "2026-08-26",
+      "fitScore": 10,
+      "fitTier": "Strong Fit",
+      "fitExplanation": "This remote Senior Product Designer role at Forward Financing is a strong fit. The company operates in FinTech and B2B SaaS, aligning perfectly with Michael's primary industries. The role focuses on designing intuitive digital experiences for complex financial workflows for small businesses and internal users, which directly matches Michael's expertise in complex B2B SaaS products, data-heavy interfaces, and transactional flows. Responsibilities include leading the full design process, evolving design systems, and collaborating cross-functionally, all areas where Michael excels. The company's significant funding (beyond Series C) also meets the stability preference.",
+      "source": "UXD.careers",
+      "applyUrl": "N/A",
+      "specialty": "",
+      "salary": "$150,000–$175,000",
+      "keywords": [
+        {
+          "keyword": "B2B SaaS",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Core experience"
+        },
+        {
+          "keyword": "Fintech",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Deep context"
+        },
+        {
+          "keyword": "Complex workflow design",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Primary expertise"
+        },
+        {
+          "keyword": "User Research",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Core skill"
+        },
+        {
+          "keyword": "Wireframing",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Core skill"
+        },
+        {
+          "keyword": "Prototyping",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Core skill"
+        },
+        {
+          "keyword": "Visual Design",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Strong visual eye"
+        },
+        {
+          "keyword": "Design Systems",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Deep experience"
+        },
+        {
+          "keyword": "Figma",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Core tool"
+        },
+        {
+          "keyword": "Cross-functional collaboration",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Key strength"
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-08-26T22:07:53.204Z",
+      "isNew": true
+    },
+    {
+      "id": "job-uad2lr",
+      "title": "Product Designer",
+      "company": "Gusto",
+      "companyDomain": "gusto.com",
+      "industry": "HR Tech, Fintech, B2B SaaS",
+      "location": "Hybrid, New York, NY",
+      "postedAt": "2026-08-26",
+      "fitScore": 9,
+      "fitTier": "Strong Fit",
+      "fitExplanation": "Gusto's Design Systems, Product Designer position is an excellent match. Gusto is a Series E company in HR Tech/Fintech, aligning with Michael's industry experience and company stage preference. The role focuses on evolving and maintaining Workbench, Gusto's internal design system, with a strong emphasis on AI-assisted workflows and code-driven deliverables. Michael's deep experience in design systems, high-fidelity prototyping, and use of AI tools (Figma Make, Cursor) is highly relevant. Although hybrid, the NYC location is within his preference, and the role is noted to be equivalent to Senior Staff-level work. A small deduction for hybrid preference.",
+      "source": "UXD.careers",
+      "applyUrl": "N/A",
+      "specialty": "Design Systems, AI-native",
+      "salary": "Not posted",
+      "keywords": [
+        {
+          "keyword": "Design Systems",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Central to the role, Michael built a scalable design system."
+        },
+        {
+          "keyword": "AI-native",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael uses Figma Make, Cursor for AI acceleration."
+        },
+        {
+          "keyword": "B2B SaaS",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Primary industry expertise."
+        },
+        {
+          "keyword": "Fintech",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Gusto handles payroll/benefits."
+        },
+        {
+          "keyword": "Complex systems",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Manages complex HR/payroll infrastructure."
+        },
+        {
+          "keyword": "Figma",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Core tool."
+        },
+        {
+          "keyword": "Prototyping",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Delivers code-driven results."
+        },
+        {
+          "keyword": "Cross-functional collaboration",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Works closely with engineering, PMs."
+        },
+        {
+          "keyword": "Systems thinking",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Key qualification."
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-08-26T22:07:53.204Z",
+      "isNew": true
+    },
+    {
+      "id": "job-729nvd",
+      "title": "Senior Product Designer",
+      "company": "Filevine",
+      "companyDomain": "filevine.com",
+      "industry": "Legal Tech, AI, B2B SaaS, Enterprise Software",
+      "location": "Remote, US",
+      "postedAt": "2026-08-25",
+      "fitScore": 10,
+      "fitTier": "Strong Fit",
+      "fitExplanation": "This Senior Product Designer role at Filevine, a Legal AI company, is a strong fit for Michael. Filevine's focus on transforming complex legal workflows into simple, elegant AI-native experiences directly aligns with Michael's expertise in making complex B2B SaaS systems delightful and tactile. The role involves 0-to-1 design for AI interaction patterns, extensive prototyping, and evolving design systems, all matching Michael's core strengths and experience. His fluent use of AI tools is explicitly valued. The company is Series E, meeting the financial stability criteria.",
+      "source": "UXD.careers",
+      "applyUrl": "N/A",
+      "specialty": "AI",
+      "salary": "$150,000 - $175,000",
+      "keywords": [
+        {
+          "keyword": "Complex B2B SaaS",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Legal workflows are inherently complex B2B."
+        },
+        {
+          "keyword": "AI-native design",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael uses AI tools (Figma Make, Cursor)."
+        },
+        {
+          "keyword": "0-to-1 discovery",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Designing new AI interaction patterns."
+        },
+        {
+          "keyword": "Prototyping",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Creating high-fidelity prototypes."
+        },
+        {
+          "keyword": "Design Systems",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Evolving interaction patterns and quality."
+        },
+        {
+          "keyword": "User Flows",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Turning ambiguous problems into intuitive workflows."
+        },
+        {
+          "keyword": "Visual craft",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Exceptional product taste and visual craft are required."
+        },
+        {
+          "keyword": "Enterprise software",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Legal operating intelligence platform."
+        },
+        {
+          "keyword": "Cross-functional collaboration",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Works closely with engineers and PMs."
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-08-26T22:07:53.204Z",
+      "isNew": true
+    },
+    {
+      "id": "job-7x9kjz",
+      "title": "Staff Product Designer",
+      "company": "DoorDash",
+      "companyDomain": "doordash.com",
+      "industry": "Marketplace, B2B SaaS, Enterprise Software",
+      "location": "Hybrid, New York, NY",
+      "postedAt": "2026-08-26",
+      "fitScore": 9,
+      "fitTier": "Strong Fit",
+      "fitExplanation": "The Staff Product Designer role at DoorDash, specializing in Merchant Marketing, presents a good opportunity for Michael. DoorDash operates a large marketplace with B2B SaaS elements for merchants, aligning with Michael's marketplace and enterprise software experience. The role emphasizes solving ambiguous, cross-team problems, building reusable workflows, and contributing to design system scalability, which are all strong areas for Michael. His experience with revenue operations and seller tools also provides relevant context. While 'marketing' is mentioned, the focus on tooling systems for SMB and enterprise restaurants suggests complex B2B product design. The company is public, meeting the stage requirement. A small deduction for hybrid preference.",
+      "source": "HiringCafe",
+      "applyUrl": "N/A",
+      "specialty": "Merchant Marketing",
+      "salary": "$124,500 - $218,000",
+      "keywords": [
+        {
+          "keyword": "Marketplace",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "DoorDash is a prominent marketplace."
+        },
+        {
+          "keyword": "B2B SaaS",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Merchant tooling systems are B2B SaaS."
+        },
+        {
+          "keyword": "Enterprise software",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Serving enterprise restaurants."
+        },
+        {
+          "keyword": "Complex workflow design",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Building reusable workflows and tools for campaigns."
+        },
+        {
+          "keyword": "Design Systems",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Contributing to shared systems and scalability."
+        },
+        {
+          "keyword": "0-to-1 and ambiguous problem spaces",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Defining projects and bringing clarity to ambiguous problems."
+        },
+        {
+          "keyword": "Cross-functional collaboration",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Works with product, engineering, marketing."
+        },
+        {
+          "keyword": "High-fidelity prototyping",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Delivers high-fidelity designs and production-ready prototypes."
+        },
+        {
+          "keyword": "AI tools",
+          "inProfile": true,
+          "relevance": "good-to-have",
+          "note": "Mentoring on responsible AI/LLM usage is a plus."
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-08-26T22:07:53.204Z",
+      "isNew": true
     }
   ],
-  "scannedAt": "2026-08-26T11:45:22.530Z"
+  "scannedAt": "2026-08-26T22:09:15.613Z"
 }
