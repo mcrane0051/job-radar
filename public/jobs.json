@@ -2870,7 +2870,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-08-27T21:02:12.508Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-jo5q3a",
@@ -2935,7 +2935,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-08-27T21:02:12.508Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-xxv3ft",
@@ -3000,8 +3000,8 @@
       ],
       "status": "New",
       "scannedAt": "2026-08-27T21:02:12.508Z",
-      "isNew": true
+      "isNew": false
     }
   ],
-  "scannedAt": "2026-08-27T21:03:41.116Z"
+  "scannedAt": "2026-08-28T21:26:02.219Z"
 }
