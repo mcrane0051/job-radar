@@ -2912,7 +2912,108 @@
       "status": "New",
       "scannedAt": "2026-08-27T21:02:12.508Z",
       "isNew": false
+    },
+    {
+      "id": "job-54eed9",
+      "title": "Senior Product Designer",
+      "company": "Fieldguide",
+      "companyDomain": "fieldguide.io",
+      "industry": "B2B SaaS, Fintech, AI, Enterprise Software",
+      "location": "Remote (USA)",
+      "postedAt": "2026-08-28",
+      "fitScore": 9,
+      "fitTier": "Strong Fit",
+      "fitExplanation": "This role is a strong fit due to its focus on complex B2B SaaS products and AI-assisted workflows, directly aligning with Michael’s extensive experience at Tackle.io with enterprise multi-cloud transactional platforms, revenue operations, and financial flows. The emphasis on leading end-to-end design for complex audit workflows, translating technical requirements into intuitive experiences, and contributing to a design system mirrors Michael's demonstrated skills and preferences. The company's Series C funding meets the stability requirement, and the fully remote (US) location is ideal. The role values visual craft, systems thinking, and operating in ambiguous environments, all core strengths of the candidate.",
+      "source": "Wellfound",
+      "applyUrl": "https://wellfound.com/jobs/4294967323-senior-product-designer",
+      "isOffLinkedIn": true,
+      "jobDescription": "Fieldguide is seeking a Senior Product Designer to join its Audit product team, owning complex, ambiguous problem spaces end-to-end. The role involves partnering deeply with Product and Engineering to shape design direction for a core Fieldguide product. This fast-moving environment requires designers who can balance speed with craft, incorporating AI into their daily design practice, and designing AI-assisted workflows directly into the product. The position offers a high-impact opportunity to modernize audit workflows and make audit practitioners' lives easier in areas like cybersecurity, privacy, and financial audits.",
+      "specialty": "Audit Workflows",
+      "salary": "$130k - $160k",
+      "keywords": [
+        {
+          "keyword": "Complex B2B SaaS",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Candidate specializes in complex B2B SaaS products."
+        },
+        {
+          "keyword": "AI-assisted workflows",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Candidate uses AI tools and has experience with AI-powered features."
+        },
+        {
+          "keyword": "End-to-end design",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Candidate operates effectively across the full design lifecycle."
+        },
+        {
+          "keyword": "Design Systems",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Candidate has experience establishing and contributing to design systems."
+        },
+        {
+          "keyword": "Audit workflows",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Aligns with candidate's experience in transactional flows, payment reconciliation, and contract management (fintech adjacent)."
+        },
+        {
+          "keyword": "User journeys",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Candidate has expertise in user flows and journey mapping."
+        },
+        {
+          "keyword": "Figma",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Candidate lists Figma as a core tool."
+        },
+        {
+          "keyword": "Fast-moving environment",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Candidate thrives in ambiguous, 0-to-1 problem spaces and can operate at high velocity."
+        },
+        {
+          "keyword": "Visual craft",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Candidate has an unusually strong visual eye from a graphic design background."
+        },
+        {
+          "keyword": "Systems thinking",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Candidate emphasizes rigorous systems thinking in their philosophy and experience."
+        },
+        {
+          "keyword": "Product strategy",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Candidate has experience shaping design strategy at the team and org level."
+        },
+        {
+          "keyword": "Cross-functional collaboration",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Candidate excels in collaboration with PMs, engineering, and executives."
+        },
+        {
+          "keyword": "Financial audits",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Aligns with candidate's experience in finance and fintech adjacent domains."
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-08-29T21:44:37.758Z",
+      "isNew": true
     }
   ],
-  "scannedAt": "2026-08-29T15:38:22.116Z"
+  "scannedAt": "2026-08-29T21:45:34.576Z"
 }
