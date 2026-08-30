@@ -190,82 +190,6 @@
       "isNew": false
     },
     {
-      "id": "job-ofqcx2",
-      "title": "Staff Product Designer",
-      "company": "HubSpot",
-      "companyDomain": "hubspot.com",
-      "industry": "B2B SaaS",
-      "location": "Remote",
-      "postedAt": "2026-08-16",
-      "fitScore": 9,
-      "fitTier": "Strong Fit",
-      "fitExplanation": "This role is a Staff Product Designer position focused on Design Systems within a complex B2B SaaS platform, which aligns perfectly with Michael's target level, deep experience in design systems, and strong preference for B2B SaaS. The job emphasizes moving beyond maintenance to defining how a large B2B platform builds product in an AI-native era, matching Michael's expertise in shaping design strategy and utilizing AI tools. His background in visual systems and ability to work at scale are highly valued. HubSpot is a well-established company, meeting the Series C or later requirement. The role is fully remote, which is preferred by the candidate.",
-      "source": "Himalayas",
-      "applyUrl": "N/A",
-      "isOffLinkedIn": true,
-      "jobDescription": "HubSpot is seeking a Staff Product Designer to work on Trellis, their enterprise design system, which functions as product infrastructure for various Hubs (CRM, Marketing, Sales, Service, Commerce, AI). The role involves modernizing the design system to make it trusted, self-serve, and useful, reducing fragmentation, improving adoption, and shaping contribution models. Designers will make decisions affecting many product teams and define how a large B2B platform operates in an AI-native environment. The ideal candidate will have a background in design systems, product foundations, platform design, visual systems, component libraries, interaction patterns, enterprise product design, developer tools, or complex B2B SaaS, with a strong understanding of how these components connect. This position requires comfort with product strategy, detailed interaction design, system architecture, documentation, and cross-functional partnerships, and is not merely a maintenance role.",
-      "specialty": "Design Systems",
-      "keywords": [
-        {
-          "keyword": "Design Systems",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Michael has strong experience establishing scalable design systems, reducing design-to-development cycles, and building Figma component libraries."
-        },
-        {
-          "keyword": "B2B SaaS",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Michael's primary industry of expertise is complex B2B SaaS products."
-        },
-        {
-          "keyword": "Enterprise Product Design",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Michael specializes in enterprise multi-cloud transactional platforms and complex B2B software."
-        },
-        {
-          "keyword": "Platform Design",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "The role involves product infrastructure and platform design. Michael has experience at Tackle.io with a transactional platform and Infragistics with a work management platform."
-        },
-        {
-          "keyword": "Visual Systems",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Michael's foundation is in visual systems and graphic design, which is highly relevant to this aspect of design systems."
-        },
-        {
-          "keyword": "Figma",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Michael lists Figma as a primary tool and has experience with Figma component libraries."
-        },
-        {
-          "keyword": "Cross-functional Collaboration",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "The job description emphasizes cross-functional partnership, which aligns with Michael's experience working closely with product managers, engineering leads, and executives."
-        },
-        {
-          "keyword": "AI tools",
-          "inProfile": true,
-          "relevance": "moderate",
-          "note": "The role mentions working in an 'AI native era.' Michael has experience using AI tools like Figma Make and Cursor in his design workflow."
-        },
-        {
-          "keyword": "0-to-1 discovery",
-          "inProfile": true,
-          "relevance": "moderate",
-          "note": "The role is described as a 'modernization journey' and 'not a role where you simply maintain what exists,' aligning with Michael's preference for 0-to-1 and ambiguous problem spaces."
-        }
-      ],
-      "status": "New",
-      "scannedAt": "2026-08-16T19:33:46.092Z",
-      "isNew": false
-    },
-    {
       "id": "job-x3umin",
       "title": "Lead Product Designer",
       "company": "CRYPTO.com",
@@ -2161,7 +2085,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-08-30T15:20:31.160Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-p1e7fp",
@@ -2875,7 +2799,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-08-30T15:20:31.160Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-sv1hkv",
@@ -2950,7 +2874,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-08-30T15:20:31.160Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-qef8oe",
@@ -3020,7 +2944,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-08-30T15:20:31.160Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-mzmqol",
@@ -3084,8 +3008,316 @@
       ],
       "status": "New",
       "scannedAt": "2026-08-30T15:20:31.160Z",
+      "isNew": false
+    },
+    {
+      "id": "job-30zafr",
+      "title": "Senior Product Designer",
+      "company": "Render",
+      "companyDomain": "render.com",
+      "industry": "Cloud Infrastructure, Developer Tools",
+      "location": "Remote, US",
+      "postedAt": "2026-08-30",
+      "fitScore": 9,
+      "fitTier": "Strong Fit",
+      "fitExplanation": "This role is an excellent match for Michael's expertise in cloud infrastructure and developer tools. The company is Series C funded, operates remotely, and explicitly seeks designers who can simplify complex, multi-service systems, which directly aligns with Michael's experience in complex B2B SaaS and making complex systems delightful. The emphasis on visual craft and information architecture is also a strong alignment.",
+      "source": "Direct Company Career Page",
+      "applyUrl": "N/A",
+      "jobDescription": "Render is building a modern cloud platform for developers creating AI-native, full-stack, multi-service applications. The mission is to eliminate the tradeoff between hyperscaler power and developer-friendly simplicity, enabling teams to ship fast and scale reliably. Michael will join a design team that values craft, velocity, and user experience, focusing on untangling complex problems into accessible, beautiful experiences. Core responsibilities involve making multi-service systems legible at a glance, designing views for developers to understand service connections, and creating system-level observability. The company values exceptional taste, craft, and strong information architecture, seeking designers who can manage complex object relationships and design entire user journeys.",
+      "keywords": [
+        {
+          "keyword": "Developer Tools",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Explicitly mentioned as an industry focus, matching Michael's preferences."
+        },
+        {
+          "keyword": "Cloud Infrastructure",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Central to the product, a strong match for Michael's background."
+        },
+        {
+          "keyword": "Complex B2B SaaS",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "The role describes designing for complex, multi-service applications, aligning with Michael's specialization."
+        },
+        {
+          "keyword": "Information Architecture",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Directly highlighted as a key skill, a core strength of Michael's."
+        },
+        {
+          "keyword": "UI Design",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Emphasis on exceptional taste, craft, typography, spacing, and interaction feedback aligns with Michael's visual craft."
+        },
+        {
+          "keyword": "Design Systems",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Implied by the need for consistency across complex systems."
+        },
+        {
+          "keyword": "0-to-1 discovery",
+          "inProfile": true,
+          "relevance": "good-to-have",
+          "note": "The role involves untangling messy problems, suggesting opportunities for early-stage design thinking."
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-08-30T21:54:17.965Z",
+      "isNew": true
+    },
+    {
+      "id": "job-iis5d1",
+      "title": "Senior Product Designer",
+      "specialty": "Trading",
+      "company": "Robinhood",
+      "companyDomain": "robinhood.com",
+      "industry": "Fintech",
+      "location": "Hybrid in NYC",
+      "postedAt": "2026-08-29",
+      "fitScore": 7,
+      "fitTier": "Good Fit",
+      "fitExplanation": "This role aligns well with Michael's FinTech experience and background in transactional flows. Robinhood is a public company, meeting the stage requirement, and the NYC hybrid location is a match. The specific focus on 'Trading' offers a complex problem space similar to Michael's work on payment reconciliation and marketplace transactions. The score is reduced due to it being a hybrid role.",
+      "source": "Company Job Board Aggregator",
+      "applyUrl": "N/A",
+      "jobDescription": "Robinhood is seeking a Senior Product Designer for their Trading team. The role focuses on designing experiences within the financial technology sector, specifically related to trading. As a public company, Robinhood offers a dynamic environment within FinTech. Responsibilities likely include user research, crafting solutions for complex financial workflows, and collaborating with cross-functional teams to deliver impactful product experiences for users engaging in trading activities. The role requires strong product design skills to navigate high-stakes financial interactions.",
+      "keywords": [
+        {
+          "keyword": "Fintech",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Core industry focus, directly matching Michael's expertise."
+        },
+        {
+          "keyword": "Transactional Flows",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Trading involves complex transactional processes, directly aligning with Michael's experience."
+        },
+        {
+          "keyword": "B2B SaaS",
+          "inProfile": true,
+          "relevance": "moderate",
+          "note": "While consumer-facing, the underlying system complexity and high-stakes nature align with Michael's B2B SaaS experience."
+        },
+        {
+          "keyword": "User Research",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Implicit in crafting user-centered solutions for complex trading platforms."
+        },
+        {
+          "keyword": "Prototyping",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Essential for iterating on design solutions in a fast-paced environment."
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-08-30T21:54:17.965Z",
+      "isNew": true
+    },
+    {
+      "id": "job-d8afnr",
+      "title": "Senior Product Designer",
+      "specialty": "AI-Powered Interfaces",
+      "company": "Healthie",
+      "companyDomain": "healthie.com",
+      "industry": "Enterprise Software, AI",
+      "location": "Hybrid in NYC",
+      "postedAt": "2026-08-30",
+      "fitScore": 7,
+      "fitTier": "Good Fit",
+      "fitExplanation": "This hybrid NYC role at a Series F company is a good match. Michael's interest and experience with AI tools (Figma Make, Cursor) align with the 'AI-Powered Interfaces' specialization. The focus on enhancing a platform used by millions of patients suggests a complex enterprise software environment. While not strictly B2B SaaS in Michael's core industries, the platform nature and AI integration make it a strong candidate. The score is reduced due to it being a hybrid role.",
+      "source": "Lensa (Job Board)",
+      "applyUrl": "N/A",
+      "jobDescription": "Healthie is hiring a Senior Product Designer to join their Product Design Team in New York City. This designer will champion the design process from early problem framing through prototyping, collaborating closely with Product and Engineering teams to enhance a platform serving over 20 million patients. The role specializes in AI-Powered Interfaces, indicating a focus on integrating artificial intelligence into user experiences to improve healthcare delivery solutions. Responsibilities include defining user needs, developing intuitive interfaces, and ensuring the platform remains at the forefront of innovation.",
+      "salary": "$114K - $139K",
+      "keywords": [
+        {
+          "keyword": "AI Tools",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Directly aligns with Michael's experience and interest in AI-powered interfaces."
+        },
+        {
+          "keyword": "Enterprise Software",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Designing for a large platform used by healthcare providers and patients."
+        },
+        {
+          "keyword": "Prototyping",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Explicitly mentioned as a core responsibility."
+        },
+        {
+          "keyword": "User Research",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Involves early problem framing, implying user research and discovery."
+        },
+        {
+          "keyword": "Cross-functional collaboration",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Emphasizes working closely with Product and Engineering teams."
+        },
+        {
+          "keyword": "Design practice",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Covers the full design lifecycle from problem framing to prototyping."
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-08-30T21:54:17.965Z",
+      "isNew": true
+    },
+    {
+      "id": "job-y0zktt",
+      "title": "Lead Product Designer",
+      "company": "Samsara",
+      "companyDomain": "samsara.com",
+      "industry": "B2B SaaS, Enterprise Software",
+      "location": "Remote, US",
+      "postedAt": "2026-08-30",
+      "fitScore": 9,
+      "fitTier": "Strong Fit",
+      "fitExplanation": "This Lead Product Designer role at a public (Series C+) company is an excellent remote fit for Michael. Samsara's focus on industries that 'run our world' (e.g., transportation, construction) aligns with complex enterprise software and B2B SaaS. The explicit requirement for proficiency in AI tools like Cursor and Figma Make is a direct match for Michael's skills. The role emphasizes leading ambiguous projects, strategic influence, and customer engagement, which aligns with Michael's 0-to-1 experience and cross-functional leadership.",
+      "source": "Direct Company Career Page",
+      "applyUrl": "N/A",
+      "jobDescription": "As a Lead Product Designer at Samsara, Michael will drive design and execution for strategic initiatives, delivering end-to-end experiences that impact customers across industries like transportation, logistics, construction, and food and beverage. This remote role involves collaborating closely with Product and Engineering on strategy, planning, and execution, and working directly with customers to understand needs and validate designs. A key aspect is influencing the design team through mentorship and contributing to company culture. The role requires strong UX/UI design for web & mobile applications, a portfolio showcasing design craft and problem-solving with quantified impact, and demonstrated proficiency in using AI tools (e.g., Cursor, Figma Make) to accelerate workflows.",
+      "keywords": [
+        {
+          "keyword": "Lead Product Designer",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Direct title match and aligns with Michael's experience and target level."
+        },
+        {
+          "keyword": "Remote",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Matches Michael's preferred work arrangement."
+        },
+        {
+          "keyword": "AI Tools",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Explicitly required, a strong match for Michael's skills (Cursor, Figma Make)."
+        },
+        {
+          "keyword": "B2B SaaS",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Samsara's focus on enterprise operations aligns with B2B SaaS."
+        },
+        {
+          "keyword": "Enterprise Software",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Designing for critical industries, representing complex enterprise challenges."
+        },
+        {
+          "keyword": "0-to-1 discovery",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Leading large, ambiguous projects, defining strategies."
+        },
+        {
+          "keyword": "Cross-functional collaboration",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Collaborating closely with Product and Engineering, working directly with customers."
+        },
+        {
+          "keyword": "Design Systems",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Implied by the need for consistency in a large, scaling product."
+        },
+        {
+          "keyword": "Prototyping",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "AI tools mentioned for accelerating workflows and prototyping."
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-08-30T21:54:17.965Z",
+      "isNew": true
+    },
+    {
+      "id": "job-5kqtp1",
+      "title": "Senior Product Designer 2",
+      "specialty": "Growth",
+      "company": "Splice",
+      "companyDomain": "splice.com",
+      "industry": "Marketplace, B2B SaaS",
+      "location": "Remote, US",
+      "postedAt": "2026-08-30",
+      "fitScore": 8,
+      "fitTier": "Good Fit",
+      "fitExplanation": "This role at a Series D company with a marketplace business model aligns well with Michael's experience in scaling products, simplifying workflows, and improving adoption. The 'Growth' specialization, focusing on onboarding, subscription, and conversion, directly matches his impactful outcomes at Tackle.io. The explicit requirement for AI-native tools and contributions to a design system are also strong fits. While the company is in the music industry, the core design challenges are highly relevant.",
+      "source": "Simplify Jobs (Job Board)",
+      "applyUrl": "N/A",
+      "jobDescription": "Splice is looking for a Senior Product Designer 2 with a focus on Growth to execute high-quality design across various growth initiatives, including onboarding, subscription, paywall experiences, and referral programs. The role involves partnering with a Principal Designer to shape product priorities, driving experimentation with rigor, and shipping work that moves key metrics like onboarding completion and subscription conversion. Michael will collaborate closely with Marketing, PMs, engineers, and data scientists, and contribute to the existing design system. Proficiency in AI-native tools (Cursor, Claude) as a standard part of the workflow is required. Experience with subscription or marketplace business models is highly valued.",
+      "keywords": [
+        {
+          "keyword": "Growth",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Directly aligns with Michael's experience in improving adoption and conversion rates."
+        },
+        {
+          "keyword": "Marketplace",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Splice operates a marketplace business model, a strong match for Michael's expertise."
+        },
+        {
+          "keyword": "AI Tools",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Explicitly required (Cursor, Claude), aligning with Michael's skills."
+        },
+        {
+          "keyword": "Design Systems",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Contribution to the design system is a key responsibility."
+        },
+        {
+          "keyword": "Scaling existing products",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Focus on onboarding, subscription, and conversion, directly related to scaling."
+        },
+        {
+          "keyword": "Cross-functional collaboration",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Emphasizes partnering with Marketing, PMs, engineers, and data scientists."
+        },
+        {
+          "keyword": "Transactional Flows",
+          "inProfile": true,
+          "relevance": "good-to-have",
+          "note": "Subscription and paywall experiences involve transactional flows."
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-08-30T21:54:17.965Z",
       "isNew": true
     }
   ],
-  "scannedAt": "2026-08-30T15:21:52.484Z"
+  "scannedAt": "2026-08-30T21:55:25.767Z"
 }
