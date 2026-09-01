@@ -83,63 +83,6 @@
       "isNew": false
     },
     {
-      "id": "job-rd0qi",
-      "title": "Senior Product Designer",
-      "company": "GoGuardian",
-      "companyDomain": "goguardian.com",
-      "industry": "K-12 EdTech, Digital Safety (B2B SaaS)",
-      "location": "Remote - United States",
-      "postedAt": "2026-08-16",
-      "fitScore": 7,
-      "fitTier": "Good Fit",
-      "fitExplanation": "This role is a good fit due to its Senior Product Designer title and remote U.S. location, aligning with Michael's preferences. GoGuardian operates in the K-12 EdTech sector with a focus on Digital Safety, which falls under general B2B SaaS, an area where Michael has extensive experience. The responsibilities involving UX/UI Design, User Experience, Product Strategy, and Design Systems strongly match Michael's design practice skills and expertise in scaling products and cross-functional collaboration. While not Michael's primary deep context industry, his background in complex B2B software and ability to thrive in ambiguous problem spaces makes this a strong contender. The company is confirmed to be Series C or later.",
-      "source": "EdTechJobs.io",
-      "applyUrl": "N/A",
-      "jobDescription": "The Senior Product Designer will join the Product team to shape user experiences for K-12 educational products, specifically focusing on digital safety. Responsibilities include contributing to UX/UI design, user experience strategy, and product strategy, from concept to production. The role requires collaboration with Product Managers and Engineers to translate requirements into user-centered solutions and contributing to the design system.",
-      "specialty": "",
-      "keywords": [
-        {
-          "keyword": "UX/UI Design",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Strong alignment with candidate's skills and visual craft."
-        },
-        {
-          "keyword": "User Experience",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Core to candidate's design philosophy and practice."
-        },
-        {
-          "keyword": "Product Strategy",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Candidate has experience shaping design strategy."
-        },
-        {
-          "keyword": "Design Systems",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Candidate specializes in design systems and consistency at scale."
-        },
-        {
-          "keyword": "B2B SaaS",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Candidate's primary industry expertise."
-        },
-        {
-          "keyword": "Remote",
-          "inProfile": true,
-          "relevance": "preferred",
-          "note": "Candidate prefers remote work."
-        }
-      ],
-      "status": "New",
-      "scannedAt": "2026-08-17T11:40:45.318Z",
-      "isNew": false
-    },
-    {
       "id": "job-8wr3a",
       "title": "Senior Product Designer",
       "company": "Linear",
@@ -187,69 +130,6 @@
       ],
       "status": "New",
       "scannedAt": "2026-08-25T11:44:14.765Z",
-      "isNew": false
-    },
-    {
-      "id": "job-x3umin",
-      "title": "Lead Product Designer",
-      "company": "CRYPTO.com",
-      "companyDomain": "crypto.com",
-      "industry": "FinTech (Cryptocurrency)",
-      "location": "Hybrid in New York, New York",
-      "postedAt": "2026-08-16",
-      "fitScore": 7,
-      "fitTier": "Good Fit",
-      "fitExplanation": "This Lead Product Designer role at CRYPTO.com is a strong fit given Michael's deep context in Finance and FinTech-adjacent industries, particularly with transactional flows and complex data systems. His expertise in making complex systems delightful and tactile, alongside his experience in 0-to-1 discovery and scaling products, aligns well with the need to lead end-to-end UI/UX design for complex digital products. The role's hybrid location in NYC is acceptable given Michael's willingness for hybrid roles in the specified cities, though it incurs a slight score deduction due to his preference for remote work. CRYPTO.com is a well-established company, meeting the Series C or later requirement.",
-      "source": "Migrate Mate",
-      "applyUrl": "N/A",
-      "jobDescription": "The Lead Product Designer for the 'Predictions, OG' specialty will be responsible for the end-to-end UI/UX design process for complex digital products within a FinTech environment, specifically focusing on cryptocurrency and predictions. This involves transforming complex financial workflows into intuitive user experiences, using tools like Figma for wireframes, prototypes, and high-fidelity visual designs. The role requires conducting user research, usability testing, and data analysis to inform design decisions, and collaborating closely with cross-functional teams.",
-      "specialty": "Predictions, OG",
-      "keywords": [
-        {
-          "keyword": "FinTech",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Candidate has deep context in Finance and FinTech adjacent industries."
-        },
-        {
-          "keyword": "Transactional Flows",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Candidate specializes in transactional flows and payment reconciliation."
-        },
-        {
-          "keyword": "Complex B2B SaaS",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Candidate excels in complex data-heavy interfaces."
-        },
-        {
-          "keyword": "UI/UX Design",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Core skill, emphasizes visual craft and interaction design."
-        },
-        {
-          "keyword": "Figma",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Proficient in Figma, including design systems work."
-        },
-        {
-          "keyword": "User Research",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Experienced in user research and testing."
-        },
-        {
-          "keyword": "Hybrid NYC",
-          "inProfile": true,
-          "relevance": "acceptable",
-          "note": "Candidate is open to hybrid roles in NYC, but prefers remote."
-        }
-      ],
-      "status": "New",
-      "scannedAt": "2026-08-17T11:40:45.318Z",
       "isNew": false
     },
     {
@@ -3070,7 +2950,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-08-30T21:54:17.965Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-iis5d1",
@@ -3121,7 +3001,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-08-30T21:54:17.965Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-d8afnr",
@@ -3179,7 +3059,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-08-30T21:54:17.965Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-y0zktt",
@@ -3253,7 +3133,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-08-30T21:54:17.965Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-5kqtp1",
@@ -3316,8 +3196,330 @@
       ],
       "status": "New",
       "scannedAt": "2026-08-30T21:54:17.965Z",
+      "isNew": false
+    },
+    {
+      "id": "job-30yvyf",
+      "title": "Senior Product Designer",
+      "company": "Remote",
+      "companyDomain": "remote.com",
+      "industry": "B2B SaaS",
+      "location": "Remote (U.S. Only)",
+      "postedAt": "2026-08-31",
+      "fitScore": 9,
+      "fitTier": "Strong Fit",
+      "fitExplanation": "This role is a strong fit for Michael due to its focus on complex B2B SaaS solutions, specifically within HRTech and FinTech, which aligns well with his experience at Tackle.io and iCIMS. The emphasis on end-to-end design, autonomously leading design within a product team, cross-functional collaboration, systems thinking, and AI prototyping matches his profile and skills perfectly. The company is at a mature stage, and the role is fully remote in the US, meeting all location preferences. Michael's background in complex data systems, transactional flows, and product-led onboarding is highly relevant.",
+      "source": "Built In",
+      "applyUrl": "https://remote.com/r/benefits",
+      "isOffLinkedIn": true,
+      "jobDescription": "Remote is seeking a Senior Product Designer to lead end-to-end product design for its global employment platform. The role involves influencing product strategy, identifying impact opportunities, and applying appropriate research methodologies. Key responsibilities include leveraging AI prototyping for conceptual exploration, crafting high-fidelity user interfaces, and ensuring scalable, accessible, and usable experiences. The designer will autonomously lead design within a product team, navigating ambiguity and collaborating with cross-functional peers globally. Preference is given to candidates with experience in complex B2B SaaS solutions, especially in HRTech and FinTech.",
+      "salary": "$60,000 - $140,400",
+      "keywords": [
+        {
+          "keyword": "Complex B2B SaaS",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Direct match"
+        },
+        {
+          "keyword": "HRTech",
+          "inProfile": true,
+          "relevance": "preferred",
+          "note": "Aligns with iCIMS background"
+        },
+        {
+          "keyword": "FinTech",
+          "inProfile": true,
+          "relevance": "preferred",
+          "note": "Aligns with payment reconciliation experience"
+        },
+        {
+          "keyword": "End-to-end design process",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Core experience"
+        },
+        {
+          "keyword": "Autonomously lead design",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Aligns with lead capacity"
+        },
+        {
+          "keyword": "Cross-functional collaboration",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Core strength"
+        },
+        {
+          "keyword": "Systems thinking",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Core strength"
+        },
+        {
+          "keyword": "AI prototyping",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Figma Make, Cursor experience"
+        },
+        {
+          "keyword": "High-fidelity user interfaces",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Strong visual eye and craft"
+        },
+        {
+          "keyword": "User research",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Core design practice"
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-09-01T15:27:59.101Z",
+      "isNew": true
+    },
+    {
+      "id": "job-od4sqj",
+      "title": "Senior Product Designer",
+      "company": "Athennian",
+      "companyDomain": "athennian.com",
+      "industry": "B2B SaaS, Enterprise Software, FinTech",
+      "location": "Remote (U.S. Only)",
+      "postedAt": "2026-08-31",
+      "fitScore": 9,
+      "fitTier": "Strong Fit",
+      "fitExplanation": "This role at Athennian is an excellent match for Michael's profile, focusing on complex B2B workflows and enterprise software within 'Governance Ops™' software that aligns legal, finance, tax, and fund teams. This directly maps to Michael's deep experience in transactional flows, payment reconciliation, and working with finance and revenue operations teams. The emphasis on AI-powered capabilities, advanced proficiency with Figma, Pendo, and AI tools like Claude and Cursor are perfect matches for his skill set and recent experience. The role involves leading discovery and shaping product strategy, which aligns with Michael's 0-to-1 and strategic design input capabilities. The company is a growth-stage firm, meeting the Series C or later requirement, and the role is fully remote within the US.",
+      "source": "Himalayas / Rippling",
+      "applyUrl": "https://boards.rippling.com/athennian/jobs/senior-product-designer",
+      "isOffLinkedIn": true,
+      "jobDescription": "Athennian is seeking a Senior Product Designer to help shape the next generation of their Governance Ops™ software. This role involves taking complex B2B workflows and transforming them into intuitive, modern experiences, especially with new AI-powered capabilities. The designer will work at the intersection of product strategy, customer needs, and emerging technology, partnering closely with Product, Engineering, customers, and executives to lead discovery and translate product direction into market-differentiating experiences. Key responsibilities include challenging assumptions, exploring new concepts, and delivering sophisticated SaaS and AI-enabled experiences. Candidates should have 5+ years in product design, strong product judgment, and fluency with Figma, Pendo, Claude, and Cursor.",
+      "keywords": [
+        {
+          "keyword": "Complex B2B workflows",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Core experience"
+        },
+        {
+          "keyword": "Enterprise software",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Core experience"
+        },
+        {
+          "keyword": "AI-powered features",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Figma Make, Cursor experience"
+        },
+        {
+          "keyword": "Finance and tax teams",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Deep context"
+        },
+        {
+          "keyword": "Governance Ops software",
+          "inProfile": true,
+          "relevance": "strong alignment",
+          "note": "Similar to complex data systems/transactional flows"
+        },
+        {
+          "keyword": "Product strategy",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Experience shaping strategy"
+        },
+        {
+          "keyword": "Figma",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Proficient tool"
+        },
+        {
+          "keyword": "Pendo",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Proficient tool"
+        },
+        {
+          "keyword": "Cursor",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Proficient tool"
+        },
+        {
+          "keyword": "User research",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Core design practice"
+        },
+        {
+          "keyword": "0-to-1 discovery",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Core strength"
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-09-01T15:27:59.101Z",
+      "isNew": true
+    },
+    {
+      "id": "job-dvpkp2",
+      "title": "Senior Product Designer",
+      "specialty": "Web Tools",
+      "company": "Toast",
+      "companyDomain": "toasttab.com",
+      "industry": "Fintech, B2B SaaS",
+      "location": "Remote (U.S. Only)",
+      "postedAt": "2026-09-01",
+      "fitScore": 8,
+      "fitTier": "Good Fit",
+      "fitExplanation": "This role at Toast is a good fit due to its B2B SaaS environment and focus on AI-powered experiences, which aligns with Michael's expertise in AI tools. Toast is a public company, meeting the company stage requirement, and the role is remote in the US. While the 'Web Tools' and 'marketing website' aspect is less aligned with Michael's core B2B transactional platform experience, his strong visual eye, systems thinking, and ability to bring clarity to complex interfaces are valuable here. The requirement for solid UI/UX principles, interaction design, information architecture, and accessibility also matches his skill set.",
+      "source": "Toast Careers",
+      "applyUrl": "https://careers.toasttab.com/jobs/R14905/senior-product-designer-web-tools",
+      "isOffLinkedIn": true,
+      "jobDescription": "Toast is looking for a Senior Product Designer to join its Web Experience Design team, focusing on shaping the next generation of AI-powered experiences on the marketing website. This includes intelligent chatbots and personalized visitor journeys. The designer will collaborate with Web Strategy, Web Engineering, Marketing, and AI/ML partners. Requirements include 4+ years of product or web design experience in a B2B SaaS environment, exposure to AI-powered features, strong UI/UX principles (interaction design, information architecture, accessibility), and comfort working with technical constraints.",
+      "salary": "$95,000 - $152,000",
+      "keywords": [
+        {
+          "keyword": "B2B SaaS",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Core industry"
+        },
+        {
+          "keyword": "AI-powered features",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Figma Make, Cursor experience"
+        },
+        {
+          "keyword": "UI/UX principles",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Core design practice"
+        },
+        {
+          "keyword": "Interaction design",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Core design practice"
+        },
+        {
+          "keyword": "Information architecture",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Core design practice"
+        },
+        {
+          "keyword": "Accessibility",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Core design practice"
+        },
+        {
+          "keyword": "Systems thinking",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Core strength"
+        },
+        {
+          "keyword": "Figma",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Proficient tool"
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-09-01T15:27:59.101Z",
+      "isNew": true
+    },
+    {
+      "id": "job-dvgn7v",
+      "title": "Senior Product Designer",
+      "specialty": "Tabby Shop",
+      "company": "Tabby",
+      "companyDomain": "tabby.ai",
+      "industry": "Fintech, Marketplace",
+      "location": "Remote (U.S. Only)",
+      "postedAt": "2026-08-31",
+      "fitScore": 7,
+      "fitTier": "Good Fit",
+      "fitExplanation": "This role is a good fit, particularly for Michael's 0-to-1 and marketplace experience. Tabby is a Series E FinTech company, fulfilling the company stage requirement, and the role is remote (US is acceptable despite Dubai timezone alignment). The focus on designing a new product area—a deals marketplace, loyalty, and cashback—aligns with his experience in marketplace infrastructure and transactional flows. However, the explicit mention of 'consumer products at scale' makes it a moderate fit, as Michael primarily focuses on complex B2B SaaS. His strong visual craft and ability to make complex systems delightful are valuable for this user-facing, high-stakes FinTech product.",
+      "source": "Himalayas / Tabby Careers",
+      "applyUrl": "https://careers.tabby.ai/jobs/4294406-senior-product-designer-tabby-shop-remote",
+      "isOffLinkedIn": true,
+      "jobDescription": "Tabby is looking for a Senior Product Designer to build a new product area within the Tabby Shop: a deals marketplace, loyalty program, and cashback features. This is a high-ownership, 0-to-1 role focusing on shaping the design direction from its earliest stages and shipping to a large audience. Responsibilities include developing a deep understanding of product logic and business context, collaborating with Product Managers and UX Researchers, and partnering with a UX Writer. The ideal candidate has 5+ years of product design experience (with some consumer product exposure), strong product thinking, a portfolio demonstrating end-to-end ownership, and high craft standards in visual and interaction design. Optimization with AI tools is a 'nice to have'.",
+      "keywords": [
+        {
+          "keyword": "Marketplace",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Aligns with marketplace infrastructure experience"
+        },
+        {
+          "keyword": "Fintech",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Aligns with payment reconciliation experience"
+        },
+        {
+          "keyword": "0-to-1 design",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Core strength"
+        },
+        {
+          "keyword": "Transactional flows",
+          "inProfile": true,
+          "relevance": "strong alignment",
+          "note": "Experience in payment/cashback systems"
+        },
+        {
+          "keyword": "Product thinking",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Core design philosophy"
+        },
+        {
+          "keyword": "Visual craft",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Core strength"
+        },
+        {
+          "keyword": "Interaction design",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Core strength"
+        },
+        {
+          "keyword": "User research",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Core design practice"
+        },
+        {
+          "keyword": "Cross-functional collaboration",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Core strength"
+        },
+        {
+          "keyword": "AI tools",
+          "inProfile": true,
+          "relevance": "preferred",
+          "note": "Figma Make, Cursor experience"
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-09-01T15:27:59.101Z",
       "isNew": true
     }
   ],
-  "scannedAt": "2026-08-30T21:55:25.767Z"
+  "scannedAt": "2026-09-01T15:29:08.987Z"
 }
