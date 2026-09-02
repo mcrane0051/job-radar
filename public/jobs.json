@@ -133,101 +133,6 @@
       "isNew": false
     },
     {
-      "id": "job-97rw3n",
-      "title": "Senior Product Designer",
-      "company": "Omada Health",
-      "companyDomain": "omadahealth.com",
-      "industry": "Healthtech",
-      "location": "Remote",
-      "postedAt": "2026-08-18",
-      "fitScore": 9,
-      "fitTier": "Strong Fit",
-      "fitExplanation": "This role is a strong fit as it aligns with Michael's expertise in complex B2B SaaS product design, 0-to-1 problem solving, and leveraging AI tools in the design workflow. The company stage (Series E/F) and remote location also meet his preferences. While Healthtech is a moderate alignment industry, the focus on human-centered design for lasting health changes and navigating undefined problems strongly resonates with Michael's preferred types of work. The experience level and emphasis on design systems and cross-functional collaboration are also excellent matches.",
-      "source": "Greenhouse",
-      "applyUrl": "https://boards.greenhouse.io/omadahealth/jobs/6573846002",
-      "isOffLinkedIn": true,
-      "jobDescription": "Omada Health is seeking a Senior Product Designer to join their innovation team, focusing on new care programs. This individual will be responsible for designing impactful, human-centered experiences that drive lasting health changes. The role involves deep collaboration with product managers, engineers, behavioral researchers, and data scientists to explore, design, prototype, test, and iterate on solutions. The ideal candidate thrives in ambiguous, 0-to-1 problem spaces, shaping undefined problems into clear concepts and shipped experiences. Responsibilities include defining problem spaces, driving the end-to-end design process (from concept to validation and execution in iterative cycles), and using rapid prototyping to explore and test ideas. The role emphasizes delivering consumer-grade mobile experiences with strong visual, interaction, and systems thinking. The designer will partner with various teams to shape strategy, translate business strategy and user needs into product opportunities, contribute to design systems, and design human-centered AI experiences using tools like Figma Make, Claude Code, Cursor, or Lovable.",
-      "specialty": "Innovation, Care Programs",
-      "salary": "$136,000 - $195,500",
-      "keywords": [
-        {
-          "keyword": "Product Design",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Extensive experience"
-        },
-        {
-          "keyword": "B2B SaaS",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Strong preference for B2B SaaS background"
-        },
-        {
-          "keyword": "0-to-1",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Thrives in ambiguous 0-to-1 spaces"
-        },
-        {
-          "keyword": "Complex Workflows",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Experience with complex systems and data-heavy interfaces"
-        },
-        {
-          "keyword": "AI tools",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Experience using Figma Make, Cursor, Claude Code mentioned in both profile and job"
-        },
-        {
-          "keyword": "Design Systems",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Experience working with and contributing to design systems"
-        },
-        {
-          "keyword": "User Research",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Strong commitment to human-centered design, grounding decisions in user research"
-        },
-        {
-          "keyword": "Prototyping",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Proficiency in rapid prototyping"
-        },
-        {
-          "keyword": "Figma",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Strong Figma proficiency"
-        },
-        {
-          "keyword": "Cross-functional collaboration",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Partnership with product, engineering, clinical, and research teams"
-        },
-        {
-          "keyword": "Mobile (iOS and Android)",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Experience designing for mobile is a plus"
-        },
-        {
-          "keyword": "Health, Wellness, or Behavior Change",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Experience in health-related domains"
-        }
-      ],
-      "status": "New",
-      "scannedAt": "2026-08-19T19:39:37.699Z",
-      "isNew": false
-    },
-    {
       "id": "job-droul5",
       "title": "Senior Product Designer",
       "company": "Melio",
@@ -3355,8 +3260,168 @@
       ],
       "status": "New",
       "scannedAt": "2026-09-02T15:06:29.200Z",
+      "isNew": false
+    },
+    {
+      "id": "job-mndc6p",
+      "title": "Staff Product Designer",
+      "company": "Wealth.com",
+      "companyDomain": "wealth.com",
+      "industry": "Fintech",
+      "location": "Hybrid (NYC)",
+      "postedAt": "2026-09-02",
+      "fitScore": 8,
+      "fitTier": "Good Fit",
+      "fitExplanation": "Michael's expertise in complex B2B SaaS and FinTech-adjacent products, including transactional flows and contract management, aligns strongly with this estate planning platform for wealth management. His focus on making complex systems delightful and tactile, coupled with his strong visual craft and systems thinking, is highly relevant. The Staff Product Designer role level, which emphasizes strategic input, leadership, and hands-on craft, perfectly matches Michael's career aspirations and experience in shaping design strategy. Wealth.com is a Series D-funded company, meeting the minimum company stage requirement. While the role is hybrid in NYC, which is an acceptable location, Michael's preference for remote work leads to a slight deduction in the overall fit score.",
+      "source": "Talents by Vaia",
+      "applyUrl": "N/A",
+      "isOffLinkedIn": false,
+      "jobDescription": "Wealth.com, a leading estate planning platform for wealth management firms, is seeking a Staff Product Designer. This role is for a senior individual contributor and design leader who will be instrumental in shaping the product vision, elevating design standards across the organization, and mentoring other designers, all while remaining deeply involved in the design craft. The platform helps over 1,000 wealth management firms modernize estate planning, leveraging proprietary AI, robust security, and comprehensive technological and legal expertise to address diverse client needs.\n\n**Core Responsibilities:**\n*   Operate as a senior individual contributor and design leader, actively shaping the product vision and strategic direction.\n*   Drive the elevation of design quality and standards throughout the organization and provide mentorship to fellow designers.\n*   Lead complex, high-impact design initiatives from inception to completion.\n*   Execute intentional design, rapid prototyping, and create delightful user interactions within functional workflows.\n*   Apply robust systems thinking and maintain a high standard for visual craft, motion, and gamification at scale.\n*   Collaborate closely with engineering teams to ensure the delivery of highly polished product experiences.\n\n**Requirements:**\n*   Demonstrated exceptional design quality and strong systems thinking capabilities.\n*   Proven track record of successfully leading complex, high-impact initiatives end-to-end.\n*   Mastery of design craft, including intentional design, rapid prototyping, and creating engaging interactions.\n*   Experience in fintech, legal tech, or regulated platforms is considered a bonus.\n*   Familiarity with AI, AR, or VR design concepts is a plus.\n*   A background in scaling design systems across large teams or products is advantageous.",
+      "specialty": "Estate Planning Platform",
+      "salary": "N/A",
+      "keywords": [
+        {
+          "keyword": "Figma",
+          "inProfile": true,
+          "relevance": "implied (strong design craft, prototyping)",
+          "note": "Michael is proficient in Figma"
+        },
+        {
+          "keyword": "Design systems",
+          "inProfile": true,
+          "relevance": "required (bonus points for scaling design systems)",
+          "note": "Michael has experience establishing and scaling design systems"
+        },
+        {
+          "keyword": "B2B SaaS",
+          "inProfile": true,
+          "relevance": "required (estate planning for wealth management firms)",
+          "note": "Michael specializes in complex B2B SaaS"
+        },
+        {
+          "keyword": "Fintech",
+          "inProfile": true,
+          "relevance": "required (estate planning, regulated platforms)",
+          "note": "Michael has deep FinTech adjacent context"
+        },
+        {
+          "keyword": "Complex workflows",
+          "inProfile": true,
+          "relevance": "required (leading complex, high-impact initiatives)",
+          "note": "Michael specializes in complex data systems, transactional flows"
+        },
+        {
+          "keyword": "0-to-1",
+          "inProfile": true,
+          "relevance": "implied (shape vision, lead end-to-end initiatives)",
+          "note": "Michael thrives in 0-to-1 and ambiguous problem spaces"
+        },
+        {
+          "keyword": "AI",
+          "inProfile": true,
+          "relevance": "bonus",
+          "note": "Michael uses AI tools and has experience with AI-enhanced platforms"
+        },
+        {
+          "keyword": "Lead designer",
+          "inProfile": true,
+          "relevance": "required (design leader, mentor others)",
+          "note": "Michael has experience leading and mentoring designers"
+        },
+        {
+          "keyword": "User research",
+          "inProfile": true,
+          "relevance": "implied (craft, intentional design)",
+          "note": "Michael is proficient in user research"
+        },
+        {
+          "keyword": "Prototyping",
+          "inProfile": true,
+          "relevance": "required (prototype with speed)",
+          "note": "Michael is proficient in high-fidelity interactive prototyping"
+        },
+        {
+          "keyword": "Visual craft",
+          "inProfile": true,
+          "relevance": "required (exceptional design quality, visual craft)",
+          "note": "Michael has a strong visual eye and applies visual craft"
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-09-02T21:49:56.908Z",
+      "isNew": true
+    },
+    {
+      "id": "job-26j2yy",
+      "title": "Senior Product Designer",
+      "company": "Gemini",
+      "companyDomain": "gemini.com",
+      "industry": "Fintech",
+      "location": "Hybrid (NYC)",
+      "postedAt": "2026-09-02",
+      "fitScore": 7,
+      "fitTier": "Good Fit",
+      "fitExplanation": "Michael's robust experience in FinTech-adjacent domains, particularly with transactional flows, complex systems, and building user trust, is highly transferable to the crypto FinTech space and its prediction markets. The role's emphasis on shaping product strategy, crafting scalable experiences, and leading design from concept to testing aligns well with his 0-to-1 experience and ability to operate across the full design lifecycle. Gemini is a well-established company with significant funding, comfortably meeting the Series C+ requirement. The hybrid work arrangement in NYC is an acceptable location for Michael, though his preference for remote work results in a slight score adjustment.",
+      "source": "Talents by Vaia",
+      "applyUrl": "N/A",
+      "isOffLinkedIn": false,
+      "jobDescription": "Gemini is looking for a Senior Product Designer to join their Prediction Markets team, a hybrid role based in their New York City office. This individual will be responsible for shaping product strategy and defining user journeys across both retail and institutional products within the dynamic crypto FinTech sector. The role necessitates close collaboration with Product Management, Engineering, and other design professionals to develop scalable and intuitive experiences, transforming user research into refined designs, and overseeing the entire design execution process from initial concept development through prototyping and user testing. In-person collaboration at the NYC office is required twice weekly.\n\n**Core Responsibilities:**\n*   Define and shape product strategy as well as user journeys for retail and institutional products.\n*   Collaborate extensively with Product Management, Engineering, and design colleagues to create scalable product experiences.\n*   Translate insights gained from user research into elegant and functional design solutions.\n*   Take ownership of the end-to-end design execution, encompassing concept generation, prototyping, and testing phases.\n*   Participate in required in-person collaboration sessions at the New York City office twice per week.\n\n**Requirements:**\n*   Demonstrated experience in product design at a senior level.\n*   Proven ability to craft and deliver scalable user experiences.\n*   Proficiency in translating user research findings into effective design.\n*   Strong skills in concept development, prototyping, and user testing.\n*   Prior experience in the crypto FinTech industry is considered a significant advantage.",
+      "specialty": "Prediction Markets",
+      "salary": "N/A",
+      "keywords": [
+        {
+          "keyword": "Fintech",
+          "inProfile": true,
+          "relevance": "required (crypto FinTech space)",
+          "note": "Michael has deep FinTech adjacent context"
+        },
+        {
+          "keyword": "Scalable products",
+          "inProfile": true,
+          "relevance": "required (craft scalable experiences)",
+          "note": "Michael has experience scaling existing products and design systems"
+        },
+        {
+          "keyword": "Journey Mapping",
+          "inProfile": true,
+          "relevance": "required (shape user journeys)",
+          "note": "Michael is proficient in user journey mapping"
+        },
+        {
+          "keyword": "Prototyping",
+          "inProfile": true,
+          "relevance": "required (prototyping and testing)",
+          "note": "Michael is proficient in high-fidelity interactive prototyping"
+        },
+        {
+          "keyword": "User Research",
+          "inProfile": true,
+          "relevance": "required (translate research into elegant design)",
+          "note": "Michael is proficient in user research"
+        },
+        {
+          "keyword": "Cross-functional collaboration",
+          "inProfile": true,
+          "relevance": "required (partner with Product Management, Engineering)",
+          "note": "Michael excels in cross-functional collaboration"
+        },
+        {
+          "keyword": "Transactional flows",
+          "inProfile": true,
+          "relevance": "highly relevant (prediction markets, financial transactions)",
+          "note": "Michael specializes in transactional flows and payment reconciliation"
+        },
+        {
+          "keyword": "0-to-1",
+          "inProfile": true,
+          "relevance": "implied (shape product strategy, concept to testing)",
+          "note": "Michael thrives in 0-to-1 and ambiguous problem spaces"
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-09-02T21:49:56.908Z",
       "isNew": true
     }
   ],
-  "scannedAt": "2026-09-02T15:07:26.261Z"
+  "scannedAt": "2026-09-02T21:51:44.022Z"
 }
