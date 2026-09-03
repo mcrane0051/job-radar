@@ -3349,7 +3349,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-09-02T21:49:56.908Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-26j2yy",
@@ -3420,8 +3420,8 @@
       ],
       "status": "New",
       "scannedAt": "2026-09-02T21:49:56.908Z",
-      "isNew": true
+      "isNew": false
     }
   ],
-  "scannedAt": "2026-09-02T21:51:44.022Z"
+  "scannedAt": "2026-09-03T15:00:58.236Z"
 }
