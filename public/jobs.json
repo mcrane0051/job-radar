@@ -3421,7 +3421,108 @@
       "status": "New",
       "scannedAt": "2026-09-02T21:49:56.908Z",
       "isNew": false
+    },
+    {
+      "id": "job-phw4p9",
+      "title": "Senior Product Designer",
+      "company": "Order.co",
+      "companyDomain": "order.co",
+      "industry": "B2B SaaS, Fintech, Marketplace, Procurement",
+      "location": "Remote (United States)",
+      "postedAt": "2026-09-02",
+      "fitScore": 9,
+      "fitTier": "Strong Fit",
+      "fitExplanation": "This role is a strong fit given Michael's extensive experience in complex B2B SaaS, fintech, transactional workflows, and marketplace infrastructure. The focus on scaling and evolving design systems, modernizing legacy experiences, and exploring AI-enabled design workflows directly aligns with his skills and 'types of work I do best.' His background in visual systems and strong visual eye are highly relevant to the role's emphasis on visual quality and interaction polish. The company stage (Series C according to PitchBook) also meets his preferences.",
+      "source": "Built In, The Design Project, Jobright.ai, DailyRemote, RemoteRocketship.com",
+      "applyUrl": "N/A",
+      "isOffLinkedIn": false,
+      "jobDescription": "Order.co is seeking a Senior Product Designer specializing in Design Systems to enhance their B2B procurement and finance platform. This role involves scaling and evolving the existing design system, with a particular focus on high-traffic legacy experiences. The designer will conduct audits to identify inconsistencies and opportunities for component consolidation, and partner closely with engineering teams to develop scalable, accessible, and production-ready UI components. A key aspect is championing design principles, including usability and accessibility, and exploring how AI can improve design-to-development workflows, such as component discovery, documentation, and quality checks. The ideal candidate will combine strategic thinking with hands-on execution, aiming to reduce duplication and improve efficiency across design and engineering teams.\n\n**Core Responsibilities:**\n*   Scale and evolve the company’s design system, with an emphasis on high-impact legacy user interfaces.\n*   Conduct comprehensive audits of current user experiences to identify component gaps, inconsistencies, and opportunities for standardization.\n*   Collaborate with engineering teams to develop scalable, accessible, and production-ready UI components.\n*   Champion and enforce design principles, including usability, accessibility (WCAG standards), visual consistency, and overall product quality.\n*   Establish and communicate design system principles and decisions across the organization.\n*   Explore AI-enabled workflows for component discovery, documentation, quality checks, and pattern generation.\n*   Reduce duplication and improve efficiency across design and engineering.\n*   Measure and improve system adoption, usability, and effectiveness.\n\n**Key Requirements:**\n*   4–7 years of product design experience, with significant focus on building and scaling design systems.\n*   Proven experience in building, scaling, or evolving a comprehensive design system.\n*   Strong expertise in component-based design methodologies and reusable interaction patterns.\n*   Advanced proficiency in Figma, including knowledge of its features for design systems (components, variants, auto-layout, shared styles).\n*   Solid understanding of how design system components translate into production code and effective collaboration with engineers.\n*   Hands-on experience with AI tools and curiosity about their application to design systems.\n*   Excellent visual, interaction, communication, and systems-thinking skills.",
+      "specialty": "Design Systems",
+      "salary": "$95/hr - $95/hr",
+      "keywords": [
+        {
+          "keyword": "Complex B2B SaaS product design",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Company is a B2B procurement and finance platform."
+        },
+        {
+          "keyword": "Design Systems",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Core focus of the role."
+        },
+        {
+          "keyword": "Figma",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Advanced proficiency required."
+        },
+        {
+          "keyword": "AI tools",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Experience and curiosity about AI-enabled workflows."
+        },
+        {
+          "keyword": "Transactional workflows",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Platform simplifies purchasing and payment workflows."
+        },
+        {
+          "keyword": "Enterprise software",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "B2B procurement and finance platform for businesses."
+        },
+        {
+          "keyword": "User Research",
+          "inProfile": true,
+          "relevance": "preferred",
+          "note": "Implied through auditing experiences and championing usability."
+        },
+        {
+          "keyword": "Prototyping",
+          "inProfile": true,
+          "relevance": "preferred",
+          "note": "Implied through design systems and component development."
+        },
+        {
+          "keyword": "Cross-functional collaboration",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Partners closely with Product Design, Engineering, and Product Management."
+        },
+        {
+          "keyword": "0-to-1 discovery",
+          "inProfile": true,
+          "relevance": "moderate",
+          "note": "More focused on scaling existing systems, but strategic input is valued."
+        },
+        {
+          "keyword": "Payment reconciliation",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Fintech platform involves payment workflows."
+        },
+        {
+          "keyword": "Cloud marketplace",
+          "inProfile": true,
+          "relevance": "moderate",
+          "note": "Procurement platform has marketplace characteristics."
+        },
+        {
+          "keyword": "Visual craft",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Champion visual consistency and overall product quality."
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-09-03T21:43:01.187Z",
+      "isNew": true
     }
   ],
-  "scannedAt": "2026-09-03T15:00:58.236Z"
+  "scannedAt": "2026-09-03T21:43:44.311Z"
 }
