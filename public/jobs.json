@@ -1,88 +1,6 @@
 {
   "jobs": [
     {
-      "id": "job-9pajak",
-      "title": "Lead Product Designer",
-      "company": "Cisco",
-      "companyDomain": "cisco.com",
-      "industry": "Enterprise Technology, Cloud Infrastructure, AI",
-      "location": "Remote (US Only)",
-      "postedAt": "2026-08-21",
-      "fitScore": 8,
-      "fitTier": "Good Fit",
-      "fitExplanation": "This role aligns strongly with Michael's expertise in complex enterprise software and systems thinking. His experience with AI tools and complex data systems is relevant for designing AI-powered experiences. The 'Lead' title matches his target level, and remote work is a key preference. The role emphasizes visual craft and data visualization, areas where Michael excels.",
-      "source": "Ladders",
-      "applyUrl": "N/A",
-      "jobDescription": "This individual contributor role focuses on leading the design of AI-driven product experiences from concept to launch within Cisco's Networking platform team. The successful candidate will shape portfolio-wide experiences including recommendations, automation, and predictive insights. Key responsibilities include:\n\n*   Leading end-to-end design for AI-driven products, translating ambiguous opportunities into clear concepts.\n*   Designing interactions that enhance user control and decision-making for AI experiences.\n*   Deepening understanding of AI technology and its evolution within product design.\n*   Creating design specifications for telemetry and data models to support AI functionality.\n*   Collaborating to make complex technical capabilities user-friendly and accessible.\n*   Defining reusable UX patterns for AI experiences across the platform.\n\nRequired qualifications include 10+ years of product design experience with complex enterprise products, a proven portfolio showcasing AI-powered or data-intensive product designs, strong UX/UI skills covering interaction, visual design, and data visualization, and technical fluency with AI, data, and engineering partners. Experience mentoring designers and improving design craft is also valued.",
-      "specialty": "AI and Intelligence",
-      "salary": "$169300 - $237200",
-      "keywords": [
-        {
-          "keyword": "complex enterprise products",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Matches Michael's specialty in complex B2B SaaS."
-        },
-        {
-          "keyword": "AI-powered product designs",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Michael uses AI tools and has experience with complex data systems."
-        },
-        {
-          "keyword": "data-intensive product designs",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Direct match with Michael's expertise in complex data systems."
-        },
-        {
-          "keyword": "UX/UI skills",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Matches Michael's design practice and visual craft."
-        },
-        {
-          "keyword": "interaction design",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Core design practice for Michael."
-        },
-        {
-          "keyword": "visual craft",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Matches Michael's strong visual eye and philosophy."
-        },
-        {
-          "keyword": "data visualization",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Aligned with Michael's data-heavy interface experience."
-        },
-        {
-          "keyword": "systems thinking",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Central to Michael's design philosophy and practice."
-        },
-        {
-          "keyword": "cross-functional collaboration",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Michael thrives in this environment."
-        },
-        {
-          "keyword": "mentoring designers",
-          "inProfile": true,
-          "relevance": "preferred",
-          "note": "Michael has experience mentoring."
-        }
-      ],
-      "status": "New",
-      "scannedAt": "2026-08-22T11:35:02.496Z",
-      "isNew": false
-    },
-    {
       "id": "job-8wr3a",
       "title": "Senior Product Designer",
       "company": "Linear",
@@ -270,86 +188,6 @@
       ],
       "status": "New",
       "scannedAt": "2026-08-25T11:44:14.765Z",
-      "isNew": false
-    },
-    {
-      "id": "job-oj8159",
-      "title": "Senior Product Designer",
-      "company": "Gallatin",
-      "companyDomain": "gallatin.io",
-      "industry": "Defense Technology, AI Infrastructure",
-      "location": "Remote (United States)",
-      "postedAt": "2026-08-21",
-      "fitScore": 7,
-      "fitTier": "Good Fit",
-      "fitExplanation": "While the defense industry isn't a primary focus for Michael, the role's emphasis on designing for complex systems, AI, and ambiguous problem spaces is a direct match for his strengths. His 10+ years of experience and ability to think in systems are highly relevant. Remote (US) work aligns with his preference. The requirement for US Citizenship is noted.",
-      "source": "Peerlist",
-      "applyUrl": "N/A",
-      "jobDescription": "Gallatin is seeking a Senior Product Designer to work at the intersection of complex systems, AI, and visual craft. This role involves researching, prototyping, and shipping products that assist military logisticians in synthesizing constraints and acting within large-scale, simulated and physical environments. The designer will be embedded within the Product team and report to the Director of Product Design, utilizing human-factors rigor alongside rapid AI-assisted prototyping.\n\nCore responsibilities include:\n\n*   Collaborating with Product Managers and Engineers to develop user interfaces and experiences tailored for military logistics operations.\n*   Championing emerging best practices in AI prototyping to accelerate iteration speed.\n*   Conducting user research and testing with military stakeholders to validate design decisions.\n*   Contributing to the maturation of design systems to ensure consistency across products.\n*   Participating in design reviews and strategic product discussions, documenting key decisions.\n\nKey qualifications are 5+ years of product design experience with complex systems, demonstrated ability to design for complexity, fluency with design tools like Figma and Adobe Creative Suite, experience with AI prototyping tools, and strong visual design skills. US Citizenship is a requirement for this position.",
-      "keywords": [
-        {
-          "keyword": "complex systems",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Matches Michael's expertise in complex B2B SaaS and data systems."
-        },
-        {
-          "keyword": "AI prototyping",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Michael uses AI tools for prototyping."
-        },
-        {
-          "keyword": "design for complexity",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "A core strength and preference for Michael."
-        },
-        {
-          "keyword": "user research",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Key design practice for Michael."
-        },
-        {
-          "keyword": "design systems",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Michael has experience establishing and scaling design systems."
-        },
-        {
-          "keyword": "visual design skills",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Matches Michael's strong visual craft and background."
-        },
-        {
-          "keyword": "Figma",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Primary tool proficiency for Michael."
-        },
-        {
-          "keyword": "Adobe Creative Suite",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Background in visual systems, trained in graphic design."
-        },
-        {
-          "keyword": "0-to-1 and ambiguous problem spaces",
-          "inProfile": true,
-          "relevance": "strong alignment",
-          "note": "The role describes designing for complex, evolving environments."
-        },
-        {
-          "keyword": "cross-functional collaboration",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Explicitly mentioned in Michael's profile."
-        }
-      ],
-      "status": "New",
-      "scannedAt": "2026-08-22T11:35:02.496Z",
       "isNew": false
     },
     {
@@ -3305,8 +3143,8 @@
       ],
       "status": "New",
       "scannedAt": "2026-09-04T21:29:10.603Z",
-      "isNew": true
+      "isNew": false
     }
   ],
-  "scannedAt": "2026-09-04T21:30:02.326Z"
+  "scannedAt": "2026-09-05T13:52:33.294Z"
 }
