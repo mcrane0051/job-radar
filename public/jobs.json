@@ -2986,7 +2986,501 @@
       "status": "New",
       "scannedAt": "2026-09-04T21:29:10.603Z",
       "isNew": false
+    },
+    {
+      "id": "job-39s923",
+      "title": "Senior Product Designer",
+      "company": "Runpod",
+      "companyDomain": "runpod.io",
+      "industry": "Cloud Infrastructure, Developer Tools, AI/ML Tools, Enterprise Software, SaaS",
+      "location": "Remote (U.S. Only)",
+      "postedAt": "2026-09-06",
+      "fitScore": 9,
+      "fitTier": "Strong Fit",
+      "fitExplanation": "This role is a strong fit due to its focus on AI infrastructure, developer tools, and complex technical SaaS products. Michael has extensive experience with multi-cloud transactional platforms, enterprise software, and making complex systems delightful. His background in visual systems and experience with AI tools like Figma Make and Cursor are highly relevant. The role also emphasizes owning design quality, simplifying complex products, and working in fast-moving, ambiguous environments, which aligns perfectly with Michael's strengths in 0-to-1 discovery and driving design forward.",
+      "source": "WoodyJobs.com",
+      "applyUrl": "N/A",
+      "jobDescription": "The Senior Product Designer will be responsible for owning the design quality of core product surfaces across Runpod's AI infrastructure platform. This involves collaborating closely with Engineering, Product, Infrastructure, Customer Success, Sales, Marketing, and company leadership to create user experiences that are not just functional, but memorable. The successful candidate will focus on raising the bar for Runpod's user experience through clearer workflows, faster time-to-value, stronger customer trust, better product polish, and delightful moments for developers. The role requires a hands-on approach with strong product judgment and the ability to balance user needs, technical constraints, speed, quality, and business impact in fast-moving, ambiguous environments.\n\n**Core Responsibilities:**\n* Own the end-to-end design quality of core product surfaces for an AI infrastructure platform.\n* Collaborate cross-functionally with Engineering, Product, Infrastructure, Customer Success, Sales, Marketing, and leadership.\n* Translate complex technical workflows into simple, powerful, and delightful experiences.\n* Drive design forward in fast-moving, ambiguous environments.\n* Apply strong product judgment to balance user needs, technical constraints, and business impact.\n* Contribute to clearer workflows, faster time-to-value, stronger customer trust, and product polish.\n\n**Requirements:**\n* 6+ years of product design experience, ideally with developer tools, cloud platforms, infrastructure products, AI/ML tools, enterprise software, data products, or technical SaaS.\n* A strong portfolio demonstrating excellent UX thinking, visual craft, interaction design, systems thinking, and the ability to simplify complex products.\n* High urgency and ownership, with a track record of driving design work forward in fast-moving, ambiguous environments.\n* Strong product judgment and the ability to balance user needs, technical constraints, speed, quality, and business impact.\n* Experience working closely with engineers and product managers to ship technically complex products.\n* Ability to understand workflows involving APIs, infrastructure, cloud platforms, deployment, observability, usage-based pricing, or AI/ML systems.\n* Experience using qualitative and quantitative insights to guide design decisions.\n* Strong communication skills, with the ability to explain design rationale clearly and build alignment across teams.\n* Deep care for craft, quality, and the small details that make software feel great.\n\n**Nice to Have:**\n* Experience designing for developers, AI engineers, infrastructure teams, data scientists, or technical enterprise users.\n* Experience in AI, ML, cloud compute, DevOps, observability, data infrastructure, or usage-based SaaS.\n* Experience with onboarding, activation, dashboards, billing, deployment workflows, or complex configuration experiences.\n* Experience with front-end implementation, design engineering, or prototyping in code.",
+      "salary": "$125,000 - $220,000",
+      "keywords": [
+        {
+          "keyword": "Developer tools",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael has deep context in this area."
+        },
+        {
+          "keyword": "Cloud platforms",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael's experience at Tackle.io is highly relevant."
+        },
+        {
+          "keyword": "Infrastructure products",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael's experience at Tackle.io aligns well."
+        },
+        {
+          "keyword": "AI/ML tools",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael uses AI tools (Figma Make, Cursor) and has experience with complex data systems."
+        },
+        {
+          "keyword": "Enterprise software",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael specializes in complex B2B SaaS products."
+        },
+        {
+          "keyword": "Data products",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael specializes in data-heavy interfaces."
+        },
+        {
+          "keyword": "Technical SaaS",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael's primary experience is in B2B SaaS."
+        },
+        {
+          "keyword": "UX thinking",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Core design practice."
+        },
+        {
+          "keyword": "Visual craft",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "A key strength of Michael's philosophy and background."
+        },
+        {
+          "keyword": "Interaction design",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Part of Michael's core design skills."
+        },
+        {
+          "keyword": "Systems thinking",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael emphasizes rigorous systems thinking and design systems."
+        },
+        {
+          "keyword": "Simplify complex products",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "A core skill and expertise for Michael."
+        },
+        {
+          "keyword": "High urgency and ownership",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael thrives in ambiguous 0-to-1 problem spaces and takes ownership."
+        },
+        {
+          "keyword": "Fast-moving, ambiguous environments",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael excels in 0-to-1 discovery."
+        },
+        {
+          "keyword": "Product judgment",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael has experience shaping design strategy."
+        },
+        {
+          "keyword": "Cross-functional collaboration",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael is embedded with product and engineering."
+        },
+        {
+          "keyword": "APIs",
+          "inProfile": false,
+          "relevance": "preferred",
+          "note": "Implied in infrastructure and developer tools context."
+        },
+        {
+          "keyword": "Deployment workflows",
+          "inProfile": true,
+          "relevance": "preferred",
+          "note": "Michael has experience with transactional flows and onboarding."
+        },
+        {
+          "keyword": "Onboarding",
+          "inProfile": true,
+          "relevance": "preferred",
+          "note": "Michael has driven self-serve onboarding improvements."
+        },
+        {
+          "keyword": "Dashboards",
+          "inProfile": true,
+          "relevance": "preferred",
+          "note": "Michael has experience with revenue tracking and reporting interfaces."
+        },
+        {
+          "keyword": "Billing",
+          "inProfile": true,
+          "relevance": "preferred",
+          "note": "Michael has experience with payment reconciliation and transactional flows."
+        },
+        {
+          "keyword": "Figma",
+          "inProfile": true,
+          "relevance": "tool",
+          "note": "Michael lists Figma as a core tool."
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-09-06T21:21:26.554Z",
+      "isNew": true
+    },
+    {
+      "id": "job-duqabb",
+      "title": "Senior Product Designer",
+      "company": "Ruxlo",
+      "companyDomain": "ruxlo.com",
+      "industry": "SaaS, Fintech, Proptech, Real Estate, Data Products",
+      "location": "Hybrid in New Jersey",
+      "postedAt": "2026-09-06",
+      "fitScore": 7,
+      "fitTier": "Good Fit",
+      "fitExplanation": "This hybrid role in New Jersey aligns well with Michael's location preference. The focus on complex, data-dense workflows, SaaS, and financial tooling, along with the emphasis on design systems and usability research, strongly matches Michael's expertise. His experience in fintech-adjacent areas like payment reconciliation and contract management is a direct correlation. However, the company's early stage (backed by an experienced SaaS founder) deducts from the score as Michael prefers Series C or later for stability and resources. The hybrid nature also incurs a 1-point deduction.",
+      "source": "Snagajob",
+      "applyUrl": "N/A",
+      "jobDescription": "The Senior Product Designer at Ruxlo will be responsible for leading end-to-end design for complex, data-dense workflows, contributing to and maintaining a cross-platform design system, and conducting usability research. This individual contributor role requires partnering closely with Product and Engineering within the SDLC. The designer will set the standard for design craft, mentor other designers, and own the thinking behind the pixels, translating PRDs into interfaces that investors trust with real money for both mobile and web applications.\n\n**Core Responsibilities:**\n* Lead end-to-end design for complex, data-dense workflows across mobile and web.\n* Contribute to and maintain a cross-platform design system.\n* Conduct usability research to validate assumptions.\n* Partner closely with Product and Engineering within the SDLC.\n* Set the standard for design craft and mentor other designers.\n* Own the thinking and visual execution of design solutions.\n* Translate product requirements into trusted interfaces for financial applications.\n\n**Required Skills & Experience:**\n* 5–8 years of product design experience spanning both mobile and web, with a proven track record designing software interfaces, ideally for SaaS or B2B applications.\n* A strong portfolio demonstrating shipped, data-dense product work—dashboards, complex tables, financial or analytical tooling—that shows process and a user-centered approach.\n* Expert-level Claude Design fluency—components, variants, tokens, auto-layout, responsive design, and handoff—and comfort walking through a recent file.\n* Experience leading end-to-end design for complex, data-dense workflows.\n* Experience contributing to and helping maintain cross-platform design systems.\n* Experience running usability research that validates assumptions.\n* Ability to partner closely with Product and Engineering inside an SDLC.\n\n**Nice to Have:**\n* Proptech, real estate, fintech, geospatial, or SaaS data-product design experience.\n* Demonstrated use of LLM/AI tools across documentation, QA, research synthesis, and handoff with measurable velocity and quality outcomes.\n* Front-end fluency (HTML/CSS, React, React Native, or Tailwind) sufficient to prototype for web and mobile and speak engineering's language.\n* Experience designing regulated or high-trust financial workflows.\n* Familiarity with Scrum ceremonies and working inside a defined SDLC.",
+      "keywords": [
+        {
+          "keyword": "Data-dense workflows",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael specializes in complex data systems and data-heavy interfaces."
+        },
+        {
+          "keyword": "SaaS",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael's primary expertise is B2B SaaS."
+        },
+        {
+          "keyword": "B2B applications",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael specializes in complex B2B SaaS products."
+        },
+        {
+          "keyword": "Design system",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael has experience establishing and scaling design systems."
+        },
+        {
+          "keyword": "Usability research",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael lists User Research as a design practice."
+        },
+        {
+          "keyword": "Mobile and web design",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael has experience across platforms."
+        },
+        {
+          "keyword": "Dashboards",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael has designed revenue tracking and reporting interfaces."
+        },
+        {
+          "keyword": "Financial tooling",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael has FinTech adjacent experience with payment reconciliation."
+        },
+        {
+          "keyword": "Proptech",
+          "inProfile": false,
+          "relevance": "preferred",
+          "note": "New industry, but related to data-dense workflows."
+        },
+        {
+          "keyword": "Fintech",
+          "inProfile": true,
+          "relevance": "preferred",
+          "note": "Directly aligns with Michael's experience."
+        },
+        {
+          "keyword": "AI tools",
+          "inProfile": true,
+          "relevance": "preferred",
+          "note": "Michael uses AI tools in his workflow."
+        },
+        {
+          "keyword": "High-trust financial workflows",
+          "inProfile": true,
+          "relevance": "preferred",
+          "note": "Strong alignment with Michael's focus on clarity and trust in high-stakes problem spaces."
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-09-06T21:21:26.554Z",
+      "isNew": true
+    },
+    {
+      "id": "job-1eyhdv",
+      "title": "Senior Product Designer",
+      "company": "HopSkipDrive",
+      "companyDomain": "hopskipdrive.com",
+      "industry": "Marketplace, AI, Transportation, Platform",
+      "location": "Remote (U.S. Only)",
+      "postedAt": "2026-09-06",
+      "fitScore": 9,
+      "fitTier": "Strong Fit",
+      "fitExplanation": "This remote role offers a significant opportunity for Michael to lead strategic product design initiatives and define UX patterns, which aligns with his experience shaping design strategy at an org level. The emphasis on AI tools for discovery/research, designing AI-powered features, and driving measurable customer impact resonates with Michael's recent use of AI tools and his focus on measured outcomes. His experience in marketplace infrastructure and self-serve flows (like onboarding enterprise sellers) is highly relevant to HopSkipDrive's platform nature. The role's focus on design systems and mentoring also aligns perfectly with Michael's leadership and craft focus.",
+      "source": "RemoteRocketship.com",
+      "applyUrl": "N/A",
+      "jobDescription": "The Senior Product Designer will lead strategic product design initiatives across HopSkipDrive's product portfolio. Key responsibilities include defining UX patterns, ensuring consistency across products, developing and implementing scalable design systems, conducting strategic design research, and synthesizing findings into actionable insights. The role also involves evaluating design problems for AI-powered solutions, designing AI-powered features with interaction patterns, error states, and edge cases. This designer will mentor other designers, facilitate design workshops and critiques, communicate design rationale to executive stakeholders, and own design outcomes for significant product areas, measuring success using business and user metrics.\n\n**Core Responsibilities:**\n* Lead strategic product design initiatives across the product portfolio.\n* Define UX patterns and ensure consistency across products.\n* Develop and implement scalable design systems and components.\n* Conduct strategic design research and synthesize findings into actionable insights, utilizing AI tools.\n* Evaluate design problems for AI-powered solutions and design AI-powered features.\n* Mentor designers and facilitate design workshops and critiques.\n* Communicate design rationale to executive stakeholders and cross-functional teams.\n* Own design outcomes for significant product areas and define/measure success using metrics.\n* Drive measurable customer impact through AI experiences.\n\n**Requirements:**\n* Lead strategic product design initiatives across HopSkipDrive's product portfolio.\n* Define UX patterns and ensure consistency across products.\n* Develop and implement scalable design systems and components.\n* Conduct strategic design research and synthesize findings into actionable insights.\n* Use AI tools to accelerate discovery and research synthesis.\n* Evaluate design problems for AI-powered solutions.\n* Design AI-powered features with interaction patterns, error states, and edge cases.\n* Mentor designers and facilitate design workshops and critiques.\n* Communicate design rationale to executive stakeholders and cross-functional teams.\n* Facilitate workshops and present design strategy and vision to senior stakeholders.\n* Own design outcomes for significant product areas.\n* Define and measure success using business and user metrics.\n* Drive measurable customer impact through AI experiences.",
+      "salary": "$135k - $163k",
+      "keywords": [
+        {
+          "keyword": "Strategic product design initiatives",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael has experience shaping design strategy at the team and org level."
+        },
+        {
+          "keyword": "UX patterns",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael focuses on intentional visual hierarchy and rigorous systems thinking."
+        },
+        {
+          "keyword": "Scalable design systems",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael has established and scaled design systems."
+        },
+        {
+          "keyword": "Strategic design research",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael lists User Research as a design practice."
+        },
+        {
+          "keyword": "AI tools",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael uses Figma Make and Cursor to accelerate discovery/prototyping."
+        },
+        {
+          "keyword": "AI-powered features",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Directly aligns with Michael's experience using AI tools."
+        },
+        {
+          "keyword": "Mentor designers",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael has managed and mentored designers."
+        },
+        {
+          "keyword": "Communicate design rationale",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael operates across the full design lifecycle, including stakeholder alignment."
+        },
+        {
+          "keyword": "Own design outcomes",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael focuses on measured outcomes and has significant impact metrics."
+        },
+        {
+          "keyword": "Marketplace infrastructure",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "HopSkipDrive's platform model aligns with Michael's experience."
+        },
+        {
+          "keyword": "Product-led onboarding",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael enabled self-serve onboarding for 500+ enterprise sellers."
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-09-06T21:21:26.554Z",
+      "isNew": true
+    },
+    {
+      "id": "job-9v04a0",
+      "title": "Lead Product Designer",
+      "specialty": "Growth (Upper Funnel)",
+      "company": "Mural",
+      "companyDomain": "mural.co",
+      "industry": "SaaS, Productivity Tools, Collaboration Software, Product-Led Growth",
+      "location": "Remote (U.S. Only)",
+      "postedAt": "2026-09-05",
+      "fitScore": 9,
+      "fitTier": "Strong Fit",
+      "fitExplanation": "This Lead Product Designer role at Mural, a remote B2B SaaS company, is an excellent match for Michael. His 10+ years of experience, including leading roles, align with the 'Lead' title and player-coach responsibilities. Michael's proven ability to increase user sign-up conversion and simplify deal-booking flows directly translates to the role's focus on upper-funnel growth, activation, and monetization. His expertise in design systems, visual craft, data-driven design, and cross-functional collaboration are all critical requirements. The management responsibility for 1-3 designers also aligns with his experience mentoring a team.",
+      "source": "Jobicy",
+      "applyUrl": "N/A",
+      "jobDescription": "Mural is seeking a Lead Product Designer to own upper-funnel growth experiences encompassing discovery, activation, pricing, upgrades, and lifecycle touchpoints. This player-coach role combines end-to-end UX and visual design with management responsibility for one to three designers. The successful candidate will leverage behavioral data, funnel metrics, and experiments to enhance conversion while maintaining user trust and product quality. This role demands deep SaaS or product-led-growth experience, strong systems thinking, polished interaction design, and effective partnership with product, engineering, research, and data science teams.\n\n**Core Responsibilities:**\n* Own upper-funnel growth experiences including discovery, activation, pricing, upgrades, and lifecycle touchpoints.\n* Define high-quality, user-centered discovery, activation, and monetization experiences.\n* Work from concept to production, delivering thoughtful UX, polished visual design, and vibe-coded prototypes.\n* Use behavioral data as a primary design input to interpret funnel metrics, experiment results, and user signals.\n* Combine individual contributor design work with management responsibility for 1-3 designers.\n* Collaborate effectively with product, engineering, research, and data science.\n* Balance commercial conversion goals against long-term customer trust and product quality.\n\n**Requirements:**\n* 8+ years of product design experience, ideally in SaaS, productivity tools, collaboration software, or product-led growth environments.\n* A track record of leading growth, monetization, or conversion-focused design work.\n* Deep fluency in funnel thinking: understanding acquisition, activation, retention, and expansion as a connected system.\n* Strong data instincts: ability to read behavioral data, interpret experiment results, and use them to sharpen design decisions.\n* Exceptional craft: visual clarity, spacing, motion, and interaction polish are second nature.\n* Comfort working in fast-moving, experiment-driven environments with frequent iteration and learning.\n* Experience designing in-product discovery, onboarding, sign-up, or activation flows.\n* Ability to design within systems, understanding how decisions cascade across surfaces and journeys.",
+      "salary": "$169,435 - $211,794",
+      "keywords": [
+        {
+          "keyword": "SaaS",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael's primary expertise is B2B SaaS."
+        },
+        {
+          "keyword": "Product-led growth",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael has experience with product-led onboarding and conversion."
+        },
+        {
+          "keyword": "Growth, monetization, conversion-focused design",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael has significant impact metrics related to conversion and value increase."
+        },
+        {
+          "keyword": "Funnel thinking",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael's experience with user sign-up conversion and onboarding flows demonstrates this."
+        },
+        {
+          "keyword": "Behavioral data",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael uses Amplitude and Pendo, indicating data literacy."
+        },
+        {
+          "keyword": "Exceptional craft",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "A core aspect of Michael's design philosophy and background."
+        },
+        {
+          "keyword": "Design systems",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael has established and scaled design systems."
+        },
+        {
+          "keyword": "Interaction polish",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Key aspect of Michael's visual craft and tactile interaction design."
+        },
+        {
+          "keyword": "Onboarding, sign-up, activation flows",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael has directly worked on improving sign-up conversion and self-serve onboarding."
+        },
+        {
+          "keyword": "Management responsibility (1-3 designers)",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael managed and mentored a team of 3 designers at Infragistics."
+        },
+        {
+          "keyword": "Cross-functional collaboration",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael is embedded with product and engineering."
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-09-06T21:21:26.554Z",
+      "isNew": true
+    },
+    {
+      "id": "job-lbv17b",
+      "title": "Sr. Product Designer",
+      "company": "Insense",
+      "companyDomain": "insense.pro",
+      "industry": "B2B SaaS",
+      "location": "Remote (U.S. Only)",
+      "postedAt": "2026-09-06",
+      "fitScore": 8,
+      "fitTier": "Good Fit",
+      "fitExplanation": "This remote B2B SaaS role at Insense aligns well with Michael's core expertise in complex B2B SaaS products and workflow-heavy design. His experience working within established design systems, strong interaction and visual design skills, and comfort owning projects independently are all direct matches. While the role is a 6-month contract, the core requirements and Michael's skills are highly synergistic. His background in user research and ability to hand off designs efficiently further strengthen this fit.",
+      "source": "Himalayas",
+      "applyUrl": "N/A",
+      "jobDescription": "Insense is seeking a Sr. Product Designer to focus on complex B2B SaaS products. This role requires a portfolio showcasing workflow-heavy products rather than marketing websites. The designer will work within an established design system, demonstrating strong interaction and visual design skills. They should be comfortable owning projects independently in a remote/distributed team, possess clear written communication and documentation skills, and have experience handing off designs to engineering and conducting usability testing. The position is for a 6-month contract.\n\n**Core Responsibilities:**\n* Design complex B2B SaaS products, focusing on workflow-heavy experiences.\n* Work within and contribute to an established design system.\n* Apply strong interaction and visual design skills.\n* Own projects independently in a remote/distributed team setting.\n* Communicate design decisions clearly through written documentation.\n* Hand off designs to engineering for implementation.\n* Conduct usability testing to inform design iterations.\n\n**Requirements:**\n* 5+ years of Product Design experience.\n* Experience designing complex B2B SaaS products.\n* Portfolio showcasing workflow-heavy products rather than marketing websites.\n* Experience working within an established design system.\n* Strong interaction and visual design skills.\n* Comfortable owning projects independently in a remote/distributed team.\n* Clear written communication and documentation skills.\n* Experience handing off designs to engineering.\n* Experience conducting usability testing.",
+      "keywords": [
+        {
+          "keyword": "Complex B2B SaaS products",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael's core specialization."
+        },
+        {
+          "keyword": "Workflow-heavy products",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael specializes in complex workflows, transactional flows, and seller tools."
+        },
+        {
+          "keyword": "Established design system",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael has extensive experience establishing and scaling design systems."
+        },
+        {
+          "keyword": "Strong interaction and visual design skills",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "A cornerstone of Michael's design philosophy and background."
+        },
+        {
+          "keyword": "Owning projects independently",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael operates effectively across the full design lifecycle, from 0-to-1."
+        },
+        {
+          "keyword": "Remote/distributed team",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael is open to remote work."
+        },
+        {
+          "keyword": "Clear written communication and documentation",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Essential for Michael's cross-functional collaboration and 0-to-1 work."
+        },
+        {
+          "keyword": "Handoff designs to engineering",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael's experience includes high-fidelity interactive prototyping that bridges strategy and engineering."
+        },
+        {
+          "keyword": "Usability testing",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael lists User Research as a design practice."
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-09-06T21:21:26.554Z",
+      "isNew": true
     }
   ],
-  "scannedAt": "2026-09-06T14:11:55.736Z"
+  "scannedAt": "2026-09-06T21:22:17.712Z"
 }
