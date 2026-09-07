@@ -191,94 +191,6 @@
       "isNew": false
     },
     {
-      "id": "job-krzxx0",
-      "title": "Staff Product Designer",
-      "company": "Hightouch",
-      "companyDomain": "hightouch.com",
-      "industry": "B2B SaaS, Cloud Infrastructure, Developer Tools",
-      "location": "Remote (United States)",
-      "postedAt": "Pending Confirmation",
-      "fitScore": 9,
-      "fitTier": "Strong Fit",
-      "fitExplanation": "This role is an excellent match for Michael's expertise. As a Staff Product Designer focusing on AI Creative Tools, it aligns perfectly with his experience in complex B2B SaaS, data-heavy interfaces, and his proven track record of leveraging AI tools in his design process (Figma Make, Cursor). The remote US location is a strong preference, and Hightouch's Series E funding indicates the desired company stage. The emphasis on data platforms and AI tools directly correlates with Michael's background in multi-cloud transactional platforms and complex data systems.",
-      "source": "Hightouch Careers Page (implied)",
-      "applyUrl": "N/A",
-      "isOffLinkedIn": false,
-      "jobDescription": "Hightouch is seeking a Staff Product Designer to drive the design vision for their AI Creative Tools platform. This role involves designing sophisticated data-driven experiences that enable businesses to leverage AI for marketing and customer engagement. Responsibilities include owning the end-to-end design process, from discovery and user research to prototyping and high-fidelity execution. The ideal candidate will work closely with product managers, engineers, and AI specialists to translate complex technical capabilities into intuitive and powerful user interfaces. They will be instrumental in evolving the platform's design system and ensuring a consistent, high-quality user experience. The role requires a strong portfolio demonstrating experience with complex B2B SaaS products and a deep understanding of data workflows.",
-      "specialty": "AI Creative Tools",
-      "keywords": [
-        {
-          "keyword": "B2B SaaS",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Direct match with industry focus"
-        },
-        {
-          "keyword": "AI Tools",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Candidate actively uses Figma Make, Cursor"
-        },
-        {
-          "keyword": "Complex Data Systems",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Strong experience in data-heavy interfaces"
-        },
-        {
-          "keyword": "Product Design",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Core competency"
-        },
-        {
-          "keyword": "Remote",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Preferred work arrangement"
-        },
-        {
-          "keyword": "Staff Product Designer",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Targeted role level"
-        },
-        {
-          "keyword": "Design Systems",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Extensive experience establishing design systems"
-        },
-        {
-          "keyword": "User Research",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Experience conducting user research and discovery"
-        },
-        {
-          "keyword": "Prototyping",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Proficient in high-fidelity prototyping (Figma)"
-        },
-        {
-          "keyword": "Cloud Infrastructure",
-          "inProfile": true,
-          "relevance": "preferred",
-          "note": "Experience with multi-cloud platforms at Tackle.io"
-        },
-        {
-          "keyword": "Enterprise Software",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Specialization in complex enterprise products"
-        }
-      ],
-      "status": "New",
-      "scannedAt": "2026-08-24T19:44:58.919Z",
-      "isNew": false
-    },
-    {
       "id": "job-xfi4f7",
       "title": "Staff Product Designer",
       "company": "Okta (Auth0)",
@@ -3138,7 +3050,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-09-06T21:21:26.554Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-duqabb",
@@ -3230,7 +3142,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-09-06T21:21:26.554Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-1eyhdv",
@@ -3317,7 +3229,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-09-06T21:21:26.554Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-9v04a0",
@@ -3405,7 +3317,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-09-06T21:21:26.554Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-lbv17b",
@@ -3479,8 +3391,96 @@
       ],
       "status": "New",
       "scannedAt": "2026-09-06T21:21:26.554Z",
+      "isNew": false
+    },
+    {
+      "id": "job-pu9cym",
+      "title": "Lead Product Designer",
+      "company": "Financial Organization (via Motion Recruitment Partners, LLC)",
+      "companyDomain": "N/A",
+      "industry": "Fintech, Enterprise Software",
+      "location": "NYC Hybrid",
+      "postedAt": "2026-09-07",
+      "fitScore": 9,
+      "fitTier": "Strong Fit",
+      "fitExplanation": "Michael's extensive experience (10+ years) in complex B2B SaaS, particularly with transactional platforms, revenue operations, and complex data systems, aligns exceptionally well with this role. His background in designing end-to-end workflows, simplifying intricate systems, and strong visual craft is directly applicable to creating intuitive operational workflows for a financial organization. The role's emphasis on strategic decision-making, thriving in ambiguity, and leveraging AI tools directly matches his profile. While hybrid in NYC, it fits his location preferences, with a slight adjustment for the hybrid deduction.",
+      "source": "Dice.com (Motion Recruitment Partners, LLC)",
+      "applyUrl": "N/A",
+      "isOffLinkedIn": true,
+      "jobDescription": "This Lead Product Designer (contract-to-hire) role is situated within a large non-bank lender in the United States, which is undergoing a substantial enterprise transformation focused on modernizing its core lending platforms. The individual will be responsible for the complete user experience design of complex, end-to-end operational workflows for internal users across various stages of the loan lifecycle. This involves collaborating closely with product managers, engineers, and business leaders to transform highly integrated systems into intuitive digital experiences for loan specialists, underwriters, and compliance teams. The position requires an autonomous, product-minded leader who can navigate ambiguity and contribute strategically to product direction rather than simply executing predefined requirements. A strong emphasis is placed on systems thinking, robust portfolio demonstrating end-to-end product ownership, and an openness to utilizing AI-powered design tools.\n\nCore Responsibilities:\n* Own the end-to-end design of complex operational workflows for internal users within the loan lifecycle.\n* Partner closely with product managers, engineers, and business leaders to translate integrated systems into intuitive designs.\n* Take a strategic approach to define requirements and influence product direction within an ambiguous environment.\n* Ensure designs facilitate highly efficient digital experiences for various internal teams (e.g., loan specialists, underwriters, compliance).\n\nKey Requirements:\n* 7+ years of experience in UX or Product Design, with a proven background in complex enterprise applications, SaaS platforms, fintech, or internal workflow systems.\n* A comprehensive portfolio showcasing deep system architecture understanding, end-to-end product thinking, and clear ownership of major design decisions.\n* Exceptional systems thinking skills to address dense business workflow problems.\n* Strong executive presence and communication skills to influence senior leadership and cross-functional stakeholders.\n* A strategic mindset, demonstrating the ability to independently define requirements and link design decisions to measurable business outcomes.\n* Curiosity and openness to leveraging AI-powered tools to enhance design processes and team workflows.",
+      "specialty": "Fintech / Enterprise Transformation",
+      "keywords": [
+        {
+          "keyword": "complex enterprise applications",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael has 10+ years in complex B2B SaaS, which includes enterprise applications."
+        },
+        {
+          "keyword": "SaaS platforms",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Explicitly mentioned in Michael's summary and experience."
+        },
+        {
+          "keyword": "fintech",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Deep context in finance and fintech adjacent, payment reconciliation, transactional flows."
+        },
+        {
+          "keyword": "internal workflow systems",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Matches Michael's experience with seller workflows, transactional flows, and payment reconciliation at Tackle.io."
+        },
+        {
+          "keyword": "system architecture understanding",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael emphasizes rigorous systems thinking and design systems in his philosophy and experience."
+        },
+        {
+          "keyword": "end-to-end product thinking",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael operates across the full design lifecycle from 0-to-1 discovery to shipped product and measured outcomes."
+        },
+        {
+          "keyword": "systems thinking",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "A core part of Michael's design philosophy and expertise."
+        },
+        {
+          "keyword": "0-to-1",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael thrives in ambiguous 0-to-1 problem spaces, matching the strategic and shaping aspects of this role."
+        },
+        {
+          "keyword": "cross-functional collaboration",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael consistently works closely with product managers, engineering leads, and executives."
+        },
+        {
+          "keyword": "AI tools",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael uses AI tools (Figma Make, Cursor) to accelerate discovery and prototyping."
+        },
+        {
+          "keyword": "Figma",
+          "inProfile": true,
+          "relevance": "preferred",
+          "note": "Primary tool used by Michael."
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-09-07T22:01:17.788Z",
       "isNew": true
     }
   ],
-  "scannedAt": "2026-09-06T21:22:17.712Z"
+  "scannedAt": "2026-09-07T22:01:59.274Z"
 }
