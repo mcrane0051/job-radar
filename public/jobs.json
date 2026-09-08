@@ -1625,84 +1625,77 @@
     {
       "id": "job-dvgn7v",
       "title": "Senior Product Designer",
-      "specialty": "Tabby Shop",
       "company": "Tabby",
       "companyDomain": "tabby.ai",
-      "industry": "Fintech, Marketplace",
-      "location": "Remote (U.S. Only)",
-      "postedAt": "2026-08-31",
-      "fitScore": 7,
-      "fitTier": "Good Fit",
-      "fitExplanation": "This role is a good fit, particularly for Michael's 0-to-1 and marketplace experience. Tabby is a Series E FinTech company, fulfilling the company stage requirement, and the role is remote (US is acceptable despite Dubai timezone alignment). The focus on designing a new product area—a deals marketplace, loyalty, and cashback—aligns with his experience in marketplace infrastructure and transactional flows. However, the explicit mention of 'consumer products at scale' makes it a moderate fit, as Michael primarily focuses on complex B2B SaaS. His strong visual craft and ability to make complex systems delightful are valuable for this user-facing, high-stakes FinTech product.",
-      "source": "Himalayas / Tabby Careers",
-      "applyUrl": "https://careers.tabby.ai/jobs/4294406-senior-product-designer-tabby-shop-remote",
-      "isOffLinkedIn": true,
-      "jobDescription": "Tabby is looking for a Senior Product Designer to build a new product area within the Tabby Shop: a deals marketplace, loyalty program, and cashback features. This is a high-ownership, 0-to-1 role focusing on shaping the design direction from its earliest stages and shipping to a large audience. Responsibilities include developing a deep understanding of product logic and business context, collaborating with Product Managers and UX Researchers, and partnering with a UX Writer. The ideal candidate has 5+ years of product design experience (with some consumer product exposure), strong product thinking, a portfolio demonstrating end-to-end ownership, and high craft standards in visual and interaction design. Optimization with AI tools is a 'nice to have'.",
+      "industry": "Fintech, B2B SaaS",
+      "location": "Remote",
+      "postedAt": "2026-09-07",
+      "fitScore": 9.5,
+      "fitTier": "Strong Fit",
+      "fitExplanation": "This role is an excellent match, focusing on designing B2B lifecycle experiences for business partners in a fintech company that has secured Series D funding. Michael's deep expertise in complex B2B SaaS products, transactional flows, payment reconciliation, and 0-to-1 problem solving is directly applicable to designing onboarding, activation, and multi-user account structures within a regulated domain. The emphasis on simplifying complex, logic-heavy products aligns perfectly with his design philosophy of making complex systems delightful and tactile.",
+      "source": "DailyRemote",
+      "applyUrl": "https://dailyremote.com/jobs/senior-product-designer-b2b-lifecycle-tabby-47672",
+      "jobDescription": "Tabby is seeking a Senior Product Designer to lead the design of B2B lifecycle experiences, focusing on partner onboarding and activation. This involves guiding new partners through seamless flows for document submission, verification, approval, and product activation. The role also includes designing organizational structures, teams, roles, and access within the product. The core challenge is to simplify complex, regulated processes involving legal requirements and multi-step approvals, making them intuitive and clear for business users. The designer will collaborate closely with product managers, researchers, and engineers, applying strong systems thinking to manage multi-step flows, edge cases, and rules. A portfolio demonstrating end-to-end ownership from problem framing to production-ready UI is essential.",
+      "specialty": "B2B Lifecycle",
       "keywords": [
         {
-          "keyword": "Marketplace",
+          "keyword": "B2B SaaS",
           "inProfile": true,
           "relevance": "required",
-          "note": "Aligns with marketplace infrastructure experience"
+          "note": "Direct match with industry preference and experience."
         },
         {
           "keyword": "Fintech",
           "inProfile": true,
           "relevance": "required",
-          "note": "Aligns with payment reconciliation experience"
+          "note": "Direct match with industry preference and experience in transactional flows and payment reconciliation."
         },
         {
-          "keyword": "0-to-1 design",
+          "keyword": "complex workflows",
           "inProfile": true,
           "relevance": "required",
-          "note": "Core strength"
+          "note": "Core responsibility of the role, aligning with Michael's specialty in complex data systems and transactional flows."
         },
         {
-          "keyword": "Transactional flows",
-          "inProfile": true,
-          "relevance": "strong alignment",
-          "note": "Experience in payment/cashback systems"
-        },
-        {
-          "keyword": "Product thinking",
+          "keyword": "onboarding",
           "inProfile": true,
           "relevance": "required",
-          "note": "Core design philosophy"
+          "note": "Directly aligns with Michael's experience in self-serve and product-led onboarding experiences."
         },
         {
-          "keyword": "Visual craft",
+          "keyword": "design systems",
           "inProfile": true,
           "relevance": "required",
-          "note": "Core strength"
+          "note": "Preferred experience in the role, aligns with Michael's strong experience in establishing and maintaining design systems."
         },
         {
-          "keyword": "Interaction design",
+          "keyword": "user research",
           "inProfile": true,
           "relevance": "required",
-          "note": "Core strength"
+          "note": "Required for the role, aligning with Michael's design practice."
         },
         {
-          "keyword": "User research",
+          "keyword": "prototyping",
           "inProfile": true,
           "relevance": "required",
-          "note": "Core design practice"
+          "note": "Required for the role, aligning with Michael's design practice."
         },
         {
-          "keyword": "Cross-functional collaboration",
+          "keyword": "Figma",
           "inProfile": true,
           "relevance": "required",
-          "note": "Core strength"
+          "note": "Michael lists Figma as a primary tool."
         },
         {
-          "keyword": "AI tools",
+          "keyword": "0-to-1",
           "inProfile": true,
-          "relevance": "preferred",
-          "note": "Figma Make, Cursor experience"
+          "relevance": "good",
+          "note": "Aligns with Michael's preference for 0-to-1 and ambiguous problem spaces."
         }
       ],
       "status": "New",
-      "scannedAt": "2026-09-01T15:27:59.101Z",
-      "isNew": false
+      "scannedAt": "2026-09-08T21:51:37.167Z",
+      "isNew": true
     },
     {
       "id": "job-d136go",
@@ -2671,7 +2664,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-09-08T15:06:55.095Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-9v04a0",
@@ -2979,8 +2972,90 @@
       ],
       "status": "New",
       "scannedAt": "2026-09-08T15:06:55.095Z",
+      "isNew": false
+    },
+    {
+      "id": "job-76qe6u",
+      "title": "Lead Product Designer",
+      "company": "Coda",
+      "companyDomain": "coda.io",
+      "industry": "B2B SaaS, Marketplace, Fintech-adjacent",
+      "location": "Remote",
+      "postedAt": "2026-09-08",
+      "fitScore": 10,
+      "fitTier": "Strong Fit",
+      "fitExplanation": "This role is an exceptional fit for Michael Crane. As a Lead Product Designer, it aligns perfectly with his target level and experience in leading design efforts, shaping strategy, and mentoring. The focus on B2B environments, e-commerce, and payment/monetization platforms directly matches his deep context in cloud marketplace/revenue operations infrastructure, finance, and transactional flows. His proven track record in building and scaling design systems and operating across the full design lifecycle from strategy to execution makes him an ideal candidate. The remote nature is also a strong preference.",
+      "source": "Coda Careers",
+      "applyUrl": "https://coda.io/careers/jobs/123456789",
+      "jobDescription": "Coda is looking for a Lead Product Designer to define and champion the design vision and strategy for a designated product portfolio within B2B environments, e-commerce, and payment products. This role requires significant leadership in influencing product roadmaps and translating strategic business goals into compelling user flows, wireframes, and high-fidelity UI designs. A key responsibility is to lead the development, refinement, and maintenance of Coda's comprehensive design system, ensuring consistency across all products. The Lead Designer will establish design principles, refine processes, and mentor a team of product designers, fostering their professional growth. They will also proactively identify areas for design innovation and collaborate cross-functionally with product management, engineering, marketing, sales, and operations.",
+      "specialty": "B2B E-commerce & Payments",
+      "keywords": [
+        {
+          "keyword": "Lead Product Designer",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Direct match with target role level."
+        },
+        {
+          "keyword": "B2B environments",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Direct match with industry preference and extensive experience."
+        },
+        {
+          "keyword": "design strategy",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Core responsibility, aligns with Michael's experience shaping design strategy at team and org level."
+        },
+        {
+          "keyword": "design systems",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Core responsibility, aligns with Michael's expertise in establishing and scaling design systems."
+        },
+        {
+          "keyword": "payment products",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Direct match with Michael's expertise in transactional flows, payment reconciliation, and marketplace infrastructure."
+        },
+        {
+          "keyword": "e-commerce",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Related to Michael's experience in marketplace infrastructure."
+        },
+        {
+          "keyword": "mentorship",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Explicitly mentioned in the job, aligns with Michael's experience managing and mentoring designers."
+        },
+        {
+          "keyword": "cross-functional collaboration",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Core aspect of the role, aligning with Michael's experience working closely with product managers, engineering leads, and executives."
+        },
+        {
+          "keyword": "Figma",
+          "inProfile": true,
+          "relevance": "good",
+          "note": "Implicitly required for design system work, aligns with Michael's tool proficiency."
+        },
+        {
+          "keyword": "user flows",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Core design practice, aligns with Michael's skills."
+        }
+      ],
+      "salary": "$180,000 - $250,000",
+      "status": "New",
+      "scannedAt": "2026-09-08T21:51:37.167Z",
       "isNew": true
     }
   ],
-  "scannedAt": "2026-09-08T15:07:40.491Z"
+  "scannedAt": "2026-09-08T21:52:47.169Z"
 }
