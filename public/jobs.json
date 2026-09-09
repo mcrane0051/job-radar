@@ -1695,7 +1695,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-09-08T21:51:37.167Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-d136go",
@@ -3054,8 +3054,71 @@
       "salary": "$180,000 - $250,000",
       "status": "New",
       "scannedAt": "2026-09-08T21:51:37.167Z",
+      "isNew": false
+    },
+    {
+      "id": "job-9pajak",
+      "title": "Lead Product Designer",
+      "company": "Cisco",
+      "companyDomain": "cisco.com",
+      "industry": "Cloud Infrastructure, Developer Tools, Enterprise Software, AI/ML",
+      "location": "Remote (USA)",
+      "postedAt": "2026-09-08",
+      "fitScore": 10,
+      "fitTier": "Strong Fit",
+      "fitExplanation": "This role is an excellent match for Michael's profile, particularly his expertise in complex B2B SaaS, cloud infrastructure, and the design of intricate platforms. The emphasis on AI-integrated workflows and generative UI aligns perfectly with Michael's experience using AI tools and his desire to work in ambiguous 0-to-1 problem spaces that require creating structure. The focus on unifying fragmented platform experiences and building scalable design systems directly maps to his proven skills in design systems and bringing clarity to complex systems. Cisco, being a large established company, far exceeds the Series C minimum company stage. The remote (USA) location is also a strong preference for Michael.",
+      "source": "Jobgether (Aggregator - refer to company career page for direct application)",
+      "applyUrl": "N/A",
+      "jobDescription": "The Lead Product Designer for AI and Platform Experience at Cisco will be instrumental in defining and delivering the foundational user experience for Cisco Cloud Control, an enterprise platform that unifies Cisco's security, networking, and AI product lines. This role involves leading the design across the entire product lifecycle, from strategic visioning and prototyping to the detailed execution of pixel-perfect designs. A key responsibility will be to shape AI-integrated, agentic, and generative UI workflows, focusing on consistency, usability, and building user trust across the ecosystem. The designer will collaborate closely with product managers, engineers, and researchers to align priorities, influence roadmaps, and ensure cohesive end-to-end journeys. Additionally, the role requires advancing AI-assisted design and prototyping workflows to accelerate concept exploration and creation of interactive prototypes.\n\nKey Responsibilities:\n*   Lead the end-to-end design for core platform experiences, especially for Cisco Cloud Control.\n*   Define and execute the vision for AI-integrated and generative UI workflows.\n*   Collaborate deeply with Product, Engineering, and Research teams to align on strategy and deliver cohesive user experiences.\n*   Design and evolve platform frameworks and patterns that ensure unity across multiple Cisco products.\n*   Utilize and advance AI-assisted design and prototyping methods to accelerate design exploration and development.\n\nRequirements:\n*   Experience in designing platform experiences within complex enterprise environments.\n*   Strong background in systems thinking and visual craft to create scalable and consistent designs.\n*   Proficiency in designing for AI-powered, agentic, and generative UI workflows.\n*   Demonstrated ability to work from strategy and prototyping through to pixel-level detail.\n*   Cross-functional collaboration skills with product, engineering, and research partners.",
+      "specialty": "AI and Platform Experience",
+      "keywords": [
+        {
+          "keyword": "Complex B2B SaaS product design",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Directly aligns with platform design and AI integration in an enterprise context."
+        },
+        {
+          "keyword": "0-to-1 and ambiguous problem spaces",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Role involves defining foundational experiences and strategy from the ground up."
+        },
+        {
+          "keyword": "Cloud marketplace / revenue operations infrastructure",
+          "inProfile": true,
+          "relevance": "highly relevant",
+          "note": "Involves designing for a multi-product cloud control platform, similar to Michael's expertise."
+        },
+        {
+          "keyword": "Design systems and consistency at scale",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Emphasis on evolving platform frameworks and patterns for unified experiences."
+        },
+        {
+          "keyword": "AI tools (Figma Make, Cursor)",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Directly matches Michael's explicit experience and the job's focus on AI-assisted workflows."
+        },
+        {
+          "keyword": "Cross-functional collaboration",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Job description emphasizes deep collaboration with Product, Engineering, and Research."
+        },
+        {
+          "keyword": "Enterprise UX",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Cisco Cloud Control is an enterprise platform."
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-09-09T15:07:15.124Z",
       "isNew": true
     }
   ],
-  "scannedAt": "2026-09-08T21:52:47.169Z"
+  "scannedAt": "2026-09-09T15:07:55.402Z"
 }
