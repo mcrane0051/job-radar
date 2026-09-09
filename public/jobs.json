@@ -3117,8 +3117,186 @@
       ],
       "status": "New",
       "scannedAt": "2026-09-09T15:07:15.124Z",
+      "isNew": false
+    },
+    {
+      "id": "job-xraso7",
+      "title": "Senior Staff Product Designer",
+      "company": "Apollo GraphQL",
+      "companyDomain": "apollographql.com",
+      "industry": "Developer Tools",
+      "location": "Remote (U.S. Only)",
+      "postedAt": "2026-09-09",
+      "fitScore": 9,
+      "fitTier": "Strong Fit",
+      "fitExplanation": "Michael's 10+ years of experience, including lead roles, aligns well with the senior staff level. His expertise in complex B2B SaaS, enterprise multi-cloud platforms, and developer tools strongly matches the role's focus on technically complex products for technical users (developer tools, infrastructure, data, APIs). His strong visual design and craft skills, experience with design systems, and ability to operate independently in ambiguous problem spaces are explicitly called out requirements. Michael's experience with AI tools is also a nice-to-have mentioned. The company stage (well beyond Series C) and remote nature are ideal.",
+      "source": "Remotivated / Remotive",
+      "applyUrl": "N/A",
+      "isOffLinkedIn": true,
+      "jobDescription": "• Lead design efforts to create maximum value, focusing on core developer experiences, API tools, onboarding, design systems, and AI agent interfaces.\n• Identify high-leverage problems independently and develop end-to-end solutions from concept to delivery.\n• Collaborate as a peer with engineering, bringing a distinct perspective on product development.\n• Establish design and craft standards, contributing patterns to the design system to enhance team efficiency.\n• Connect design outcomes directly to measurable business metrics like developer activation and support costs.\n• Required: 12+ years designing software with a strong portfolio of shipped work.\n• Required: Experience designing technically complex products for technical users (developer tools, infrastructure, data, security, identity, or APIs).\n• Required: Proven ability to identify high-leverage problems and design comprehensive solutions.\n• Required: Strong visual design and craft skills.\n• Required: Ability to operate independently and transform ambiguous problems into a clear vision.\n• Required: Track record of driving own work and proactively building alignment with engineering.\n• Nice to have: Experience shipping developer-focused experiences, API tooling, or agent experiences.\n• Nice to have: Engineering or developer background.\n• Nice to have: Comfortable moving between high-level thinking and interaction/craft details.\n• Nice to have: Fluency with design systems and knowing when to work outside them.\n• Nice to have: Avid user of AI design tools.",
+      "specialty": "Developer Experience, API Tools",
+      "salary": "",
+      "keywords": [
+        {
+          "keyword": "12+ years designing software",
+          "inProfile": false,
+          "relevance": "required",
+          "note": "Michael has 10+ years, close to this requirement and has lead experience."
+        },
+        {
+          "keyword": "technically complex products",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Strong match with B2B SaaS, enterprise, multi-cloud, marketplace."
+        },
+        {
+          "keyword": "developer tools",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Strong match with Michael's experience and interest."
+        },
+        {
+          "keyword": "infrastructure",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Strong match with cloud infrastructure and marketplace infrastructure."
+        },
+        {
+          "keyword": "data",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Strong match with complex data systems."
+        },
+        {
+          "keyword": "APIs",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael works with multi-cloud transactional platform (AWS, Azure, GCP marketplace transactions)."
+        },
+        {
+          "keyword": "identifying high-leverage problems",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael operates effectively across full design lifecycle, ambiguous 0-to-1 discovery."
+        },
+        {
+          "keyword": "designing end-to-end solutions",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael operates effectively across full design lifecycle."
+        },
+        {
+          "keyword": "strong visual design and craft skills",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael's foundation is in visual systems, unusually strong visual eye."
+        },
+        {
+          "keyword": "operating independently",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael thrives in ambiguous 0-to-1 spaces, where structure needs to be created."
+        },
+        {
+          "keyword": "design system",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael established a scalable design system."
+        },
+        {
+          "keyword": "AI design tools",
+          "inProfile": true,
+          "relevance": "good to have",
+          "note": "Michael uses AI tools (Figma Make, Cursor)."
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-09-09T21:42:08.782Z",
+      "isNew": true
+    },
+    {
+      "id": "job-vdptn7",
+      "title": "Staff Product Designer",
+      "company": "Coinbase",
+      "companyDomain": "coinbase.com",
+      "industry": "FinTech",
+      "location": "Remote (U.S. Only)",
+      "postedAt": "2026-09-08",
+      "fitScore": 9,
+      "fitTier": "Strong Fit",
+      "fitExplanation": "Michael's 10+ years of experience is well over the 7+ years required for this staff-level role. His FinTech adjacent experience, particularly with payment reconciliation and transactional flows, aligns perfectly with Coinbase's domain. The role's focus on shipping end-to-end design across customer-facing and operator-facing (agent/internal tooling) surfaces directly matches Michael's work on enterprise multi-cloud transactional platforms and revenue operations tools. His mastery of visual design, interaction design, design systems, and experience with AI tools (conversational UI, AI-powered interfaces) are all strong fits. The company is well-established, and the role is fully remote within the U.S.",
+      "source": "Coinbase Careers",
+      "applyUrl": "https://careers.coinbase.com/positions/staff-product-designer-experience-engagement-remote-usa",
+      "isOffLinkedIn": true,
+      "jobDescription": "• Define the design vision and execution across the entire customer experience product surface, including Help Center, Chatbot, Voicebot, and the in-app Concierge support experience.\n• Drive concepts for MVPs and future AI-powered support features, encompassing self-service, conversational interfaces, and escalation paths.\n• Lead design initiatives for the premium Concierge support product, aligning with revenue goals.\n• Collaborate with Product, Engineering, and CX Operations to base design decisions on real support data and performance metrics.\n• Develop a reusable design system pattern library for AI-powered support, ensuring consistency across platforms.\n• Engage directly with customers and support agents to generate insights that shape the support experience.\n• Required: 7+ years of Product Design experience with significant work on support, service, conversational UI, or AI-powered interfaces.\n• Required: Proven track record of shipping end-to-end product design for both customer-facing and operator-facing (agent/internal tooling) surfaces within cross-functional teams.\n• Required: Demonstrated ability to work autonomously across complex, multi-surface product ecosystems from concept through launch.\n• Required: Mastery of visual design, interaction design, and conversation flow design, with fluency in Figma and modern prototyping tools.\n• Required: Strong cross-functional communication and stakeholder management across engineering, product, operations, and executive audiences.\n• Required: Utilizes generative AI responsibly to deliver business-ready outputs.",
+      "specialty": "Experience & Engagement",
+      "salary": "$207485 - $244100",
+      "keywords": [
+        {
+          "keyword": "7+ years of Product Design experience",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael has 10+ years."
+        },
+        {
+          "keyword": "support, service, conversational UI, or AI-powered interfaces",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael uses AI tools and has experience with complex transactional flows and clarity as a design challenge."
+        },
+        {
+          "keyword": "shipping end-to-end product design",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael operates across full design lifecycle from 0-to-1 to shipped product."
+        },
+        {
+          "keyword": "customer-facing and operator-facing (agent/internal tooling) surfaces",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Matches Michael's work on enterprise multi-cloud transactional platforms, revenue ops, finance, and sales teams."
+        },
+        {
+          "keyword": "work autonomously across a complex, multi-surface product ecosystem",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael thrives in ambiguous 0-to-1 spaces and complex B2B SaaS."
+        },
+        {
+          "keyword": "mastery of visual design, interaction design, and conversation flow design",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Strong match with Michael's visual craft, tactile interaction design, and focus on clarity."
+        },
+        {
+          "keyword": "fluency in Figma and modern prototyping tools",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael lists Figma and rapid prototyping as skills."
+        },
+        {
+          "keyword": "strong cross-functional communication and stakeholder management",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael works closely with PMs, engineering leads, executives."
+        },
+        {
+          "keyword": "design system pattern library",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael established a scalable design system."
+        },
+        {
+          "keyword": "Fintech",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael has deep context in FinTech adjacent areas."
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-09-09T21:42:08.782Z",
       "isNew": true
     }
   ],
-  "scannedAt": "2026-09-09T15:07:55.402Z"
+  "scannedAt": "2026-09-09T21:43:15.671Z"
 }
