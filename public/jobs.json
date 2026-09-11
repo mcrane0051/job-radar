@@ -2887,8 +2887,393 @@
       ],
       "status": "New",
       "scannedAt": "2026-09-10T21:38:26.421Z",
+      "isNew": false
+    },
+    {
+      "id": "job-g9neia",
+      "title": "Senior Product Designer I",
+      "company": "Smartsheet",
+      "companyDomain": "smartsheet.com",
+      "industry": "B2B SaaS, Enterprise Software",
+      "location": "Remote US",
+      "postedAt": "2026-09-10",
+      "fitScore": 9.5,
+      "fitTier": "Strong Fit",
+      "fitExplanation": "This role is an excellent match for Michael's profile, focusing on a Senior Product Designer role within a B2B SaaS/Enterprise environment. The emphasis on complex, scalable solutions for large organizations, design systems, and incorporating AI-assisted design aligns perfectly with Michael's experience at Tackle.io and his desire to make complex systems delightful. The company stage (publicly traded) also meets his preference.",
+      "source": "Greenhouse",
+      "applyUrl": "N/A",
+      "isOffLinkedIn": true,
+      "jobDescription": "Smartsheet is seeking a Senior Product Designer I to shape the future of their work execution platform, uniting human teams with AI agents. This role blends deep UX craft, strategic thinking, and systems-level thinking to solve enterprise challenges and drive measurable business outcomes. The designer will lead with design thinking, build robust design systems, and translate platform requirements and user insights into elegant, scalable solutions.\n\nCore Responsibilities:\n* Advocate for the needs of enterprise users, leveraging design thinking and user research.\n* Partner with research and data teams to inform design decisions and validate solutions.\n* Boost design quality and system maturity through contributions to design infrastructure and leveraging defined patterns, guides, tools, and libraries.\n* Conceptualize and create engaging, valuable, and intuitive user experiences for web and mobile applications.\n* Facilitate design activities and workshops to align on goals, outcomes, and requirements.\n\nRequirements:\n* 7+ years of experience as a Product Designer or similar role.\n* Strong visual design skills and ability to influence design quality at an organizational level.\n* Expertise in delivering complex, scalable experiences within SaaS or enterprise environments.\n* Demonstrated leadership qualities through design work, mentoring, and cross-team influence.\n* Experience with accessibility (WCAG) standards and accessible design practices.\n* Background in user research, usability testing, or user-centered design validation.\n* Experience with design systems, component libraries, or design infrastructure.\n* Familiarity with AI-assisted design tools and practices, or integrating generative workflows into design processes.",
+      "specialty": "",
+      "salary": "$155k - $220k",
+      "keywords": [
+        {
+          "keyword": "B2B SaaS",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Explicitly required"
+        },
+        {
+          "keyword": "Enterprise Products",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Explicitly required"
+        },
+        {
+          "keyword": "Complex Systems",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Explicitly required"
+        },
+        {
+          "keyword": "Design Systems",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Explicitly required"
+        },
+        {
+          "keyword": "Visual Design",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Explicitly required"
+        },
+        {
+          "keyword": "User Research",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Explicitly required"
+        },
+        {
+          "keyword": "AI-assisted design tools",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Explicitly required (Michael uses Figma Make, Cursor)"
+        },
+        {
+          "keyword": "Figma",
+          "inProfile": true,
+          "relevance": "not mentioned but implied",
+          "note": "Common tool, Michael uses it"
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-09-11T21:43:27.040Z",
+      "isNew": true
+    },
+    {
+      "id": "job-wb0tcn",
+      "title": "Senior Product Designer",
+      "company": "TMSfirst",
+      "companyDomain": "tmsfirst.com",
+      "industry": "B2B SaaS, Enterprise Software, Supply Chain, Logistics",
+      "location": "Remote US",
+      "postedAt": "2026-09-10",
+      "fitScore": 9,
+      "fitTier": "Strong Fit",
+      "fitExplanation": "This role aligns strongly with Michael's background in complex B2B SaaS product design, particularly in data-heavy interfaces and intricate workflows. His experience in cloud marketplace and revenue operations infrastructure is highly relevant to supply chain and logistics. The emphasis on AI tools and independent operation further strengthens the fit.",
+      "source": "Remote Rocketship",
+      "applyUrl": "N/A",
+      "isOffLinkedIn": true,
+      "jobDescription": "TMSfirst is seeking a Senior Product Designer to own the end-to-end design of complex enterprise products used by engineers, operators, and administrators within their transportation management system (TMS). The role involves working directly with product and engineering to define, design, test, and ship product experiences, leveraging AI tools as a core part of design and prototyping. The designer will also contribute to maturing internal design workflows and processes, and conduct user research with technically sophisticated enterprise users.\n\nCore Responsibilities:\n* Own the end-to-end design of complex enterprise products.\n* Work directly with product and engineering to define, design, test, and ship product experiences.\n* Use AI tools as a core part of design and prototyping workflows.\n* Contribute to and mature internal design workflows and processes.\n* Own design from discovery through delivery across product areas.\n* Contribute to and grow the design system.\n* Conduct user research and usability testing with technically sophisticated enterprise users.\n* Define and track design quality metrics to drive iteration.\n\nRequirements:\n* 4+ years of product design experience with a portfolio demonstrating complex enterprise B2B product work.\n* Deep experience designing data-heavy interfaces, multi-step workflows, admin tools, or developer-facing products.\n* Strong interaction design and visual design skills.\n* Hands-on experience with user research, usability testing, and measuring design outcomes.\n* Proficiency in Figma.\n* Active use of AI tools in design and prototyping workflows.\n* Ability to operate independently, drive decisions, and and move fast without waiting for direction.\n* Proven work experience as a product designer on technically complex B2B or enterprise software products.\n* Background in a growth-stage technology company, preferably in developer tools or data, infrastructure, analytics, security, or a related technical domain.",
+      "specialty": "",
+      "salary": "",
+      "keywords": [
+        {
+          "keyword": "Enterprise Products",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Explicitly required"
+        },
+        {
+          "keyword": "B2B SaaS",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Explicitly required"
+        },
+        {
+          "keyword": "Data-heavy interfaces",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Explicitly required"
+        },
+        {
+          "keyword": "Multi-step workflows",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Explicitly required"
+        },
+        {
+          "keyword": "AI tools",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Explicitly required (Michael uses Figma Make, Cursor)"
+        },
+        {
+          "keyword": "Figma",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Explicitly required"
+        },
+        {
+          "keyword": "User Research",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Explicitly required"
+        },
+        {
+          "keyword": "Design Systems",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Implicitly required by 'grow the CIQ design system'"
+        },
+        {
+          "keyword": "Visual Design",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Explicitly required"
+        },
+        {
+          "keyword": "Developer Tools",
+          "inProfile": true,
+          "relevance": "preferred",
+          "note": "Background preferred"
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-09-11T21:43:27.040Z",
+      "isNew": true
+    },
+    {
+      "id": "job-i3t2co",
+      "title": "Senior Product Designer",
+      "company": "PadSplit",
+      "companyDomain": "padsplit.com",
+      "industry": "Marketplace, Real Estate Tech",
+      "location": "Remote US",
+      "postedAt": "2026-09-11",
+      "fitScore": 9.5,
+      "fitTier": "Strong Fit",
+      "fitExplanation": "This role is an excellent fit due to its focus on a two-sided marketplace and simplifying complex workflows, which directly aligns with Michael's experience in marketplace infrastructure and complex workflow design. His expertise in user research, driving product strategy, and crafting high-quality UI will be highly valuable in this growth-focused environment.",
+      "source": "DailyRemote",
+      "applyUrl": "N/A",
+      "isOffLinkedIn": true,
+      "jobDescription": "PadSplit is hiring a Senior Product Designer to shape and improve experiences across their two-sided housing marketplace. This role involves tackling meaningful, complex problems for both members and hosts, focusing on creating intuitive, human, and scalable experiences that deliver measurable impact. The designer will lead end-to-end product design from problem definition to iteration, simplify complex marketplace dynamics, and drive product strategy through user research and experimentation.\n\nCore Responsibilities:\n* Own end-to-end product design from early problem definition through prototyping, launch, and iteration.\n* Simplify complex workflows, rules, and marketplace dynamics into clear and intuitive experiences.\n* Conduct user research (interviews, observations) to understand user needs.\n* Partner with Product Managers to identify opportunities, shape solutions, and connect customer needs with business outcomes.\n* Use data, customer feedback, and experiments to test assumptions and continuously improve experiences.\n* Collaborate cross-functionally with PMs, engineers, marketers, operations, and data partners.\n* Craft responsive, polished interfaces.\n\nRequirements:\n* 4+ years designing digital products, ideally with complex acquisition funnels or marketplace environments.\n* Deep UX skills, including strong research abilities and direct engagement with users.\n* Business fluency, connecting design decisions to metrics, revenue, and real estate economics.\n* Experience designing multi-step processes, complex service environments, and edge-case-heavy workflows.\n* Ability to thrive in complex problem spaces and move fluidly between strategy and detail.",
+      "specialty": "",
+      "salary": "",
+      "keywords": [
+        {
+          "keyword": "Marketplace",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Explicitly required (two-sided housing marketplace)"
+        },
+        {
+          "keyword": "Complex workflows",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Explicitly required"
+        },
+        {
+          "keyword": "User Research",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Explicitly required"
+        },
+        {
+          "keyword": "Product Strategy",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Explicitly required"
+        },
+        {
+          "keyword": "UI Design",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Explicitly required (craft high-quality UI)"
+        },
+        {
+          "keyword": "Prototyping",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Explicitly required"
+        },
+        {
+          "keyword": "Cross-functional collaboration",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Explicitly required"
+        },
+        {
+          "keyword": "Data-driven design",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Explicitly required"
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-09-11T21:43:27.040Z",
+      "isNew": true
+    },
+    {
+      "id": "job-4wwif9",
+      "title": "Senior Product Designer",
+      "company": "Alpaca",
+      "companyDomain": "alpaca.com",
+      "industry": "Fintech, Developer Tools, Cloud Infrastructure",
+      "location": "Remote US",
+      "postedAt": "2026-09-11",
+      "fitScore": 10,
+      "fitTier": "Strong Fit",
+      "fitExplanation": "This role is a perfect match, combining Michael's deep expertise in FinTech, transactional flows, and developer tools with the design of internal tools for complex financial operations. His experience in making complex systems clear and trustworthy, along with his comfort in ambiguous 0-to-1 problem spaces and use of AI tools, directly aligns with the job's core challenges and requirements.",
+      "source": "Remotivated",
+      "applyUrl": "N/A",
+      "isOffLinkedIn": true,
+      "jobDescription": "Alpaca is looking for a Senior Product Designer to design and build internal tools for complex financial operations. This is a hands-on role for a designer who can move fluidly between user research, systems design, AI prototyping, and production code. The designer will partner with product, engineering, and operations to transform complicated workflows, business rules, and technical constraints into intuitive, reliable tools, and operate independently from problem identification through shipping and iteration.\n\nCore Responsibilities:\n* Design and build internal tools for complex financial operations.\n* Move fluidly between user research, systems design, AI prototyping, and production code.\n* Partner with product, engineering, and operations to create intuitive, reliable tools from complicated workflows.\n* Work independently from problem identification through shipping and iteration.\n* Translate complicated processes, data, business rules, and edge cases into clear and efficient experiences.\n* Communicate design decisions clearly across product, engineering, operations, and business teams.\n\nRequirements:\n* Experience designing and launching products in complex or technical industries (financial services, infrastructure, logistics).\n* Ability to translate complicated processes, data, business rules, and edge cases into clear and efficient experiences.\n* Strong independent work ethic, creating structure in ambiguous environments.\n* Clear communication of design decisions across various teams.\n* Focus on financial operations, planning systems, automation, and emerging AI capabilities.",
+      "specialty": "Operations Tools",
+      "salary": "$162K–$225K",
+      "keywords": [
+        {
+          "keyword": "Fintech",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Explicitly required (financial services)"
+        },
+        {
+          "keyword": "Developer Tools",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Implied by 'developer-friendly API'"
+        },
+        {
+          "keyword": "Internal Tools",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Explicitly required"
+        },
+        {
+          "keyword": "Complex Workflows",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Explicitly required"
+        },
+        {
+          "keyword": "AI Prototyping",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Explicitly required (Michael uses Figma Make, Cursor)"
+        },
+        {
+          "keyword": "Systems Design",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Explicitly required"
+        },
+        {
+          "keyword": "User Research",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Explicitly required"
+        },
+        {
+          "keyword": "0-to-1",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Implied by 'creating structure in ambiguous environments'"
+        },
+        {
+          "keyword": "Cloud Infrastructure",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Implied by company description"
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-09-11T21:43:27.040Z",
+      "isNew": true
+    },
+    {
+      "id": "job-gzuoep",
+      "title": "Staff Product Designer",
+      "company": "SecurityScorecard",
+      "companyDomain": "securityscorecard.com",
+      "industry": "B2B SaaS, Cybersecurity, AI-powered Risk Management",
+      "location": "Hybrid in New York City, NY",
+      "postedAt": "2026-09-10",
+      "fitScore": 8,
+      "fitTier": "Good Fit",
+      "fitExplanation": "This Staff Product Designer role at SecurityScorecard is a strong fit due to its focus on complex B2B SaaS, AI-powered workflows, and data-intensive interfaces, aligning well with Michael's expertise. The hybrid location in NYC meets his preference, though a slight deduction is applied for being hybrid rather than remote-first. His experience with design systems and ambiguous problem-solving will be highly relevant.",
+      "source": "The Design Project",
+      "applyUrl": "N/A",
+      "isOffLinkedIn": true,
+      "jobDescription": "SecurityScorecard is seeking a Staff Product Designer to lead the end-to-end design of complex, AI-powered cyber risk workflows and B2B SaaS features, particularly focusing on third-party risk assessments and continuous monitoring. The role emphasizes leveraging AI tools (e.g., Claude) for code-grounded prototyping and accelerating iteration cycles. The designer will drive product innovation through usability testing, product analytics, and accessibility standards, collaborating closely with Product Management and Engineering.\n\nCore Responsibilities:\n* Lead end-to-end design of complex, AI-powered cyber risk workflows and B2B SaaS features.\n* Leverage AI tools for creating interactive, code-grounded prototypes and design system integration.\n* Drive product innovation by integrating usability testing, product analytics, and accessibility standards (WCAG 2.2).\n* Transform ambiguous problems into successfully shipped B2B SaaS features with minimal oversight.\n* Contribute to design system enhancements and advocate for design quality across teams.\n* Collaborate closely with Product Management and Engineering to align on goals and requirements.\n\nRequirements:\n* 7+ years of professional product design experience, with 3+ years in B2B SaaS platform environments.\n* Proven expertise in designing complex user interfaces for B2B SaaS products, handling multi-dimensional data, analytics dashboards, and intricate permissioning systems.\n* Hands-on experience integrating AI tools into the design process for code-grounded prototyping.\n* Strong portfolio demonstrating transformation of ambiguous problems into shipped B2B SaaS features.\n* High technical proficiency, strategic thinking, and autonomy.\n* Experience with usability testing, product analytics, and accessibility standards.\n* Strong visual design skills.",
+      "specialty": "AI-powered Cyber Risk Workflows",
+      "salary": "$180k - $250k",
+      "keywords": [
+        {
+          "keyword": "Staff Product Designer",
+          "inProfile": true,
+          "relevance": "target role",
+          "note": "Matches candidate's target role"
+        },
+        {
+          "keyword": "B2B SaaS",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Explicitly required"
+        },
+        {
+          "keyword": "AI-powered workflows",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Explicitly required (Michael uses Figma Make, Cursor)"
+        },
+        {
+          "keyword": "Complex User Interfaces",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Explicitly required"
+        },
+        {
+          "keyword": "Data-intensive interfaces",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Explicitly required (multi-dimensional data, analytics dashboards)"
+        },
+        {
+          "keyword": "Design Systems",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Implicitly required by 'design system enhancements'"
+        },
+        {
+          "keyword": "0-to-1",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Implied by 'transforming ambiguous problems'"
+        },
+        {
+          "keyword": "Visual Design",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Explicitly required"
+        },
+        {
+          "keyword": "Prototyping",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Explicitly required ('code-grounded prototyping')"
+        },
+        {
+          "keyword": "User Research",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Implicitly required by 'usability testing'"
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-09-11T21:43:27.040Z",
       "isNew": true
     }
   ],
-  "scannedAt": "2026-09-10T21:39:36.897Z"
+  "scannedAt": "2026-09-11T21:44:55.388Z"
 }
