@@ -2789,105 +2789,120 @@
       "title": "Senior Product Designer",
       "company": "ŌURA",
       "companyDomain": "ouraring.com",
-      "industry": "B2B SaaS, eCommerce",
-      "location": "Remote US",
-      "postedAt": "2026-09-09",
+      "industry": "B2B SaaS, eCommerce, Fintech, Marketplace",
+      "location": "Remote (US)",
+      "postedAt": "2026-09-11",
       "fitScore": 9,
       "fitTier": "Strong Fit",
-      "fitExplanation": "This role is an excellent match for Michael's expertise in complex B2B SaaS, transactional flows, payment reconciliation, and marketplace infrastructure, which directly translates to B2B eCommerce, invoicing, and global payments. His 10+ years of experience, proficiency with Figma and AI tools, strong visual eye, and design system background are highly relevant. The focus on self-service interfaces and complex feature design aligns well with his past achievements in simplifying workflows and improving adoption.",
-      "source": "Built In San Francisco",
+      "fitExplanation": "Excellent fit, particularly with Michael's experience in B2B SaaS, transactional flows (invoicing, global payments), and self-service interfaces. The role emphasizes complex B2B eCommerce and dashboard tools, which aligns well with his background in data-heavy interfaces and marketplace infrastructure. The remote US location is ideal. The explicit mention of AI tools is a strong match with Michael's skills.",
+      "source": "Jobgether",
       "applyUrl": "N/A",
-      "jobDescription": "Design scalable B2B eCommerce experiences, including enterprise ordering, billing, payments, memberships, promotions, landing pages, checkout, and responsive microsites. Create user flows, wireframes, prototypes, and UI solutions, while conducting research and analyzing quantitative and qualitative data. Collaborate with product managers, engineers, stakeholders, and design teams to deliver consistent, internationalized experiences for enterprise customers. Empower customers to independently manage their orders, billing, payments, and membership statuses through a self-service interface. Design flexible, branded checkout flows that support complex features like split-tender payments, subsidies, and customizable messaging. Design and govern a centralized promotions and partnership-enabled platform. Own the UX design and enhancements for the B2B microsite “For Organizations.” Create UI design solutions that scale for international expansion. Recommend UX/UI improvements using quantitative and qualitative data and user research.",
+      "isOffLinkedIn": false,
+      "jobDescription": {
+        "summary": "Oura is seeking a Senior Product Designer to create best-in-class B2B eCommerce experiences for their commercial relationships. This role involves designing UX for B2B web products and new systems to facilitate bulk Oura Ring orders and companion services. Responsibilities include architecting scalable templates, empowering self-service management for customers (orders, billing, payments, membership), and designing flexible checkout flows with complex features.",
+        "responsibilities": [
+          "Design UX for B2B web products and systems to manage bulk orders and services.",
+          "Architect scalable, customizable landing page templates for client-specific branding.",
+          "Empower customers with self-service interfaces for managing orders, billing, payments, and membership.",
+          "Design flexible, branded checkout flows supporting complex features like split-tender payments.",
+          "Design and govern a centralized promotions and partnership-enabled platform.",
+          "Create user flows, wireframes, prototypes, and responsive web design.",
+          "Recommend UX/UI improvements based on quantitative/qualitative data and user research.",
+          "Work closely with product managers, engineers, and internal/external stakeholders.",
+          "Collaborate with design teams to maintain UX and brand consistency."
+        ],
+        "requirements": [
+          "5+ years experience as a UI/UX designer, with experience building eCommerce platforms, SaaS, or dashboard tools.",
+          "Excellent use of Figma ecosystem, and competent in gAI tools like Gemini, Loveable, Claude.",
+          "Experience creating solutions for enterprise/B2B space, including invoicing and global payment methods.",
+          "Portfolio showcasing high quality, thoughtful UI and UX work.",
+          "Strong understanding of design systems, UI patterns, and responsive web principles.",
+          "Ability to find and solve strategic business and customer improvements based on analytics and research.",
+          "Excellent communication and collaboration skills, able to work across disciplines on a distributed team.",
+          "Ability to manage multiple features/epics and meet deadlines in a fast-paced environment.",
+          "Experience owning and driving user research activities.",
+          "Intermediate prototyping skills to communicate ideas."
+        ]
+      },
       "specialty": "B2B eCommerce",
+      "salary": null,
       "keywords": [
         {
           "keyword": "B2B SaaS",
           "inProfile": true,
           "relevance": "required",
-          "note": "Direct experience"
+          "note": "Excellent fit, Michael's primary expertise."
         },
         {
           "keyword": "eCommerce platforms",
           "inProfile": true,
           "relevance": "required",
-          "note": "Related to marketplace/transactional flows"
+          "note": "Good fit, related to marketplace infrastructure and transactional flows."
         },
         {
-          "keyword": "enterprise/B2B space",
+          "keyword": "Enterprise/B2B space",
           "inProfile": true,
           "relevance": "required",
-          "note": "Core expertise"
+          "note": "Excellent fit, Michael's specialty."
         },
         {
-          "keyword": "invoicing",
+          "keyword": "Invoicing",
           "inProfile": true,
           "relevance": "required",
-          "note": "Related to transactional/finance"
+          "note": "Excellent fit, related to payment reconciliation and transactional flows."
         },
         {
-          "keyword": "global payment methods",
+          "keyword": "Global payment methods",
           "inProfile": true,
           "relevance": "required",
-          "note": "Related to transactional/finance"
+          "note": "Excellent fit, directly matches Michael's experience."
         },
         {
-          "keyword": "Figma ecosystem",
+          "keyword": "Self-service interface",
           "inProfile": true,
           "relevance": "required",
-          "note": "Primary tool"
+          "note": "Excellent fit, Michael enabled 500+ enterprise sellers to onboard self-serve."
         },
         {
-          "keyword": "gAI tools (Gemini, Loveable, Claude)",
+          "keyword": "Figma",
           "inProfile": true,
           "relevance": "required",
-          "note": "Uses AI tools (Figma Make, Cursor)"
+          "note": "Excellent fit, Michael is proficient."
         },
         {
-          "keyword": "design systems",
+          "keyword": "AI tools",
           "inProfile": true,
           "relevance": "required",
-          "note": "Strong background"
+          "note": "Excellent fit, Michael uses Figma Make, Cursor."
         },
         {
-          "keyword": "UI patterns",
+          "keyword": "Design systems",
           "inProfile": true,
           "relevance": "required",
-          "note": "Core skill"
+          "note": "Excellent fit, Michael has extensive experience."
         },
         {
-          "keyword": "responsive web principles",
+          "keyword": "User research",
           "inProfile": true,
           "relevance": "required",
-          "note": "Core skill"
+          "note": "Excellent fit, Michael conducts user research."
         },
         {
-          "keyword": "user research",
+          "keyword": "Prototyping",
           "inProfile": true,
           "relevance": "required",
-          "note": "Extensive experience"
+          "note": "Excellent fit, Michael has strong prototyping skills."
         },
         {
-          "keyword": "analytics and research",
+          "keyword": "Complex workflow design",
           "inProfile": true,
           "relevance": "required",
-          "note": "Uses Amplitude, Pendo"
-        },
-        {
-          "keyword": "prototyping skills",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Core skill"
-        },
-        {
-          "keyword": "self-service interface",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Experience with self-serve onboarding"
+          "note": "Excellent fit, Michael's expertise."
         }
       ],
       "status": "New",
-      "scannedAt": "2026-09-10T21:38:26.421Z",
-      "isNew": false
+      "scannedAt": "2026-09-12T14:08:44.705Z",
+      "isNew": true
     },
     {
       "id": "job-g9neia",
@@ -2958,7 +2973,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-09-11T21:43:27.040Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-wb0tcn",
@@ -3041,7 +3056,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-09-11T21:43:27.040Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-i3t2co",
@@ -3112,7 +3127,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-09-11T21:43:27.040Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-4wwif9",
@@ -3189,7 +3204,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-09-11T21:43:27.040Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-gzuoep",
@@ -3272,8 +3287,142 @@
       ],
       "status": "New",
       "scannedAt": "2026-09-11T21:43:27.040Z",
+      "isNew": false
+    },
+    {
+      "id": "job-acwcue",
+      "title": "Senior Staff Product Designer",
+      "company": "Andreessen Horowitz Companies (via Grow Fast Ventures)",
+      "companyDomain": "growfast.ventures",
+      "industry": "Enterprise Software, Artificial Intelligence, Developer Tools",
+      "location": "Remote (US)",
+      "postedAt": "2026-09-11",
+      "fitScore": 10,
+      "fitTier": "Strong Fit",
+      "fitExplanation": "Exceptional fit. The Staff Product Designer title aligns perfectly with Michael's aspirations. The focus on Enterprise software, AI, and Developer Tools directly matches his core expertise and desired industries. The remote (US) location is ideal, and the emphasis on Artificial Intelligence further aligns with his recent experience using AI tools. Being part of an Andreessen Horowitz-backed company suggests a Series C+ stage.",
+      "source": "Grow Fast Ventures",
+      "applyUrl": "N/A",
+      "isOffLinkedIn": false,
+      "jobDescription": {
+        "summary": "This Senior Staff Product Designer role, found through Andreessen Horowitz's portfolio companies via Grow Fast Ventures, focuses on enterprise software, artificial intelligence, and developer tools. It is a remote (US) position in a growth-stage company (100-1000 employees), seeking a designer with expertise in these areas.",
+        "responsibilities": [],
+        "requirements": [
+          "Experience with Artificial Intelligence.",
+          "Experience in Developer Experience and Developer Tools.",
+          "Experience with Enterprise-level products.",
+          "Ability to work in a growth-stage company (100-1000 employees)."
+        ]
+      },
+      "specialty": "AI / Developer Tools / Enterprise",
+      "salary": "$200,000 - $240,000",
+      "keywords": [
+        {
+          "keyword": "Staff Product Designer",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Perfect title match."
+        },
+        {
+          "keyword": "Enterprise Software",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Excellent fit, Michael's primary expertise."
+        },
+        {
+          "keyword": "Artificial Intelligence",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Excellent fit, Michael uses AI tools."
+        },
+        {
+          "keyword": "Developer Tools",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Excellent fit, Michael has this industry context."
+        },
+        {
+          "keyword": "Remote (US)",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Ideal location."
+        },
+        {
+          "keyword": "Growth-stage company",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Aligns with Series C+."
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-09-12T14:08:44.705Z",
+      "isNew": true
+    },
+    {
+      "id": "job-kni3sj",
+      "title": "Lead Product Designer",
+      "company": "Photon Health",
+      "companyDomain": "photon.health",
+      "industry": "Healthcare, Fintech, B2B SaaS",
+      "location": "Hybrid in NYC",
+      "postedAt": "2026-09-11",
+      "fitScore": 7,
+      "fitTier": "Good Fit",
+      "fitExplanation": "Good fit. The Lead Product Designer title is ideal. The industries (healthcare, fintech, SaaS) align well with Michael's experience, particularly his B2B SaaS and FinTech-adjacent background. The hybrid NYC location is acceptable, but results in a score deduction. While a specific company stage isn't stated, being a Flare Capital Partners company suggests a strong funding stage, likely Series C or later.",
+      "source": "Flare Capital Partners",
+      "applyUrl": "N/A",
+      "isOffLinkedIn": false,
+      "jobDescription": {
+        "summary": "Photon Health is seeking a Lead Product Designer for a hybrid role in the NYC Metro Area. The role requires a background in healthcare, fintech, or SaaS, indicating a focus on complex, high-stakes product design within B2B contexts. This position is for a lead-level designer contributing to a company backed by Flare Capital Partners.",
+        "responsibilities": [],
+        "requirements": [
+          "Background in healthcare, fintech, SaaS, or other complex/high-stakes product.",
+          "Location: NYC Metro Area (Williamsburg Office, 3+ days/week)."
+        ]
+      },
+      "specialty": null,
+      "salary": null,
+      "keywords": [
+        {
+          "keyword": "Lead Product Designer",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Perfect title match."
+        },
+        {
+          "keyword": "Healthcare",
+          "inProfile": true,
+          "relevance": "nice-to-have",
+          "note": "New industry but Michael's transferable skills are strong."
+        },
+        {
+          "keyword": "Fintech",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Excellent fit, Michael's experience."
+        },
+        {
+          "keyword": "B2B SaaS",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Excellent fit, primary expertise."
+        },
+        {
+          "keyword": "Complex products",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Excellent fit, Michael's specialty."
+        },
+        {
+          "keyword": "Hybrid in NYC",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Acceptable location."
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-09-12T14:08:44.705Z",
       "isNew": true
     }
   ],
-  "scannedAt": "2026-09-11T21:44:55.388Z"
+  "scannedAt": "2026-09-12T14:10:33.445Z"
 }
