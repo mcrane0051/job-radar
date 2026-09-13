@@ -77,390 +77,6 @@
       "isNew": false
     },
     {
-      "id": "job-14l93x",
-      "title": "Senior Product Designer",
-      "specialty": "Compute, Nebius Console",
-      "company": "Nebius",
-      "companyDomain": "nebius.ai",
-      "industry": "Cloud Infrastructure, AI, Developer Tools, B2B SaaS",
-      "location": "Remote",
-      "postedAt": "2026-08-29",
-      "fitScore": 9,
-      "fitTier": "Strong Fit",
-      "fitExplanation": "This role is an exceptional fit given Michael's deep expertise in complex B2B SaaS, cloud infrastructure, and developer tools. His ability to make complex systems intuitive and reliable, combined with strong systems thinking and Figma proficiency, directly addresses the job requirements. Leading design for 'Compute experiences' aligns with his 0-to-1 and complex workflow design strengths.",
-      "source": "Himalayas",
-      "applyUrl": "N/A",
-      "jobDescription": "Lead the design of Compute experiences within the Nebius Console, focusing on complex, high-impact workflows for technical teams to create, configure, monitor, and manage cloud resources. [cite: 7 (previous output)] The role requires a designer who enjoys working with complex systems, values clear interaction models, and can translate technical depth into intuitive, reliable product experiences. [cite: 7 (previous output)]\n\nRequirements:\n*   Strong product thinking and ability to approach design through connected user scenarios, product goals, and system constraints. [cite: 7 (previous output)]\n*   Experience designing complex B2B, SaaS, developer tools, infrastructure, or admin products. [cite: 7 (previous output)]\n*   Ability to balance usability, consistency, technical feasibility, and innovation in complex systems. [cite: 7 (previous output)]\n*   Strong systems thinking, attention to detail, and ability to work in a structured, systematic way. [cite: 7 (previous output)]\n*   Strong proficiency in Figma, including complex flows, components, variants, and interactive prototypes. [cite: 7 (previous output)]\n*   Ability to communicate design decisions clearly and constructively with product and engineering teams. [cite: 7 (previous output)]",
-      "keywords": [
-        {
-          "keyword": "Complex B2B SaaS",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Explicitly mentioned in requirements."
-        },
-        {
-          "keyword": "Cloud Infrastructure",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Core focus of Nebius."
-        },
-        {
-          "keyword": "Developer Tools",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Explicitly mentioned in requirements."
-        },
-        {
-          "keyword": "Complex Systems",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Core of the role and Michael's expertise."
-        },
-        {
-          "keyword": "Systems Thinking",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Explicitly mentioned in requirements."
-        },
-        {
-          "keyword": "Figma",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Strong proficiency required."
-        },
-        {
-          "keyword": "0-to-1 discovery",
-          "inProfile": true,
-          "relevance": "good",
-          "note": "Implied by leading design for core compute experiences."
-        },
-        {
-          "keyword": "Cross-functional collaboration",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Communicating with product and engineering."
-        },
-        {
-          "keyword": "Enterprise Software",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Implied by B2B SaaS, infrastructure, and admin products."
-        }
-      ],
-      "status": "New",
-      "scannedAt": "2026-08-30T15:20:31.160Z",
-      "isNew": false
-    },
-    {
-      "id": "job-dm9lnc",
-      "title": "Senior Product Designer",
-      "specialty": "AI and Platform Experience",
-      "company": "Cisco",
-      "companyDomain": "cisco.com",
-      "industry": "Enterprise Software, Cloud Infrastructure, AI",
-      "location": "Remote (U.S. Only)",
-      "postedAt": "2026-08-29",
-      "fitScore": 9,
-      "fitTier": "Strong Fit",
-      "fitExplanation": "This role aligns strongly with Michael's expertise in complex B2B SaaS products, enterprise platforms, and AI-powered experiences. His background in leading product design for transactional platforms and making complex systems delightful fits perfectly with redefining user interaction for Cisco's platform. The requirement for systems thinking, strong visual craft, and experience with AI-assisted design tools directly matches Michael's profile and philosophy.",
-      "source": "Cisco Careers",
-      "applyUrl": "N/A",
-      "jobDescription": "Lead product design for Cisco Cloud Control, a next-generation enterprise platform connecting security, networking, and AI products, including AI Canvas.\nResponsibilities include transforming conceptual designs into production-ready experiences, producing detailed interaction designs and specifications, and designing for edge cases and error handling. The designer will also refine existing platform experiences, maintain consistency with design principles, and partner closely with engineering for implementation.\n\nRequirements:\n*   Experience in high-quality product design execution.\n*   Ability to define and deliver experiences, partnering with Research, Product, and Engineering.\n*   Proficiency in transforming conceptual designs into production-ready experiences.\n*   Strong systems thinking and visual craft.\n*   Advanced proficiency with AI-assisted design and prototyping workflows.",
-      "salary": "$154,900 - $225,300",
-      "keywords": [
-        {
-          "keyword": "Complex B2B SaaS",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Directly aligns with enterprise platform design."
-        },
-        {
-          "keyword": "Enterprise Software",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Cisco Cloud Control is a major enterprise platform."
-        },
-        {
-          "keyword": "AI-powered experiences",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Explicitly mentioned in the job description and a key area for Michael."
-        },
-        {
-          "keyword": "Systems Thinking",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Explicitly mentioned as a requirement."
-        },
-        {
-          "keyword": "Visual Craft",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Explicitly mentioned as a requirement and a core strength for Michael."
-        },
-        {
-          "keyword": "Figma",
-          "inProfile": true,
-          "relevance": "good",
-          "note": "Standard design tool, likely used."
-        },
-        {
-          "keyword": "0-to-1 discovery",
-          "inProfile": true,
-          "relevance": "good",
-          "note": "Implied by 'redefining how users interact' and 'next-generation platform'."
-        },
-        {
-          "keyword": "Cross-functional collaboration",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Working closely with Product, Engineering, and Research."
-        },
-        {
-          "keyword": "Transactional flows",
-          "inProfile": true,
-          "relevance": "good",
-          "note": "While not explicitly 'transactional flows', security/networking platforms can involve complex user interactions and data flows similar to Michael's experience."
-        },
-        {
-          "keyword": "Cloud Infrastructure",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Directly related to 'Cisco Cloud Control'."
-        },
-        {
-          "keyword": "Developer Tools",
-          "inProfile": true,
-          "relevance": "good",
-          "note": "Could involve interfaces for technical users managing cloud resources."
-        },
-        {
-          "keyword": "Figma Make",
-          "inProfile": true,
-          "relevance": "good",
-          "note": "AI-assisted design tools are a preferred qualification."
-        },
-        {
-          "keyword": "Cursor",
-          "inProfile": true,
-          "relevance": "good",
-          "note": "AI-assisted design tools are a preferred qualification."
-        }
-      ],
-      "status": "New",
-      "scannedAt": "2026-08-30T15:20:31.160Z",
-      "isNew": false
-    },
-    {
-      "id": "job-sv1hkv",
-      "title": "Lead Product Designer",
-      "company": "Atlassian",
-      "companyDomain": "atlassian.com",
-      "industry": "B2B SaaS, Enterprise Software, AI",
-      "location": "Remote (U.S. Only)",
-      "postedAt": "2026-08-29",
-      "fitScore": 8,
-      "fitTier": "Good Fit",
-      "fitExplanation": "This Lead Product Designer role at Atlassian is a good fit due to the company's strong B2B SaaS and enterprise software focus, and the emphasis on AI capabilities. Michael's leadership experience and ability to shape design strategy, coupled with his visual craft and systems thinking, align well. The salary is competitive, and the remote US location is ideal.",
-      "source": "Atlassian Careers",
-      "applyUrl": "https://www.atlassian.com/company/careers/details/15921",
-      "jobDescription": "Partner with leadership, stakeholders, and cross-functional teams to create a unified view of AI capabilities across Atlassian products. [cite: 5 (previous output)] Lead design projects from creation to execution, ensuring customer value delivery and outcomes. [cite: 5 (previous output)] Identify success metrics and opportunities to enhance products, accelerating AI and search experiences. [cite: 5 (previous output)] The role involves a large amount of ownership. [cite: 5 (previous output)]\n\nRequirements:\n*   Experience leading design projects from creation to execution. [cite: 5 (previous output)]\n*   Ability to partner with leadership and cross-functional teams. [cite: 5 (previous output)]\n*   Experience identifying success metrics and delivering customer value. [cite: 5 (previous output)]\n*   Ability to identify opportunities for product enhancement, particularly in AI and search. [cite: 5 (previous output)]",
-      "salary": "$140k - $180k",
-      "keywords": [
-        {
-          "keyword": "Lead Product Designer",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Targeted role level."
-        },
-        {
-          "keyword": "B2B SaaS",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Atlassian's core business."
-        },
-        {
-          "keyword": "Enterprise Software",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Atlassian's core business."
-        },
-        {
-          "keyword": "AI capabilities",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Key focus area for the role, aligns with Michael's AI tool experience."
-        },
-        {
-          "keyword": "Design Strategy",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Leading design projects and identifying opportunities."
-        },
-        {
-          "keyword": "Cross-functional collaboration",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Explicitly mentioned as partnering with various teams."
-        },
-        {
-          "keyword": "0-to-1 discovery",
-          "inProfile": true,
-          "relevance": "good",
-          "note": "Implied by 'creating a unified view of AI capabilities' and 'identifying opportunities'."
-        },
-        {
-          "keyword": "Design Systems",
-          "inProfile": true,
-          "relevance": "good",
-          "note": "Implied by working across a large product suite like Atlassian."
-        },
-        {
-          "keyword": "Figma",
-          "inProfile": true,
-          "relevance": "good",
-          "note": "Standard design tool, likely used."
-        }
-      ],
-      "status": "New",
-      "scannedAt": "2026-08-30T15:20:31.160Z",
-      "isNew": false
-    },
-    {
-      "id": "job-qef8oe",
-      "title": "Senior Product Designer",
-      "specialty": "Discovery & Growth",
-      "company": "Whatnot",
-      "companyDomain": "whatnot.com",
-      "industry": "Marketplace, FinTech, B2B Enterprise",
-      "location": "Remote (U.S. Only)",
-      "postedAt": "2026-08-30",
-      "fitScore": 9,
-      "fitTier": "Strong Fit",
-      "fitExplanation": "This role at Whatnot is a strong fit due to its focus on Discovery & Growth within a marketplace context, which aligns directly with Michael's experience in transactional flows, payment reconciliation, and marketplace infrastructure. His expertise in 0-to-1 problem spaces, scaling products, and driving measurable outcomes is highly relevant. The competitive salary and Series D company stage further enhance the fit.",
-      "source": "JobLeads.com (mentioned as similar job)",
-      "applyUrl": "N/A",
-      "jobDescription": "Focus on Discovery & Growth initiatives within a marketplace environment. The role likely involves defining and driving strategy for unmet user needs, designing experiments, owning end-to-end 0-to-1 execution for new products, and tracking post-launch performance. It requires experience with B2B enterprise products and may involve aspects of fintech (debt/payments/lending).\n\nRequirements (inferred/partially from context):\n*   Experience in product design for growth and discovery.\n*   Ability to work in a marketplace business model.\n*   Experience with B2B enterprise products.\n*   Focus on measurable user and business impact.\n*   Comfort with 0-to-1 execution.",
-      "salary": "$153,000 - $235,000",
-      "keywords": [
-        {
-          "keyword": "Marketplace",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Directly aligns with Michael's marketplace infrastructure experience."
-        },
-        {
-          "keyword": "Discovery & Growth",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Matches Michael's expertise in 0-to-1 and scaling products."
-        },
-        {
-          "keyword": "Fintech adjacent",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Mentioned in context of debt/payments/lending."
-        },
-        {
-          "keyword": "B2B Enterprise Products",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Explicitly mentioned requirement."
-        },
-        {
-          "keyword": "0-to-1 discovery",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Implied by discovery and new bets."
-        },
-        {
-          "keyword": "Transactional workflows",
-          "inProfile": true,
-          "relevance": "good",
-          "note": "Likely involved in a marketplace with fintech aspects."
-        },
-        {
-          "keyword": "User Research",
-          "inProfile": true,
-          "relevance": "good",
-          "note": "Implied by discovery and understanding unmet needs."
-        },
-        {
-          "keyword": "Metrics and Outcomes",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Tracking post-launch performance is highlighted."
-        }
-      ],
-      "status": "New",
-      "scannedAt": "2026-08-30T15:20:31.160Z",
-      "isNew": false
-    },
-    {
-      "id": "job-mzmqol",
-      "title": "Senior Product Designer II",
-      "specialty": "Growth",
-      "company": "Splice",
-      "companyDomain": "splice.com",
-      "industry": "Product Design",
-      "location": "Remote (U.S. Only)",
-      "postedAt": "2026-08-30",
-      "fitScore": 8,
-      "fitTier": "Good Fit",
-      "fitExplanation": "This Senior Product Designer II, Growth role at Splice is a good fit, aligning with Michael's experience in scaling existing products, simplifying workflows, and improving adoption. The 'Growth' specialization suggests a focus on measurable impact and iterative design, areas where Michael excels. The remote US location and strong salary are also positive indicators.",
-      "source": "Himalayas (mentioned in another job's context)",
-      "applyUrl": "N/A",
-      "jobDescription": "The role is for a Senior Product Designer II focused on Growth initiatives, operating remotely within the US. It involves product design responsibilities with an emphasis on growth, likely including aspects of user acquisition, engagement, and retention.\n\nRequirements (inferred/partially from context):\n*   Experience in product design, particularly in growth areas.\n*   Ability to contribute to user-focused products.\n*   Focus on measurable user and business impact.",
-      "salary": "$160k - $200k",
-      "keywords": [
-        {
-          "keyword": "Senior Product Designer",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Targeted role level."
-        },
-        {
-          "keyword": "Growth",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Matches Michael's 'scaling existing products' and 'improving adoption' strengths."
-        },
-        {
-          "keyword": "Remote US",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Explicitly stated location."
-        },
-        {
-          "keyword": "Scaling existing products",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Directly aligns with growth focus."
-        },
-        {
-          "keyword": "Metrics and Outcomes",
-          "inProfile": true,
-          "relevance": "good",
-          "note": "Implied by a 'Growth' role."
-        },
-        {
-          "keyword": "Figma",
-          "inProfile": true,
-          "relevance": "good",
-          "note": "Standard design tool, likely used."
-        },
-        {
-          "keyword": "B2B SaaS",
-          "inProfile": true,
-          "relevance": "good",
-          "note": "Splice is a music creation platform, so it might have B2B aspects for creators and collaborators, though it also has consumer elements. I'll include it as 'good' for now as the core business is more creator-focused."
-        }
-      ],
-      "status": "New",
-      "scannedAt": "2026-08-30T15:20:31.160Z",
-      "isNew": false
-    },
-    {
       "id": "job-30zafr",
       "title": "Senior Product Designer",
       "company": "Render",
@@ -2962,148 +2578,167 @@
       "title": "Senior Product Designer",
       "company": "PadSplit",
       "companyDomain": "padsplit.com",
-      "industry": "Marketplace, Real Estate Tech",
-      "location": "Remote US",
-      "postedAt": "2026-09-11",
-      "fitScore": 9.5,
-      "fitTier": "Strong Fit",
-      "fitExplanation": "This role is an excellent fit due to its focus on a two-sided marketplace and simplifying complex workflows, which directly aligns with Michael's experience in marketplace infrastructure and complex workflow design. His expertise in user research, driving product strategy, and crafting high-quality UI will be highly valuable in this growth-focused environment.",
-      "source": "DailyRemote",
+      "industry": "Marketplace",
+      "location": "Remote",
+      "postedAt": "2026-09-12",
+      "fitScore": 8,
+      "fitTier": "Good Fit",
+      "fitExplanation": "This role is a good fit as it aligns with Michael's expertise in marketplace infrastructure and complex workflow design. The focus on a two-sided housing marketplace involves similar complexities to Michael's experience with transactional platforms and revenue operations. His background in simplifying workflows, conducting user research, and systems thinking are directly applicable. The explicit mention of building AI-infused experiences further strengthens the fit. While 'real estate' isn't a core industry for Michael, 'marketplace' and 'complex workflows' are strong overrides.",
+      "source": "Remotive",
       "applyUrl": "N/A",
-      "isOffLinkedIn": true,
-      "jobDescription": "PadSplit is hiring a Senior Product Designer to shape and improve experiences across their two-sided housing marketplace. This role involves tackling meaningful, complex problems for both members and hosts, focusing on creating intuitive, human, and scalable experiences that deliver measurable impact. The designer will lead end-to-end product design from problem definition to iteration, simplify complex marketplace dynamics, and drive product strategy through user research and experimentation.\n\nCore Responsibilities:\n* Own end-to-end product design from early problem definition through prototyping, launch, and iteration.\n* Simplify complex workflows, rules, and marketplace dynamics into clear and intuitive experiences.\n* Conduct user research (interviews, observations) to understand user needs.\n* Partner with Product Managers to identify opportunities, shape solutions, and connect customer needs with business outcomes.\n* Use data, customer feedback, and experiments to test assumptions and continuously improve experiences.\n* Collaborate cross-functionally with PMs, engineers, marketers, operations, and data partners.\n* Craft responsive, polished interfaces.\n\nRequirements:\n* 4+ years designing digital products, ideally with complex acquisition funnels or marketplace environments.\n* Deep UX skills, including strong research abilities and direct engagement with users.\n* Business fluency, connecting design decisions to metrics, revenue, and real estate economics.\n* Experience designing multi-step processes, complex service environments, and edge-case-heavy workflows.\n* Ability to thrive in complex problem spaces and move fluidly between strategy and detail.",
       "specialty": "",
-      "salary": "",
+      "salary": "$120,000 - $130,000",
       "keywords": [
+        {
+          "keyword": "Senior Product Designer",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Matches target title."
+        },
         {
           "keyword": "Marketplace",
           "inProfile": true,
           "relevance": "required",
-          "note": "Explicitly required (two-sided housing marketplace)"
+          "note": "Directly aligns with Michael's marketplace infrastructure experience."
+        },
+        {
+          "keyword": "Remote",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Primary location preference."
         },
         {
           "keyword": "Complex workflows",
           "inProfile": true,
           "relevance": "required",
-          "note": "Explicitly required"
+          "note": "Core responsibility involves simplifying complex workflows, rules, and marketplace dynamics."
         },
         {
           "keyword": "User Research",
           "inProfile": true,
           "relevance": "required",
-          "note": "Explicitly required"
+          "note": "Explicitly mentioned as a responsibility."
         },
         {
-          "keyword": "Product Strategy",
+          "keyword": "Figma",
           "inProfile": true,
           "relevance": "required",
-          "note": "Explicitly required"
+          "note": "Explicitly mentioned as a required tool."
         },
         {
-          "keyword": "UI Design",
+          "keyword": "Design Systems",
           "inProfile": true,
           "relevance": "required",
-          "note": "Explicitly required (craft high-quality UI)"
+          "note": "Strong systems thinking and component reuse are required."
         },
         {
-          "keyword": "Prototyping",
+          "keyword": "AI-powered features",
           "inProfile": true,
           "relevance": "required",
-          "note": "Explicitly required"
+          "note": "Explicitly mentioned as a responsibility for building AI-infused experiences."
         },
         {
-          "keyword": "Cross-functional collaboration",
+          "keyword": "Data-heavy interfaces",
           "inProfile": true,
-          "relevance": "required",
-          "note": "Explicitly required"
+          "relevance": "strong",
+          "note": "Ability to connect design decisions to metrics, revenue, and real estate economics implies data focus."
         },
         {
-          "keyword": "Data-driven design",
+          "keyword": "A/B testing",
           "inProfile": true,
-          "relevance": "required",
-          "note": "Explicitly required"
+          "relevance": "good",
+          "note": "Familiarity with experimentation frameworks is a plus."
         }
       ],
       "status": "New",
-      "scannedAt": "2026-09-11T21:43:27.040Z",
-      "isNew": false
+      "scannedAt": "2026-09-13T21:26:23.084Z",
+      "isNew": true
     },
     {
       "id": "job-4wwif9",
       "title": "Senior Product Designer",
       "company": "Alpaca",
-      "companyDomain": "alpaca.com",
-      "industry": "Fintech, Developer Tools, Cloud Infrastructure",
-      "location": "Remote US",
-      "postedAt": "2026-09-11",
-      "fitScore": 10,
+      "companyDomain": "alpaca.markets",
+      "industry": "Fintech, Cloud Infrastructure",
+      "location": "Remote",
+      "postedAt": "2026-09-12",
+      "fitScore": 9,
       "fitTier": "Strong Fit",
-      "fitExplanation": "This role is a perfect match, combining Michael's deep expertise in FinTech, transactional flows, and developer tools with the design of internal tools for complex financial operations. His experience in making complex systems clear and trustworthy, along with his comfort in ambiguous 0-to-1 problem spaces and use of AI tools, directly aligns with the job's core challenges and requirements.",
-      "source": "Remotivated",
+      "fitExplanation": "This role is a strong fit due to its direct alignment with Michael's B2B SaaS, fintech, and cloud infrastructure expertise. The emphasis on designing data-rich interfaces for operations tools, complex workflows, and AI-assisted interactions mirrors his experience at Tackle.io with transactional platforms and payment reconciliation. His ability to create structure in ambiguous environments and develop scalable design system patterns is highly relevant. The requirement for experience in complex/technical industries like financial services and infrastructure is a direct match.",
+      "source": "RemoteLeaf",
       "applyUrl": "N/A",
-      "isOffLinkedIn": true,
-      "jobDescription": "Alpaca is looking for a Senior Product Designer to design and build internal tools for complex financial operations. This is a hands-on role for a designer who can move fluidly between user research, systems design, AI prototyping, and production code. The designer will partner with product, engineering, and operations to transform complicated workflows, business rules, and technical constraints into intuitive, reliable tools, and operate independently from problem identification through shipping and iteration.\n\nCore Responsibilities:\n* Design and build internal tools for complex financial operations.\n* Move fluidly between user research, systems design, AI prototyping, and production code.\n* Partner with product, engineering, and operations to create intuitive, reliable tools from complicated workflows.\n* Work independently from problem identification through shipping and iteration.\n* Translate complicated processes, data, business rules, and edge cases into clear and efficient experiences.\n* Communicate design decisions clearly across product, engineering, operations, and business teams.\n\nRequirements:\n* Experience designing and launching products in complex or technical industries (financial services, infrastructure, logistics).\n* Ability to translate complicated processes, data, business rules, and edge cases into clear and efficient experiences.\n* Strong independent work ethic, creating structure in ambiguous environments.\n* Clear communication of design decisions across various teams.\n* Focus on financial operations, planning systems, automation, and emerging AI capabilities.",
       "specialty": "Operations Tools",
-      "salary": "$162K–$225K",
       "keywords": [
+        {
+          "keyword": "Senior Product Designer",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Matches target title."
+        },
+        {
+          "keyword": "Remote",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Primary location preference."
+        },
         {
           "keyword": "Fintech",
           "inProfile": true,
-          "relevance": "required",
-          "note": "Explicitly required (financial services)"
+          "relevance": "strong",
+          "note": "Explicitly mentioned in job description ('financial services')."
         },
         {
-          "keyword": "Developer Tools",
+          "keyword": "Cloud Infrastructure",
           "inProfile": true,
-          "relevance": "required",
-          "note": "Implied by 'developer-friendly API'"
+          "relevance": "strong",
+          "note": "Explicitly mentioned in job description ('infrastructure')."
         },
         {
-          "keyword": "Internal Tools",
+          "keyword": "Complex B2B SaaS product design",
           "inProfile": true,
           "relevance": "required",
-          "note": "Explicitly required"
+          "note": "Designing operational tools, data-rich interfaces for technical industries is a direct match."
         },
         {
-          "keyword": "Complex Workflows",
+          "keyword": "Complex data systems",
           "inProfile": true,
           "relevance": "required",
-          "note": "Explicitly required"
+          "note": "Focus on data-rich interfaces for monitoring and decision-making."
         },
         {
-          "keyword": "AI Prototyping",
+          "keyword": "0-to-1 and ambiguous problem spaces",
           "inProfile": true,
-          "relevance": "required",
-          "note": "Explicitly required (Michael uses Figma Make, Cursor)"
+          "relevance": "strong",
+          "note": "Ability to create structure in ambiguous environments is a key requirement."
         },
         {
-          "keyword": "Systems Design",
+          "keyword": "Design Systems",
           "inProfile": true,
           "relevance": "required",
-          "note": "Explicitly required"
+          "note": "Developing scalable design-system patterns is a core responsibility."
+        },
+        {
+          "keyword": "AI prototyping",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Explicitly mentioned as experience."
         },
         {
           "keyword": "User Research",
           "inProfile": true,
           "relevance": "required",
-          "note": "Explicitly required"
+          "note": "Explicitly mentioned as experience."
         },
         {
-          "keyword": "0-to-1",
+          "keyword": "API documentation",
           "inProfile": true,
-          "relevance": "required",
-          "note": "Implied by 'creating structure in ambiguous environments'"
-        },
-        {
-          "keyword": "Cloud Infrastructure",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Implied by company description"
+          "relevance": "good",
+          "note": "Michael's experience with complex systems implies familiarity."
         }
       ],
       "status": "New",
-      "scannedAt": "2026-09-11T21:43:27.040Z",
-      "isNew": false
+      "scannedAt": "2026-09-13T21:26:23.084Z",
+      "isNew": true
     },
     {
       "id": "job-gzuoep",
@@ -3321,7 +2956,151 @@
       "status": "New",
       "scannedAt": "2026-09-12T14:08:44.705Z",
       "isNew": false
+    },
+    {
+      "id": "job-akzis0",
+      "title": "Lead Product Designer",
+      "company": "BrightPlan",
+      "companyDomain": "brightplan.com",
+      "industry": "Fintech",
+      "location": "Remote",
+      "postedAt": "2026-09-12",
+      "fitScore": 9,
+      "fitTier": "Strong Fit",
+      "fitExplanation": "This role is an excellent fit, aligning perfectly with Michael's target title, remote preference, and strong industry experience in Fintech. The emphasis on leading design for a complex financial wellness platform (App 2.0), incorporating AI-first design practices, and evolving design systems, directly mirrors Michael's 10+ years of experience in complex B2B SaaS, payment reconciliation, and use of AI tools. His ability to operate across the full design lifecycle and shape design strategy is highly relevant. The individual contributor nature with leadership responsibilities also matches his stated career trajectory.",
+      "source": "Workable",
+      "applyUrl": "https://brightplan.workable.com/j/D17C9B1090/",
+      "specialty": "",
+      "salary": "$165,000 - $195,000",
+      "keywords": [
+        {
+          "keyword": "Lead Product Designer",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Matches target title and leadership experience."
+        },
+        {
+          "keyword": "Fintech",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Strong alignment with Michael's experience in payment reconciliation and financial flows."
+        },
+        {
+          "keyword": "Remote",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Primary location preference."
+        },
+        {
+          "keyword": "Design Systems",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Explicitly mentioned in Michael's profile and a core responsibility here."
+        },
+        {
+          "keyword": "AI tools",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael uses AI tools; the role emphasizes AI-first design workflows."
+        },
+        {
+          "keyword": "Complex B2B SaaS product design",
+          "inProfile": true,
+          "relevance": "strong",
+          "note": "Financial wellness platform with enterprise-level features implies complex B2B SaaS."
+        },
+        {
+          "keyword": "0-to-1 discovery",
+          "inProfile": true,
+          "relevance": "strong",
+          "note": "Shaping a 'next generation' product and rethinking design aligns with 0-to-1 experience."
+        },
+        {
+          "keyword": "User Research",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Partnering with researchers is a key part of Michael's design practice."
+        },
+        {
+          "keyword": "Figma",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Common design tool, aligns with Michael's skills."
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-09-13T21:26:23.084Z",
+      "isNew": true
+    },
+    {
+      "id": "job-44wwbj",
+      "title": "Senior Product Designer",
+      "company": "Camber",
+      "companyDomain": "ycombinator.com (Camber)",
+      "industry": "B2B SaaS",
+      "location": "Hybrid in NYC",
+      "postedAt": "2026-09-12",
+      "fitScore": 7,
+      "fitTier": "Good Fit",
+      "fitExplanation": "This role is a good fit, with a 1-point deduction for being a hybrid role. It emphasizes designing for enterprise users in complex, quantitative domains, which aligns with Michael's B2B SaaS and data-heavy interface experience. The focus on systems thinking, user research, and contributing to design infrastructure is highly relevant. Michael's expertise in making complex systems clear and trustworthy is a good match for the job's requirements.",
+      "source": "Y Combinator",
+      "applyUrl": "N/A",
+      "specialty": "",
+      "salary": "",
+      "keywords": [
+        {
+          "keyword": "Senior Product Designer",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Matches target title."
+        },
+        {
+          "keyword": "Hybrid in NYC",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Matches target hybrid location, with a slight preference deduction."
+        },
+        {
+          "keyword": "Enterprise users",
+          "inProfile": true,
+          "relevance": "strong",
+          "note": "Directly aligns with Michael's B2B/enterprise software experience."
+        },
+        {
+          "keyword": "Complex workflow design",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Focus on complex logistical and/or quantitative products."
+        },
+        {
+          "keyword": "Design Systems",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Contributing to design infrastructure and leveraging patterns."
+        },
+        {
+          "keyword": "User Research",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Advocating for user needs and partnering with research teams."
+        },
+        {
+          "keyword": "Data-heavy interfaces",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Emphasis on data fluency and quantitative products."
+        },
+        {
+          "keyword": "Systems thinking",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Explicitly mentioned as a core requirement."
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-09-13T21:26:23.084Z",
+      "isNew": true
     }
   ],
-  "scannedAt": "2026-09-13T14:56:03.133Z"
+  "scannedAt": "2026-09-13T21:27:35.665Z"
 }
