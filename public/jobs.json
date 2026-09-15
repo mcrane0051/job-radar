@@ -77,246 +77,6 @@
       "isNew": false
     },
     {
-      "id": "job-30yvyf",
-      "title": "Senior Product Designer",
-      "company": "Remote",
-      "companyDomain": "remote.com",
-      "industry": "B2B SaaS",
-      "location": "Remote (U.S. Only)",
-      "postedAt": "2026-08-31",
-      "fitScore": 9,
-      "fitTier": "Strong Fit",
-      "fitExplanation": "This role is a strong fit for Michael due to its focus on complex B2B SaaS solutions, specifically within HRTech and FinTech, which aligns well with his experience at Tackle.io and iCIMS. The emphasis on end-to-end design, autonomously leading design within a product team, cross-functional collaboration, systems thinking, and AI prototyping matches his profile and skills perfectly. The company is at a mature stage, and the role is fully remote in the US, meeting all location preferences. Michael's background in complex data systems, transactional flows, and product-led onboarding is highly relevant.",
-      "source": "Built In",
-      "applyUrl": "https://remote.com/r/benefits",
-      "isOffLinkedIn": true,
-      "jobDescription": "Remote is seeking a Senior Product Designer to lead end-to-end product design for its global employment platform. The role involves influencing product strategy, identifying impact opportunities, and applying appropriate research methodologies. Key responsibilities include leveraging AI prototyping for conceptual exploration, crafting high-fidelity user interfaces, and ensuring scalable, accessible, and usable experiences. The designer will autonomously lead design within a product team, navigating ambiguity and collaborating with cross-functional peers globally. Preference is given to candidates with experience in complex B2B SaaS solutions, especially in HRTech and FinTech.",
-      "salary": "$60,000 - $140,400",
-      "keywords": [
-        {
-          "keyword": "Complex B2B SaaS",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Direct match"
-        },
-        {
-          "keyword": "HRTech",
-          "inProfile": true,
-          "relevance": "preferred",
-          "note": "Aligns with iCIMS background"
-        },
-        {
-          "keyword": "FinTech",
-          "inProfile": true,
-          "relevance": "preferred",
-          "note": "Aligns with payment reconciliation experience"
-        },
-        {
-          "keyword": "End-to-end design process",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Core experience"
-        },
-        {
-          "keyword": "Autonomously lead design",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Aligns with lead capacity"
-        },
-        {
-          "keyword": "Cross-functional collaboration",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Core strength"
-        },
-        {
-          "keyword": "Systems thinking",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Core strength"
-        },
-        {
-          "keyword": "AI prototyping",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Figma Make, Cursor experience"
-        },
-        {
-          "keyword": "High-fidelity user interfaces",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Strong visual eye and craft"
-        },
-        {
-          "keyword": "User research",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Core design practice"
-        }
-      ],
-      "status": "New",
-      "scannedAt": "2026-09-01T15:27:59.101Z",
-      "isNew": false
-    },
-    {
-      "id": "job-od4sqj",
-      "title": "Senior Product Designer",
-      "company": "Athennian",
-      "companyDomain": "athennian.com",
-      "industry": "B2B SaaS, Enterprise Software, FinTech",
-      "location": "Remote (U.S. Only)",
-      "postedAt": "2026-08-31",
-      "fitScore": 9,
-      "fitTier": "Strong Fit",
-      "fitExplanation": "This role at Athennian is an excellent match for Michael's profile, focusing on complex B2B workflows and enterprise software within 'Governance Ops™' software that aligns legal, finance, tax, and fund teams. This directly maps to Michael's deep experience in transactional flows, payment reconciliation, and working with finance and revenue operations teams. The emphasis on AI-powered capabilities, advanced proficiency with Figma, Pendo, and AI tools like Claude and Cursor are perfect matches for his skill set and recent experience. The role involves leading discovery and shaping product strategy, which aligns with Michael's 0-to-1 and strategic design input capabilities. The company is a growth-stage firm, meeting the Series C or later requirement, and the role is fully remote within the US.",
-      "source": "Himalayas / Rippling",
-      "applyUrl": "https://boards.rippling.com/athennian/jobs/senior-product-designer",
-      "isOffLinkedIn": true,
-      "jobDescription": "Athennian is seeking a Senior Product Designer to help shape the next generation of their Governance Ops™ software. This role involves taking complex B2B workflows and transforming them into intuitive, modern experiences, especially with new AI-powered capabilities. The designer will work at the intersection of product strategy, customer needs, and emerging technology, partnering closely with Product, Engineering, customers, and executives to lead discovery and translate product direction into market-differentiating experiences. Key responsibilities include challenging assumptions, exploring new concepts, and delivering sophisticated SaaS and AI-enabled experiences. Candidates should have 5+ years in product design, strong product judgment, and fluency with Figma, Pendo, Claude, and Cursor.",
-      "keywords": [
-        {
-          "keyword": "Complex B2B workflows",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Core experience"
-        },
-        {
-          "keyword": "Enterprise software",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Core experience"
-        },
-        {
-          "keyword": "AI-powered features",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Figma Make, Cursor experience"
-        },
-        {
-          "keyword": "Finance and tax teams",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Deep context"
-        },
-        {
-          "keyword": "Governance Ops software",
-          "inProfile": true,
-          "relevance": "strong alignment",
-          "note": "Similar to complex data systems/transactional flows"
-        },
-        {
-          "keyword": "Product strategy",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Experience shaping strategy"
-        },
-        {
-          "keyword": "Figma",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Proficient tool"
-        },
-        {
-          "keyword": "Pendo",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Proficient tool"
-        },
-        {
-          "keyword": "Cursor",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Proficient tool"
-        },
-        {
-          "keyword": "User research",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Core design practice"
-        },
-        {
-          "keyword": "0-to-1 discovery",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Core strength"
-        }
-      ],
-      "status": "New",
-      "scannedAt": "2026-09-01T15:27:59.101Z",
-      "isNew": false
-    },
-    {
-      "id": "job-dvpkp2",
-      "title": "Senior Product Designer",
-      "specialty": "Web Tools",
-      "company": "Toast",
-      "companyDomain": "toasttab.com",
-      "industry": "Fintech, B2B SaaS",
-      "location": "Remote (U.S. Only)",
-      "postedAt": "2026-09-01",
-      "fitScore": 8,
-      "fitTier": "Good Fit",
-      "fitExplanation": "This role at Toast is a good fit due to its B2B SaaS environment and focus on AI-powered experiences, which aligns with Michael's expertise in AI tools. Toast is a public company, meeting the company stage requirement, and the role is remote in the US. While the 'Web Tools' and 'marketing website' aspect is less aligned with Michael's core B2B transactional platform experience, his strong visual eye, systems thinking, and ability to bring clarity to complex interfaces are valuable here. The requirement for solid UI/UX principles, interaction design, information architecture, and accessibility also matches his skill set.",
-      "source": "Toast Careers",
-      "applyUrl": "https://careers.toasttab.com/jobs/R14905/senior-product-designer-web-tools",
-      "isOffLinkedIn": true,
-      "jobDescription": "Toast is looking for a Senior Product Designer to join its Web Experience Design team, focusing on shaping the next generation of AI-powered experiences on the marketing website. This includes intelligent chatbots and personalized visitor journeys. The designer will collaborate with Web Strategy, Web Engineering, Marketing, and AI/ML partners. Requirements include 4+ years of product or web design experience in a B2B SaaS environment, exposure to AI-powered features, strong UI/UX principles (interaction design, information architecture, accessibility), and comfort working with technical constraints.",
-      "salary": "$95,000 - $152,000",
-      "keywords": [
-        {
-          "keyword": "B2B SaaS",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Core industry"
-        },
-        {
-          "keyword": "AI-powered features",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Figma Make, Cursor experience"
-        },
-        {
-          "keyword": "UI/UX principles",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Core design practice"
-        },
-        {
-          "keyword": "Interaction design",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Core design practice"
-        },
-        {
-          "keyword": "Information architecture",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Core design practice"
-        },
-        {
-          "keyword": "Accessibility",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Core design practice"
-        },
-        {
-          "keyword": "Systems thinking",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Core strength"
-        },
-        {
-          "keyword": "Figma",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Proficient tool"
-        }
-      ],
-      "status": "New",
-      "scannedAt": "2026-09-01T15:27:59.101Z",
-      "isNew": false
-    },
-    {
       "id": "job-dvgn7v",
       "title": "Senior Product Designer",
       "company": "Tabby",
@@ -2149,7 +1909,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-09-14T22:30:35.190Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-wb0tcn",
@@ -2896,7 +2656,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-09-14T22:30:35.190Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-8wr3a",
@@ -2954,7 +2714,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-09-14T22:30:35.190Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-ocslbe",
@@ -3042,7 +2802,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-09-14T22:30:35.190Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-kilfsi",
@@ -3106,7 +2866,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-09-14T22:30:35.190Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-4yprwt",
@@ -3206,8 +2966,8 @@
       ],
       "status": "New",
       "scannedAt": "2026-09-14T22:30:35.190Z",
-      "isNew": true
+      "isNew": false
     }
   ],
-  "scannedAt": "2026-09-14T22:31:51.975Z"
+  "scannedAt": "2026-09-15T15:35:08.879Z"
 }
