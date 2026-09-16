@@ -152,101 +152,6 @@
       "isNew": false
     },
     {
-      "id": "job-d136go",
-      "title": "Senior Product Designer",
-      "company": "LogicGate",
-      "companyDomain": "logicgate.com",
-      "industry": "Enterprise Software, SaaS, Cyber Security, Risk Management, Compliance",
-      "location": "Remote US",
-      "postedAt": "2026-09-01",
-      "fitScore": 9,
-      "fitTier": "Strong Fit",
-      "fitExplanation": "This role is an excellent match for Michael Crane's profile. It focuses on complex B2B SaaS and enterprise software, specifically in governance, risk, and compliance (GRC), which aligns with his experience in high-stakes, high-complexity problem spaces. The responsibilities include leading end-to-end design, navigating ambiguous problem spaces (0-to-1), crafting data-dense user journeys, integrating AI capabilities, and evolving a design system, all of which are strong areas for Michael. The role also involves collaborating with product and engineering and mentoring junior designers, fitting his cross-functional and leadership experience. LogicGate is a Series C funded company, meeting the financial stability preference. The fully remote U.S. location is highly preferred by the candidate. Michael's 10+ years of experience significantly exceeds the 3-7 years required, positioning him strongly for this senior-level role.",
-      "source": "jobright.ai (via multiple aggregators)",
-      "applyUrl": "N/A",
-      "isOffLinkedIn": false,
-      "jobDescription": "LogicGate, a leader in AI GRC (Governance, Risk, and Compliance) platforms for enterprises, is seeking a Senior Product Designer. This role involves enhancing the Risk Cloud® platform by designing intuitive, high-impact user experiences across various features. The designer will work in an ambiguous environment, partnering closely with Product Management and Engineering to transform complex enterprise risk workflows into streamlined solutions. This position is pivotal in elevating product quality, contributing to the existing design system, and mentoring other design team members.\n\nCore Responsibilities:\n*   Lead end-to-end design initiatives for complex features within the Risk Cloud® platform, from early discovery and hypothesis framing through final review and delivery.\n*   Design sophisticated enterprise experiences, including multi-step, data-dense user journeys, simplifying information architecture, dashboard analytics, and AI-assisted platform interactions.\n*   Integrate human-centered AI capabilities into the design process, ensuring complex automated risk predictions and insights are intuitive and trustworthy for enterprise users.\n*   Collaborate with Product Managers to define problem statements, break down ambiguous briefs, and align business outcomes with customer needs.\n*   Contribute systematically to and evolve the Risk Cloud's design system, including proposing new components, documenting patterns, and advocating for interaction consistency.\n*   Execute and accelerate qualitative and quantitative user research sessions, synthesizing insights to influence product direction and sharing actionable findings with cross-functional partners.\n*   Elevate the team's design practice and culture through co-leading critiques, facilitating process improvements, and providing informal mentorship to mid-level and junior Product Designers.\n\nRequirements:\n*   3-7 years of experience as a Product Designer or UX Designer focused on complex B2B software or enterprise SaaS platforms, with a portfolio demonstrating shipped, high-impact features.\n*   Advanced proficiency in Figma, including component library structures, interactive prototyping, and developer handoff practices.\n*   Proven experience actively contributing to and expanding design systems at scale.\n*   Demonstrated ability to tackle ambiguous problems, define problem spaces, and create structured, scalable solutions.\n*   Practical curiosity and experience utilizing AI tools for research synthesis, rapid prototyping, and workflow enhancement.\n*   Strong research and data synthesis skills for planning, executing, and translating user research into clear design direction.\n*   Excellent cross-functional collaboration skills with Product Management, Engineering, and customer-facing experts, balancing user experience with technical constraints and business strategy.",
-      "specialty": "GRC Platform",
-      "salary": "$125k - $155k",
-      "keywords": [
-        {
-          "keyword": "B2B SaaS",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Michael has 10+ years experience in B2B SaaS and currently leads design for a complex enterprise platform."
-        },
-        {
-          "keyword": "Enterprise software",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Michael specializes in complex enterprise software and data-heavy interfaces."
-        },
-        {
-          "keyword": "AI capabilities",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Michael has experience using AI tools like Figma Make and Cursor to accelerate design."
-        },
-        {
-          "keyword": "Design Systems",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Michael has extensive experience building and scaling design systems, reducing design-to-development cycles."
-        },
-        {
-          "keyword": "User Research",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Michael conducts user research, affinity mapping, and heuristic evaluations."
-        },
-        {
-          "keyword": "Figma",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Figma is Michael's primary design tool, with advanced proficiency."
-        },
-        {
-          "keyword": "Prototyping",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Michael has strong prototyping skills, including high-fidelity interactive prototyping."
-        },
-        {
-          "keyword": "Ambiguous problem spaces",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Michael thrives in 0-to-1 and ambiguous problem spaces, creating structure when needed."
-        },
-        {
-          "keyword": "Cross-functional collaboration",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Michael operates effectively with PMs, engineering leads, and executives, and values strong PM partnership."
-        },
-        {
-          "keyword": "Mentorship",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Michael has managed and mentored a team of designers."
-        },
-        {
-          "keyword": "Complex workflows",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Michael specializes in complex workflows, transactional flows, and data systems."
-        },
-        {
-          "keyword": "Data-dense interfaces",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Michael specializes in data-heavy interfaces and brings visual craft to information-dense software."
-        }
-      ],
-      "status": "New",
-      "scannedAt": "2026-09-02T15:06:29.200Z",
-      "isNew": false
-    },
-    {
       "id": "job-mndc6p",
       "title": "Staff Product Designer",
       "company": "Wealth.com",
@@ -2967,7 +2872,171 @@
       "status": "New",
       "scannedAt": "2026-09-14T22:30:35.190Z",
       "isNew": false
+    },
+    {
+      "id": "job-db3wj4",
+      "title": "Senior Product Designer",
+      "company": "Clio",
+      "companyDomain": "clio.com",
+      "industry": "Legal Tech / B2B SaaS",
+      "location": "Remote (US Only)",
+      "postedAt": "2026-09-15",
+      "fitScore": 9,
+      "fitTier": "Strong Fit",
+      "fitExplanation": "This role aligns strongly with Michael's expertise in complex B2B SaaS products, particularly with its focus on data-heavy interfaces, insights, and reporting within legal practice management, which involves financial and operational workflows. His experience at Tackle.io with transactional platforms, payment reconciliation, and revenue tracking directly translates to the need for simplifying complex domain logic and working with data/platform teams. The requirement for AI tool proficiency (Figma Make) is also a direct match with Michael's profile. The company stage (global leader) indicates it's Series C or later, and the remote US location is a perfect fit.",
+      "source": "Clio Careers Page (via Google Search)",
+      "applyUrl": "N/A",
+      "isOffLinkedIn": true,
+      "jobDescription": "Clio is seeking a Senior Product Designer to join their Product Design team, focusing on the Clio Manage platform to redefine legal service experiences. This role involves shaping the product vision for real-time insights, complex reporting, and analytics, and leading the end-to-end design process from strategic discovery to launch and iteration. The designer will work on tools that help users understand business performance across firm growth, case management, finance, and firm operations, operating at the intersection of data visualization, content design, and complex data architecture. The position emphasizes customer empathy, translating ambiguity into clear direction, and cross-functional collaboration to achieve meaningful outcomes. \n\n**Core Responsibilities:**\n*   Define and execute the experience strategy for real-time insights, complex reporting, and analytics.\n*   Lead the end-to-end design process, from strategic discovery and framing to development, launch, and iteration.\n*   Shape the product vision in collaboration with Product Management and Engineering.\n*   Partner with Product and Engineering to define and execute on experience design strategy and success metrics, using research and insights.\n*   Translate deep customer empathy into actionable, strategic design directions.\n\n**Requirements:**\n*   6+ years of experience designing digital products, with B2B SaaS experience preferred.\n*   A strong portfolio showcasing data-heavy products, such as dashboards and analytics tools.\n*   Ability to simplify complex domain logic into intuitive interfaces for non-technical users.\n*   Experience partnering with data and platform teams where structural and performance constraints are central to design.\n*   Expertise in interaction design, information architecture, and visual design with a track record of high-quality execution.\n*   Highly capable in design and prototyping tools and solid use of AI tools in your process (e.g., Figma Make, Claude, Gemini).\n*   Strong communication and presentation skills, including clear articulation of rationale and trade-offs.\n*   Collaborative, low-ego partner who facilitates alignment and drives confident execution.",
+      "specialty": "Insights and Reporting",
+      "keywords": [
+        {
+          "keyword": "B2B SaaS",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Explicitly mentioned and preferred. Michael has 10+ years experience."
+        },
+        {
+          "keyword": "Data-heavy interfaces",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Key focus of the role, aligns with Michael's experience in complex data systems."
+        },
+        {
+          "keyword": "Transactional workflows",
+          "inProfile": true,
+          "relevance": "moderate",
+          "note": "While not central, financial operations and reporting often involve transactional context Michael excels in."
+        },
+        {
+          "keyword": "Payment reconciliation",
+          "inProfile": true,
+          "relevance": "moderate",
+          "note": "Relevant to financial operations mentioned in the role."
+        },
+        {
+          "keyword": "AI tools",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Explicitly mentioned (Figma Make, Claude, Gemini), aligns with Michael's use of Figma Make and Cursor."
+        },
+        {
+          "keyword": "Figma",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Explicitly mentioned as a key tool."
+        },
+        {
+          "keyword": "User Research",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Emphasized by \"customer-centric approach\" and \"translating insights\"."
+        },
+        {
+          "keyword": "Information Architecture",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Explicitly mentioned as an area of expertise required."
+        },
+        {
+          "keyword": "Visual Design",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Explicitly mentioned as an area of expertise required, aligns with Michael's strong visual eye."
+        },
+        {
+          "keyword": "Design Systems",
+          "inProfile": true,
+          "relevance": "moderate",
+          "note": "Implied by the need for consistency and high-quality experiences, though not explicitly mentioned. Michael has strong experience."
+        },
+        {
+          "keyword": "0-to-1 discovery",
+          "inProfile": true,
+          "relevance": "strong",
+          "note": "Role involves shaping product vision and strategic discovery."
+        },
+        {
+          "keyword": "Cross-functional collaboration",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Emphasized in the job description."
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-09-16T15:25:34.732Z",
+      "isNew": true
+    },
+    {
+      "id": "job-a7uly4",
+      "title": "Senior Product Designer",
+      "company": "Magic Eden",
+      "companyDomain": "magiceden.io",
+      "industry": "Blockchain, Crypto & Web3",
+      "location": "Remote (United States)",
+      "postedAt": "2026-09-16",
+      "fitScore": 4,
+      "fitTier": "Possible",
+      "fitExplanation": "This role is for a Senior Product Designer on a crypto casino and sportsbook platform, which falls under consumer apps (sports betting) and a blockchain/crypto industry. While Michael has strong experience in complex workflows, high-fidelity prototyping, and leadership, his core expertise is in B2B SaaS, enterprise software, and FinTech adjacent to traditional finance. He explicitly states he is not looking for 'pure consumer apps' and lacks deep context in crypto or sports betting. The job description itself notes 'Critical gaps: Marketplace business model; Revenue operations depth' in its match analysis, which are areas Michael excels in, further indicating a weaker fit.",
+      "source": "Jobgether",
+      "applyUrl": "N/A",
+      "isOffLinkedIn": true,
+      "jobDescription": "Magic Eden is seeking a Senior Product Designer to help shape the core user experience for their sportsbook platform, Dicey. This role is for a hands-on designer who excels at executing complex, high-velocity consumer flows and collaborating closely with cross-functional peers. The designer will contribute directly to impactful sportsbook initiatives, elevate design quality, and mentor team members. The company is a fast-growing unicorn in the NFT marketplace space, now expanding into iGaming and sports betting with an AI-native approach to growth. \n\n**Core Responsibilities:**\n*   Act as the primary hands-on designer for the sports betting platform.\n*   Define and drive the overall product design vision and strategy for the sports suite, aligning with business objectives and user needs.\n*   Lead the design of major features, including user flows, wireframes, and high-fidelity prototypes.\n*   Collaborate closely with Product and Engineering leadership to align on roadmaps and prioritize efforts.\n*   Elevate the team through mentorship, providing direct feedback and leading design critiques.\n\n**Requirements:**\n*   6+ years of experience in product design at a senior level.\n*   Basic understanding of crypto and decentralized platforms.\n*   Deep enthusiasm for sports and sports betting.\n*   Expert proficiency in Figma and modern design tools.\n*   Excels at executing complex, high-velocity consumer flows.\n*   Strong communication and collaboration skills.",
+      "specialty": "Sportsbook",
+      "keywords": [
+        {
+          "keyword": "Complex workflow design",
+          "inProfile": true,
+          "relevance": "strong",
+          "note": "The role requires excelling at complex, high-velocity consumer flows, aligning with Michael's strength in complex B2B workflows."
+        },
+        {
+          "keyword": "High-fidelity interactive prototyping",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Explicitly mentioned in responsibilities (wireframes, high-fidelity prototypes)."
+        },
+        {
+          "keyword": "Figma",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Explicitly mentioned as an expert proficiency."
+        },
+        {
+          "keyword": "Design Systems",
+          "inProfile": true,
+          "relevance": "moderate",
+          "note": "Implied by the need for cohesive user experience and elevating design quality, though not explicitly mentioned. Michael has strong experience."
+        },
+        {
+          "keyword": "Cross-functional collaboration",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Emphasized in the job description."
+        },
+        {
+          "keyword": "Mentorship",
+          "inProfile": true,
+          "relevance": "strong",
+          "note": "Role involves elevating the team through mentorship, aligning with Michael's experience."
+        },
+        {
+          "keyword": "B2B SaaS",
+          "inProfile": true,
+          "relevance": "weak",
+          "note": "The role is primarily consumer-facing, deviating from Michael's B2B focus."
+        },
+        {
+          "keyword": "Cloud marketplace",
+          "inProfile": true,
+          "relevance": "weak",
+          "note": "While Magic Eden is an NFT marketplace, this specific role is for a sports betting platform, not B2B cloud marketplace infrastructure Michael specializes in."
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-09-16T15:25:34.732Z",
+      "isNew": true
     }
   ],
-  "scannedAt": "2026-09-15T22:14:41.824Z"
+  "scannedAt": "2026-09-16T15:29:29.330Z"
 }
