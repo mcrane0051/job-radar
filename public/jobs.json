@@ -76,124 +76,6 @@
       "isNew": false
     },
     {
-      "id": "job-t3366h",
-      "title": "Staff Product Designer",
-      "company": "Remote",
-      "companyDomain": "remote.com",
-      "industry": "HR Tech, Fintech, B2B SaaS",
-      "location": "Remote (U.S. Only)",
-      "postedAt": "2026-09-04",
-      "fitScore": 9,
-      "fitTier": "Strong Fit",
-      "fitExplanation": "This role is a strong fit due to its Staff Product Designer title and fully remote U.S. location. The focus on a 'Pay Ecosystem' and B2B SaaS in HRTech/Fintech directly aligns with Michael's deep expertise in transactional flows, payment reconciliation, and complex B2B SaaS products. His experience in 0-to-1 initiatives, platform design, and design systems is highly relevant. The requirement for an IC leader who influences quality and culture also matches Michael's aspirations. While the exact Series C+ funding for 'Remote' was not explicitly found in the snippets, a company building a comprehensive HR platform with a 'Pay Ecosystem' at a Staff Product Designer level is highly likely to be well-funded and beyond early stage.",
-      "source": "Jobgether / Remote Referral",
-      "applyUrl": "N/A",
-      "isOffLinkedIn": false,
-      "jobDescription": "This Staff Product Designer role at Remote (a global HR platform) involves leading design for the company's core 'Pay Ecosystem'. The position requires an individual contributor leader to drive design excellence across critical features and strategic initiatives, influencing quality, culture, and ways of working. The designer will be challenged with complex and intricate problems related to payments and HR technology, requiring primary research, robust strategy, innovative concepts, and brilliant execution. The role emphasizes shaping the design system and overall product experience, with a focus on enterprise users and complex B2B SaaS solutions.\n\n**Core Responsibilities:**\n* Lead all design for your domain, making strategic design and user-experience decisions related to core features and future functionality.\n* Increase the level of team maturity through mentoring, giving and soliciting feedback, and working collaboratively to continually raise design quality.\n* Partner effectively with cross-functional teams and stakeholders to understand customer needs, generate creative ideas, validate solutions, and implement to high standards.\n* Create user flows, from low-fidelity wireframes to pixel-ready designs.\n* Advocate and collaborate with product designers, engineers, product managers, and stakeholders worldwide.\n* Focus on improving the design system and overall product experience.\n\n**Requirements:**\n* Exemplary experience designing, evolving, and innovating user interfaces.\n* Ability to empathize with enterprise users and apply user-centered design techniques.\n* Impeccable portfolio of product design work demonstrating leadership and impact.\n* Masterful communication skills for collaboration and guidance.\n* Preference for candidates with experience designing complex B2B SaaS solutions for industries like HRTech, FinTech.\n* Demonstrated strong automation and AI capabilities and AI fluency.\n* While not required, experience working remotely is a plus.",
-      "specialty": "Pay Ecosystem",
-      "keywords": [
-        {
-          "keyword": "Staff Product Designer",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Target Title"
-        },
-        {
-          "keyword": "Remote U.S.",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Preferred Location"
-        },
-        {
-          "keyword": "Pay Ecosystem",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Strong alignment with Michael's experience in payment reconciliation and transactional flows."
-        },
-        {
-          "keyword": "HRTech",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Deep Context Industry"
-        },
-        {
-          "keyword": "FinTech",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Deep Context Industry (FinTech adjacent)"
-        },
-        {
-          "keyword": "B2B SaaS",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Primary Industry Expertise"
-        },
-        {
-          "keyword": "Complex B2B SaaS",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Strong alignment with Michael's expertise"
-        },
-        {
-          "keyword": "Transactional workflows",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Strong alignment with Michael's expertise"
-        },
-        {
-          "keyword": "Payment Reconciliation",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Strong alignment with Michael's expertise"
-        },
-        {
-          "keyword": "Enterprise workflows",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Strong alignment with Michael's expertise"
-        },
-        {
-          "keyword": "Design Systems",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Core Skill and Expertise"
-        },
-        {
-          "keyword": "0-to-1 initiatives",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Thrives in this area"
-        },
-        {
-          "keyword": "User Research",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Design practice and expertise"
-        },
-        {
-          "keyword": "Prototyping",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Design practice and expertise"
-        },
-        {
-          "keyword": "Figma",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Tool proficiency (implied by design system work)"
-        },
-        {
-          "keyword": "AI capabilities",
-          "inProfile": true,
-          "relevance": "good to have",
-          "note": "Michael uses AI tools (Figma Make, Cursor)"
-        }
-      ],
-      "status": "New",
-      "scannedAt": "2026-09-04T21:29:10.603Z",
-      "isNew": false
-    },
-    {
       "id": "job-39s923",
       "title": "Senior Product Designer",
       "company": "Runpod",
@@ -1616,7 +1498,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-09-18T14:59:23.283Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-acwcue",
@@ -3509,7 +3391,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-09-18T14:59:23.283Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-4r0k9z",
@@ -3567,7 +3449,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-09-18T14:59:23.283Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-8mcft7",
@@ -3636,7 +3518,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-09-18T14:59:23.283Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-r2bsdz",
@@ -3687,7 +3569,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-09-18T14:59:23.283Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-wwr46r",
@@ -3744,7 +3626,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-09-18T14:59:23.283Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-247ds4",
@@ -3801,7 +3683,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-09-18T14:59:23.283Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-h7dmmk",
@@ -3859,7 +3741,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-09-18T14:59:23.283Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-gthcb8",
@@ -3917,8 +3799,168 @@
       ],
       "status": "New",
       "scannedAt": "2026-09-18T14:59:23.283Z",
+      "isNew": false
+    },
+    {
+      "id": "job-30yvyf",
+      "title": "Senior Product Designer",
+      "company": "Remote",
+      "companyDomain": "remote.com",
+      "industry": "B2B SaaS, HRTech, Fintech",
+      "location": "Remote (U.S. Only)",
+      "postedAt": "2026-09-17",
+      "fitScore": 9,
+      "fitTier": "Strong Fit",
+      "fitExplanation": "This role aligns very strongly with Michael's profile, particularly his expertise in complex B2B SaaS products and experience in HRTech and FinTech adjacent domains. The emphasis on influencing product strategy, applying research methodologies, autonomously leading design, and leveraging AI prototyping directly matches Michael's skills and 'Types of Work I Do Best'. The remote-first nature is also a strong preference for the candidate. The company's maturity (well past Series C) also meets the candidate's preferences.",
+      "source": "Google Search (likely company career page via redirect)",
+      "applyUrl": "N/A",
+      "isOffLinkedIn": true,
+      "jobDescription": "This Senior Product Designer role is an engaged member of the design organization, focused on delivering quality user experiences and shaping the design culture. The ideal candidate will have experience designing complex B2B SaaS solutions for industries such as HRTech and FinTech. The role requires influencing product team strategy, identifying impact opportunities, and collaborating with cross-functional peers. Key responsibilities include applying appropriate research methodologies, empathizing with customer challenges, and developing intimate knowledge of the problem space. Leveraging AI prototyping for conceptual exploration and bringing ideas to life with functional flows is also a key aspect. The role expects a high level of maturity across the end-to-end design process, the ability to autonomously lead design within a product team, and comfort navigating ambiguity.",
+      "specialty": "",
+      "salary": "$60,000 - $140,400",
+      "keywords": [
+        {
+          "keyword": "Senior Product Designer",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Direct title match."
+        },
+        {
+          "keyword": "B2B SaaS",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Explicitly mentioned and a core strength of Michael's."
+        },
+        {
+          "keyword": "HRTech",
+          "inProfile": true,
+          "relevance": "preferred",
+          "note": "Explicitly mentioned as a preferred industry, matching Michael's background."
+        },
+        {
+          "keyword": "FinTech",
+          "inProfile": true,
+          "relevance": "preferred",
+          "note": "Explicitly mentioned as a preferred industry, matching Michael's adjacent experience."
+        },
+        {
+          "keyword": "Complex workflows",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Implied by 'complex B2B SaaS solutions' and Michael's experience."
+        },
+        {
+          "keyword": "End-to-end design process",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Core responsibility matching Michael's experience across the full design lifecycle."
+        },
+        {
+          "keyword": "Influencing strategy",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Explicitly mentioned and aligns with Michael's experience shaping design strategy."
+        },
+        {
+          "keyword": "User research",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Explicitly mentioned 'applying the right research methodology' matching Michael's skills."
+        },
+        {
+          "keyword": "AI prototyping",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Explicitly mentioned and aligns with Michael's use of AI tools."
+        },
+        {
+          "keyword": "Navigating ambiguity",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Explicitly mentioned, matching Michael's strength in 0-to-1 and ambiguous problem spaces."
+        },
+        {
+          "keyword": "Cross-functional collaboration",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Emphasized collaboration, matching Michael's preferred team culture."
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-09-18T21:42:06.552Z",
+      "isNew": true
+    },
+    {
+      "id": "job-ndtwns",
+      "title": "Senior Product Designer",
+      "company": "Current",
+      "companyDomain": "current.com",
+      "industry": "Fintech (Consumer-facing with B2B-like complexity)",
+      "location": "Hybrid - New York, NY",
+      "postedAt": "2026-09-18",
+      "fitScore": 7.5,
+      "fitTier": "Good Fit",
+      "fitExplanation": "While Current operates in the consumer fintech space, which Michael typically excludes, this role heavily emphasizes owning and scaling a design system and designing complex banking workflows (onboarding, payments, liquidity features). Michael has a strong background in visual systems, design systems, and complex transactional flows, making this a good match for his specialized skills. The company is well-funded (Series D), meeting the company stage preference. However, the role is hybrid, leading to a 1.5-point deduction, and the consumer-facing nature, while complex, slightly deviates from his primary B2B focus.",
+      "source": "Built In NYC",
+      "applyUrl": "N/A",
+      "isOffLinkedIn": true,
+      "jobDescription": "Current is seeking a Senior Product Designer to curate and scale the design language powering their product experience. This role involves owning and scaling the design system, encompassing foundational tokens, components, documentation, and accessibility standards, while also driving its adoption across teams. The designer will partner closely with engineering to align Figma and product implementations, audit product surfaces, and lead consolidation efforts. Additionally, the role entails owning the end-to-end UX for a primary banking workflow, such as new user onboarding, payments, or liquidity features, collaborating with product managers, and providing feedback to other product designers. The position requires a senior-level designer focused on driving impact and building better financial futures for members.",
+      "specialty": "Design System Lead",
+      "salary": "$135,000 - $172,000",
+      "keywords": [
+        {
+          "keyword": "Senior Product Designer",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Direct title match."
+        },
+        {
+          "keyword": "Design systems",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Core responsibility of the role, a strong area for Michael."
+        },
+        {
+          "keyword": "Visual systems",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Underpins the design system work, aligning with Michael's background."
+        },
+        {
+          "keyword": "Fintech",
+          "inProfile": true,
+          "relevance": "strong alignment",
+          "note": "Fintech adjacent experience is a deep context for Michael."
+        },
+        {
+          "keyword": "Complex workflows",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Focus on banking workflows (onboarding, payments, liquidity) aligns with Michael's experience in transactional flows."
+        },
+        {
+          "keyword": "Cross-functional collaboration",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Partnering with engineering and product managers is explicitly mentioned."
+        },
+        {
+          "keyword": "UI Design",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Implied by design system and UX ownership."
+        },
+        {
+          "keyword": "Prototyping",
+          "inProfile": true,
+          "relevance": "implied",
+          "note": "Standard for end-to-end UX ownership."
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-09-18T21:42:06.552Z",
       "isNew": true
     }
   ],
-  "scannedAt": "2026-09-18T15:00:26.130Z"
+  "scannedAt": "2026-09-18T21:42:46.106Z"
 }
