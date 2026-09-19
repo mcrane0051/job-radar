@@ -3888,7 +3888,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-09-18T21:42:06.552Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-ndtwns",
@@ -3959,8 +3959,379 @@
       ],
       "status": "New",
       "scannedAt": "2026-09-18T21:42:06.552Z",
+      "isNew": false
+    },
+    {
+      "id": "job-k6vjmf",
+      "title": "Senior Product Designer",
+      "company": "American Express (Resy)",
+      "companyDomain": "americanexpress.com",
+      "industry": "B2B SaaS, Hospitality Tech",
+      "location": "Hybrid, New York, NY",
+      "postedAt": "2026-09-18",
+      "fitScore": 8,
+      "fitTier": "Good Fit",
+      "fitExplanation": "This role is a strong match for Michael's expertise in complex B2B SaaS, multi-step workflows, and enterprise systems, specifically for the restaurant and hospitality industry. The mention of operational tools and cross-platform experiences aligns well with his background. His proficiency in Figma and experience with AI tools are also directly relevant. The role is hybrid in NYC, which is a preferred location for Michael, though a slight deduction in score is applied for being hybrid rather than fully remote. The company is well-established, meeting the Series C or later requirement.",
+      "source": "Built In NYC",
+      "applyUrl": "N/A",
+      "isOffLinkedIn": false,
+      "jobDescription": "As a Senior Product Designer on the Global Dining, Resy Venues team, you will be responsible for creating user-centered experiences and interfaces for products that empower restaurants, wineries, and hospitality businesses to manage complex workflows efficiently. You will lead design from discovery and concept development through detailed interaction design, high-fidelity specifications, and post-launch iteration. The role requires partnering with product managers, engineers, researchers, data specialists, design leads, and business stakeholders to translate needs into scalable solutions.\n\nKey Responsibilities:\n* Design end-to-end B2B SaaS experiences for venue operators and internal teams.\n* Lead discovery, prototyping, detailed interaction design, usability research, and iteration.\n* Create design artifacts such as journey maps, service blueprints, user flows, wireframes, prototypes, and high-fidelity specifications.\n* Translate customer feedback, business needs, product data, and technical constraints into usable product experiences.\n* Prototype using Figma and AI-enabled tools.\n* Contribute to the design system and improve team processes.\n\nRequirements:\n* Strong background in B2B SaaS product design, particularly with complex systems, multi-step workflows, permissions, and operational tools.\n* Comfortable working across various platforms.\n* Ability to identify appropriate design artifacts based on project needs and timelines.\n* Experience prototyping with AI-enabled tools and openness to adopting new tools.",
+      "specialty": "Venues - Resy",
+      "keywords": [
+        {
+          "keyword": "B2B SaaS",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Matches Michael's primary expertise."
+        },
+        {
+          "keyword": "complex systems",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Directly aligns with Michael's specialization."
+        },
+        {
+          "keyword": "multi-step workflows",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Matches Michael's experience in transactional flows."
+        },
+        {
+          "keyword": "operational tools",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Relevant to Michael's work on seller workflows and revenue ops."
+        },
+        {
+          "keyword": "cross-platform experiences",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Relates to Michael's experience across web and mobile platforms."
+        },
+        {
+          "keyword": "journey maps",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Included in Michael's design practice skills."
+        },
+        {
+          "keyword": "user flows",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Included in Michael's design practice skills."
+        },
+        {
+          "keyword": "wireframes",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Included in Michael's design practice skills."
+        },
+        {
+          "keyword": "prototypes",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Included in Michael's design practice skills."
+        },
+        {
+          "keyword": "interaction models",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Matches Michael's tactile interaction design philosophy."
+        },
+        {
+          "keyword": "high-fidelity specifications",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Matches Michael's design lifecycle experience."
+        },
+        {
+          "keyword": "customer feedback",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Relevant to Michael's user research experience."
+        },
+        {
+          "keyword": "business requirements",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Matches Michael's cross-functional collaboration experience."
+        },
+        {
+          "keyword": "product data",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Relevant to Michael's experience with data-heavy interfaces."
+        },
+        {
+          "keyword": "technical constraints",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Matches Michael's ability to work closely with engineering."
+        },
+        {
+          "keyword": "Figma",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Core tool for Michael."
+        },
+        {
+          "keyword": "AI-enabled tools",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael explicitly uses Figma Make and Cursor."
+        },
+        {
+          "keyword": "design systems",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael has experience establishing and scaling design systems."
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-09-19T21:27:47.459Z",
+      "isNew": true
+    },
+    {
+      "id": "job-yosx0c",
+      "title": "Senior Product Designer",
+      "company": "Datavant",
+      "companyDomain": "datavant.com",
+      "industry": "Enterprise Software, Healthcare Data",
+      "location": "Remote (Work from Home)",
+      "postedAt": "2026-09-18",
+      "fitScore": 9,
+      "fitTier": "Strong Fit",
+      "fitExplanation": "This role is an excellent fit for Michael, emphasizing enterprise, workflow, platform, and data-intensive products, which are core to his expertise in complex B2B SaaS and data systems. The focus on 0-to-1 products, self-service experiences, and evolving core platforms aligns perfectly with his ability to thrive in ambiguous problem spaces and scale existing products. His experience with user research, interaction/visual design, and working with Product and Engineering teams is directly applicable. Datavant's company stage (well beyond Series C through acquisition) also meets the requirement.",
+      "source": "Himalayas",
+      "applyUrl": "N/A",
+      "isOffLinkedIn": false,
+      "jobDescription": "Datavant is seeking a Senior Product Designer to join a client-focused product team focused on reimagining how medical records are retrieved and delivered. This is a highly collaborative, hands-on role requiring a blend of strong design craft and product thinking. You will manage the entire design process, working directly with clients and internal users, and collaborating closely with Product and Engineering to transform complex healthcare workflows into simple, effective experiences.\n\nKey Responsibilities:\n* Lead end-to-end product design, from discovery and problem framing through prototyping, validation, implementation, and iteration.\n* Shape and launch 0-to-1 products to expand Datavant's value delivery.\n* Design self-service experiences to enhance user visibility, control, and confidence in the retrieval process.\n* Evolve the core client platform and internal operational tools to improve usability and streamline workflows.\n* Directly engage with clients and internal users through interviews, workflow observation, concept testing, and usability research.\n\nRequirements:\n* 6+ years of product design experience, with a focus on enterprise, workflow, platform, or data-intensive products.\n* A strong portfolio showcasing end-to-end ownership, excellent interaction and visual design craft, and demonstrated impact.\n* Experience taking ambiguous opportunities from 0 to 1, including problem framing, solution exploration, concept validation, and post-launch learning.\n* Self-directed, curious, comfortable with ambiguity, and motivated by measurable customer and business outcomes.",
+      "keywords": [
+        {
+          "keyword": "enterprise",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Matches Michael's B2B SaaS and enterprise software experience."
+        },
+        {
+          "keyword": "workflow",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Directly aligns with Michael's complex workflow design expertise."
+        },
+        {
+          "keyword": "platform",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Matches Michael's experience with platform and systems-level design."
+        },
+        {
+          "keyword": "data-intensive products",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Matches Michael's expertise in complex data systems."
+        },
+        {
+          "keyword": "end-to-end ownership",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Matches Michael's operation across the full design lifecycle."
+        },
+        {
+          "keyword": "interaction and visual design craft",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Highlights Michael's strong visual eye and tactile interaction design."
+        },
+        {
+          "keyword": "0 to 1",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Matches Michael's experience in ambiguous problem spaces."
+        },
+        {
+          "keyword": "problem framing",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Matches Michael's discovery phase involvement."
+        },
+        {
+          "keyword": "self-service experiences",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Matches Michael's work on self-serve onboarding and user enablement."
+        },
+        {
+          "keyword": "usability",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Included in Michael's design practice skills."
+        },
+        {
+          "keyword": "streamline workflows",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Matches Michael's focus on simplifying workflows and reducing friction."
+        },
+        {
+          "keyword": "interviews",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Included in Michael's user research skills."
+        },
+        {
+          "keyword": "workflow observation",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Relevant to Michael's user research methods."
+        },
+        {
+          "keyword": "concept testing",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Relevant to Michael's user research methods."
+        },
+        {
+          "keyword": "usability research",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Included in Michael's user research skills."
+        },
+        {
+          "keyword": "Product",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Matches Michael's cross-functional collaboration with PMs."
+        },
+        {
+          "keyword": "Engineering",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Matches Michael's cross-functional collaboration with engineering."
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-09-19T21:27:47.459Z",
+      "isNew": true
+    },
+    {
+      "id": "job-dwkhpr",
+      "title": "Senior Product Designer",
+      "company": "Vanta",
+      "companyDomain": "vanta.com",
+      "industry": "B2B SaaS, Security and Compliance",
+      "location": "Remote (Work from Home)",
+      "postedAt": "2026-09-19",
+      "fitScore": 9,
+      "fitTier": "Strong Fit",
+      "fitExplanation": "This role is an excellent match for Michael, focusing on B2B SaaS, complex workflows, and sophisticated software products. His experience with AI tools and making complex systems clear and trustworthy is highly relevant, especially for designing agent experiences and automated workflows in security and compliance. The emphasis on problem framing, discovery, and iteration aligns with his full design lifecycle expertise. Vanta's Series C stage meets the company stage preference, and the role is fully remote within the U.S.",
+      "source": "Remote Source",
+      "applyUrl": "N/A",
+      "isOffLinkedIn": false,
+      "jobDescription": "Vanta is looking for a Senior Product Designer, Agent Experience, to define how AI agents assist security and compliance teams in achieving meaningful work with enhanced clarity, control, and trust within Vanta's ecosystem. The Agent Experience team builds agent-led solutions, owning the agent harness (including agents, skills, tools, and memory) and establishing patterns for understanding, guiding, reviewing, correcting, and trusting agent-generated work. You will collaborate with Product, Engineering, Research, Data, AI Quality, and customer-facing teams to transform ambiguous problems into thoughtful, scalable, and trustworthy experiences.\n\nKey Responsibilities:\n* Lead end-to-end design for projects across the agent harness, from problem framing and discovery through launch and iteration.\n* Define how agents, skills, tools, and memory are composed, surfaced, and understood by customers.\n* Design experiences that enable customers to delegate security and compliance tasks while maintaining visibility, control, and confidence.\n* Create patterns for reviewing, correcting, approving, interrupting, and recovering from agent-generated work.\n\nRequirements:\n* 7+ years of product design experience, with depth in B2B SaaS, complex workflows, or other sophisticated software products.\n* Experience designing AI-powered products, automation, or systems where product behavior can be dynamic or uncertain.\n* Ability to design agent experiences beyond chat, including systems involving agents, skills, tools, memory, and multi-step workflows.\n* Experience designing products that require human judgment within automated workflows.",
+      "specialty": "Agent Experience",
+      "keywords": [
+        {
+          "keyword": "B2B SaaS",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Matches Michael's primary expertise."
+        },
+        {
+          "keyword": "complex workflows",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Directly aligns with Michael's specialization."
+        },
+        {
+          "keyword": "sophisticated software products",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Matches Michael's enterprise software background."
+        },
+        {
+          "keyword": "AI-powered products",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael uses AI tools and is interested in this area."
+        },
+        {
+          "keyword": "automation",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Relevant to Michael's experience in simplifying workflows."
+        },
+        {
+          "keyword": "agent experiences",
+          "inProfile": false,
+          "relevance": "required",
+          "note": "New domain for Michael but leverages his workflow and system design skills."
+        },
+        {
+          "keyword": "systems involving agents, skills, tools, memory",
+          "inProfile": false,
+          "relevance": "required",
+          "note": "New domain for Michael but leverages his systems thinking."
+        },
+        {
+          "keyword": "multi-step workflows",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Matches Michael's experience in transactional flows."
+        },
+        {
+          "keyword": "human judgment",
+          "inProfile": false,
+          "relevance": "required",
+          "note": "New context, but aligns with designing for clarity and trust in complex systems."
+        },
+        {
+          "keyword": "problem framing",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Matches Michael's 0-to-1 discovery experience."
+        },
+        {
+          "keyword": "discovery",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Matches Michael's full design lifecycle experience."
+        },
+        {
+          "keyword": "launch and iteration",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Matches Michael's full design lifecycle experience."
+        },
+        {
+          "keyword": "Product",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Matches Michael's cross-functional collaboration with PMs."
+        },
+        {
+          "keyword": "Engineering",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Matches Michael's cross-functional collaboration with engineering."
+        },
+        {
+          "keyword": "Research",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Matches Michael's user research skills."
+        },
+        {
+          "keyword": "Data",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Matches Michael's experience with complex data systems."
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-09-19T21:27:47.459Z",
       "isNew": true
     }
   ],
-  "scannedAt": "2026-09-18T21:42:46.106Z"
+  "scannedAt": "2026-09-19T21:28:32.395Z"
 }
