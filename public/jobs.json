@@ -2229,94 +2229,119 @@
       "title": "Senior Product Designer",
       "company": "Clio",
       "companyDomain": "clio.com",
-      "industry": "Legal Tech / B2B SaaS",
-      "location": "Remote (US Only)",
-      "postedAt": "2026-09-15",
+      "industry": "Enterprise Software, B2B SaaS, Legal Tech",
+      "location": "Remote (US, East Coast preference) / Hybrid (NYC)",
+      "postedAt": "2026-09-19",
       "fitScore": 9,
       "fitTier": "Strong Fit",
-      "fitExplanation": "This role aligns strongly with Michael's expertise in complex B2B SaaS products, particularly with its focus on data-heavy interfaces, insights, and reporting within legal practice management, which involves financial and operational workflows. His experience at Tackle.io with transactional platforms, payment reconciliation, and revenue tracking directly translates to the need for simplifying complex domain logic and working with data/platform teams. The requirement for AI tool proficiency (Figma Make) is also a direct match with Michael's profile. The company stage (global leader) indicates it's Series C or later, and the remote US location is a perfect fit.",
-      "source": "Clio Careers Page (via Google Search)",
+      "fitExplanation": "This role is a strong fit due to its focus on enterprise multi-cloud transactional platforms, complex information architecture, and AI-powered legal intelligence, directly aligning with Michael's experience at Tackle.io and his interest in complex B2B SaaS and AI tools. The requirement for designing complex, information-dense environments and evolving design systems also aligns well with his background in visual systems and rigorous systems thinking. The location preference for the East Coast or hybrid in NYC is also a good match.",
+      "source": "Technology Crossover Ventures Job Board",
       "applyUrl": "N/A",
-      "isOffLinkedIn": true,
-      "jobDescription": "Clio is seeking a Senior Product Designer to join their Product Design team, focusing on the Clio Manage platform to redefine legal service experiences. This role involves shaping the product vision for real-time insights, complex reporting, and analytics, and leading the end-to-end design process from strategic discovery to launch and iteration. The designer will work on tools that help users understand business performance across firm growth, case management, finance, and firm operations, operating at the intersection of data visualization, content design, and complex data architecture. The position emphasizes customer empathy, translating ambiguity into clear direction, and cross-functional collaboration to achieve meaningful outcomes. \n\n**Core Responsibilities:**\n*   Define and execute the experience strategy for real-time insights, complex reporting, and analytics.\n*   Lead the end-to-end design process, from strategic discovery and framing to development, launch, and iteration.\n*   Shape the product vision in collaboration with Product Management and Engineering.\n*   Partner with Product and Engineering to define and execute on experience design strategy and success metrics, using research and insights.\n*   Translate deep customer empathy into actionable, strategic design directions.\n\n**Requirements:**\n*   6+ years of experience designing digital products, with B2B SaaS experience preferred.\n*   A strong portfolio showcasing data-heavy products, such as dashboards and analytics tools.\n*   Ability to simplify complex domain logic into intuitive interfaces for non-technical users.\n*   Experience partnering with data and platform teams where structural and performance constraints are central to design.\n*   Expertise in interaction design, information architecture, and visual design with a track record of high-quality execution.\n*   Highly capable in design and prototyping tools and solid use of AI tools in your process (e.g., Figma Make, Claude, Gemini).\n*   Strong communication and presentation skills, including clear articulation of rationale and trade-offs.\n*   Collaborative, low-ego partner who facilitates alignment and drives confident execution.",
-      "specialty": "Insights and Reporting",
+      "isOffLinkedIn": false,
+      "jobDescription": "Clio is seeking a Senior Product Designer to join their Enterprise team, focusing on strategic initiatives to enhance the company's enterprise offerings, specifically Vincent (AI-powered legal intelligence) and Operate (enterprise-grade practice and matter management platform). This role involves verticalizing Clio's products into specialized domains, sitting at the core of their growth strategy. The designer will be instrumental in transforming how legal professionals serve clients through user-centered design and mission-driven work.\n\n**Core Responsibilities:**\n*   Lead design for strategic enterprise initiatives, particularly around AI-powered legal intelligence and practice management platforms.\n*   Conduct user research interviews, usability testing, and comprehensive analysis, specifically for employment and insurance practitioners.\n*   Drive product design decisions and measure product success using relevant metrics.\n*   Actively participate in design critiques and provide constructive feedback to the broader design team.\n*   Contribute to the evolution of design patterns and systems to support complex information architecture at scale.\n*   Demonstrate a strong interest in enhancing design craft through the use of AI tools.\n*   Simplify complex legal concepts into manageable design problems.\n\n**Requirements:**\n*   Minimum of 6 years of experience in product design.\n*   Preferred experience in SaaS or enterprise product design.\n*   Demonstrated experience designing for complex, information-dense environments, including knowledge management, research, or discovery products.\n*   Proven track record of shipping products that address research or information workflow challenges and contribute to company metrics.\n*   Proficiency in user research methodologies and the ability to translate findings into actionable design insights.\n*   Strong understanding of interaction design, information architecture, usability, and accessibility principles.",
+      "specialty": "Enterprise",
+      "salary": "$131,600 - $178,000 CAD",
       "keywords": [
         {
-          "keyword": "B2B SaaS",
+          "keyword": "enterprise multi-cloud transactional platform",
           "inProfile": true,
-          "relevance": "required",
-          "note": "Explicitly mentioned and preferred. Michael has 10+ years experience."
+          "relevance": "highly relevant",
+          "note": "Directly aligns with Michael's current role and expertise."
         },
         {
-          "keyword": "Data-heavy interfaces",
+          "keyword": "complex data systems",
           "inProfile": true,
-          "relevance": "required",
-          "note": "Key focus of the role, aligns with Michael's experience in complex data systems."
-        },
-        {
-          "keyword": "Transactional workflows",
-          "inProfile": true,
-          "relevance": "moderate",
-          "note": "While not central, financial operations and reporting often involve transactional context Michael excels in."
-        },
-        {
-          "keyword": "Payment reconciliation",
-          "inProfile": true,
-          "relevance": "moderate",
-          "note": "Relevant to financial operations mentioned in the role."
+          "relevance": "highly relevant",
+          "note": "Designing for information-dense legal tech systems."
         },
         {
           "keyword": "AI tools",
           "inProfile": true,
           "relevance": "required",
-          "note": "Explicitly mentioned (Figma Make, Claude, Gemini), aligns with Michael's use of Figma Make and Cursor."
+          "note": "Explicitly mentioned as an interest and a core product area (Vincent)."
+        },
+        {
+          "keyword": "user research",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Core responsibility."
+        },
+        {
+          "keyword": "design systems",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Contributes to evolving design patterns and systems for scale."
+        },
+        {
+          "keyword": "complex workflows",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Simplifying complex legal concepts."
+        },
+        {
+          "keyword": "B2B SaaS",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "SaaS or enterprise experience preferred."
         },
         {
           "keyword": "Figma",
           "inProfile": true,
-          "relevance": "required",
-          "note": "Explicitly mentioned as a key tool."
+          "relevance": "implied",
+          "note": "Standard tool for product designers."
         },
         {
-          "keyword": "User Research",
+          "keyword": "information architecture",
           "inProfile": true,
           "relevance": "required",
-          "note": "Emphasized by \"customer-centric approach\" and \"translating insights\"."
-        },
-        {
-          "keyword": "Information Architecture",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Explicitly mentioned as an area of expertise required."
-        },
-        {
-          "keyword": "Visual Design",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Explicitly mentioned as an area of expertise required, aligns with Michael's strong visual eye."
-        },
-        {
-          "keyword": "Design Systems",
-          "inProfile": true,
-          "relevance": "moderate",
-          "note": "Implied by the need for consistency and high-quality experiences, though not explicitly mentioned. Michael has strong experience."
+          "note": "Strong understanding needed for complex information architecture."
         },
         {
           "keyword": "0-to-1 discovery",
           "inProfile": true,
-          "relevance": "strong",
-          "note": "Role involves shaping product vision and strategic discovery."
+          "relevance": "moderate",
+          "note": "Focus on strategic initiatives and transforming services implies discovery."
         },
         {
-          "keyword": "Cross-functional collaboration",
+          "keyword": "scaling existing products",
           "inProfile": true,
-          "relevance": "required",
-          "note": "Emphasized in the job description."
+          "relevance": "highly relevant",
+          "note": "Verticalizing and enhancing existing enterprise products."
+        },
+        {
+          "keyword": "cross-functional collaboration",
+          "inProfile": true,
+          "relevance": "implied",
+          "note": "Working with product and engineering teams to ship products."
+        },
+        {
+          "keyword": "high-fidelity interactive prototyping",
+          "inProfile": true,
+          "relevance": "implied",
+          "note": "Shipping products and evolving design systems."
+        },
+        {
+          "keyword": "FinTech adjacent",
+          "inProfile": true,
+          "relevance": "moderate",
+          "note": "While Legal Tech, it shares complexity with FinTech."
+        },
+        {
+          "keyword": "Cloud marketplace / revenue operations infrastructure",
+          "inProfile": true,
+          "relevance": "moderate",
+          "note": "Enterprise platforms for legal ops."
+        },
+        {
+          "keyword": "Visual craft",
+          "inProfile": true,
+          "relevance": "moderate",
+          "note": "Though not purely visual, strong visual eye would be beneficial for clarity."
         }
       ],
       "status": "New",
-      "scannedAt": "2026-09-16T15:25:34.732Z",
-      "isNew": false
+      "scannedAt": "2026-09-20T14:41:50.411Z",
+      "isNew": true
     },
     {
       "id": "job-a7uly4",
@@ -4089,7 +4114,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-09-19T21:27:47.459Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-yosx0c",
@@ -4212,126 +4237,190 @@
       ],
       "status": "New",
       "scannedAt": "2026-09-19T21:27:47.459Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-dwkhpr",
       "title": "Senior Product Designer",
       "company": "Vanta",
       "companyDomain": "vanta.com",
-      "industry": "B2B SaaS, Security and Compliance",
-      "location": "Remote (Work from Home)",
+      "industry": "B2B SaaS, Cloud Infrastructure, Security, Compliance, AI",
+      "location": "Remote (U.S.)",
       "postedAt": "2026-09-19",
       "fitScore": 9,
       "fitTier": "Strong Fit",
-      "fitExplanation": "This role is an excellent match for Michael, focusing on B2B SaaS, complex workflows, and sophisticated software products. His experience with AI tools and making complex systems clear and trustworthy is highly relevant, especially for designing agent experiences and automated workflows in security and compliance. The emphasis on problem framing, discovery, and iteration aligns with his full design lifecycle expertise. Vanta's Series C stage meets the company stage preference, and the role is fully remote within the U.S.",
-      "source": "Remote Source",
+      "fitExplanation": "This role is an excellent match given Michael's deep experience in complex B2B SaaS and his recent use of AI tools. The focus on AI agents, automation, and complex workflows in security and compliance aligns perfectly with his expertise in making complex systems clear and trustworthy. His experience with transactional flows and marketplace infrastructure would be highly transferable to designing agent-led experiences that involve managing tasks and ensuring trust in automated systems. The remote U.S. location is also a strong preference.",
+      "source": "D1S1",
       "applyUrl": "N/A",
       "isOffLinkedIn": false,
-      "jobDescription": "Vanta is looking for a Senior Product Designer, Agent Experience, to define how AI agents assist security and compliance teams in achieving meaningful work with enhanced clarity, control, and trust within Vanta's ecosystem. The Agent Experience team builds agent-led solutions, owning the agent harness (including agents, skills, tools, and memory) and establishing patterns for understanding, guiding, reviewing, correcting, and trusting agent-generated work. You will collaborate with Product, Engineering, Research, Data, AI Quality, and customer-facing teams to transform ambiguous problems into thoughtful, scalable, and trustworthy experiences.\n\nKey Responsibilities:\n* Lead end-to-end design for projects across the agent harness, from problem framing and discovery through launch and iteration.\n* Define how agents, skills, tools, and memory are composed, surfaced, and understood by customers.\n* Design experiences that enable customers to delegate security and compliance tasks while maintaining visibility, control, and confidence.\n* Create patterns for reviewing, correcting, approving, interrupting, and recovering from agent-generated work.\n\nRequirements:\n* 7+ years of product design experience, with depth in B2B SaaS, complex workflows, or other sophisticated software products.\n* Experience designing AI-powered products, automation, or systems where product behavior can be dynamic or uncertain.\n* Ability to design agent experiences beyond chat, including systems involving agents, skills, tools, memory, and multi-step workflows.\n* Experience designing products that require human judgment within automated workflows.",
+      "jobDescription": "Vanta is hiring a Senior Product Designer for their Agent Experience team, dedicated to defining how AI agents assist security and compliance teams in achieving outcomes with reduced manual effort. The role involves shaping both the foundational agent experience and the customer-facing workflows built upon it. The designer will collaborate extensively with Product, Engineering, Research, Data, AI Quality, and customer-facing teams to transform complex, ambiguous problems into intuitive, scalable, and trustworthy experiences. The goal is to make AI-powered workflows useful, transparent, and dependable, especially where clarity and correctness are paramount.\n\n**Core Responsibilities:**\n*   Lead the end-to-end design process for projects within the agent harness, encompassing problem framing, discovery, launch, and iteration.\n*   Define the composition, surfacing, and understanding of agents, skills, tools, and memory for customers.\n*   Design experiences that enable customers to delegate security and compliance tasks while maintaining visibility, control, and confidence.\n*   Establish patterns for reviewing, correcting, approving, interrupting, and recovering from agent-generated work.\n*   Design conversational and agent interaction models across various platforms like Vanta and Slack.\n*   Partner with cross-functional teams to translate ambiguous problems into thoughtful, scalable, and trustworthy experiences.\n\n**Requirements:**\n*   7+ years of product design experience, with significant depth in B2B SaaS, complex workflows, or other sophisticated software products.\n*   Experience designing AI-powered products, automation, or systems where product behavior can be dynamic or uncertain.\n*   Ability to design agent experiences beyond simple chat, including systems involving agents, skills, tools, memory, and multi-step workflows.\n*   Experience designing products that require human judgment, including knowing when and how to integrate a person into an automated workflow.",
       "specialty": "Agent Experience",
       "keywords": [
         {
-          "keyword": "B2B SaaS",
+          "keyword": "complex B2B SaaS products",
           "inProfile": true,
           "relevance": "required",
-          "note": "Matches Michael's primary expertise."
+          "note": "Explicitly mentioned experience in B2B SaaS and complex workflows."
         },
         {
-          "keyword": "complex workflows",
+          "keyword": "AI tools",
+          "inProfile": true,
+          "relevance": "highly relevant",
+          "note": "Central to the role; Michael has experience with Figma Make, Cursor."
+        },
+        {
+          "keyword": "0-to-1 discovery",
+          "inProfile": true,
+          "relevance": "highly relevant",
+          "note": "Lead end-to-end design, from problem framing and discovery."
+        },
+        {
+          "keyword": "complex data systems",
+          "inProfile": true,
+          "relevance": "highly relevant",
+          "note": "Designing agent-led experiences often involves complex data flows."
+        },
+        {
+          "keyword": "seller workflows",
+          "inProfile": true,
+          "relevance": "moderate",
+          "note": "Transferable to agent-led workflows for security/compliance tasks."
+        },
+        {
+          "keyword": "transactional flows",
+          "inProfile": true,
+          "relevance": "moderate",
+          "note": "Transferable to multi-step agent workflows and approvals."
+        },
+        {
+          "keyword": "design systems",
+          "inProfile": true,
+          "relevance": "highly relevant",
+          "note": "Establishing patterns for agent interaction."
+        },
+        {
+          "keyword": "cross-functional collaboration",
           "inProfile": true,
           "relevance": "required",
-          "note": "Directly aligns with Michael's specialization."
+          "note": "Partners with Product, Engineering, Research, Data, AI Quality."
         },
         {
-          "keyword": "sophisticated software products",
+          "keyword": "user research",
           "inProfile": true,
-          "relevance": "required",
-          "note": "Matches Michael's enterprise software background."
+          "relevance": "implied",
+          "note": "Discovery phase implies user understanding."
         },
         {
-          "keyword": "AI-powered products",
+          "keyword": "information architecture",
           "inProfile": true,
-          "relevance": "required",
-          "note": "Michael uses AI tools and is interested in this area."
+          "relevance": "highly relevant",
+          "note": "Defining how agents, skills, tools, and memory are composed and surfaced."
         },
         {
-          "keyword": "automation",
+          "keyword": "visual craft",
           "inProfile": true,
-          "relevance": "required",
-          "note": "Relevant to Michael's experience in simplifying workflows."
-        },
-        {
-          "keyword": "agent experiences",
-          "inProfile": false,
-          "relevance": "required",
-          "note": "New domain for Michael but leverages his workflow and system design skills."
-        },
-        {
-          "keyword": "systems involving agents, skills, tools, memory",
-          "inProfile": false,
-          "relevance": "required",
-          "note": "New domain for Michael but leverages his systems thinking."
-        },
-        {
-          "keyword": "multi-step workflows",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Matches Michael's experience in transactional flows."
-        },
-        {
-          "keyword": "human judgment",
-          "inProfile": false,
-          "relevance": "required",
-          "note": "New context, but aligns with designing for clarity and trust in complex systems."
-        },
-        {
-          "keyword": "problem framing",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Matches Michael's 0-to-1 discovery experience."
-        },
-        {
-          "keyword": "discovery",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Matches Michael's full design lifecycle experience."
-        },
-        {
-          "keyword": "launch and iteration",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Matches Michael's full design lifecycle experience."
-        },
-        {
-          "keyword": "Product",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Matches Michael's cross-functional collaboration with PMs."
-        },
-        {
-          "keyword": "Engineering",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Matches Michael's cross-functional collaboration with engineering."
-        },
-        {
-          "keyword": "Research",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Matches Michael's user research skills."
-        },
-        {
-          "keyword": "Data",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Matches Michael's experience with complex data systems."
+          "relevance": "highly relevant",
+          "note": "Making AI-powered workflows 'useful, transparent, and dependable' requires clarity and polish."
         }
       ],
       "status": "New",
-      "scannedAt": "2026-09-19T21:27:47.459Z",
+      "scannedAt": "2026-09-20T14:41:50.411Z",
+      "isNew": true
+    },
+    {
+      "id": "job-f454c5",
+      "title": "Senior Product Designer",
+      "company": "Cohere AI",
+      "companyDomain": "cohere.ai",
+      "industry": "Artificial Intelligence, Cloud Infrastructure, Developer Tools, Enterprise Software",
+      "location": "Remote (US) / Hybrid (New York, NY)",
+      "postedAt": "2026-09-19",
+      "fitScore": 9,
+      "fitTier": "Strong Fit",
+      "fitExplanation": "This role is a strong fit for Michael due to its focus on enterprise AI systems and complex, AI-driven workflows. His background in making complex B2B SaaS delightful and his experience with AI tools directly align with Cohere's mission. The role's emphasis on end-to-end design, user research, and maintaining a high craft quality resonates with Michael's design philosophy and expertise in visual systems and interaction design for complex interfaces. The remote US or hybrid NYC option is also a good fit for his preferences.",
+      "source": "Built In NYC",
+      "applyUrl": "N/A",
+      "isOffLinkedIn": false,
+      "jobDescription": "Cohere AI is looking for a Senior Product Designer to join their North team, which is shaping the future of enterprise AI. In this role, the designer will be responsible for creating intuitive experiences for complex AI-driven workflows, operating at the intersection of cutting-edge technology and user needs. The individual will work closely with product managers, engineers, and cross-functional partners to deliver high-quality experiences that make sophisticated AI capabilities accessible to organizations. The company's mission involves training and deploying frontier models for developers and enterprises building AI systems.\n\n**Core Responsibilities:**\n*   Own the end-to-end design process for your product area, including identifying opportunities to enhance user experience and drive product impact.\n*   Design intuitive and user-friendly experiences that effectively balance technical complexity with accessibility and ease of use.\n*   Collaborate closely with product managers, engineers, and various stakeholders throughout the product development lifecycle.\n*   Conduct user research to understand user needs, validate design decisions, and translate insights into actionable design improvements.\n*   Maintain a high standard of craft and quality, ensuring every design detail contributes to a cohesive and polished experience.\n\n**Requirements:**\n*   Experience designing intuitive experiences for complex AI-driven workflows.\n*   Ability to work at the intersection of cutting-edge technology and user needs.\n*   Proven ability to collaborate effectively with product managers, engineers, and cross-functional partners.\n*   Experience in conducting user research and translating insights into design improvements.\n*   Commitment to high craft and quality in design output.",
+      "specialty": "North (Enterprise AI)",
+      "keywords": [
+        {
+          "keyword": "AI tools",
+          "inProfile": true,
+          "relevance": "highly relevant",
+          "note": "Core focus of the company and role; Michael uses Figma Make, Cursor."
+        },
+        {
+          "keyword": "complex B2B SaaS products",
+          "inProfile": true,
+          "relevance": "highly relevant",
+          "note": "Designing for enterprise AI systems and complex workflows."
+        },
+        {
+          "keyword": "0-to-1 and ambiguous problem spaces",
+          "inProfile": true,
+          "relevance": "highly relevant",
+          "note": "Shaping the future of enterprise AI implies significant discovery."
+        },
+        {
+          "keyword": "user research",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Conduct user research to understand needs and validate decisions."
+        },
+        {
+          "keyword": "design systems and consistency at scale",
+          "inProfile": true,
+          "relevance": "implied",
+          "note": "Maintaining a high craft and quality bar across experiences."
+        },
+        {
+          "keyword": "cross-functional collaboration",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Collaborate closely with product managers, engineers, and stakeholders."
+        },
+        {
+          "keyword": "high-fidelity interactive prototyping",
+          "inProfile": true,
+          "relevance": "implied",
+          "note": "Delivering high-quality experiences."
+        },
+        {
+          "keyword": "Visual craft",
+          "inProfile": true,
+          "relevance": "highly relevant",
+          "note": "Emphasis on high craft and quality, intuitive, user-friendly experiences."
+        },
+        {
+          "keyword": "Cloud marketplace / revenue operations infrastructure",
+          "inProfile": true,
+          "relevance": "moderate",
+          "note": "Building AI systems for enterprises relates to cloud infrastructure."
+        },
+        {
+          "keyword": "Developer tools",
+          "inProfile": true,
+          "relevance": "highly relevant",
+          "note": "Training and deploying frontier models for developers."
+        },
+        {
+          "keyword": "FinTech adjacent",
+          "inProfile": true,
+          "relevance": "moderate",
+          "note": "Complex enterprise systems often share characteristics with Fintech."
+        },
+        {
+          "keyword": "Complex workflow design",
+          "inProfile": true,
+          "relevance": "highly relevant",
+          "note": "Designing for complex AI-driven workflows."
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-09-20T14:41:50.411Z",
       "isNew": true
     }
   ],
-  "scannedAt": "2026-09-19T21:28:32.395Z"
+  "scannedAt": "2026-09-20T14:42:38.088Z"
 }
