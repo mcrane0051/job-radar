@@ -4013,7 +4013,138 @@
       "status": "New",
       "scannedAt": "2026-09-20T14:41:50.411Z",
       "isNew": false
+    },
+    {
+      "id": "job-50dhjw",
+      "title": "Senior Product Designer",
+      "company": "Affirm",
+      "companyDomain": "affirm.com",
+      "industry": "FinTech",
+      "location": "Remote (U.S. Eligible)",
+      "postedAt": "2026-09-21",
+      "fitScore": 9,
+      "fitTier": "Strong Fit",
+      "fitExplanation": "This role is a strong fit for Michael Crane, a Senior Product Designer with 10+ years of experience. Affirm is a publicly traded FinTech company, aligning with the Series C+ requirement. The role focuses on designing complex financial products, post-purchase experiences, and international expansion, which aligns well with Michael's expertise in transactional flows, payment reconciliation, and high-stakes problem spaces within finance-adjacent domains. His experience in 0-to-1 discovery, design systems, and cross-functional collaboration are explicitly sought after. While the role emphasizes UK and international experiences, a US remote salary range was indicated, suggesting US candidates are eligible. Michael's background in making complex systems tactile and visually appealing also aligns with the need for polished and thoughtful interaction design. The explicit mention of AI tools in preferences also matches Michael's skills.",
+      "source": "Greenhouse",
+      "applyUrl": "https://boards.greenhouse.io/affirm/jobs/5202157002",
+      "isOffLinkedIn": true,
+      "jobDescription": "Affirm is seeking a Senior Product Designer to lead end-to-end design for critical post-purchase experiences and international market expansion initiatives, with a particular focus on UK and global markets. The successful candidate will drive product vision and execution for financial products, collaborating closely with cross-functional teams including Product Management, Engineering, and Data Science. The role involves crafting user experiences that build trust and confidence in financial services, from initial discovery through to delivery and iteration. Designers are expected to contribute to and maintain design systems to ensure consistency and scalability across Affirm's product suite. Key responsibilities also include leveraging user research, data analytics, and experimentation to inform design decisions and continuously improve customer outcomes. The position requires a strong focus on craft, execution, product thinking, and the ability to take ownership of ambiguous problems.",
+      "specialty": "Post-purchase Experience, International Expansion",
+      "salary": "$200k - $265k",
+      "keywords": [
+        {
+          "keyword": "Complex B2B SaaS products",
+          "inProfile": true,
+          "relevance": "high",
+          "note": "Similar complexity to FinTech products."
+        },
+        {
+          "keyword": "Enterprise multi-cloud transactional platform",
+          "inProfile": true,
+          "relevance": "high",
+          "note": "Directly relevant to transactional flows and payment reconciliation."
+        },
+        {
+          "keyword": "Payment reconciliation",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Core to FinTech and post-purchase experiences."
+        },
+        {
+          "keyword": "Transactional flows",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Core to FinTech and post-purchase experiences."
+        },
+        {
+          "keyword": "Marketplace infrastructure",
+          "inProfile": true,
+          "relevance": "high",
+          "note": "Related to financial transactions."
+        },
+        {
+          "keyword": "High-stakes, high-complexity problem spaces",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Directly aligns with the nature of FinTech design."
+        },
+        {
+          "keyword": "0-to-1 discovery",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Important for international expansion initiatives."
+        },
+        {
+          "keyword": "Design strategy",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Implicit in leading design for a product area."
+        },
+        {
+          "keyword": "Visual craft and eye for product design",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Emphasized by 'polished, thoughtful interaction and visual design'."
+        },
+        {
+          "keyword": "User Research",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Leverage user research and experimentation."
+        },
+        {
+          "keyword": "User Flows",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Part of end-to-end design."
+        },
+        {
+          "keyword": "Prototyping",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Part of end-to-end design."
+        },
+        {
+          "keyword": "Design Systems",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Contribute to and maintain design systems."
+        },
+        {
+          "keyword": "Figma",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Standard design tool, implied."
+        },
+        {
+          "keyword": "AI tools (Figma Make, Cursor)",
+          "inProfile": true,
+          "relevance": "preferred",
+          "note": "Experience with AI-powered design tools preferred."
+        },
+        {
+          "keyword": "Cross-functional collaboration",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Partner closely with Product, Engineering, Data Science."
+        },
+        {
+          "keyword": "Scaling existing products",
+          "inProfile": true,
+          "relevance": "high",
+          "note": "Part of continuously improving customer outcomes."
+        },
+        {
+          "keyword": "Platform or systems-level design work",
+          "inProfile": true,
+          "relevance": "high",
+          "note": "Design systems and end-to-end experiences."
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-09-21T17:04:05.340Z",
+      "isNew": true
     }
   ],
-  "scannedAt": "2026-09-20T21:34:29.540Z"
+  "scannedAt": "2026-09-21T17:04:44.613Z"
 }
