@@ -194,7 +194,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-09-24T22:24:37.336Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-wb0tcn",
@@ -514,7 +514,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-09-24T22:24:37.336Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-acwcue",
@@ -1051,7 +1051,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-09-24T22:24:37.336Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-kilfsi",
@@ -1526,7 +1526,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-09-24T22:24:37.336Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-gnlr7h",
@@ -3470,7 +3470,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-09-24T22:24:37.336Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-tj4e53",
@@ -5049,7 +5049,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-09-24T22:24:37.336Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-qbt6vk",
@@ -5131,7 +5131,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-09-24T22:24:37.336Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-22waei",
@@ -5195,7 +5195,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-09-24T22:24:37.336Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-dv8z10",
@@ -5253,7 +5253,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-09-24T22:24:37.336Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-krw7vz",
@@ -5317,7 +5317,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-09-24T22:24:37.336Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-qawf2p",
@@ -5387,7 +5387,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-09-24T22:24:37.336Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-nunyka",
@@ -5457,8 +5457,8 @@
       ],
       "status": "New",
       "scannedAt": "2026-09-24T22:24:37.336Z",
-      "isNew": true
+      "isNew": false
     }
   ],
-  "scannedAt": "2026-09-24T22:25:52.641Z"
+  "scannedAt": "2026-09-25T15:50:11.467Z"
 }
