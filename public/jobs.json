@@ -197,89 +197,6 @@
       "isNew": false
     },
     {
-      "id": "job-wb0tcn",
-      "title": "Senior Product Designer",
-      "company": "TMSfirst",
-      "companyDomain": "tmsfirst.com",
-      "industry": "B2B SaaS, Enterprise Software, Supply Chain, Logistics",
-      "location": "Remote US",
-      "postedAt": "2026-09-10",
-      "fitScore": 9,
-      "fitTier": "Strong Fit",
-      "fitExplanation": "This role aligns strongly with Michael's background in complex B2B SaaS product design, particularly in data-heavy interfaces and intricate workflows. His experience in cloud marketplace and revenue operations infrastructure is highly relevant to supply chain and logistics. The emphasis on AI tools and independent operation further strengthens the fit.",
-      "source": "Remote Rocketship",
-      "applyUrl": "N/A",
-      "isOffLinkedIn": true,
-      "jobDescription": "TMSfirst is seeking a Senior Product Designer to own the end-to-end design of complex enterprise products used by engineers, operators, and administrators within their transportation management system (TMS). The role involves working directly with product and engineering to define, design, test, and ship product experiences, leveraging AI tools as a core part of design and prototyping. The designer will also contribute to maturing internal design workflows and processes, and conduct user research with technically sophisticated enterprise users.\n\nCore Responsibilities:\n* Own the end-to-end design of complex enterprise products.\n* Work directly with product and engineering to define, design, test, and ship product experiences.\n* Use AI tools as a core part of design and prototyping workflows.\n* Contribute to and mature internal design workflows and processes.\n* Own design from discovery through delivery across product areas.\n* Contribute to and grow the design system.\n* Conduct user research and usability testing with technically sophisticated enterprise users.\n* Define and track design quality metrics to drive iteration.\n\nRequirements:\n* 4+ years of product design experience with a portfolio demonstrating complex enterprise B2B product work.\n* Deep experience designing data-heavy interfaces, multi-step workflows, admin tools, or developer-facing products.\n* Strong interaction design and visual design skills.\n* Hands-on experience with user research, usability testing, and measuring design outcomes.\n* Proficiency in Figma.\n* Active use of AI tools in design and prototyping workflows.\n* Ability to operate independently, drive decisions, and and move fast without waiting for direction.\n* Proven work experience as a product designer on technically complex B2B or enterprise software products.\n* Background in a growth-stage technology company, preferably in developer tools or data, infrastructure, analytics, security, or a related technical domain.",
-      "specialty": "",
-      "salary": "",
-      "keywords": [
-        {
-          "keyword": "Enterprise Products",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Explicitly required"
-        },
-        {
-          "keyword": "B2B SaaS",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Explicitly required"
-        },
-        {
-          "keyword": "Data-heavy interfaces",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Explicitly required"
-        },
-        {
-          "keyword": "Multi-step workflows",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Explicitly required"
-        },
-        {
-          "keyword": "AI tools",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Explicitly required (Michael uses Figma Make, Cursor)"
-        },
-        {
-          "keyword": "Figma",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Explicitly required"
-        },
-        {
-          "keyword": "User Research",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Explicitly required"
-        },
-        {
-          "keyword": "Design Systems",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Implicitly required by 'grow the CIQ design system'"
-        },
-        {
-          "keyword": "Visual Design",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Explicitly required"
-        },
-        {
-          "keyword": "Developer Tools",
-          "inProfile": true,
-          "relevance": "preferred",
-          "note": "Background preferred"
-        }
-      ],
-      "status": "New",
-      "scannedAt": "2026-09-11T21:43:27.040Z",
-      "isNew": false
-    },
-    {
       "id": "job-i3t2co",
       "title": "Senior Product Designer",
       "company": "PadSplit",
@@ -5458,7 +5375,100 @@
       "status": "New",
       "scannedAt": "2026-09-24T22:24:37.336Z",
       "isNew": false
+    },
+    {
+      "id": "job-xxvc8w",
+      "title": "Senior Product Designer",
+      "company": "Zip",
+      "companyDomain": "ziphq.com",
+      "industry": "B2B SaaS, Enterprise Software, Fintech (Procurement)",
+      "location": "Hybrid New York City",
+      "postedAt": "2026-09-25",
+      "fitScore": 8,
+      "fitTier": "Good Fit",
+      "fitExplanation": "This role at Zip is an excellent fit, aligning with Michael's expertise in complex B2B SaaS and enterprise software, specifically in a FinTech-adjacent domain like procurement and payments. Zip is a Series C funded company, meeting the minimum company stage requirement. Michael's experience in transactional flows, payment reconciliation, and 0-to-1 ambiguous problem spaces, combined with a strong visual craft, directly matches the needs of designing AI-powered procurement experiences. The hybrid NYC location is acceptable, though not preferred, resulting in a minor score deduction.",
+      "source": "Lever",
+      "applyUrl": "https://jobs.lever.co/ziphq/87243c16-1e54-419b-a459-a5c9fc3c6218",
+      "specialty": "AI for Procurement",
+      "jobDescription": "This Senior Product Designer role involves driving the end-to-end product design lifecycle for Zip's AI-powered procurement platform. Responsibilities include engaging in comprehensive user research, translating complex user needs and business objectives into intuitive design solutions, and collaborating closely with product managers, engineers, and go-to-market teams. The designer will be instrumental in evolving complex procurement and payment workflows, contributing to and maintaining a scalable design system, and ensuring high visual and interaction quality in all product experiences. The position requires advocating for user-centered design principles and making data-informed decisions to deliver impactful outcomes.",
+      "keywords": [
+        {
+          "keyword": "B2B SaaS",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Explicitly mentioned in the job description and a core industry for Michael."
+        },
+        {
+          "keyword": "Enterprise Software",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Procurement software falls under enterprise software, a key domain for Michael."
+        },
+        {
+          "keyword": "Fintech",
+          "inProfile": true,
+          "relevance": "strong plus",
+          "note": "Global payments and procure-to-pay processes are strongly adjacent to Michael's FinTech experience."
+        },
+        {
+          "keyword": "Cloud Marketplace / Revenue Operations Infrastructure",
+          "inProfile": true,
+          "relevance": "moderate plus",
+          "note": "Procurement platforms manage complex transactions and operational flows similar to Michael's marketplace experience."
+        },
+        {
+          "keyword": "AI-powered interfaces",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "The role specifically mentions 'AI for Procurement,' aligning with Michael's recent use of AI tools and interest in advanced systems."
+        },
+        {
+          "keyword": "Complex Workflow Design",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Designing for procurement, payments, and procure-to-pay involves complex transactional and operational workflows, a core strength for Michael."
+        },
+        {
+          "keyword": "0-to-1 Discovery",
+          "inProfile": true,
+          "relevance": "strong plus",
+          "note": "The fast-paced, innovation-driven culture at Zip suggests opportunities for 0-to-1 work, which Michael excels in."
+        },
+        {
+          "keyword": "Design Systems",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Experience with design systems is crucial for maintaining consistency and scalability in enterprise products, a direct match for Michael's expertise."
+        },
+        {
+          "keyword": "User Research",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "The role requires grounding design decisions in user needs, aligning with Michael's research background."
+        },
+        {
+          "keyword": "Figma",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Standard design tool, proficiently used by Michael."
+        },
+        {
+          "keyword": "Visual Craft / UI Design",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael's background in visual systems and graphic design provides an unusually strong visual eye, highly valued in this type of role."
+        },
+        {
+          "keyword": "Interaction Design",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Key skill for making complex systems tactile and delightful, central to Michael's philosophy."
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-09-25T22:20:57.003Z",
+      "isNew": true
     }
   ],
-  "scannedAt": "2026-09-25T15:50:11.467Z"
+  "scannedAt": "2026-09-25T22:21:52.580Z"
 }
