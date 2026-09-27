@@ -77,173 +77,6 @@
       "isNew": false
     },
     {
-      "id": "job-i3t2co",
-      "title": "Senior Product Designer",
-      "company": "PadSplit",
-      "companyDomain": "padsplit.com",
-      "industry": "Marketplace",
-      "location": "Remote",
-      "postedAt": "2026-09-12",
-      "fitScore": 8,
-      "fitTier": "Good Fit",
-      "fitExplanation": "This role is a good fit as it aligns with Michael's expertise in marketplace infrastructure and complex workflow design. The focus on a two-sided housing marketplace involves similar complexities to Michael's experience with transactional platforms and revenue operations. His background in simplifying workflows, conducting user research, and systems thinking are directly applicable. The explicit mention of building AI-infused experiences further strengthens the fit. While 'real estate' isn't a core industry for Michael, 'marketplace' and 'complex workflows' are strong overrides.",
-      "source": "Remotive",
-      "applyUrl": "N/A",
-      "specialty": "",
-      "salary": "$120,000 - $130,000",
-      "keywords": [
-        {
-          "keyword": "Senior Product Designer",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Matches target title."
-        },
-        {
-          "keyword": "Marketplace",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Directly aligns with Michael's marketplace infrastructure experience."
-        },
-        {
-          "keyword": "Remote",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Primary location preference."
-        },
-        {
-          "keyword": "Complex workflows",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Core responsibility involves simplifying complex workflows, rules, and marketplace dynamics."
-        },
-        {
-          "keyword": "User Research",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Explicitly mentioned as a responsibility."
-        },
-        {
-          "keyword": "Figma",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Explicitly mentioned as a required tool."
-        },
-        {
-          "keyword": "Design Systems",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Strong systems thinking and component reuse are required."
-        },
-        {
-          "keyword": "AI-powered features",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Explicitly mentioned as a responsibility for building AI-infused experiences."
-        },
-        {
-          "keyword": "Data-heavy interfaces",
-          "inProfile": true,
-          "relevance": "strong",
-          "note": "Ability to connect design decisions to metrics, revenue, and real estate economics implies data focus."
-        },
-        {
-          "keyword": "A/B testing",
-          "inProfile": true,
-          "relevance": "good",
-          "note": "Familiarity with experimentation frameworks is a plus."
-        }
-      ],
-      "status": "New",
-      "scannedAt": "2026-09-13T21:26:23.084Z",
-      "isNew": false
-    },
-    {
-      "id": "job-4wwif9",
-      "title": "Senior Product Designer",
-      "company": "Alpaca",
-      "companyDomain": "alpaca.markets",
-      "industry": "Fintech, Cloud Infrastructure",
-      "location": "Remote",
-      "postedAt": "2026-09-12",
-      "fitScore": 9,
-      "fitTier": "Strong Fit",
-      "fitExplanation": "This role is a strong fit due to its direct alignment with Michael's B2B SaaS, fintech, and cloud infrastructure expertise. The emphasis on designing data-rich interfaces for operations tools, complex workflows, and AI-assisted interactions mirrors his experience at Tackle.io with transactional platforms and payment reconciliation. His ability to create structure in ambiguous environments and develop scalable design system patterns is highly relevant. The requirement for experience in complex/technical industries like financial services and infrastructure is a direct match.",
-      "source": "RemoteLeaf",
-      "applyUrl": "N/A",
-      "specialty": "Operations Tools",
-      "keywords": [
-        {
-          "keyword": "Senior Product Designer",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Matches target title."
-        },
-        {
-          "keyword": "Remote",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Primary location preference."
-        },
-        {
-          "keyword": "Fintech",
-          "inProfile": true,
-          "relevance": "strong",
-          "note": "Explicitly mentioned in job description ('financial services')."
-        },
-        {
-          "keyword": "Cloud Infrastructure",
-          "inProfile": true,
-          "relevance": "strong",
-          "note": "Explicitly mentioned in job description ('infrastructure')."
-        },
-        {
-          "keyword": "Complex B2B SaaS product design",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Designing operational tools, data-rich interfaces for technical industries is a direct match."
-        },
-        {
-          "keyword": "Complex data systems",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Focus on data-rich interfaces for monitoring and decision-making."
-        },
-        {
-          "keyword": "0-to-1 and ambiguous problem spaces",
-          "inProfile": true,
-          "relevance": "strong",
-          "note": "Ability to create structure in ambiguous environments is a key requirement."
-        },
-        {
-          "keyword": "Design Systems",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Developing scalable design-system patterns is a core responsibility."
-        },
-        {
-          "keyword": "AI prototyping",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Explicitly mentioned as experience."
-        },
-        {
-          "keyword": "User Research",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Explicitly mentioned as experience."
-        },
-        {
-          "keyword": "API documentation",
-          "inProfile": true,
-          "relevance": "good",
-          "note": "Michael's experience with complex systems implies familiarity."
-        }
-      ],
-      "status": "New",
-      "scannedAt": "2026-09-13T21:26:23.084Z",
-      "isNew": false
-    },
-    {
       "id": "job-gzuoep",
       "title": "Staff Product Designer",
       "company": "SecurityScorecard",
@@ -311,150 +144,6 @@
       ],
       "status": "New",
       "scannedAt": "2026-09-24T22:24:37.336Z",
-      "isNew": false
-    },
-    {
-      "id": "job-akzis0",
-      "title": "Lead Product Designer",
-      "company": "BrightPlan",
-      "companyDomain": "brightplan.com",
-      "industry": "Fintech",
-      "location": "Remote",
-      "postedAt": "2026-09-12",
-      "fitScore": 9,
-      "fitTier": "Strong Fit",
-      "fitExplanation": "This role is an excellent fit, aligning perfectly with Michael's target title, remote preference, and strong industry experience in Fintech. The emphasis on leading design for a complex financial wellness platform (App 2.0), incorporating AI-first design practices, and evolving design systems, directly mirrors Michael's 10+ years of experience in complex B2B SaaS, payment reconciliation, and use of AI tools. His ability to operate across the full design lifecycle and shape design strategy is highly relevant. The individual contributor nature with leadership responsibilities also matches his stated career trajectory.",
-      "source": "Workable",
-      "applyUrl": "https://brightplan.workable.com/j/D17C9B1090/",
-      "specialty": "",
-      "salary": "$165,000 - $195,000",
-      "keywords": [
-        {
-          "keyword": "Lead Product Designer",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Matches target title and leadership experience."
-        },
-        {
-          "keyword": "Fintech",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Strong alignment with Michael's experience in payment reconciliation and financial flows."
-        },
-        {
-          "keyword": "Remote",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Primary location preference."
-        },
-        {
-          "keyword": "Design Systems",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Explicitly mentioned in Michael's profile and a core responsibility here."
-        },
-        {
-          "keyword": "AI tools",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Michael uses AI tools; the role emphasizes AI-first design workflows."
-        },
-        {
-          "keyword": "Complex B2B SaaS product design",
-          "inProfile": true,
-          "relevance": "strong",
-          "note": "Financial wellness platform with enterprise-level features implies complex B2B SaaS."
-        },
-        {
-          "keyword": "0-to-1 discovery",
-          "inProfile": true,
-          "relevance": "strong",
-          "note": "Shaping a 'next generation' product and rethinking design aligns with 0-to-1 experience."
-        },
-        {
-          "keyword": "User Research",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Partnering with researchers is a key part of Michael's design practice."
-        },
-        {
-          "keyword": "Figma",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Common design tool, aligns with Michael's skills."
-        }
-      ],
-      "status": "New",
-      "scannedAt": "2026-09-13T21:26:23.084Z",
-      "isNew": false
-    },
-    {
-      "id": "job-44wwbj",
-      "title": "Senior Product Designer",
-      "company": "Camber",
-      "companyDomain": "ycombinator.com (Camber)",
-      "industry": "B2B SaaS",
-      "location": "Hybrid in NYC",
-      "postedAt": "2026-09-12",
-      "fitScore": 7,
-      "fitTier": "Good Fit",
-      "fitExplanation": "This role is a good fit, with a 1-point deduction for being a hybrid role. It emphasizes designing for enterprise users in complex, quantitative domains, which aligns with Michael's B2B SaaS and data-heavy interface experience. The focus on systems thinking, user research, and contributing to design infrastructure is highly relevant. Michael's expertise in making complex systems clear and trustworthy is a good match for the job's requirements.",
-      "source": "Y Combinator",
-      "applyUrl": "N/A",
-      "specialty": "",
-      "salary": "",
-      "keywords": [
-        {
-          "keyword": "Senior Product Designer",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Matches target title."
-        },
-        {
-          "keyword": "Hybrid in NYC",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Matches target hybrid location, with a slight preference deduction."
-        },
-        {
-          "keyword": "Enterprise users",
-          "inProfile": true,
-          "relevance": "strong",
-          "note": "Directly aligns with Michael's B2B/enterprise software experience."
-        },
-        {
-          "keyword": "Complex workflow design",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Focus on complex logistical and/or quantitative products."
-        },
-        {
-          "keyword": "Design Systems",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Contributing to design infrastructure and leveraging patterns."
-        },
-        {
-          "keyword": "User Research",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Advocating for user needs and partnering with research teams."
-        },
-        {
-          "keyword": "Data-heavy interfaces",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Emphasis on data fluency and quantitative products."
-        },
-        {
-          "keyword": "Systems thinking",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Explicitly mentioned as a core requirement."
-        }
-      ],
-      "status": "New",
-      "scannedAt": "2026-09-13T21:26:23.084Z",
       "isNew": false
     },
     {
@@ -2957,7 +2646,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-09-27T15:39:43.484Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-f454c5",
@@ -5259,7 +4948,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-09-27T15:39:43.484Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-6pdhdw",
@@ -5340,7 +5029,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-09-27T15:39:43.484Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-7x6ou3",
@@ -5403,7 +5092,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-09-27T15:39:43.484Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-86ld4t",
@@ -5478,8 +5167,8 @@
       ],
       "status": "New",
       "scannedAt": "2026-09-27T15:39:43.484Z",
-      "isNew": true
+      "isNew": false
     }
   ],
-  "scannedAt": "2026-09-27T15:40:58.151Z"
+  "scannedAt": "2026-09-27T22:12:16.569Z"
 }
