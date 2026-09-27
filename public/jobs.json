@@ -2892,90 +2892,72 @@
     {
       "id": "job-dwkhpr",
       "title": "Senior Product Designer",
+      "specialty": "Agent Experience (AI, Security & Compliance)",
       "company": "Vanta",
       "companyDomain": "vanta.com",
-      "industry": "B2B SaaS, Cloud Infrastructure, Security, Compliance, AI",
-      "location": "Remote (U.S.)",
-      "postedAt": "2026-09-19",
+      "industry": "B2B SaaS, Security & Compliance",
+      "location": "Remote",
+      "postedAt": "2026-09-26",
       "fitScore": 9,
       "fitTier": "Strong Fit",
-      "fitExplanation": "This role is an excellent match given Michael's deep experience in complex B2B SaaS and his recent use of AI tools. The focus on AI agents, automation, and complex workflows in security and compliance aligns perfectly with his expertise in making complex systems clear and trustworthy. His experience with transactional flows and marketplace infrastructure would be highly transferable to designing agent-led experiences that involve managing tasks and ensuring trust in automated systems. The remote U.S. location is also a strong preference.",
-      "source": "D1S1",
+      "fitExplanation": "Michael's 10+ years in complex B2B SaaS, deep experience with high-stakes transactional platforms and workflow design (revenue ops, finance), directly align with designing AI-powered workflows for security and compliance teams. His focus on clarity and trust in complex systems is critical for 'trustworthy AI agent behavior.' His experience operating across the full design lifecycle, from discovery to shipped product, is highly relevant for defining agent experiences from ambiguous problems. Vanta's company stage is Series C+, meeting Michael's preference.",
+      "source": "Ladders",
       "applyUrl": "N/A",
       "isOffLinkedIn": false,
-      "jobDescription": "Vanta is hiring a Senior Product Designer for their Agent Experience team, dedicated to defining how AI agents assist security and compliance teams in achieving outcomes with reduced manual effort. The role involves shaping both the foundational agent experience and the customer-facing workflows built upon it. The designer will collaborate extensively with Product, Engineering, Research, Data, AI Quality, and customer-facing teams to transform complex, ambiguous problems into intuitive, scalable, and trustworthy experiences. The goal is to make AI-powered workflows useful, transparent, and dependable, especially where clarity and correctness are paramount.\n\n**Core Responsibilities:**\n*   Lead the end-to-end design process for projects within the agent harness, encompassing problem framing, discovery, launch, and iteration.\n*   Define the composition, surfacing, and understanding of agents, skills, tools, and memory for customers.\n*   Design experiences that enable customers to delegate security and compliance tasks while maintaining visibility, control, and confidence.\n*   Establish patterns for reviewing, correcting, approving, interrupting, and recovering from agent-generated work.\n*   Design conversational and agent interaction models across various platforms like Vanta and Slack.\n*   Partner with cross-functional teams to translate ambiguous problems into thoughtful, scalable, and trustworthy experiences.\n\n**Requirements:**\n*   7+ years of product design experience, with significant depth in B2B SaaS, complex workflows, or other sophisticated software products.\n*   Experience designing AI-powered products, automation, or systems where product behavior can be dynamic or uncertain.\n*   Ability to design agent experiences beyond simple chat, including systems involving agents, skills, tools, memory, and multi-step workflows.\n*   Experience designing products that require human judgment, including knowing when and how to integrate a person into an automated workflow.",
-      "specialty": "Agent Experience",
+      "jobDescription": "This role is for a Senior Product Designer, Agent Experience at Vanta, defining how AI agents assist security and compliance teams by designing agent-led experiences that offer clarity, control, and trust within Vanta's platform and integrated surfaces like Slack. The team owns the agent harness, including agents, skills, tools, and memory.\n\nCore Responsibilities:\n* Lead design projects from discovery to launch for agent experiences.\n* Define agent components and their user interactions.\n* Create user experiences for delegating security and compliance tasks.\n* Establish patterns for effective handling of agent-generated work.\n* Design interactions for agents across platforms (Vanta, Slack).\n* Develop principles for trustworthy AI agent behavior.\n* Conduct user research with security and compliance users.\n\nRequirements:\n* 7+ years of product design experience in B2B SaaS or complex software products.\n* Proven experience designing AI-powered products, automation, or dynamic systems.\n* Ability to design agent experiences, including systems involving agents, skills, tools, memory, and multi-step workflows.\n* Experience designing products requiring human judgment within automated workflows.\n* Strong interaction design and visual design skills, with a focus on usability.\n* Ability to operate between systems-level thinking and detailed design execution.\n* Portfolio showcasing shipped work and navigation of complex workflows.",
       "keywords": [
         {
-          "keyword": "complex B2B SaaS products",
+          "keyword": "Product Design",
           "inProfile": true,
           "relevance": "required",
-          "note": "Explicitly mentioned experience in B2B SaaS and complex workflows."
+          "note": "10+ years experience"
         },
         {
-          "keyword": "AI tools",
-          "inProfile": true,
-          "relevance": "highly relevant",
-          "note": "Central to the role; Michael has experience with Figma Make, Cursor."
-        },
-        {
-          "keyword": "0-to-1 discovery",
-          "inProfile": true,
-          "relevance": "highly relevant",
-          "note": "Lead end-to-end design, from problem framing and discovery."
-        },
-        {
-          "keyword": "complex data systems",
-          "inProfile": true,
-          "relevance": "highly relevant",
-          "note": "Designing agent-led experiences often involves complex data flows."
-        },
-        {
-          "keyword": "seller workflows",
-          "inProfile": true,
-          "relevance": "moderate",
-          "note": "Transferable to agent-led workflows for security/compliance tasks."
-        },
-        {
-          "keyword": "transactional flows",
-          "inProfile": true,
-          "relevance": "moderate",
-          "note": "Transferable to multi-step agent workflows and approvals."
-        },
-        {
-          "keyword": "design systems",
-          "inProfile": true,
-          "relevance": "highly relevant",
-          "note": "Establishing patterns for agent interaction."
-        },
-        {
-          "keyword": "cross-functional collaboration",
+          "keyword": "B2B SaaS",
           "inProfile": true,
           "relevance": "required",
-          "note": "Partners with Product, Engineering, Research, Data, AI Quality."
+          "note": "Primary industry, 10+ years"
         },
         {
-          "keyword": "user research",
+          "keyword": "Complex workflows",
           "inProfile": true,
-          "relevance": "implied",
-          "note": "Discovery phase implies user understanding."
+          "relevance": "required",
+          "note": "Specializes in complex B2B SaaS, transactional workflows"
         },
         {
-          "keyword": "information architecture",
+          "keyword": "AI-powered products",
           "inProfile": true,
-          "relevance": "highly relevant",
-          "note": "Defining how agents, skills, tools, and memory are composed and surfaced."
+          "relevance": "required",
+          "note": "Uses AI tools in workflow, interest in AI"
         },
         {
-          "keyword": "visual craft",
+          "keyword": "Interaction Design",
           "inProfile": true,
-          "relevance": "highly relevant",
-          "note": "Making AI-powered workflows 'useful, transparent, and dependable' requires clarity and polish."
+          "relevance": "required",
+          "note": "Core design practice"
+        },
+        {
+          "keyword": "Visual Design",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Strong visual eye"
+        },
+        {
+          "keyword": "Systems-level thinking",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Rigorous systems thinking"
+        },
+        {
+          "keyword": "User Research",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Full design lifecycle, user research"
         }
       ],
       "status": "New",
-      "scannedAt": "2026-09-20T14:41:50.411Z",
-      "isNew": false
+      "scannedAt": "2026-09-27T15:39:43.484Z",
+      "isNew": true
     },
     {
       "id": "job-f454c5",
@@ -5214,7 +5196,290 @@
       "status": "New",
       "scannedAt": "2026-09-25T22:20:57.003Z",
       "isNew": false
+    },
+    {
+      "id": "job-babbjg",
+      "title": "Senior Product Designer",
+      "specialty": "AI platforms, Technology Workflows",
+      "company": "Unspecified Company via Virtual Vocations",
+      "companyDomain": "N/A",
+      "industry": "Technology Workflows, AI",
+      "location": "Remote",
+      "postedAt": "2026-09-26",
+      "fitScore": 8,
+      "fitTier": "Good Fit",
+      "fitExplanation": "Michael's 10+ years of experience in product design, particularly with complex web applications and design systems, aligns well. His strong visual craft and use of AI tools (Figma Make, Cursor) are relevant to shaping next-generation AI platforms. The role's emphasis on high-fidelity interactive prototypes and design systems matches his expertise in creating detailed, polished interfaces. The potential for a strong front-end coding emphasis might be a minor divergence, but his foundational visual systems background could bridge this. The company stage is unknown due to being an aggregator listing.",
+      "source": "Virtual Vocations",
+      "applyUrl": "N/A",
+      "isOffLinkedIn": false,
+      "jobDescription": "This role involves bridging advanced visual design and front-end code to shape next-generation AI platforms and design frameworks within the Technology Workflows organization.\n\nCore Responsibilities:\n* Develop high-fidelity, interactive code prototypes and sandboxes for next-generation UX.\n* Codify motion design patterns and dynamic state transitions into production-ready specifications.\n* Collaborate with Design Systems teams to translate visual tokens and micro-interactions into scalable components.\n\nRequirements:\n* 10+ years of experience in Product Design, Design Technology, or related fields, focusing on complex web applications.\n* Proficiency in modern front-end web technologies, including HTML5, CSS, JavaScript, and React.\n* Strong portfolio showcasing visual craft, motion design, and interactive prototypes.\n* Experience with kinetic design and prototyping tools like Framer or After Effects.",
+      "keywords": [
+        {
+          "keyword": "Product Design",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "10+ years experience"
+        },
+        {
+          "keyword": "AI platforms",
+          "inProfile": true,
+          "relevance": "desired",
+          "note": "Uses AI tools (Figma Make, Cursor)"
+        },
+        {
+          "keyword": "Design Systems",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Experience with design systems"
+        },
+        {
+          "keyword": "Visual Craft",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Strong visual eye, trained in graphic design"
+        },
+        {
+          "keyword": "Interactive Prototypes",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "High-fidelity interactive prototyping"
+        },
+        {
+          "keyword": "Complex web applications",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Specializes in complex B2B SaaS products"
+        },
+        {
+          "keyword": "HTML5, CSS, JavaScript, React",
+          "inProfile": false,
+          "relevance": "required",
+          "note": "Front-end coding is not his primary focus, but he has a strong visual systems background."
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-09-27T15:39:43.484Z",
+      "isNew": true
+    },
+    {
+      "id": "job-6pdhdw",
+      "title": "Senior Product Designer",
+      "company": "Client of Blink UX",
+      "companyDomain": "N/A",
+      "industry": "Product Design Consultancy Client",
+      "location": "Remote (United States)",
+      "postedAt": "2026-09-26",
+      "fitScore": 9,
+      "fitTier": "Strong Fit",
+      "fitExplanation": "This role is a strong match for Michael's expertise in blending strong UX and systems thinking with refined UI craft. His 10+ years of experience in product design, particularly with enterprise or transactional systems and complex workflows, directly addresses the requirements. His proficiency with Figma, design systems, and end-to-end design process are critical assets. The emphasis on delivering polished, visually compelling interfaces aligns perfectly with his design philosophy and background in visual systems. The client's company stage is not explicitly specified, which is the only minor unknown.",
+      "source": "WoodyJobs.com",
+      "applyUrl": "N/A",
+      "isOffLinkedIn": false,
+      "jobDescription": "The role is for a Senior Product Designer who will own and deliver seamless, human-centered digital experiences across app and web for a client of Blink UX. It requires blending strong UX and systems thinking with refined UI craft to shape flows and interaction models, and deliver polished interfaces.\n\nCore Responsibilities:\n* Own end-to-end design for key product flows from discovery through delivery with minimal oversight.\n* Translate complex, ambiguous requirements into intuitive, user-centered experiences.\n* Create high-quality deliverables (flows, wireframes, prototypes, specs) ready for implementation.\n* Apply strong visual and interaction design skills to deliver polished, scalable solutions.\n* Ensure alignment with design systems, accessibility standards, and established frameworks.\n* Maintain a high bar for craft, proactively improving quality and consistency.\n* Partner cross-functionally to define problems, shape solutions, and prioritize work.\n* Contribute to UX strategy and roadmap alignment.\n* Use data and research to inform decisions.\n\nRequirements:\n* 5+ years of experience in Product Design, UX Design, or related field (Michael has 10+).\n* Strong visual and interaction design skills with high attention to detail.\n* Proficiency in Figma (components, variants, library usage).\n* Experience working within and contributing to established design systems.\n* Experience designing enterprise or transactional systems (complex workflows, internal tools).\n* Strong portfolio demonstrating end-to-end design process and shipped outcomes.\n* Experience collaborating closely with Product Managers and Engineers.",
+      "keywords": [
+        {
+          "keyword": "Product Design",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "10+ years experience"
+        },
+        {
+          "keyword": "UX Design",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Core design practice"
+        },
+        {
+          "keyword": "Systems Thinking",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Rigorous systems thinking"
+        },
+        {
+          "keyword": "UI Craft",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Strong visual eye, tactile interaction design"
+        },
+        {
+          "keyword": "Figma",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Proficient in Figma"
+        },
+        {
+          "keyword": "Design Systems",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Experience with design systems"
+        },
+        {
+          "keyword": "Enterprise systems",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Specializes in complex B2B SaaS, enterprise seller tools"
+        },
+        {
+          "keyword": "Transactional systems",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Experience with transactional flows"
+        },
+        {
+          "keyword": "Complex workflows",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Specializes in complex B2B SaaS"
+        },
+        {
+          "keyword": "Cross-functional collaboration",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Operates effectively across full design lifecycle"
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-09-27T15:39:43.484Z",
+      "isNew": true
+    },
+    {
+      "id": "job-7x6ou3",
+      "title": "Staff Product Designer",
+      "company": "JetBrains",
+      "companyDomain": "jetbrains.com",
+      "industry": "Developer Tools, AI",
+      "location": "Remote",
+      "postedAt": "2026-09-27",
+      "fitScore": 9,
+      "fitTier": "Strong Fit",
+      "fitExplanation": "Michael's 10+ years of experience, including leading design for complex B2B SaaS platforms and a deep understanding of developer tools (from Infragistics background), make this a strong fit. The role's focus on an 'agentic development environment' with multiple AI agents and AI-native experiences aligns with his interest in AI tools and ability to design complex systems for clarity and trust. His expertise in design systems, end-to-end ownership, and comfort in ambiguous 0-to-1 problem spaces (shaping the web surface and automations sub-team from the ground up) are highly relevant.",
+      "source": "RemoteOnly",
+      "applyUrl": "N/A",
+      "isOffLinkedIn": false,
+      "jobDescription": "This role is for a Staff Product Designer at JetBrains, working on their new product 'Air,' an AI-native agentic development environment. The designer will focus on the web surface and the automations sub-team, shaping the experience from the ground up for a genuinely new kind of developer tool.\n\nCore Responsibilities:\n* Design the web interface for Air: team management, automation setup, and results overview.\n* Shape the design process for the automations sub-team, collaborating directly with developers.\n* Own how the design system evolves across web and desktop for product consistency.\n* Utilize AI for prototyping to accelerate idea generation.\n* Participate in cross-team demos and strategic planning.\n\nRequirements:\n* 7+ years of product design experience with business impact.\n* Strong ownership instinct, seeing features through from design to production.\n* Excellent cross-team project delivery, working with limited context and defining scope.\n* Active AI user (e.g., Cursor, Claude) in design workflow.\n* Solid Figma skills.",
+      "keywords": [
+        {
+          "keyword": "Staff Product Designer",
+          "inProfile": true,
+          "relevance": "target_role",
+          "note": "Target role"
+        },
+        {
+          "keyword": "Developer tools",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Deep context in developer tools"
+        },
+        {
+          "keyword": "AI-native experiences",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Uses AI tools (Figma Make, Cursor)"
+        },
+        {
+          "keyword": "Design Systems",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Experience with design systems"
+        },
+        {
+          "keyword": "Complex product workflows",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Specializes in complex B2B SaaS, transactional workflows"
+        },
+        {
+          "keyword": "Figma",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Proficient in Figma"
+        },
+        {
+          "keyword": "0-to-1 discovery",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Thrives in ambiguous 0-to-1 problem spaces"
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-09-27T15:39:43.484Z",
+      "isNew": true
+    },
+    {
+      "id": "job-86ld4t",
+      "title": "Product Designer",
+      "company": "Ramp",
+      "companyDomain": "ramp.com",
+      "industry": "Fintech, B2B",
+      "location": "New York City, New York (Hybrid)",
+      "postedAt": "2026-09-26",
+      "fitScore": 7,
+      "fitTier": "Good Fit",
+      "fitExplanation": "Michael's background in finance/FinTech adjacent (payment reconciliation, transactional flows, contract management) and complex B2B SaaS aligns well with Ramp's focus on automating spend flows for companies and high-stakes, data-dense problems. His experience with complex workflows, 0-to-1 discovery, and using AI tools in his workflow are direct matches to the responsibilities of defining problems, exploring solutions with AI, and validating assumptions. Although the title is 'Product Designer', the 'experience as a product designer working on complex products' and 'ownership of projects from problem definition through launch and iteration' coupled with the company's Series C+ stage suggests a senior scope, allowing for a good fit with his target roles. A 1-point deduction is applied for the hybrid nature of the role, as Michael prefers remote.",
+      "source": "CareerBuilder",
+      "applyUrl": "N/A",
+      "isOffLinkedIn": false,
+      "jobDescription": "This role is for a Product Designer at Ramp, focusing on building smart infrastructure for finance teams. The designer will own product work end-to-end, partnering with PM and engineering to define problems, explore solutions, validate concepts, and ship product improvements. The work involves high-stakes, data-dense problems in a systems-heavy environment, with an emphasis on using AI tools.\n\nCore Responsibilities:\n* Own product work end-to-end, from problem definition through launch and iteration.\n* Partner with Product Managers and engineers to define problems, explore solutions, validate concepts, and ship improvements.\n* Utilize LLMs (e.g., Claude) to clarify intent, draft PRDs, and identify risks/edge cases.\n* Validate assumptions through self-serve research, including customer interviews and quick tests.\n* Collaborate directly with engineers and PMs, communicating clearly.\n\nRequirements:\n* Experience as a product designer working on complex products, ideally in B2B, fintech, or systems-heavy environments.\n* Ownership of projects from problem definition through launch and iteration.\n* Active use of LLMs (Claude, ChatGPT) in design workflow.\n* Comfort working in tools like Cursor or Claude Code.\n* Portfolio demonstrating strong product thinking, interaction design, and craft.\n* Ability to define success metrics with PMs and adjust based on results.\n* Clear communication and collaboration skills.",
+      "keywords": [
+        {
+          "keyword": "Product Designer",
+          "inProfile": true,
+          "relevance": "target_role",
+          "note": "Role title, but responsibilities align with Senior/Staff"
+        },
+        {
+          "keyword": "B2B",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Primary industry, 10+ years"
+        },
+        {
+          "keyword": "Fintech",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Deep context in Finance and FinTech adjacent"
+        },
+        {
+          "keyword": "Complex products",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Specializes in complex B2B SaaS products"
+        },
+        {
+          "keyword": "Systems-heavy environments",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Rigorous systems thinking"
+        },
+        {
+          "keyword": "LLMs / AI tools",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Uses AI tools (Figma Make, Cursor)"
+        },
+        {
+          "keyword": "0-to-1 discovery",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Owns end-to-end, ambiguous problem spaces"
+        },
+        {
+          "keyword": "Interaction Design",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Core design practice"
+        },
+        {
+          "keyword": "Visual Craft",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Strong visual eye"
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-09-27T15:39:43.484Z",
+      "isNew": true
     }
   ],
-  "scannedAt": "2026-09-26T21:57:56.700Z"
+  "scannedAt": "2026-09-27T15:40:58.151Z"
 }
