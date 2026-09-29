@@ -4937,7 +4937,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-09-29T16:53:39.290Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-db1a8u",
@@ -5013,7 +5013,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-09-29T16:53:39.290Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-awlc0b",
@@ -5090,7 +5090,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-09-29T16:53:39.290Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-mndc6p",
@@ -5160,8 +5160,151 @@
       ],
       "status": "New",
       "scannedAt": "2026-09-29T16:53:39.290Z",
+      "isNew": false
+    },
+    {
+      "id": "job-vdhyf9",
+      "title": "Principal Product Designer",
+      "company": "BlackRock",
+      "companyDomain": "blackrock.com",
+      "industry": "Fintech",
+      "location": "Hybrid (New York, NY)",
+      "postedAt": "2026-09-29",
+      "fitScore": 8,
+      "fitTier": "Good Fit",
+      "fitExplanation": "This role is a strong fit for Michael's expertise in complex B2B SaaS, enterprise software, and financial technology. The focus on the Aladdin platform, which involves sophisticated investment and risk management tools, directly aligns with Michael's experience in complex data systems, transactional flows, and marketplace infrastructure. His background in leading product design for multi-cloud transactional platforms and simplifying complex workflows is highly relevant. The 'Principal' level aligns well with his Staff-level aspirations and 10+ years of experience. The 'Director' aspect indicates a hands-on leadership IC role, which fits his ability to shape design strategy and influence stakeholders. The use of AI in design workflows is also a match with his stated skills. A minor deduction is applied for the hybrid work model, as Michael prefers remote. The company stage (publicly traded) exceeds the Series C minimum.",
+      "source": "BlackRock Careers",
+      "applyUrl": "https://careers.blackrock.com/job/R264530/Director-Principal-Product-Designer-Aladdin-Design",
+      "isOffLinkedIn": true,
+      "jobDescription": "BlackRock is seeking a Director, Principal Product Designer for its Aladdin platform, a central nervous system for investment professionals. This hands-on leadership role involves defining the future of the Aladdin platform by designing sophisticated enterprise experiences for institutional investors, portfolio managers, traders, and risk managers globally. The designer will lead UX strategy for complex product areas, partnering with Product Management, Engineering, and business leaders from concept to delivery. Responsibilities include translating business strategy and customer needs into intuitive, scalable user experiences, shaping coherent platform experiences across various products and investment workflows, and driving discovery through research, workshops, prototyping, and iterative validation. The role emphasizes deep experience in enterprise and financial technology, systems thinking, platform-scale operation, and defining design strategy for complex, regulated products. Candidates should be accountable for measurable outcomes like client adoption and workflow efficiency, with strong AI and data fluency to drive problem-solving and workflow design. \n\n**Core Responsibilities:**\n* Lead UX strategy for complex product areas across the Aladdin platform.\n* Partner with Product Management, Engineering, and business leaders to shape product vision and strategy from concept through delivery.\n* Translate business strategy, customer needs, and technical capabilities into intuitive, scalable user experiences.\n* Shape coherent platform experiences by identifying cross-product and workflow opportunities.\n* Drive discovery through customer research, workshops, design sprints, prototyping, and iterative validation.\n* Accountable for measurable outcomes including client adoption, workflow efficiency, and risk reduction.\n* Utilize AI and data fluency to approach problem-solving, workflow design, and solution architecture.\n\n**Key Requirements:**\n* 12+ years of experience designing complex digital products, with significant experience in enterprise software.\n* Demonstrated experience designing sophisticated financial products, investment platforms, trading systems, or similar financial technology solutions.\n* Experience leading design across interconnected product ecosystems, balancing local needs with platform-wide consistency.\n* Strong commercial awareness and understanding of how design drives business value.\n* Ability to influence product strategy and elevate design excellence across cross-functional teams.\n* Comfort working hands-on with prototypes and customer experiences, as well as influencing senior stakeholders.",
+      "specialty": "Aladdin Design",
+      "salary": "$215,000 - $275,000",
+      "keywords": [
+        {
+          "keyword": "Complex B2B SaaS",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Highly relevant given the enterprise financial platform."
+        },
+        {
+          "keyword": "Enterprise Software",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Core to the Aladdin platform."
+        },
+        {
+          "keyword": "Fintech",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "BlackRock's Aladdin platform is a major fintech solution."
+        },
+        {
+          "keyword": "Cloud Infrastructure",
+          "inProfile": true,
+          "relevance": "moderate",
+          "note": "Implied by large-scale platform, though not explicitly called out."
+        },
+        {
+          "keyword": "Developer Tools",
+          "inProfile": true,
+          "relevance": "moderate",
+          "note": "The Aladdin platform has developer-facing aspects, but not the primary focus of this design role."
+        },
+        {
+          "keyword": "Remote",
+          "inProfile": true,
+          "relevance": "preferred",
+          "note": "Role is Hybrid, not fully remote, which is a minor preference mismatch."
+        },
+        {
+          "keyword": "Hybrid (New York, NY)",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Matches Michael's acceptable hybrid locations."
+        },
+        {
+          "keyword": "Series C or later",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "BlackRock is a large, publicly traded company."
+        },
+        {
+          "keyword": "Senior Product Designer",
+          "inProfile": true,
+          "relevance": "target",
+          "note": "Title is 'Principal', which aligns with Michael's target Staff/Lead level experience."
+        },
+        {
+          "keyword": "Staff Product Designer",
+          "inProfile": true,
+          "relevance": "target",
+          "note": "Title is 'Principal', which aligns with Michael's target Staff/Lead level experience."
+        },
+        {
+          "keyword": "Lead Product Designer",
+          "inProfile": true,
+          "relevance": "target",
+          "note": "Title is 'Principal', and responsibilities involve leading UX strategy and influencing product vision."
+        },
+        {
+          "keyword": "Complex Data Systems",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Core to designing for an investment platform like Aladdin."
+        },
+        {
+          "keyword": "Transactional Flows",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Investment and trading workflows involve complex transactional flows."
+        },
+        {
+          "keyword": "Payment Reconciliation",
+          "inProfile": true,
+          "relevance": "moderate",
+          "note": "Related to financial operations within the platform."
+        },
+        {
+          "keyword": "Marketplace Infrastructure",
+          "inProfile": true,
+          "relevance": "moderate",
+          "note": "While not a consumer marketplace, Aladdin is a platform for financial transactions among institutions."
+        },
+        {
+          "keyword": "0-to-1 Discovery",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Role involves shaping ambiguous spaces and driving clarity, consistent with 0-to-1 work."
+        },
+        {
+          "keyword": "Design Systems",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Implied by platform-level design and consistency across an ecosystem."
+        },
+        {
+          "keyword": "Figma",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Common industry tool, expected for a senior designer role."
+        },
+        {
+          "keyword": "AI Tools",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Explicitly mentioned as a requirement for problem-solving and workflow design."
+        },
+        {
+          "keyword": "Cross-functional Collaboration",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Emphasized through partnerships with Product, Engineering, and business leaders."
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-09-29T22:57:30.365Z",
       "isNew": true
     }
   ],
-  "scannedAt": "2026-09-29T16:54:40.311Z"
+  "scannedAt": "2026-09-29T22:58:26.895Z"
 }
