@@ -4868,7 +4868,300 @@
       "status": "New",
       "scannedAt": "2026-09-27T15:39:43.484Z",
       "isNew": false
+    },
+    {
+      "id": "job-kjnjwn",
+      "title": "Senior Product Designer",
+      "company": "MetaLab",
+      "companyDomain": "metalab.com",
+      "industry": "Digital Product Agency",
+      "location": "Remote (US)",
+      "postedAt": "2026-09-29",
+      "fitScore": 9,
+      "fitTier": "Strong Fit",
+      "fitExplanation": "This role at a reputable digital product agency aligns well with Michael's extensive product design experience and strong visual craft background. While an agency, it offers exposure to various B2B SaaS/enterprise clients (often Series C+). The timezone restriction (+/- 5 hours PST) is met by Michael's location.",
+      "source": "RemoteOnly",
+      "applyUrl": "N/A",
+      "isOffLinkedIn": true,
+      "jobDescription": "MetaLab is seeking a Senior Product Designer to join their team, balancing form and function while collaborating with clients and users. This role requires a strategic thinker and collaborator to apply design expertise across the entire product lifecycle, from research to wireframes and visual design. The ideal candidate thrives in dynamic environments and is passionate about product design.\n\nCore Responsibilities:\n*   Collaborate with the team to design and build high-quality products.\n*   Apply design thinking and execution throughout the product lifecycle, identifying opportunities for improvement.\n*   Help shape the visual identity of products, translating existing brands or creating new ones.\n*   Participate in design team reviews, sharing, and brainstorms.\n\nRequirements:\n*   5+ years of product design experience, preferably at a digital product agency or consultancy.\n*   A portfolio demonstrating strong UX and visual design skills.\n*   Solid experience in prototyping and interaction design.\n*   Strong foundation in visual and interaction design principles.\n*   Ability to translate stakeholder goals, user research, and complex user flows into intuitive user interfaces.\n*   Demonstrated interest in staying current with desktop and mobile best practices and trends.\n*   Strong ability to deliver compelling design rationale to both clients and internal teams.",
+      "specialty": "",
+      "keywords": [
+        {
+          "keyword": "product design",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Extensive experience"
+        },
+        {
+          "keyword": "UX design",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Core skill"
+        },
+        {
+          "keyword": "visual design",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Strong background"
+        },
+        {
+          "keyword": "prototyping",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Core skill"
+        },
+        {
+          "keyword": "interaction design",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Core skill"
+        },
+        {
+          "keyword": "user research",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Core skill"
+        },
+        {
+          "keyword": "user flows",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Core skill"
+        },
+        {
+          "keyword": "stakeholder management",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Experienced collaborator"
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-09-29T16:53:39.290Z",
+      "isNew": true
+    },
+    {
+      "id": "job-db1a8u",
+      "title": "Senior Product Designer",
+      "company": "Gong",
+      "companyDomain": "gong.io",
+      "industry": "B2B SaaS, Revenue Intelligence, AI",
+      "location": "Remote (US)",
+      "postedAt": "2026-09-28",
+      "fitScore": 10,
+      "fitTier": "Strong Fit",
+      "fitExplanation": "This role is an exceptional match for Michael's expertise in complex B2B SaaS, revenue operations infrastructure, and AI tools. The focus on transforming complicated workflows into elegant solutions and driving design for key product areas directly aligns with his experience at Tackle.io and his design philosophy. Gong is a well-established Series E company, meeting the funding criteria.",
+      "source": "Thrive Capital Job Board",
+      "applyUrl": "N/A",
+      "isOffLinkedIn": true,
+      "jobDescription": "Gong is seeking a highly motivated Senior Product Designer to play a key role in designing, exploring, and continually delivering innovative solutions and experiences for their AI-powered Revenue Operating System. The role involves transforming complex B2B SaaS workflows into elegant, simple solutions and deeply understanding user problems.\n\nCore Responsibilities:\n*   Drive the user experience and design for one of Gong's key product areas.\n*   Lead end-to-end design processes, from ideation and wireframes to polished, high-fidelity designs.\n*   Champion user-centered design principles and act as the voice of the user throughout the product lifecycle.\n*   Help shape and refine Gong's UI pattern libraries and design guidelines.\n*   Take ownership of creating intuitive, scalable, and impactful product experiences.\n*   Research and deeply understand complex user problems in B2B SaaS environments.\n*   Transform complicated workflows into elegant, simple, and easy-to-use solutions.\n*   Balance strategic thinking with attention to detail while designing flows and interfaces.\n*   Collaborate closely with Product Managers and Engineers.\n*   Utilize prototyping, user research, and testing methodologies to validate and improve solutions.\n\nRequirements:\n*   8+ years of experience designing flows, experiences, and UI for web and mobile products, preferably in B2B SaaS.\n*   Strong skills in both rapid and high-fidelity prototyping.\n*   Experience creating clear, intuitive, and user-friendly designs.\n*   A highly creative and self-driven mindset with strong problem-solving abilities.\n*   Ability to simplify complex challenges into elegant solutions.\n*   Passion for crafting exceptional user experiences.\n*   Experience with user research methodologies and usability testing.\n*   Proficiency with Figma and other design tools.\n*   Strong collaboration and interpersonal skills.",
+      "specialty": "",
+      "keywords": [
+        {
+          "keyword": "B2B SaaS",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Primary expertise"
+        },
+        {
+          "keyword": "complex workflows",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Core strength"
+        },
+        {
+          "keyword": "AI-powered products",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Experience with AI tools"
+        },
+        {
+          "keyword": "end-to-end design",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Full design lifecycle experience"
+        },
+        {
+          "keyword": "prototyping",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Core skill"
+        },
+        {
+          "keyword": "user research",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Core skill"
+        },
+        {
+          "keyword": "design systems",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Experience establishing scalable design systems"
+        },
+        {
+          "keyword": "Figma",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Proficient"
+        },
+        {
+          "keyword": "strategic thinking",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Experience shaping design strategy"
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-09-29T16:53:39.290Z",
+      "isNew": true
+    },
+    {
+      "id": "job-awlc0b",
+      "title": "Senior Product Designer",
+      "company": "Clipboard",
+      "companyDomain": "clipboard.com",
+      "industry": "Healthcare Marketplace, B2B SaaS",
+      "location": "Remote (US)",
+      "postedAt": "2026-09-29",
+      "fitScore": 10,
+      "fitTier": "Strong Fit",
+      "fitExplanation": "This remote role perfectly matches Michael's experience in complex B2B SaaS, marketplace infrastructure, and 0-to-1 ambiguous problem spaces. His background in HR tech provides adjacent industry context. The emphasis on visual craft, consistency, and raising design quality aligns with his design philosophy. The company's stage (top YC, profitable) meets the funding criteria.",
+      "source": "Jobs",
+      "applyUrl": "N/A",
+      "isOffLinkedIn": true,
+      "jobDescription": "Clipboard, an app-based marketplace connecting healthcare professionals with workplaces, is looking for a Senior Product Designer. This role involves owning and elevating the design of core experiences across worker and workplace apps, partnering closely with product and engineering to define vision and roadmaps. The designer will solve real problems for customers, iterating from discovery to polished, intuitive, and impactful solutions.\n\nCore Responsibilities:\n*   Own end-to-end design for core features across worker and facility apps, from research and problem definition through specs and launch.\n*   Serve as the primary experience voice for the team, framing ambiguous problems clearly.\n*   Partner with Product Managers on planning and prioritization, using user needs and business context.\n*   Define vision, build roadmaps, and solve real problems for customers.\n*   Explore multiple design directions, user flows, visuals, and interactions.\n*   Build detailed prototypes to test with customers and iterate for polish and impact.\n*   Contribute to dramatically raising the craft of everything built, including visual design, interactions, and consistency.\n\nRequirements:\n*   5+ years of product design experience with a portfolio of shipped work demonstrating strong visual and interaction craft and end-to-end thinking.\n*   Experience owning a product area with little oversight, taking ambiguous problems from definition through launch and iteration (0-to-1 experience).\n*   Deep attention to typography, layout, hierarchy, color, spacing, motion, and interaction details.",
+      "specialty": "",
+      "salary": "$135K - $200K",
+      "keywords": [
+        {
+          "keyword": "marketplace",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Deep experience with marketplace infrastructure"
+        },
+        {
+          "keyword": "B2B SaaS",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Primary expertise"
+        },
+        {
+          "keyword": "0-to-1",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Thrives in ambiguous problem spaces"
+        },
+        {
+          "keyword": "complex workflows",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Specializes in complex systems"
+        },
+        {
+          "keyword": "visual craft",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Unusually strong visual eye"
+        },
+        {
+          "keyword": "prototyping",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Core skill"
+        },
+        {
+          "keyword": "user research",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Core skill"
+        },
+        {
+          "keyword": "design strategy",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Experience shaping strategy"
+        },
+        {
+          "keyword": "Figma",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Proficient"
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-09-29T16:53:39.290Z",
+      "isNew": true
+    },
+    {
+      "id": "job-mndc6p",
+      "title": "Staff Product Designer",
+      "company": "Wealth.com",
+      "companyDomain": "wealth.com",
+      "industry": "Fintech",
+      "location": "Hybrid in New York City",
+      "postedAt": "2026-09-29",
+      "fitScore": 9,
+      "fitTier": "Strong Fit",
+      "fitExplanation": "This Staff Product Designer role in Fintech aligns strongly with Michael's expertise in financial/FinTech adjacent areas (payment reconciliation, transactional flows) and complex enterprise UX. The hybrid location in NYC is one of Michael's preferred areas. The focus on enterprise accounts, information architecture, and interaction prototypes are key strengths from his profile. The deduction of 1 point is due to the hybrid work arrangement.",
+      "source": "Remote Source",
+      "applyUrl": "N/A",
+      "isOffLinkedIn": true,
+      "jobDescription": "Wealth.com is looking for a Staff Product Designer to work on their Finance & Fintech platform. This role involves establishing ongoing testing loops with key enterprise accounts and representing UX in client meetings. The designer will be critical in validating information architecture, testing interaction prototypes, and ensuring workflows reduce advisory friction.\n\nCore Responsibilities:\n*   Establish ongoing testing loops with key enterprise accounts to validate information architecture, test interaction prototypes, and ensure key workflows reduce advisory friction.\n*   Join enterprise client meetings alongside Product Management and Customer Success to present core UX frameworks, walk through end-to-end user journeys, and champion usability requirements.\n\nRequirements:\n*   Experience working with enterprise accounts in a Fintech environment.\n*   Strong skills in information architecture, interaction design, and prototyping.\n*   Ability to translate complex financial concepts into intuitive user experiences.\n*   Excellent communication and collaboration skills for client-facing and internal team interactions.",
+      "specialty": "",
+      "keywords": [
+        {
+          "keyword": "Fintech",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Deep context in finance/FinTech adjacent"
+        },
+        {
+          "keyword": "enterprise accounts",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Experience with large technology companies at Tackle.io"
+        },
+        {
+          "keyword": "information architecture",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Core skill"
+        },
+        {
+          "keyword": "interaction design",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Core skill"
+        },
+        {
+          "keyword": "prototyping",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Core skill"
+        },
+        {
+          "keyword": "complex workflows",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Specializes in complex systems"
+        },
+        {
+          "keyword": "user journeys",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Core design practice"
+        },
+        {
+          "keyword": "Figma",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Proficient"
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-09-29T16:53:39.290Z",
+      "isNew": true
     }
   ],
-  "scannedAt": "2026-09-28T23:49:34.611Z"
+  "scannedAt": "2026-09-29T16:54:40.311Z"
 }
