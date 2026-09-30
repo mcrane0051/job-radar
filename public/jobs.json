@@ -389,76 +389,6 @@
       "isNew": false
     },
     {
-      "id": "job-a7uly4",
-      "title": "Senior Product Designer",
-      "company": "Magic Eden",
-      "companyDomain": "magiceden.io",
-      "industry": "Blockchain, Crypto & Web3",
-      "location": "Remote (United States)",
-      "postedAt": "2026-09-16",
-      "fitScore": 4,
-      "fitTier": "Possible",
-      "fitExplanation": "This role is for a Senior Product Designer on a crypto casino and sportsbook platform, which falls under consumer apps (sports betting) and a blockchain/crypto industry. While Michael has strong experience in complex workflows, high-fidelity prototyping, and leadership, his core expertise is in B2B SaaS, enterprise software, and FinTech adjacent to traditional finance. He explicitly states he is not looking for 'pure consumer apps' and lacks deep context in crypto or sports betting. The job description itself notes 'Critical gaps: Marketplace business model; Revenue operations depth' in its match analysis, which are areas Michael excels in, further indicating a weaker fit.",
-      "source": "Jobgether",
-      "applyUrl": "N/A",
-      "isOffLinkedIn": true,
-      "jobDescription": "Magic Eden is seeking a Senior Product Designer to help shape the core user experience for their sportsbook platform, Dicey. This role is for a hands-on designer who excels at executing complex, high-velocity consumer flows and collaborating closely with cross-functional peers. The designer will contribute directly to impactful sportsbook initiatives, elevate design quality, and mentor team members. The company is a fast-growing unicorn in the NFT marketplace space, now expanding into iGaming and sports betting with an AI-native approach to growth. \n\n**Core Responsibilities:**\n*   Act as the primary hands-on designer for the sports betting platform.\n*   Define and drive the overall product design vision and strategy for the sports suite, aligning with business objectives and user needs.\n*   Lead the design of major features, including user flows, wireframes, and high-fidelity prototypes.\n*   Collaborate closely with Product and Engineering leadership to align on roadmaps and prioritize efforts.\n*   Elevate the team through mentorship, providing direct feedback and leading design critiques.\n\n**Requirements:**\n*   6+ years of experience in product design at a senior level.\n*   Basic understanding of crypto and decentralized platforms.\n*   Deep enthusiasm for sports and sports betting.\n*   Expert proficiency in Figma and modern design tools.\n*   Excels at executing complex, high-velocity consumer flows.\n*   Strong communication and collaboration skills.",
-      "specialty": "Sportsbook",
-      "keywords": [
-        {
-          "keyword": "Complex workflow design",
-          "inProfile": true,
-          "relevance": "strong",
-          "note": "The role requires excelling at complex, high-velocity consumer flows, aligning with Michael's strength in complex B2B workflows."
-        },
-        {
-          "keyword": "High-fidelity interactive prototyping",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Explicitly mentioned in responsibilities (wireframes, high-fidelity prototypes)."
-        },
-        {
-          "keyword": "Figma",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Explicitly mentioned as an expert proficiency."
-        },
-        {
-          "keyword": "Design Systems",
-          "inProfile": true,
-          "relevance": "moderate",
-          "note": "Implied by the need for cohesive user experience and elevating design quality, though not explicitly mentioned. Michael has strong experience."
-        },
-        {
-          "keyword": "Cross-functional collaboration",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Emphasized in the job description."
-        },
-        {
-          "keyword": "Mentorship",
-          "inProfile": true,
-          "relevance": "strong",
-          "note": "Role involves elevating the team through mentorship, aligning with Michael's experience."
-        },
-        {
-          "keyword": "B2B SaaS",
-          "inProfile": true,
-          "relevance": "weak",
-          "note": "The role is primarily consumer-facing, deviating from Michael's B2B focus."
-        },
-        {
-          "keyword": "Cloud marketplace",
-          "inProfile": true,
-          "relevance": "weak",
-          "note": "While Magic Eden is an NFT marketplace, this specific role is for a sports betting platform, not B2B cloud marketplace infrastructure Michael specializes in."
-        }
-      ],
-      "status": "New",
-      "scannedAt": "2026-09-16T15:25:34.732Z",
-      "isNew": false
-    },
-    {
       "id": "job-76pmyc",
       "title": "Lead Product Designer",
       "company": "BILL",
@@ -5303,8 +5233,231 @@
       ],
       "status": "New",
       "scannedAt": "2026-09-29T22:57:30.365Z",
+      "isNew": false
+    },
+    {
+      "id": "job-hehuto",
+      "title": "Staff Product Designer",
+      "company": "Deepgram",
+      "companyDomain": "deepgram.com",
+      "industry": "Developer Tools",
+      "location": "Remote (United States)",
+      "postedAt": "2026-09-29",
+      "fitScore": 9,
+      "fitTier": "Strong Fit",
+      "fitExplanation": "This role aligns exceptionally well with Michael's profile, particularly his expertise in complex B2B SaaS, developer tools, and platform-level design. His experience with AI tools and making complex systems delightful directly translates to designing conversational AI products. The Staff level is also a target role for him.",
+      "source": "1517 Fund",
+      "applyUrl": "N/A",
+      "isOffLinkedIn": false,
+      "jobDescription": "Deepgram is seeking a Staff Product Designer to lead product design for their Conversational AI platform. The company is building a real-time API platform for the trillion-dollar Voice AI economy, focusing on voice-native foundation models and runtime infrastructure. The designer will contribute to building Voice AI products, platforms, and autonomous agents, ensuring low latency, high accuracy, and enterprise reliability. This role involves designing complex systems and developer-centric interfaces.\n\nCore Responsibilities:\n*   Lead product design for conversational AI products and platforms.\n*   Design voice-native foundation models and runtime infrastructure.\n*   Ensure low latency, high accuracy, and enterprise reliability in AI products.\n*   Build products, platforms, and autonomous agents for the Voice AI economy.\n*   Collaborate on a real-time API platform.\n\nRequirements (inferred):\n*   Extensive experience with complex B2B SaaS products.\n*   Proven expertise in platform or systems-level design.\n*   Ability to translate complex technical problems into user-friendly and reliable experiences.\n*   Familiarity with AI/ML concepts, specifically Conversational AI.\n*   Background in developer tools or cloud infrastructure.",
+      "specialty": "Conversational AI",
+      "keywords": [
+        {
+          "keyword": "B2B SaaS",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Core industry expertise for Michael."
+        },
+        {
+          "keyword": "Developer Tools",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Direct industry match with Michael's background."
+        },
+        {
+          "keyword": "Cloud Infrastructure",
+          "inProfile": true,
+          "relevance": "strong_plus",
+          "note": "Related to Michael's experience in multi-cloud transactional platforms."
+        },
+        {
+          "keyword": "AI Tools",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael actively uses AI tools and this role is AI-centric."
+        },
+        {
+          "keyword": "Complex Systems",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael specializes in designing complex systems."
+        },
+        {
+          "keyword": "Platform Design",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael's current role involves leading design for an enterprise platform."
+        },
+        {
+          "keyword": "Staff Product Designer",
+          "inProfile": true,
+          "relevance": "target_title",
+          "note": "This is a target role level for Michael."
+        },
+        {
+          "keyword": "Figma",
+          "inProfile": true,
+          "relevance": "strong_plus",
+          "note": "Key design tool Michael is proficient in."
+        },
+        {
+          "keyword": "0-to-1 design",
+          "inProfile": true,
+          "relevance": "strong_plus",
+          "note": "Michael thrives in ambiguous 0-to-1 problem spaces."
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-09-30T16:49:17.009Z",
+      "isNew": true
+    },
+    {
+      "id": "job-vwumu1",
+      "title": "Senior Product Designer",
+      "company": "Clipboard Health",
+      "companyDomain": "clipboardhealth.com",
+      "industry": "Marketplace",
+      "location": "Remote (United States)",
+      "postedAt": "2026-09-29",
+      "fitScore": 8,
+      "fitTier": "Good Fit",
+      "fitExplanation": "This role presents a good fit due to Michael's strong experience in marketplace infrastructure and complex workflow design. His background in B2B SaaS and transactional platforms directly translates to a healthcare staffing marketplace. While healthcare isn't a primary industry for him, his ability to simplify data-heavy interfaces and build trust in systems is highly relevant. The senior product designer title also matches his target.",
+      "source": "Sequoia Capital Companies",
+      "applyUrl": "N/A",
+      "isOffLinkedIn": false,
+      "jobDescription": "Clipboard Health is hiring a Senior Product Designer to work on their technology platform that connects nursing facilities with nurses, aiming to solve the national shortage of healthcare professionals. The role involves designing user experiences for a marketplace, including conducting research, prototyping, and contributing to design systems. The focus is on addressing complex problems in healthcare staffing through technology.\n\nCore Responsibilities:\n*   Design technology solutions for a healthcare staffing marketplace.\n*   Conduct user research, prototyping, and visual design.\n*   Contribute to and apply design systems.\n*   Solve complex problems related to nurse shortages and staffing efficiency.\n*   Focus on design for both Android and iOS platforms.\n\nRequirements (inferred):\n*   Proven experience in marketplace product design.\n*   Proficiency in Figma and other prototyping tools.\n*   Experience with complex data and workflow challenges.\n*   Strong user research and problem-solving abilities.\n*   Ability to implement and leverage design systems effectively.",
+      "specialty": "",
+      "keywords": [
+        {
+          "keyword": "Marketplace",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Deep context for Michael with marketplace infrastructure experience."
+        },
+        {
+          "keyword": "B2B SaaS",
+          "inProfile": true,
+          "relevance": "strong_plus",
+          "note": "Nursing facilities are businesses, aligning with B2B SaaS."
+        },
+        {
+          "keyword": "Complex workflow design",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Direct match for Michael's core expertise."
+        },
+        {
+          "keyword": "Design Systems",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael has strong experience in establishing and scaling design systems."
+        },
+        {
+          "keyword": "Figma",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Key design tool Michael is proficient in."
+        },
+        {
+          "keyword": "User Research",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael operates across the full design lifecycle including discovery."
+        },
+        {
+          "keyword": "Prototyping",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael excels at high-fidelity interactive prototyping."
+        },
+        {
+          "keyword": "Senior Product Designer",
+          "inProfile": true,
+          "relevance": "target_title",
+          "note": "This is a target role level for Michael."
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-09-30T16:49:17.009Z",
+      "isNew": true
+    },
+    {
+      "id": "job-atlx8c",
+      "title": "Senior Product Design Strategist",
+      "company": "Omada Health",
+      "companyDomain": "omadahealth.com",
+      "industry": "Digital Health",
+      "location": "Remote (United States)",
+      "postedAt": "2026-09-29",
+      "fitScore": 8,
+      "fitTier": "Good Fit",
+      "fitExplanation": "This role is a strong fit due to its remote nature, senior strategic focus, and the explicit mention of 'Financial technology' within the responsibilities, which is a deep area of expertise for Michael. His skills in complex data systems, interaction design, and product strategy are highly relevant, even though the primary industry is Digital Health.",
+      "source": "Andreessen Horowitz Companies",
+      "applyUrl": "N/A",
+      "isOffLinkedIn": false,
+      "jobDescription": "Omada Health is looking for a Senior Product Design Strategist. This strategic role involves leading product design, conducting research, defining interaction design, and utilizing analytics tools. While the primary context is 'Bio + Health,' the role also involves aspects of 'Financial technology.' The designer will be responsible for working with data engineering and creating interactive prototypes to drive product strategy.\n\nCore Responsibilities:\n*   Lead and define product design strategy for health-related products.\n*   Conduct thorough research and establish interaction design principles.\n*   Engage with financial technology aspects of the product.\n*   Utilize data engineering and various analytics tools for informed design decisions.\n*   Create and iterate on interactive prototypes to communicate design vision.\n\nRequirements (inferred):\n*   Extensive experience in Product Design and Strategy.\n*   Strong background in user research and interaction design.\n*   Familiarity with financial technology, payment reconciliation, or transactional flows.\n*   Experience with data-driven design and using analytics tools like Amplitude or Pendo.\n*   Proficiency in modern prototyping tools.",
+      "specialty": "Strategist",
+      "salary": "$192,280 - 240,350",
+      "keywords": [
+        {
+          "keyword": "Product Design",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Core skill and experience for Michael."
+        },
+        {
+          "keyword": "Strategy",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael has experience shaping design strategy at the team and org level."
+        },
+        {
+          "keyword": "Financial technology",
+          "inProfile": true,
+          "relevance": "deep_context",
+          "note": "Michael has deep context in finance and FinTech adjacent areas."
+        },
+        {
+          "keyword": "User Research",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael operates across the full design lifecycle including user research."
+        },
+        {
+          "keyword": "Interaction Design",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Key design philosophy of Michael is tactile interaction design."
+        },
+        {
+          "keyword": "Analytics Tools",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael is proficient with Amplitude and Pendo."
+        },
+        {
+          "keyword": "Prototyping",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael excels at high-fidelity interactive prototyping."
+        },
+        {
+          "keyword": "Complex Systems",
+          "inProfile": true,
+          "relevance": "strong_plus",
+          "note": "Michael specializes in designing complex B2B SaaS products."
+        },
+        {
+          "keyword": "Senior Product Designer",
+          "inProfile": true,
+          "relevance": "target_title",
+          "note": "This is a target role level for Michael."
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-09-30T16:49:17.009Z",
       "isNew": true
     }
   ],
-  "scannedAt": "2026-09-29T22:58:26.895Z"
+  "scannedAt": "2026-09-30T16:50:06.179Z"
 }
