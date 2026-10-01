@@ -389,58 +389,6 @@
       "isNew": false
     },
     {
-      "id": "job-76pmyc",
-      "title": "Lead Product Designer",
-      "company": "BILL",
-      "companyDomain": "bill.com",
-      "industry": "FinTech, B2B SaaS",
-      "location": "Remote (United States)",
-      "postedAt": "2026-09-15",
-      "fitScore": 9,
-      "fitTier": "Strong Fit",
-      "fitExplanation": "This Lead Product Designer role at BILL (formerly Bill.com) is a strong fit due to its focus on financial automation software, which aligns perfectly with Michael's deep context in finance and FinTech adjacent areas like payment reconciliation and transactional flows. As a public company, BILL meets the Series C or later funding stage. Michael's experience leading design for transactional platforms and complex data systems, along with his ability to operate effectively across the full design lifecycle, is highly relevant. The remote US location is also ideal.",
-      "source": "Jobright",
-      "applyUrl": "N/A",
-      "salary": "$166k - $199k",
-      "jobDescription": "BILL is looking for a Lead Product Designer to work on their financial automation software, primarily for small and midsize businesses. This role will involve designing critical workflows related to financial transactions and automation, requiring a deep understanding of complex data and user needs in a B2B context. The designer will be responsible for leading design initiatives that enhance the platform's usability and functionality for businesses managing their finances.",
-      "specialty": "Financial automation software",
-      "keywords": [
-        {
-          "keyword": "Financial automation software",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Directly aligns with Michael's experience in payment reconciliation and transactional flows."
-        },
-        {
-          "keyword": "B2B SaaS",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Michael specializes in complex B2B SaaS products."
-        },
-        {
-          "keyword": "Transactional workflows",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Michael's expertise includes transactional flows and payment reconciliation."
-        },
-        {
-          "keyword": "Complex data systems",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Michael specializes in making complex systems delightful and tactile."
-        },
-        {
-          "keyword": "Lead Product Designer",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Matches Michael's target role level and experience in leading design initiatives."
-        }
-      ],
-      "status": "New",
-      "scannedAt": "2026-09-16T22:10:36.460Z",
-      "isNew": false
-    },
-    {
       "id": "job-dv6f24",
       "title": "Senior Product Designer",
       "company": "Spark",
@@ -5309,7 +5257,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-09-30T16:49:17.009Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-vwumu1",
@@ -5379,7 +5327,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-09-30T16:49:17.009Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-atlx8c",
@@ -5456,8 +5404,115 @@
       ],
       "status": "New",
       "scannedAt": "2026-09-30T16:49:17.009Z",
+      "isNew": false
+    },
+    {
+      "id": "job-yj1qx0",
+      "title": "Senior Product Designer",
+      "company": "CoinMarketCap",
+      "companyDomain": "coinmarketcap.com",
+      "industry": "Fintech",
+      "location": "Remote",
+      "postedAt": "2026-09-30",
+      "fitScore": 9,
+      "fitTier": "Strong Fit",
+      "fitExplanation": "This role is a strong match for Michael's profile, focusing on complex data systems, transactional flows (derivatives, on-chain data), and FinTech, which aligns with his deep context in finance and revenue operations infrastructure. His 10+ years of experience, expertise in 0-to-1 discovery, scaling products, and design systems are directly applicable. The emphasis on visual craft and simplifying complex concepts for trust also resonates with his design philosophy. The company stage (owned by Binance) is well beyond Series C. The role is fully remote, which is preferred.",
+      "source": "jobla.com / TrulyRemoteWork.com / Work From Anywhere Jobs / Hashtag Web3 (Aggregators)",
+      "applyUrl": "N/A",
+      "isOffLinkedIn": false,
+      "jobDescription": "CoinMarketCap is seeking a Senior Product Designer to enhance the user experience across its core products, with a particular focus on on-chain data solutions like CoinGlass. This role involves owning the end-to-end product experience, from user research and information architecture to UI design and usability validation. The designer will translate complex crypto derivatives data, market data, and on-chain metrics into clear, intuitive, and visually compelling user interfaces. Collaboration with product managers, engineers, and business stakeholders is central to defining user experience and creative direction. The role also includes supporting brand and marketing visual design and contributing to the CoinGlass design system by maintaining consistent UI components and visual standards.\n\nKey Responsibilities:\n*   Lead end-to-end product design for CoinGlass core products, including user research, information architecture, interaction design, prototyping, UI design, and usability validation.\n*   Translate complex derivatives data, funding rates, open interest, liquidations, contract metrics, and on-chain/market data into clear and efficient user interfaces.\n*   Support brand and marketing visual design, including in-product illustrations, website pages, social media assets, presentations, and brand communications.\n*   Represent the voice of the user by leveraging feedback, behavioral data, and usability testing to improve product experience.\n*   Collaborate with product, engineering, data, marketing, and growth teams to ensure design solutions are feasible, scalable, and aligned with business goals.\n*   Contribute to the CoinGlass design system by maintaining consistent UI components, visual standards, icon systems, and design guidelines.\n\nRequired Qualifications:\n*   5+ years of product/UX design experience with a strong portfolio demonstrating end-to-end product design work.\n*   Proven graphic/visual design experience, including brand visuals, marketing materials, illustrations, or campaign design.\n*   Proficient in Figma, Sketch, Adobe Creative Suite, or similar design tools.\n*   Strong understanding of UX principles, interaction design, information architecture, usability, responsive design, and design systems.\n*   Ability to simplify complex data products and crypto/financial concepts into clear user flows and interfaces.\n*   Fluent in English with excellent written and verbal communication skills.\n*   Experience collaborating with remote, cross-regional product and engineering teams.\n*   Deep understanding of on-chain data from both technical and business perspectives (preferred).\n*   Experience in crypto, derivatives, exchanges, data platforms, or fintech products (preferred).\n*   Experience designing dashboards, data visualizations, real-time charts, or trading-related interfaces (preferred).",
+      "specialty": "CoinGlass / On-chain Data",
+      "salary": "$112,000 - $188,000",
+      "keywords": [
+        {
+          "keyword": "User Research",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Matches Michael's design practice."
+        },
+        {
+          "keyword": "Information Architecture",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Matches Michael's design practice."
+        },
+        {
+          "keyword": "Interaction Design",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Matches Michael's design practice."
+        },
+        {
+          "keyword": "Prototyping",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Matches Michael's design practice."
+        },
+        {
+          "keyword": "UI Design",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Matches Michael's design practice and visual craft."
+        },
+        {
+          "keyword": "Usability Validation",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Matches Michael's design practice."
+        },
+        {
+          "keyword": "Design Systems",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Matches Michael's design practice and experience."
+        },
+        {
+          "keyword": "Figma",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Matches Michael's tools."
+        },
+        {
+          "keyword": "Adobe Creative Suite",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Matches Michael's tools and background in visual systems."
+        },
+        {
+          "keyword": "Complex Data Systems",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Directly aligns with Michael's expertise in data-heavy interfaces."
+        },
+        {
+          "keyword": "Transactional Flows",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Directly aligns with Michael's expertise in transactional workflows."
+        },
+        {
+          "keyword": "Fintech",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Matches Michael's deep context."
+        },
+        {
+          "keyword": "0-to-1",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Matches Michael's type of work preference."
+        },
+        {
+          "keyword": "Cross-functional Collaboration",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Matches Michael's type of work preference."
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-10-01T17:22:35.516Z",
       "isNew": true
     }
   ],
-  "scannedAt": "2026-09-30T16:50:06.179Z"
+  "scannedAt": "2026-10-01T17:23:12.277Z"
 }
