@@ -564,129 +564,6 @@
       "isNew": false
     },
     {
-      "id": "job-yosx0c",
-      "title": "Senior Product Designer",
-      "company": "Datavant",
-      "companyDomain": "datavant.com",
-      "industry": "Enterprise Software, Healthcare Data",
-      "location": "Remote (Work from Home)",
-      "postedAt": "2026-09-18",
-      "fitScore": 9,
-      "fitTier": "Strong Fit",
-      "fitExplanation": "This role is an excellent fit for Michael, emphasizing enterprise, workflow, platform, and data-intensive products, which are core to his expertise in complex B2B SaaS and data systems. The focus on 0-to-1 products, self-service experiences, and evolving core platforms aligns perfectly with his ability to thrive in ambiguous problem spaces and scale existing products. His experience with user research, interaction/visual design, and working with Product and Engineering teams is directly applicable. Datavant's company stage (well beyond Series C through acquisition) also meets the requirement.",
-      "source": "Himalayas",
-      "applyUrl": "N/A",
-      "isOffLinkedIn": false,
-      "jobDescription": "Datavant is seeking a Senior Product Designer to join a client-focused product team focused on reimagining how medical records are retrieved and delivered. This is a highly collaborative, hands-on role requiring a blend of strong design craft and product thinking. You will manage the entire design process, working directly with clients and internal users, and collaborating closely with Product and Engineering to transform complex healthcare workflows into simple, effective experiences.\n\nKey Responsibilities:\n* Lead end-to-end product design, from discovery and problem framing through prototyping, validation, implementation, and iteration.\n* Shape and launch 0-to-1 products to expand Datavant's value delivery.\n* Design self-service experiences to enhance user visibility, control, and confidence in the retrieval process.\n* Evolve the core client platform and internal operational tools to improve usability and streamline workflows.\n* Directly engage with clients and internal users through interviews, workflow observation, concept testing, and usability research.\n\nRequirements:\n* 6+ years of product design experience, with a focus on enterprise, workflow, platform, or data-intensive products.\n* A strong portfolio showcasing end-to-end ownership, excellent interaction and visual design craft, and demonstrated impact.\n* Experience taking ambiguous opportunities from 0 to 1, including problem framing, solution exploration, concept validation, and post-launch learning.\n* Self-directed, curious, comfortable with ambiguity, and motivated by measurable customer and business outcomes.",
-      "keywords": [
-        {
-          "keyword": "enterprise",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Matches Michael's B2B SaaS and enterprise software experience."
-        },
-        {
-          "keyword": "workflow",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Directly aligns with Michael's complex workflow design expertise."
-        },
-        {
-          "keyword": "platform",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Matches Michael's experience with platform and systems-level design."
-        },
-        {
-          "keyword": "data-intensive products",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Matches Michael's expertise in complex data systems."
-        },
-        {
-          "keyword": "end-to-end ownership",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Matches Michael's operation across the full design lifecycle."
-        },
-        {
-          "keyword": "interaction and visual design craft",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Highlights Michael's strong visual eye and tactile interaction design."
-        },
-        {
-          "keyword": "0 to 1",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Matches Michael's experience in ambiguous problem spaces."
-        },
-        {
-          "keyword": "problem framing",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Matches Michael's discovery phase involvement."
-        },
-        {
-          "keyword": "self-service experiences",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Matches Michael's work on self-serve onboarding and user enablement."
-        },
-        {
-          "keyword": "usability",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Included in Michael's design practice skills."
-        },
-        {
-          "keyword": "streamline workflows",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Matches Michael's focus on simplifying workflows and reducing friction."
-        },
-        {
-          "keyword": "interviews",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Included in Michael's user research skills."
-        },
-        {
-          "keyword": "workflow observation",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Relevant to Michael's user research methods."
-        },
-        {
-          "keyword": "concept testing",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Relevant to Michael's user research methods."
-        },
-        {
-          "keyword": "usability research",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Included in Michael's user research skills."
-        },
-        {
-          "keyword": "Product",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Matches Michael's cross-functional collaboration with PMs."
-        },
-        {
-          "keyword": "Engineering",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Matches Michael's cross-functional collaboration with engineering."
-        }
-      ],
-      "status": "New",
-      "scannedAt": "2026-09-19T21:27:47.459Z",
-      "isNew": false
-    },
-    {
       "id": "job-dwkhpr",
       "title": "Senior Product Designer",
       "specialty": "Agent Experience (AI, Security & Compliance)",
@@ -4231,7 +4108,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-10-03T15:08:29.443Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-ocybsq",
@@ -4332,7 +4209,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-10-03T15:08:29.443Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-rj291",
@@ -4409,7 +4286,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-10-03T15:08:29.443Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-dvpkp2",
@@ -4498,8 +4375,8 @@
       ],
       "status": "New",
       "scannedAt": "2026-10-03T15:08:29.443Z",
-      "isNew": true
+      "isNew": false
     }
   ],
-  "scannedAt": "2026-10-03T15:10:38.247Z"
+  "scannedAt": "2026-10-03T22:09:25.494Z"
 }
