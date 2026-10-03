@@ -459,166 +459,6 @@
       "isNew": false
     },
     {
-      "id": "job-30yvyf",
-      "title": "Senior Product Designer",
-      "company": "Remote",
-      "companyDomain": "remote.com",
-      "industry": "B2B SaaS, HRTech, Fintech",
-      "location": "Remote (U.S. Only)",
-      "postedAt": "2026-09-17",
-      "fitScore": 9,
-      "fitTier": "Strong Fit",
-      "fitExplanation": "This role aligns very strongly with Michael's profile, particularly his expertise in complex B2B SaaS products and experience in HRTech and FinTech adjacent domains. The emphasis on influencing product strategy, applying research methodologies, autonomously leading design, and leveraging AI prototyping directly matches Michael's skills and 'Types of Work I Do Best'. The remote-first nature is also a strong preference for the candidate. The company's maturity (well past Series C) also meets the candidate's preferences.",
-      "source": "Google Search (likely company career page via redirect)",
-      "applyUrl": "N/A",
-      "isOffLinkedIn": true,
-      "jobDescription": "This Senior Product Designer role is an engaged member of the design organization, focused on delivering quality user experiences and shaping the design culture. The ideal candidate will have experience designing complex B2B SaaS solutions for industries such as HRTech and FinTech. The role requires influencing product team strategy, identifying impact opportunities, and collaborating with cross-functional peers. Key responsibilities include applying appropriate research methodologies, empathizing with customer challenges, and developing intimate knowledge of the problem space. Leveraging AI prototyping for conceptual exploration and bringing ideas to life with functional flows is also a key aspect. The role expects a high level of maturity across the end-to-end design process, the ability to autonomously lead design within a product team, and comfort navigating ambiguity.",
-      "specialty": "",
-      "salary": "$60,000 - $140,400",
-      "keywords": [
-        {
-          "keyword": "Senior Product Designer",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Direct title match."
-        },
-        {
-          "keyword": "B2B SaaS",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Explicitly mentioned and a core strength of Michael's."
-        },
-        {
-          "keyword": "HRTech",
-          "inProfile": true,
-          "relevance": "preferred",
-          "note": "Explicitly mentioned as a preferred industry, matching Michael's background."
-        },
-        {
-          "keyword": "FinTech",
-          "inProfile": true,
-          "relevance": "preferred",
-          "note": "Explicitly mentioned as a preferred industry, matching Michael's adjacent experience."
-        },
-        {
-          "keyword": "Complex workflows",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Implied by 'complex B2B SaaS solutions' and Michael's experience."
-        },
-        {
-          "keyword": "End-to-end design process",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Core responsibility matching Michael's experience across the full design lifecycle."
-        },
-        {
-          "keyword": "Influencing strategy",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Explicitly mentioned and aligns with Michael's experience shaping design strategy."
-        },
-        {
-          "keyword": "User research",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Explicitly mentioned 'applying the right research methodology' matching Michael's skills."
-        },
-        {
-          "keyword": "AI prototyping",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Explicitly mentioned and aligns with Michael's use of AI tools."
-        },
-        {
-          "keyword": "Navigating ambiguity",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Explicitly mentioned, matching Michael's strength in 0-to-1 and ambiguous problem spaces."
-        },
-        {
-          "keyword": "Cross-functional collaboration",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Emphasized collaboration, matching Michael's preferred team culture."
-        }
-      ],
-      "status": "New",
-      "scannedAt": "2026-09-18T21:42:06.552Z",
-      "isNew": false
-    },
-    {
-      "id": "job-ndtwns",
-      "title": "Senior Product Designer",
-      "company": "Current",
-      "companyDomain": "current.com",
-      "industry": "Fintech (Consumer-facing with B2B-like complexity)",
-      "location": "Hybrid - New York, NY",
-      "postedAt": "2026-09-18",
-      "fitScore": 7.5,
-      "fitTier": "Good Fit",
-      "fitExplanation": "While Current operates in the consumer fintech space, which Michael typically excludes, this role heavily emphasizes owning and scaling a design system and designing complex banking workflows (onboarding, payments, liquidity features). Michael has a strong background in visual systems, design systems, and complex transactional flows, making this a good match for his specialized skills. The company is well-funded (Series D), meeting the company stage preference. However, the role is hybrid, leading to a 1.5-point deduction, and the consumer-facing nature, while complex, slightly deviates from his primary B2B focus.",
-      "source": "Built In NYC",
-      "applyUrl": "N/A",
-      "isOffLinkedIn": true,
-      "jobDescription": "Current is seeking a Senior Product Designer to curate and scale the design language powering their product experience. This role involves owning and scaling the design system, encompassing foundational tokens, components, documentation, and accessibility standards, while also driving its adoption across teams. The designer will partner closely with engineering to align Figma and product implementations, audit product surfaces, and lead consolidation efforts. Additionally, the role entails owning the end-to-end UX for a primary banking workflow, such as new user onboarding, payments, or liquidity features, collaborating with product managers, and providing feedback to other product designers. The position requires a senior-level designer focused on driving impact and building better financial futures for members.",
-      "specialty": "Design System Lead",
-      "salary": "$135,000 - $172,000",
-      "keywords": [
-        {
-          "keyword": "Senior Product Designer",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Direct title match."
-        },
-        {
-          "keyword": "Design systems",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Core responsibility of the role, a strong area for Michael."
-        },
-        {
-          "keyword": "Visual systems",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Underpins the design system work, aligning with Michael's background."
-        },
-        {
-          "keyword": "Fintech",
-          "inProfile": true,
-          "relevance": "strong alignment",
-          "note": "Fintech adjacent experience is a deep context for Michael."
-        },
-        {
-          "keyword": "Complex workflows",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Focus on banking workflows (onboarding, payments, liquidity) aligns with Michael's experience in transactional flows."
-        },
-        {
-          "keyword": "Cross-functional collaboration",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Partnering with engineering and product managers is explicitly mentioned."
-        },
-        {
-          "keyword": "UI Design",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Implied by design system and UX ownership."
-        },
-        {
-          "keyword": "Prototyping",
-          "inProfile": true,
-          "relevance": "implied",
-          "note": "Standard for end-to-end UX ownership."
-        }
-      ],
-      "status": "New",
-      "scannedAt": "2026-09-18T21:42:06.552Z",
-      "isNew": false
-    },
-    {
       "id": "job-k6vjmf",
       "title": "Senior Product Designer",
       "company": "American Express (Resy)",
@@ -4302,8 +4142,364 @@
       ],
       "status": "New",
       "scannedAt": "2026-10-02T16:38:09.516Z",
+      "isNew": false
+    },
+    {
+      "id": "job-daw96e",
+      "title": "Senior Product Designer",
+      "company": "Okta",
+      "companyDomain": "okta.com",
+      "industry": "Enterprise Software",
+      "location": "Hybrid in NYC",
+      "postedAt": "2026-10-02",
+      "fitScore": 8,
+      "fitTier": "Good Fit",
+      "fitExplanation": "This Senior Product Designer role at Okta for AI Agents aligns strongly with Michael's background in complex B2B SaaS, enterprise software, and cloud infrastructure, particularly his 0-to-1 experience and work with ambiguous, technical problem spaces. The emphasis on identity and security for AI agents, along with the requirement for AI design tools experience, directly matches his profile. His strong visual craft and systems thinking are highly relevant. The hybrid NYC location is acceptable per his preferences.",
+      "source": "Google Search / Built In",
+      "applyUrl": "N/A",
+      "isOffLinkedIn": false,
+      "jobDescription": "Summary: Design end-to-end identity and access management experiences for Okta's AI agents, focusing on novel interaction models for delegation, permissions, authorization, policy, and trust boundaries. Translate highly technical, ambiguous problems into simple, safe user experiences. Collaborate cross-functionally and contribute to design systems.\n\nResponsibilities:\n- Own end-to-end product design for AI agent identity and access management workflows.\n- Develop novel interaction patterns for agentic problems.\n- Partner with product managers, engineers, researchers, and content designers.\n- Contribute to scalable design systems.\n- Conduct prototyping and research.\n- Integrate AI into the design process.\n- Present design solutions to stakeholders and leadership.\n\nRequirements:\n- 5+ years of experience as a Product Designer.\n- Proficiency in Figma or similar design tools.\n- Basic understanding of HTML, CSS, and JavaScript.\n- Digital portfolio showcasing shipped work.\n- Experience working with design systems.\n- Ability to balance business objectives and engineering considerations.",
+      "specialty": "AI Agents",
+      "salary": "$114,800 - $160,700",
+      "keywords": [
+        {
+          "keyword": "Senior Product Designer",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Target role level"
+        },
+        {
+          "keyword": "AI Agents",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Specialization matches AI tool experience and complex systems"
+        },
+        {
+          "keyword": "Enterprise Software",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Core industry match"
+        },
+        {
+          "keyword": "Cloud Infrastructure",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Identity as foundational infrastructure"
+        },
+        {
+          "keyword": "B2B SaaS",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Core industry match"
+        },
+        {
+          "keyword": "Complex Workflows",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Delegation, permissions, policy enforcement"
+        },
+        {
+          "keyword": "0-to-1 Discovery",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Concepting novel interaction models"
+        },
+        {
+          "keyword": "Design Systems",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Experience working with design systems"
+        },
+        {
+          "keyword": "Figma",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Proficiency in Figma"
+        },
+        {
+          "keyword": "AI Tools",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Integrate AI into the design process, mentions AI Identity"
+        },
+        {
+          "keyword": "Cross-functional Collaboration",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Collaborating across teams"
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-10-03T15:08:29.443Z",
+      "isNew": true
+    },
+    {
+      "id": "job-ocybsq",
+      "title": "Staff Product Designer",
+      "company": "Okta",
+      "companyDomain": "okta.com",
+      "industry": "Enterprise Software",
+      "location": "Hybrid in NYC",
+      "postedAt": "2026-10-03",
+      "fitScore": 8.5,
+      "fitTier": "Good Fit",
+      "fitExplanation": "This Staff Product Designer role at Okta (Auth0) is an excellent match for Michael's expertise in B2B SaaS, enterprise software, and developer tools, specifically in complex, high-stakes identity systems. The role's emphasis on systems thinking, defining quality, leveraging AI tools (including prototyping in code), and designing for developers in ambiguous 0-to-1 spaces aligns perfectly with his profile. His background in cloud infrastructure and deep visual craft are also highly relevant. The hybrid NYC location is acceptable.",
+      "source": "Google Search / Canaan Partners Job Board",
+      "applyUrl": "N/A",
+      "isOffLinkedIn": false,
+      "jobDescription": "Summary: Lead design for emerging identity products within Auth0, focusing on securing AI agents, managing granular permissions, and building new identity primitives. The role emphasizes advanced systems thinking, defining quality standards, rapid prototyping using AI tools and code, and collaborating closely with engineering and product from inception.\n\nResponsibilities:\n- Responsible for strong systems thinking, taste, quality, and user experience.\n- Hold the quality bar for design.\n- Prototype at volume using AI tools and code.\n- Design directly within the codebase (React, Next.js).\n- Design systems for securing AI agents, managing granular permissions, and new identity primitives.\n- Work closely with engineers, PMs, and other designers in a continuous \"build\" cycle.\n\nRequirements:\n- Staff-level product design experience, ideally in B2B SaaS analytics or workflow tools with complex information.\n- Hands-on design experience shipping AI or agentic features (chat interfaces, generative output, human-AI trust).\n- Extensive track record of shipping zero-to-one work in ambiguous problem spaces.\n- Strong collaboration and facilitation skills.\n- Proficiency in AI tools.\n- Comfort with code (React, Next.js environment).",
+      "specialty": "Auth0 (Developer Identity)",
+      "salary": "",
+      "keywords": [
+        {
+          "keyword": "Staff Product Designer",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Target role level"
+        },
+        {
+          "keyword": "Auth0",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Developer tools, identity platform"
+        },
+        {
+          "keyword": "AI Agents",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Designing systems to secure AI agents"
+        },
+        {
+          "keyword": "Enterprise Software",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Core industry match"
+        },
+        {
+          "keyword": "Cloud Infrastructure",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Identity as foundational infrastructure"
+        },
+        {
+          "keyword": "Developer Tools",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Auth0 focuses on developers"
+        },
+        {
+          "keyword": "B2B SaaS",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Core industry match"
+        },
+        {
+          "keyword": "Systems Thinking",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Strong systems thinking, designing systems"
+        },
+        {
+          "keyword": "0-to-1 Discovery",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Building identity primitives that don't fully exist yet"
+        },
+        {
+          "keyword": "Ambiguous Problem Spaces",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Extensive track record of shipping zero-to-one work in ambiguous spaces"
+        },
+        {
+          "keyword": "AI Tools",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Use AI tools and code to prototype"
+        },
+        {
+          "keyword": "Prototyping (in code)",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Prototype at volume using code"
+        },
+        {
+          "keyword": "Cross-functional Collaboration",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Collaborate closely with engineers, PMs"
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-10-03T15:08:29.443Z",
+      "isNew": true
+    },
+    {
+      "id": "job-rj291",
+      "title": "Senior Product Designer",
+      "company": "Jeeves",
+      "companyDomain": "jeeves.com",
+      "industry": "Fintech",
+      "location": "Remote, United States",
+      "postedAt": "2026-10-02",
+      "fitScore": 9.5,
+      "fitTier": "Strong Fit",
+      "fitExplanation": "This Senior Product Designer role at Jeeves is a fantastic match for Michael, given his deep expertise in FinTech, B2B SaaS, and complex transactional workflows. His experience in payments, reconciliation, and marketplace infrastructure directly applies to Jeeves's global financial operating system. The role's emphasis on end-to-end ownership, strategic impact on core product, and experience with AI-powered financial products (trust, explainability) aligns perfectly with Michael's skills and recent work. The company's strong funding also meets his stability preference.",
+      "source": "Himalayas",
+      "applyUrl": "N/A",
+      "isOffLinkedIn": false,
+      "jobDescription": "Summary: Lead end-to-end design for core product surfaces of a global financial operating system, including corporate cards, cross-border payments, and spend management. Raise the bar on quality and usability, owning the design lifecycle from discovery to measured outcomes. Advocate for the customer in a complex payments platform and contribute to design practices.\n\nResponsibilities:\n- Own end-to-end design for core product surfaces (discovery, research, shipped outcomes).\n- Collaborate with product leadership, PMs, and engineers.\n- Be the voice of the customer in a complex payments platform (multiple currencies, countries, finance teams).\n- Raise the bar on quality, coherence, and usability.\n- Contribute to design team practices (mentoring).\n\nRequirements:\n- Experience designing for B2B or finance-team users (controllers, CFOs, ops teams).\n- Deep knowledge of the payments ecosystem.\n- Experience designing AI-powered product experiences (copilots, agents, intelligent automation), especially patterns for trust/explainability.\n- Experience mentoring other designers or shaping design team practices.\n- Experience in a globally distributed product organization.\n- Native or professional English.",
+      "specialty": "",
+      "salary": "",
+      "keywords": [
+        {
+          "keyword": "Senior Product Designer",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Target role level"
+        },
+        {
+          "keyword": "Fintech",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Core industry match, deep context"
+        },
+        {
+          "keyword": "B2B SaaS",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Core industry match"
+        },
+        {
+          "keyword": "Cross-border Payments",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Matches transactional flows, payment reconciliation"
+        },
+        {
+          "keyword": "Spend Management",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Matches complex data systems, finance teams"
+        },
+        {
+          "keyword": "Complex Workflows",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Multiple currencies, countries, finance teams"
+        },
+        {
+          "keyword": "End-to-end Design",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Owns discovery through outcomes"
+        },
+        {
+          "keyword": "AI-powered Experiences",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Matches AI tool experience, interest in trust/explainability"
+        },
+        {
+          "keyword": "Mentorship",
+          "inProfile": true,
+          "relevance": "good-to-have",
+          "note": "Experience mentoring other designers"
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-10-03T15:08:29.443Z",
+      "isNew": true
+    },
+    {
+      "id": "job-dvpkp2",
+      "title": "Senior Product Designer",
+      "company": "Toast",
+      "companyDomain": "toasttab.com",
+      "industry": "Fintech",
+      "location": "Remote, United States",
+      "postedAt": "2026-10-03",
+      "fitScore": 9.5,
+      "fitTier": "Strong Fit",
+      "fitExplanation": "This role is an excellent fit due to its focus on complex B2B SaaS workflows within the FinTech-adjacent restaurant management space, aligning with Michael's experience in transactional flows and payment reconciliation. The emphasis on AI-powered support experiences, thinking in systems, and a research-driven approach directly matches his skill set, including his use of AI design tools. His ability to influence cross-functional teams and mentor designers is also highly valued. The remote/hybrid NYC location is suitable, and I've scored assuming remote based on #LI-REMOTE.",
+      "source": "Built In",
+      "applyUrl": "N/A",
+      "isOffLinkedIn": false,
+      "jobDescription": "Summary: Define and design multi-touchpoint support experiences for restaurants, including AI-powered chat, voice, human agents, and self-service. Focus on creating cohesive support journeys and the connective tissue between these systems. The role requires strategic thinking, research, and cross-functional influence in a B2B SaaS environment.\n\nResponsibilities:\n- Define how restaurants get help across multiple touchpoints (AI chat, voice, agents, self-service).\n- Design connective tissue between support surfaces for a cohesive customer journey.\n- Think in systems.\n- Partner closely with product, engineering, and customer service leadership.\n- Build conviction within product, engineering, and go-to-market teams.\n- Design with data: conduct user research, usability testing, analyze metrics.\n- Use AI design tooling (Claude, V0, Replit).\n- Mentor other designers.\n- Drive action through influence, build strong perspectives, raise the bar.\n\nRequirements:\n- Experience designing digital products from discovery through delivery.\n- Strong portfolio showing problem-solving.\n- Ability to simplify complex workflows.\n- Strong collaboration with Product, Engineering, and stakeholders.\n- Comfort with ambiguity, feedback, iteration, and tradeoffs.\n- Proficiency with Figma and modern prototyping tools.\n- Practical experience using AI to move faster.\n- Research-driven approach (user research, usability testing, analytics).",
+      "specialty": "Toast Support Experiences",
+      "salary": "",
+      "keywords": [
+        {
+          "keyword": "Senior Product Designer",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Target role level"
+        },
+        {
+          "keyword": "Fintech",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Industry match (restaurant payments/POS/support)"
+        },
+        {
+          "keyword": "B2B SaaS",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Core industry match"
+        },
+        {
+          "keyword": "Complex Workflows",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Multi-touchpoint support journeys, system design"
+        },
+        {
+          "keyword": "AI-powered Experiences",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "AI-powered chat, familiarity with AI design tooling"
+        },
+        {
+          "keyword": "Systems Thinking",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Role requires thinking in systems"
+        },
+        {
+          "keyword": "User Research",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Research-driven approach, usability testing"
+        },
+        {
+          "keyword": "Figma",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Proficiency with Figma"
+        },
+        {
+          "keyword": "Prototyping",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Modern prototyping tools"
+        },
+        {
+          "keyword": "Cross-functional Collaboration",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Partner closely with PM, Eng, CS leadership"
+        },
+        {
+          "keyword": "Mentorship",
+          "inProfile": true,
+          "relevance": "good-to-have",
+          "note": "Lift others up, make designers better"
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-10-03T15:08:29.443Z",
       "isNew": true
     }
   ],
-  "scannedAt": "2026-10-02T16:39:01.183Z"
+  "scannedAt": "2026-10-03T15:10:38.247Z"
 }
