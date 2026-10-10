@@ -2665,59 +2665,88 @@
       "title": "Senior Product Designer",
       "company": "Grafana Labs",
       "companyDomain": "grafana.com",
-      "industry": "Cloud Infrastructure",
-      "location": "Remote (U.S. Only)",
+      "industry": "B2B SaaS, enterprise software, developer tools, cloud infrastructure, observability, database monitoring",
+      "location": "Remote, US",
       "postedAt": "2026-10-09",
       "fitScore": 9,
       "fitTier": "Strong Fit",
-      "fitExplanation": "Michael's deep context in cloud infrastructure, developer tools, and enterprise software, combined with his experience in complex B2B SaaS data-heavy interfaces and design systems, makes him an excellent fit. His ability to present complex information clearly and execute user research aligns with the role's focus on observability and the Knowledge Graph. Grafana Labs is a well-funded company, fitting the Series C+ requirement.",
-      "source": "Google Search",
+      "fitExplanation": "This role is a Senior Product Designer at a Series D company focusing on B2B/enterprise software, developer tools, observability, and cloud infrastructure, which are all strong alignment areas for Michael. His 10+ years of experience, expertise in complex B2B SaaS, and work on multi-cloud transactional platforms align directly with the job's requirements. The company has an established design organization (25+ designers), meeting his preference to avoid 'first design hire' roles. The emphasis on making complex areas easy through UI aligns with his design philosophy and strong visual craft. His experience with design systems, user research, and cross-functional collaboration are also explicitly sought. The role is 100% remote, which is suitable for a remote-first candidate.",
+      "source": "Grafana Labs Careers",
       "applyUrl": "N/A",
       "isOffLinkedIn": false,
-      "jobDescription": "As a Senior Product Designer for Grafana Cloud's Knowledge Graph, you will design experiences for its context layer, including the entity graph, entity catalog, and RCA workbench. The role focuses on enabling customers to understand and explore system connections and presenting complex, constantly changing information clearly without overwhelming users. Key responsibilities include translating research and data into easy-to-digest experiences, tailoring designs for different target audiences, collaborating cross-functionally, balancing business priorities with customer needs and technical considerations, and documenting design decisions. Requirements include 7+ years of design experience in B2B/enterprise software, ideally for developers or technical users, a portfolio showcasing effective designs for complex products, and experience with qualitative research. Domain knowledge in observability, cloud infrastructure, and/or database monitoring is a bonus.",
-      "specialty": "Knowledge Graph",
-      "salary": "$143,000 - $180,000",
+      "jobDescription": "As a Senior Product Designer at Grafana Labs, you will join a growing Product Design organization of more than 25 designers, researchers, engineers, and design leaders, working within a 100% remote R&D organization. This role involves designing experiences for Grafana Cloud's Knowledge Graph, focusing on the context layer that powers entity graphs, entity catalogs, and RCA workbenches. The position requires designing for complex B2B/enterprise software products, particularly tools and services for developers or other highly technical users.\n\n**Core Responsibilities:**\n*   Design user experiences for Grafana Cloud's Knowledge Graph, including its entity graph, catalog, and RCA workbench features.\n*   Conduct qualitative research in complex domains to build empathy and understand user needs and pain points.\n*   Make balanced design decisions that integrate business objectives, product priorities, customer feedback, research findings, and technical limitations.\n*   Collaborate effectively with cross-functional teams across various locations and time zones to iteratively deliver and evolve products while maintaining a strong design vision.\n*   Contribute to elevating design practices, fostering collaboration with partner functions, and enhancing user and organizational impact within engineering-led environments.\n\n**Key Requirements:**\n*   Minimum of 7 years of relevant design experience, specifically working on B2B/enterprise software products, ideally targeting developers or highly technical users.\n*   A strong portfolio demonstrating effective designs for complex products delivered in fast-paced settings.\n*   Proven experience in conducting qualitative research within intricate technical fields.\n*   Capability to balance multiple considerations—business, product, customer, research, and technical—in design decision-making.\n*   Strong, proactive remote communication, collaboration, facilitation, and relationship-building skills.\n*   Acute attention to detail and a willingness to learn about highly complex and technical product spaces.\n*   Experience thriving in a fully-remote, fast-paced environment that values transparency, autonomy, and open sharing.\n*   Prior domain knowledge or experience related to observability, cloud infrastructure, and/or database monitoring is a valuable asset.",
+      "specialty": "Grafana Cloud Knowledge Graph, Observability, Cloud Infrastructure",
       "keywords": [
         {
-          "keyword": "cloud infrastructure",
+          "keyword": "B2B/enterprise software",
           "inProfile": true,
           "relevance": "required",
-          "note": "Direct industry match and domain knowledge is a bonus."
+          "note": "Directly matches Michael's core experience and preference."
         },
         {
           "keyword": "developer tools",
           "inProfile": true,
           "relevance": "required",
-          "note": "Designing tools for developers or technical users is a core requirement."
+          "note": "Michael has experience with developer tools and enterprise software."
         },
         {
-          "keyword": "enterprise software",
+          "keyword": "cloud infrastructure",
           "inProfile": true,
-          "relevance": "required",
-          "note": "7+ years experience in B2B/enterprise software is required."
+          "relevance": "strong plus",
+          "note": "Michael has deep context in multi-cloud transactional platforms (Tackle.io)."
         },
         {
-          "keyword": "complex data systems",
+          "keyword": "complex products/systems",
           "inProfile": true,
           "relevance": "required",
-          "note": "Presenting complex, constantly changing information clearly aligns with Michael's expertise."
+          "note": "Michael specializes in making complex systems delightful."
         },
         {
-          "keyword": "user research",
+          "keyword": "qualitative research",
           "inProfile": true,
           "relevance": "required",
-          "note": "Experience running qualitative research is required."
+          "note": "Michael lists User Research and conducted user research at Infragistics."
+        },
+        {
+          "keyword": "cross-functional collaboration",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael operates effectively across the full design lifecycle, working closely with PMs, engineering leads, and executives."
+        },
+        {
+          "keyword": "design strategy",
+          "inProfile": true,
+          "relevance": "strong plus",
+          "note": "Michael has experience shaping design strategy at team and org level."
         },
         {
           "keyword": "design systems",
           "inProfile": true,
-          "relevance": "relevant",
-          "note": "Contributing to design teams leveling up their practice is mentioned."
+          "relevance": "plus",
+          "note": "Michael established a scalable design system at Infragistics."
+        },
+        {
+          "keyword": "remote work",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael is open to remote work and the company is 100% remote."
+        },
+        {
+          "keyword": "Figma",
+          "inProfile": true,
+          "relevance": "implied/expected",
+          "note": "Michael is proficient in Figma."
+        },
+        {
+          "keyword": "7+ years design experience",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael has 10+ years of experience."
         }
       ],
       "status": "New",
-      "scannedAt": "2026-10-09T23:16:07.033Z",
-      "isNew": false
+      "scannedAt": "2026-10-10T22:32:29.063Z",
+      "isNew": true
     },
     {
       "id": "job-4vqtzh",
@@ -3157,5 +3186,5 @@
       "isNew": false
     }
   ],
-  "scannedAt": "2026-10-10T16:14:46.865Z"
+  "scannedAt": "2026-10-10T22:33:04.247Z"
 }
