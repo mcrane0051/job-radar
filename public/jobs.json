@@ -2831,7 +2831,122 @@
       "status": "New",
       "scannedAt": "2026-10-09T23:16:07.033Z",
       "isNew": false
+    },
+    {
+      "id": "job-hflc0y",
+      "title": "Senior Product Designer",
+      "company": "Poshmark",
+      "companyDomain": "poshmark.com",
+      "industry": "Marketplace",
+      "location": "Remote",
+      "postedAt": "2026-10-11",
+      "fitScore": 8,
+      "fitTier": "Good Fit",
+      "fitExplanation": "The role is for a Senior Product Designer at a publicly traded marketplace company, aligning well with Michael's experience in marketplace infrastructure and complex transactional flows. His background in end-to-end design, user research, prototyping, and design systems are strong matches for the requirements. While Poshmark operates in a B2C/C2C fashion marketplace, Michael's expertise in making complex systems delightful and tactile, typically applied to B2B SaaS, is still valuable. The B2C focus accounts for a slight deduction in fit score compared to a pure B2B role.",
+      "source": "RemoteOnly.com",
+      "applyUrl": "N/A",
+      "isOffLinkedIn": true,
+      "jobDescription": {
+        "responsibilities": [
+          "Lead complex design projects across the end-to-end buyer and seller experiences on iOS, Android, and web.",
+          "Partner with product management, engineering, research, and marketing to translate user insights and data into effective designs.",
+          "Define user and product goals that support business KPIs, utilizing metrics and qualitative feedback to inform design decisions.",
+          "Collaborate with cross-functional teams to create designs that meet business requirements, user needs, and are technically feasible.",
+          "Provide constructive feedback on product specifications and make trade-off decisions balancing aesthetics, performance, accessibility, and the customer journey.",
+          "Present design decisions to stakeholders and senior leadership, translating feedback into clear next steps.",
+          "Facilitate design thinking workshops and brainstorms to foster a collaborative environment.",
+          "Lead and delegate design tasks when multiple designers are involved in a project.",
+          "Mentor junior designers, review designs, help develop design workflow best practices, and participate in recruiting efforts."
+        ],
+        "requirements": [
+          "4-6 years of product design experience, including end-to-end UX work from research through prototyping, iteration, and post-launch feedback.",
+          "A portfolio demonstrating complex interfaces and experiences designed from scratch for native mobile and responsive web, showcasing strong interaction and visual craft.",
+          "Hands-on experience planning and executing user research and usability testing, and translating findings into design decisions.",
+          "Subject-matter expertise in at least one key product area.",
+          "Fluency in Figma and various prototyping tools.",
+          "Experience contributing to and working within a design system.",
+          "Solid knowledge of native iOS and Android components and patterns."
+        ]
+      },
+      "specialty": "",
+      "keywords": [
+        {
+          "keyword": "Senior Product Designer",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Target role match."
+        },
+        {
+          "keyword": "Marketplace",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Industry experience aligns well with Michael's background in marketplace infrastructure."
+        },
+        {
+          "keyword": "End-to-end UX",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Core skill, specifically mentioned in Michael's profile."
+        },
+        {
+          "keyword": "User Research",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Key design practice highlighted in Michael's profile."
+        },
+        {
+          "keyword": "Prototyping",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Essential skill for Michael, used for bridging strategy and engineering."
+        },
+        {
+          "keyword": "Design Systems",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael has experience building and scaling design systems."
+        },
+        {
+          "keyword": "Figma",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Primary tool proficiency for Michael."
+        },
+        {
+          "keyword": "Complex interfaces",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael specializes in making complex systems delightful."
+        },
+        {
+          "keyword": "Visual craft",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Strong visual eye is a distinguishing skill for Michael."
+        },
+        {
+          "keyword": "Mentoring designers",
+          "inProfile": true,
+          "relevance": "nice-to-have",
+          "note": "Michael has experience leading and mentoring designers."
+        },
+        {
+          "keyword": "Stakeholder alignment",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael works closely with various stakeholders."
+        },
+        {
+          "keyword": "Business KPIs",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael's work focuses on measured outcomes and impact metrics."
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-10-11T22:54:49.884Z",
+      "isNew": true
     }
   ],
-  "scannedAt": "2026-10-11T16:39:22.208Z"
+  "scannedAt": "2026-10-11T22:55:17.090Z"
 }
