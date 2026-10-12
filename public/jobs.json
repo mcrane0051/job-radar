@@ -2945,8 +2945,204 @@
       ],
       "status": "New",
       "scannedAt": "2026-10-11T22:54:49.884Z",
+      "isNew": false
+    },
+    {
+      "id": "job-54eed9",
+      "title": "Senior Product Designer",
+      "company": "Fieldguide",
+      "companyDomain": "fieldguide.io",
+      "industry": "B2B SaaS",
+      "location": "Remote (U.S.)",
+      "postedAt": "2026-10-11",
+      "fitScore": 9,
+      "fitTier": "Strong Fit",
+      "fitExplanation": "This role is a strong fit for Michael Crane, aligning perfectly with his expertise in complex B2B SaaS products and passion for making intricate systems user-friendly. Fieldguide, a Series C AI platform for audit and advisory firms, operates in a highly complex domain involving data-heavy workflows and regulated environments, which directly matches Michael's background in transactional flows and enterprise software. The remote (U.S.) location is ideal given his preference. His 10+ years of experience, including 4 years in a lead capacity, are well-suited for this senior individual contributor role. The emphasis on AI-assisted workflows and contributing to design systems also aligns with his skills and interests.",
+      "source": "remoteroles.com",
+      "applyUrl": "https://www.fieldguide.io/careers",
+      "isOffLinkedIn": true,
+      "jobDescription": "Fieldguide is seeking a Senior Product Designer for their Audit product team to lead end-to-end design for complex B2B SaaS audit workflows. The successful candidate will partner closely with product and engineering to define problems, influence roadmaps, and deliver scalable, polished user experiences. This high-impact role requires strong systems thinking and the ability to operate independently amidst ambiguity and rapid iteration. The designer is expected to integrate AI into their design practice and create AI-assisted workflows for audit professionals. Responsibilities also include contributing to the design system, mentoring peers, and providing design leadership within the team.",
+      "specialty": "Audit",
+      "salary": "$165k - $185k",
+      "keywords": [
+        {
+          "keyword": "B2B SaaS",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Explicitly mentioned in requirements and core industry focus."
+        },
+        {
+          "keyword": "complex workflows",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Central to the role's responsibilities, particularly audit workflows."
+        },
+        {
+          "keyword": "AI-assisted workflows",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Directly mentioned as a key area of design and an explicit skill set."
+        },
+        {
+          "keyword": "design systems",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Contributing to the design system is a stated responsibility."
+        },
+        {
+          "keyword": "0-to-1 discovery",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Ownership of ambiguous problem spaces aligns with 0-to-1 expertise."
+        },
+        {
+          "keyword": "cross-functional collaboration",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Partnering closely with product and engineering is a core aspect."
+        },
+        {
+          "keyword": "Figma",
+          "inProfile": true,
+          "relevance": "preferred",
+          "note": "Expected tool for modern product design environments."
+        },
+        {
+          "keyword": "User Research",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Implied through translating customer needs and research insights."
+        },
+        {
+          "keyword": "Information Architecture",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Crucial for complex workflow design."
+        },
+        {
+          "keyword": "UI Design",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Delivering polished UI is a core output."
+        },
+        {
+          "keyword": "Prototyping",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Essential for rapid iteration and testing ideas."
+        },
+        {
+          "keyword": "enterprise software",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Aligns with the audit and advisory firm focus."
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-10-12T20:17:40.894Z",
+      "isNew": true
+    },
+    {
+      "id": "job-4yprwt",
+      "title": "Staff Product Designer",
+      "company": "Fieldguide",
+      "companyDomain": "fieldguide.io",
+      "industry": "B2B SaaS",
+      "location": "Remote (U.S.)",
+      "postedAt": "2026-10-11",
+      "fitScore": 9.5,
+      "fitTier": "Strong Fit",
+      "fitExplanation": "This Staff Product Designer role at Fieldguide is an exceptional match for Michael Crane. His 10+ years of experience, including significant leadership and strategic contributions, align perfectly with the expectations of a Staff-level designer who shapes design direction across a product area. The role's focus on complex, ambiguous problem spaces within B2B SaaS, specifically AI-driven audit workflows, is a direct hit on Michael's core strengths and industry preferences. The remote (U.S.) work arrangement is ideal, and the company's Series C stage provides the stability and resources he seeks. His expertise in design systems, visual craft, and making complex systems delightful are highly relevant.",
+      "source": "remoteroles.com",
+      "applyUrl": "https://www.fieldguide.io/careers",
+      "isOffLinkedIn": true,
+      "jobDescription": "Fieldguide is hiring a Staff Product Designer to take ownership of complex, ambiguous problem spaces end-to-end and significantly influence the design direction of a core product. This role involves deep partnership with Product and Engineering teams, requiring the ability to operate effectively at a fast cadence, shipping frequently and iterating in tight loops. The Staff Designer will be comfortable balancing speed with craft, incorporating AI into daily design practice, and designing AI-assisted workflows, particularly for audit applications. Key responsibilities include leading end-to-end design for audit workflows, translating customer needs into clear user journeys and polished UI, advocating for users within technical and business constraints, and contributing to the design system and mentorship of peers.",
+      "specialty": "AI-Driven Audit Workflows",
+      "salary": "$200k - $225k",
+      "keywords": [
+        {
+          "keyword": "B2B SaaS",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Explicitly mentioned in requirements and core industry focus."
+        },
+        {
+          "keyword": "complex workflows",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Central to the role's responsibilities, particularly AI-driven audit workflows."
+        },
+        {
+          "keyword": "AI-assisted workflows",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Directly mentioned as a key area of design and an explicit skill set."
+        },
+        {
+          "keyword": "design systems",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Contributing to the design system is a stated responsibility."
+        },
+        {
+          "keyword": "0-to-1 discovery",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Ownership of complex, ambiguous problem spaces aligns with 0-to-1 expertise."
+        },
+        {
+          "keyword": "cross-functional collaboration",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Partnering deeply with product and engineering is a core aspect."
+        },
+        {
+          "keyword": "design strategy",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Implicit in shaping the design direction of a core product at Staff level."
+        },
+        {
+          "keyword": "Figma",
+          "inProfile": true,
+          "relevance": "preferred",
+          "note": "Expected tool for modern product design environments."
+        },
+        {
+          "keyword": "User Research",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Implied through translating customer needs and insights."
+        },
+        {
+          "keyword": "Information Architecture",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Crucial for complex workflow design."
+        },
+        {
+          "keyword": "UI Design",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Delivering polished UI is a core output."
+        },
+        {
+          "keyword": "Prototyping",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Essential for rapid iteration and testing ideas."
+        },
+        {
+          "keyword": "enterprise software",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Aligns with the audit and advisory firm focus."
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-10-12T20:17:40.894Z",
       "isNew": true
     }
   ],
-  "scannedAt": "2026-10-11T22:55:17.090Z"
+  "scannedAt": "2026-10-12T20:18:35.508Z"
 }
