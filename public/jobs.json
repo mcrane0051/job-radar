@@ -184,229 +184,6 @@
       "isNew": false
     },
     {
-      "id": "job-hehuto",
-      "title": "Staff Product Designer",
-      "company": "Deepgram",
-      "companyDomain": "deepgram.com",
-      "industry": "Developer Tools",
-      "location": "Remote (United States)",
-      "postedAt": "2026-09-29",
-      "fitScore": 9,
-      "fitTier": "Strong Fit",
-      "fitExplanation": "This role aligns exceptionally well with Michael's profile, particularly his expertise in complex B2B SaaS, developer tools, and platform-level design. His experience with AI tools and making complex systems delightful directly translates to designing conversational AI products. The Staff level is also a target role for him.",
-      "source": "1517 Fund",
-      "applyUrl": "N/A",
-      "isOffLinkedIn": false,
-      "jobDescription": "Deepgram is seeking a Staff Product Designer to lead product design for their Conversational AI platform. The company is building a real-time API platform for the trillion-dollar Voice AI economy, focusing on voice-native foundation models and runtime infrastructure. The designer will contribute to building Voice AI products, platforms, and autonomous agents, ensuring low latency, high accuracy, and enterprise reliability. This role involves designing complex systems and developer-centric interfaces.\n\nCore Responsibilities:\n*   Lead product design for conversational AI products and platforms.\n*   Design voice-native foundation models and runtime infrastructure.\n*   Ensure low latency, high accuracy, and enterprise reliability in AI products.\n*   Build products, platforms, and autonomous agents for the Voice AI economy.\n*   Collaborate on a real-time API platform.\n\nRequirements (inferred):\n*   Extensive experience with complex B2B SaaS products.\n*   Proven expertise in platform or systems-level design.\n*   Ability to translate complex technical problems into user-friendly and reliable experiences.\n*   Familiarity with AI/ML concepts, specifically Conversational AI.\n*   Background in developer tools or cloud infrastructure.",
-      "specialty": "Conversational AI",
-      "keywords": [
-        {
-          "keyword": "B2B SaaS",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Core industry expertise for Michael."
-        },
-        {
-          "keyword": "Developer Tools",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Direct industry match with Michael's background."
-        },
-        {
-          "keyword": "Cloud Infrastructure",
-          "inProfile": true,
-          "relevance": "strong_plus",
-          "note": "Related to Michael's experience in multi-cloud transactional platforms."
-        },
-        {
-          "keyword": "AI Tools",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Michael actively uses AI tools and this role is AI-centric."
-        },
-        {
-          "keyword": "Complex Systems",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Michael specializes in designing complex systems."
-        },
-        {
-          "keyword": "Platform Design",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Michael's current role involves leading design for an enterprise platform."
-        },
-        {
-          "keyword": "Staff Product Designer",
-          "inProfile": true,
-          "relevance": "target_title",
-          "note": "This is a target role level for Michael."
-        },
-        {
-          "keyword": "Figma",
-          "inProfile": true,
-          "relevance": "strong_plus",
-          "note": "Key design tool Michael is proficient in."
-        },
-        {
-          "keyword": "0-to-1 design",
-          "inProfile": true,
-          "relevance": "strong_plus",
-          "note": "Michael thrives in ambiguous 0-to-1 problem spaces."
-        }
-      ],
-      "status": "New",
-      "scannedAt": "2026-09-30T16:49:17.009Z",
-      "isNew": false
-    },
-    {
-      "id": "job-vwumu1",
-      "title": "Senior Product Designer",
-      "company": "Clipboard Health",
-      "companyDomain": "clipboardhealth.com",
-      "industry": "Marketplace",
-      "location": "Remote (United States)",
-      "postedAt": "2026-09-29",
-      "fitScore": 8,
-      "fitTier": "Good Fit",
-      "fitExplanation": "This role presents a good fit due to Michael's strong experience in marketplace infrastructure and complex workflow design. His background in B2B SaaS and transactional platforms directly translates to a healthcare staffing marketplace. While healthcare isn't a primary industry for him, his ability to simplify data-heavy interfaces and build trust in systems is highly relevant. The senior product designer title also matches his target.",
-      "source": "Sequoia Capital Companies",
-      "applyUrl": "N/A",
-      "isOffLinkedIn": false,
-      "jobDescription": "Clipboard Health is hiring a Senior Product Designer to work on their technology platform that connects nursing facilities with nurses, aiming to solve the national shortage of healthcare professionals. The role involves designing user experiences for a marketplace, including conducting research, prototyping, and contributing to design systems. The focus is on addressing complex problems in healthcare staffing through technology.\n\nCore Responsibilities:\n*   Design technology solutions for a healthcare staffing marketplace.\n*   Conduct user research, prototyping, and visual design.\n*   Contribute to and apply design systems.\n*   Solve complex problems related to nurse shortages and staffing efficiency.\n*   Focus on design for both Android and iOS platforms.\n\nRequirements (inferred):\n*   Proven experience in marketplace product design.\n*   Proficiency in Figma and other prototyping tools.\n*   Experience with complex data and workflow challenges.\n*   Strong user research and problem-solving abilities.\n*   Ability to implement and leverage design systems effectively.",
-      "specialty": "",
-      "keywords": [
-        {
-          "keyword": "Marketplace",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Deep context for Michael with marketplace infrastructure experience."
-        },
-        {
-          "keyword": "B2B SaaS",
-          "inProfile": true,
-          "relevance": "strong_plus",
-          "note": "Nursing facilities are businesses, aligning with B2B SaaS."
-        },
-        {
-          "keyword": "Complex workflow design",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Direct match for Michael's core expertise."
-        },
-        {
-          "keyword": "Design Systems",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Michael has strong experience in establishing and scaling design systems."
-        },
-        {
-          "keyword": "Figma",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Key design tool Michael is proficient in."
-        },
-        {
-          "keyword": "User Research",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Michael operates across the full design lifecycle including discovery."
-        },
-        {
-          "keyword": "Prototyping",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Michael excels at high-fidelity interactive prototyping."
-        },
-        {
-          "keyword": "Senior Product Designer",
-          "inProfile": true,
-          "relevance": "target_title",
-          "note": "This is a target role level for Michael."
-        }
-      ],
-      "status": "New",
-      "scannedAt": "2026-09-30T16:49:17.009Z",
-      "isNew": false
-    },
-    {
-      "id": "job-atlx8c",
-      "title": "Senior Product Design Strategist",
-      "company": "Omada Health",
-      "companyDomain": "omadahealth.com",
-      "industry": "Digital Health",
-      "location": "Remote (United States)",
-      "postedAt": "2026-09-29",
-      "fitScore": 8,
-      "fitTier": "Good Fit",
-      "fitExplanation": "This role is a strong fit due to its remote nature, senior strategic focus, and the explicit mention of 'Financial technology' within the responsibilities, which is a deep area of expertise for Michael. His skills in complex data systems, interaction design, and product strategy are highly relevant, even though the primary industry is Digital Health.",
-      "source": "Andreessen Horowitz Companies",
-      "applyUrl": "N/A",
-      "isOffLinkedIn": false,
-      "jobDescription": "Omada Health is looking for a Senior Product Design Strategist. This strategic role involves leading product design, conducting research, defining interaction design, and utilizing analytics tools. While the primary context is 'Bio + Health,' the role also involves aspects of 'Financial technology.' The designer will be responsible for working with data engineering and creating interactive prototypes to drive product strategy.\n\nCore Responsibilities:\n*   Lead and define product design strategy for health-related products.\n*   Conduct thorough research and establish interaction design principles.\n*   Engage with financial technology aspects of the product.\n*   Utilize data engineering and various analytics tools for informed design decisions.\n*   Create and iterate on interactive prototypes to communicate design vision.\n\nRequirements (inferred):\n*   Extensive experience in Product Design and Strategy.\n*   Strong background in user research and interaction design.\n*   Familiarity with financial technology, payment reconciliation, or transactional flows.\n*   Experience with data-driven design and using analytics tools like Amplitude or Pendo.\n*   Proficiency in modern prototyping tools.",
-      "specialty": "Strategist",
-      "salary": "$192,280 - 240,350",
-      "keywords": [
-        {
-          "keyword": "Product Design",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Core skill and experience for Michael."
-        },
-        {
-          "keyword": "Strategy",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Michael has experience shaping design strategy at the team and org level."
-        },
-        {
-          "keyword": "Financial technology",
-          "inProfile": true,
-          "relevance": "deep_context",
-          "note": "Michael has deep context in finance and FinTech adjacent areas."
-        },
-        {
-          "keyword": "User Research",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Michael operates across the full design lifecycle including user research."
-        },
-        {
-          "keyword": "Interaction Design",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Key design philosophy of Michael is tactile interaction design."
-        },
-        {
-          "keyword": "Analytics Tools",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Michael is proficient with Amplitude and Pendo."
-        },
-        {
-          "keyword": "Prototyping",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Michael excels at high-fidelity interactive prototyping."
-        },
-        {
-          "keyword": "Complex Systems",
-          "inProfile": true,
-          "relevance": "strong_plus",
-          "note": "Michael specializes in designing complex B2B SaaS products."
-        },
-        {
-          "keyword": "Senior Product Designer",
-          "inProfile": true,
-          "relevance": "target_title",
-          "note": "This is a target role level for Michael."
-        }
-      ],
-      "status": "New",
-      "scannedAt": "2026-09-30T16:49:17.009Z",
-      "isNew": false
-    },
-    {
       "id": "job-yj1qx0",
       "title": "Senior Product Designer",
       "company": "CoinMarketCap",
@@ -2590,7 +2367,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-10-13T23:16:34.967Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-4yprwt",
@@ -2692,7 +2469,90 @@
       "status": "New",
       "scannedAt": "2026-10-12T20:17:40.894Z",
       "isNew": false
+    },
+    {
+      "id": "job-9avs9z",
+      "title": "Senior Product Designer",
+      "company": "Moniepoint Inc.",
+      "companyDomain": "moniepoint.com",
+      "industry": "Fintech",
+      "location": "Remote",
+      "postedAt": "2026-10-13",
+      "fitScore": 9,
+      "fitTier": "Strong Fit",
+      "fitExplanation": "Michael's 10+ years of experience, expertise in complex B2B SaaS and FinTech, strong visual craft, and leadership experience align perfectly with this remote Senior Product Designer role. His background in transactional platforms, payment reconciliation, and design systems, coupled with his ability to make complex systems delightful, are highly relevant. The emphasis on mentoring junior designers is also a strong match for his experience. The remote nature is a preferred work arrangement. The company's stage (assumed Series C+ given past funding and current year) also fits Michael's criteria.",
+      "source": "BeBee",
+      "applyUrl": "N/A",
+      "isOffLinkedIn": false,
+      "jobDescription": "Moniepoint Inc. is seeking a Senior Product Designer to craft intuitive, accessible fintech products. This role involves leading design from discovery through final UI execution, collaborating closely with product managers and engineers, and championing user-centered design principles. The designer will be responsible for shaping scalable design systems, conducting usability tests and A/B experiments, and translating complex financial concepts into seamless experiences for millions of users. The role also includes mentoring junior designers.",
+      "specialty": "Fintech, Leadership",
+      "salary": "",
+      "keywords": [
+        {
+          "keyword": "Fintech products",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Deep context in Finance and FinTech, payment reconciliation, transactional flows."
+        },
+        {
+          "keyword": "User-centered design",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Core to candidate's design philosophy and practice."
+        },
+        {
+          "keyword": "Discovery through UI",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Operates effectively across the full design lifecycle: ambiguous 0-to-1 discovery through to shipped product and measured outcomes."
+        },
+        {
+          "keyword": "Design systems",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Established scalable design systems, driving consistency at scale."
+        },
+        {
+          "keyword": "Usability testing",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Proficient in user research, including usability testing."
+        },
+        {
+          "keyword": "A/B experiments",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Experience with measured outcomes and data-driven decisions."
+        },
+        {
+          "keyword": "Complex financial concepts",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Specializes in making complex systems delightful and tactile, including complex data systems, transactional flows, and payment reconciliation."
+        },
+        {
+          "keyword": "Mentor junior designers",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Managed and mentored a team of 3 designers; brings beyond work experience of mentoring."
+        },
+        {
+          "keyword": "Cross-functional collaboration (PMs, engineers)",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Worked closely with product managers, engineering leads, and executives."
+        },
+        {
+          "keyword": "Remote",
+          "inProfile": true,
+          "relevance": "preferred",
+          "note": "Open to remote work; based in NJ."
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-10-14T22:18:09.663Z",
+      "isNew": true
     }
   ],
-  "scannedAt": "2026-10-13T23:17:12.235Z"
+  "scannedAt": "2026-10-14T22:18:57.244Z"
 }
