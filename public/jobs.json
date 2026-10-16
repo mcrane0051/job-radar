@@ -1,111 +1,6 @@
 {
   "jobs": [
     {
-      "id": "job-k6vjmf",
-      "title": "Senior Product Designer",
-      "company": "American Express (Resy)",
-      "companyDomain": "americanexpress.com",
-      "industry": "Fintech, B2B SaaS, Marketplace",
-      "location": "Hybrid (Jersey City, New York, NY)",
-      "postedAt": "2026-09-30",
-      "fitScore": 7.5,
-      "fitTier": "Good Fit",
-      "fitExplanation": "This role is a strong fit with Michael's background in complex B2B SaaS and enterprise workflows. The focus on designing experiences for restaurants and venues aligns well with his experience in marketplace infrastructure, transactional flows, and complex data systems. The job requires working across the full design lifecycle, from discovery to iteration, and emphasizes design systems and cross-functional collaboration. The use of Figma and AI tools is also a direct match with Michael's skills. The location is hybrid in a preferred area (NYC/NJ), but a slight deduction was applied for not being fully remote, as per candidate preference.",
-      "source": "Built In NYC",
-      "applyUrl": "N/A",
-      "jobDescription": {
-        "summary": "As a Senior Product Designer on the Global Dining, Resy Venues team, you will create user-centered experiences and interfaces for products that help restaurants, wineries, hospitality businesses, and internal teams manage complex workflows with clarity and confidence. This involves leading the design process from early discovery and concept development through detailed interaction design, high-fidelity specifications, implementation support, and post-launch iteration.",
-        "coreResponsibilities": [
-          "Lead end-to-end design of B2B SaaS experiences for restaurants, venues, and internal operations.",
-          "Drive discovery, prototyping, detailed interaction design, usability research, and iteration.",
-          "Create a variety of design artifacts, including journey maps, service blueprints, user flows, wireframes, prototypes, interaction models, and high-fidelity specifications.",
-          "Prototype using Figma and AI-enabled tools.",
-          "Partner closely with product managers, engineers, researchers, data partners, design leads, and business stakeholders.",
-          "Contribute to design systems and work to improve team processes.",
-          "Translate customer feedback, business requirements, product data, and technical constraints into usable and scalable product experiences."
-        ],
-        "requirements": [
-          "Strong background in B2B SaaS, with comfort in designing for complex systems, multi-step workflows, permissions, and operational tools across various platforms.",
-          "Proven experience designing across the entire user journey, from initial concept to post-launch iteration.",
-          "Ability to articulate design decisions and strategy with influence.",
-          "Experience with prototyping tools, including AI-enabled tools.",
-          "Demonstrates strong design judgment, customer empathy, and a commitment to product quality."
-        ]
-      },
-      "specialty": "Venues - Resy",
-      "keywords": [
-        {
-          "keyword": "B2B SaaS",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Strong match with Michael's primary expertise."
-        },
-        {
-          "keyword": "Complex workflows",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Direct match with Michael's strength in complex systems and transactional flows."
-        },
-        {
-          "keyword": "Marketplace infrastructure",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Resy's platform aligns with Michael's experience in marketplace environments."
-        },
-        {
-          "keyword": "Enterprise UX",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Designing for businesses (restaurants, venues) is directly related to Michael's enterprise software experience."
-        },
-        {
-          "keyword": "Figma",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Key tool listed in Michael's profile and job requirement."
-        },
-        {
-          "keyword": "AI tools",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Michael uses AI tools and the job mentions AI-enabled prototyping."
-        },
-        {
-          "keyword": "Design systems",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Matches Michael's experience in establishing and contributing to design systems."
-        },
-        {
-          "keyword": "User Research",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "A core practice for Michael and a requirement for the role."
-        },
-        {
-          "keyword": "Prototyping",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Central to Michael's design practice and a core responsibility."
-        },
-        {
-          "keyword": "Cross-functional collaboration",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Matches Michael's preferred working style."
-        },
-        {
-          "keyword": "0-to-1 discovery",
-          "inProfile": true,
-          "relevance": "preferred",
-          "note": "The role mentions leading discovery, aligning with Michael's 0-to-1 experience."
-        }
-      ],
-      "status": "New",
-      "scannedAt": "2026-10-01T23:12:41.116Z",
-      "isNew": false
-    },
-    {
       "id": "job-22waei",
       "title": "Senior Product Designer",
       "company": "Gladly",
@@ -2539,8 +2434,174 @@
       ],
       "status": "New",
       "scannedAt": "2026-10-15T22:18:31.323Z",
+      "isNew": false
+    },
+    {
+      "id": "job-yj2a9f",
+      "title": "Senior Staff Product Designer",
+      "company": "Apartment List",
+      "companyDomain": "apartmentlist.com",
+      "industry": "Marketplace",
+      "location": "Remote",
+      "postedAt": "2026-10-16",
+      "fitScore": 9,
+      "fitTier": "Strong Fit",
+      "fitExplanation": "This role is an excellent match for Michael's profile, particularly his experience with marketplace infrastructure and complex workflow design. The focus on setting a high craft bar, systems thinking, and leveraging AI in design aligns perfectly with his philosophy and tools. His 10+ years of experience and ability to lead through influence fit the Senior Staff level. The company stage (Series D) and remote location are ideal.",
+      "source": "Greenhouse",
+      "applyUrl": "https://boards.greenhouse.io/apartmentlist/jobs/4217686007",
+      "isOffLinkedIn": false,
+      "jobDescription": "Apartment List is seeking a Senior Staff Product Designer to lead the end-to-end renter experience across their core web, mobile web, and native iOS/Android platforms. This individual will be accountable for the coherence, quality, and strategic direction of the product experience, balancing feature maintenance with innovative new solutions. The role emphasizes setting high standards for visual design, typography, interaction, and design systems. The designer will proactively identify problems, conduct qualitative and quantitative research, and run experiments to guide product development. It is a hands-on position requiring design, prototyping in code, and effectively advocating for product direction with senior leadership. Mentorship of other designers through critique and example is also a key aspect. The role also explicitly embraces AI-enabled workflows and tools in the design process.",
+      "specialty": "Core Renter Experience",
+      "salary": "$166,000 - $237,000",
+      "keywords": [
+        {
+          "keyword": "marketplace infrastructure",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Direct experience at Tackle.io and relevant for Apartment List's platform."
+        },
+        {
+          "keyword": "complex workflow design",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Directly applicable to designing renter journeys and transactional flows."
+        },
+        {
+          "keyword": "design systems",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Candidate excels in design systems; role emphasizes setting craft bar and standards."
+        },
+        {
+          "keyword": "0-to-1 discovery",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Role requires balancing invention with maintenance and identifying new problems."
+        },
+        {
+          "keyword": "visual craft",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Role focuses on high craft bar, visual design, typography, interaction, motion."
+        },
+        {
+          "keyword": "user research",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Role requires qualitative and quantitative research and experimentation."
+        },
+        {
+          "keyword": "rapid prototyping",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Role involves prototyping in code; candidate uses Figma Make, Cursor."
+        },
+        {
+          "keyword": "Figma",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Role requires Figma fluency; candidate is proficient."
+        },
+        {
+          "keyword": "AI tools",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Role explicitly uses AI-enabled workflows; candidate uses Figma Make, Cursor."
+        },
+        {
+          "keyword": "cross-functional collaboration",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Role requires partnering with product, engineering, and mentoring designers."
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-10-16T15:22:23.856Z",
+      "isNew": true
+    },
+    {
+      "id": "job-ur6ejc",
+      "title": "Senior Product Designer",
+      "company": "TRM Labs",
+      "companyDomain": "trmlabs.com",
+      "industry": "Fintech, Enterprise Software",
+      "location": "Remote",
+      "postedAt": "2026-10-15",
+      "fitScore": 9,
+      "fitTier": "Strong Fit",
+      "fitExplanation": "This position is an exceptional fit given Michael's deep expertise in complex B2B SaaS, FinTech-adjacent areas like transactional flows, and data-heavy interfaces. His ability to bring clarity and trust to high-stakes problem spaces with messy data directly aligns with the role's challenges in financial crime and crypto compliance. The explicit mention of AI integration into workflows also matches his experience with AI tools. The Series C stage and remote nature are ideal.",
+      "source": "Greenhouse",
+      "applyUrl": "https://boards.greenhouse.io/trmlabs/jobs/4320266007",
+      "isOffLinkedIn": false,
+      "jobDescription": "TRM Labs is seeking a Senior Product Designer to develop tools for investigators at law enforcement and government agencies, as well as compliance teams within crypto businesses and financial institutions. The core challenge involves designing intuitive solutions for complex problems that deal with massive, messy data, where decisions carry significant real-world consequences. A critical aspect of this role is defining how human users and AI agents collaborate effectively to achieve investigative and compliance goals, especially as AI adoption grows in this sector. The ideal candidate will deeply care about their craft, experiment with rigor, and take pride in building a safer world through their design contributions.",
+      "specialty": "Financial Crime and Crypto Compliance",
+      "salary": "$176,000 - $193,000",
+      "keywords": [
+        {
+          "keyword": "complex B2B SaaS",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Directly applicable to designing compliance and investigation tools for enterprises."
+        },
+        {
+          "keyword": "fintech",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Direct experience in finance/FinTech adjacent areas like payment reconciliation."
+        },
+        {
+          "keyword": "complex data systems",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Role involves massive and messy data, a key area of candidate expertise."
+        },
+        {
+          "keyword": "transactional flows",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Relevant to financial crime investigation workflows."
+        },
+        {
+          "keyword": "marketplace infrastructure",
+          "inProfile": true,
+          "relevance": "strong alignment",
+          "note": "While not a marketplace, the complexity of the data ecosystem aligns."
+        },
+        {
+          "keyword": "0-to-1 discovery",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Defining how people and AI agents work together in new workflows."
+        },
+        {
+          "keyword": "design strategy",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Shaping how critical investigations are conducted with new tools."
+        },
+        {
+          "keyword": "AI tools",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Role explicitly focuses on human-AI interaction; candidate uses AI tools."
+        },
+        {
+          "keyword": "visual craft",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Role emphasizes caring deeply about craft and building trustworthy systems."
+        },
+        {
+          "keyword": "cross-functional collaboration",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Implied by the need to build impactful products for critical users."
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-10-16T15:22:23.856Z",
       "isNew": true
     }
   ],
-  "scannedAt": "2026-10-15T22:18:59.986Z"
+  "scannedAt": "2026-10-16T15:23:19.014Z"
 }
