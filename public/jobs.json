@@ -2733,7 +2733,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-10-17T21:28:05.218Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-qawf2p",
@@ -2809,8 +2809,85 @@
       ],
       "status": "New",
       "scannedAt": "2026-10-17T21:28:05.218Z",
+      "isNew": false
+    },
+    {
+      "id": "job-dxkcet",
+      "title": "Lead Product Designer",
+      "company": "HighLevel",
+      "companyDomain": "gohighlevel.com",
+      "industry": "B2B SaaS",
+      "location": "Remote (U.S.)",
+      "postedAt": "2026-10-17",
+      "fitScore": 9,
+      "fitTier": "Strong Fit",
+      "fitExplanation": "Michael's 10+ years of experience, including 4 years in a senior/lead capacity, aligns perfectly with this Lead Product Designer role. His expertise in complex B2B SaaS, sales operations, and revenue tooling directly matches HighLevel's AI-powered marketing and sales platform. He thrives in ambiguous 0-to-1 problem spaces and has a strong background in scaling products and utilizing AI tools, all highly relevant to this position. The role emphasizes defining design strategy, improving team quality through mentorship, and cross-functional collaboration, which are areas where Michael excels.",
+      "source": "Remote Senior Jobs",
+      "applyUrl": "N/A",
+      "isOffLinkedIn": true,
+      "jobDescription": "As a Lead Product Designer at HighLevel, you will be responsible for leading design strategy and execution across one or more product pillars, from initial discovery to final delivery. This involves translating customer needs, business goals, product strategy, and technical constraints into actionable design directions and roadmaps. You will partner closely with product and engineering leaders to define the product vision, prioritize opportunities, and ensure high-quality outcomes. A key aspect of the role is influencing leadership decisions through deep customer empathy, data synthesis, sound product judgment, and compelling design rationale. You will also drive design quality reviews, setting and upholding standards for usability, accessibility, interaction quality, visual consistency, and adherence to the design system. Furthermore, you will elevate the design capabilities of multiple teams by mentoring designers, enhancing critique processes, strengthening shared design patterns, and making standards easier to adopt. The role requires defining and socializing metrics for design quality and impact, leading complex discovery and design efforts through ambiguity, and ultimately shaping product direction, design standards, and team culture.",
+      "specialty": "",
+      "salary": "",
+      "keywords": [
+        {
+          "keyword": "Lead Product Designer",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Candidate is targeting and has experience at this level."
+        },
+        {
+          "keyword": "B2B SaaS",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "HighLevel is an AI-powered B2B SaaS platform for marketing and sales."
+        },
+        {
+          "keyword": "0-to-1 discovery",
+          "inProfile": true,
+          "relevance": "highly relevant",
+          "note": "Role requires leading complex discovery efforts through ambiguity, aligning with Michael's expertise."
+        },
+        {
+          "keyword": "design strategy",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Core responsibility involves leading design strategy and influencing product vision."
+        },
+        {
+          "keyword": "design systems",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Role emphasizes setting standards for visual consistency and design system alignment."
+        },
+        {
+          "keyword": "cross-functional collaboration",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Expected to partner with product and engineering leaders."
+        },
+        {
+          "keyword": "mentoring designers",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Responsibility includes raising team quality by mentoring designers."
+        },
+        {
+          "keyword": "AI-powered",
+          "inProfile": true,
+          "relevance": "highly relevant",
+          "note": "HighLevel is an AI-powered operating system; Michael has experience using AI tools."
+        },
+        {
+          "keyword": "complex workflows",
+          "inProfile": true,
+          "relevance": "highly relevant",
+          "note": "Implied by leading design for an all-in-one marketing and sales platform."
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-10-18T14:34:42.427Z",
       "isNew": true
     }
   ],
-  "scannedAt": "2026-10-17T21:29:07.543Z"
+  "scannedAt": "2026-10-18T14:35:54.280Z"
 }
