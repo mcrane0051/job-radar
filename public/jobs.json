@@ -2606,8 +2606,95 @@
       ],
       "status": "New",
       "scannedAt": "2026-10-19T17:28:29.653Z",
+      "isNew": false
+    },
+    {
+      "id": "job-prmidh",
+      "title": "Principal Product Designer",
+      "company": "Photon",
+      "companyDomain": "photon.com",
+      "industry": "Enterprise Software, AI, Fintech, Digital Modernization",
+      "location": "Hybrid (Berkeley Heights, NJ)",
+      "postedAt": "2026-10-18",
+      "fitScore": 9,
+      "fitTier": "Strong Fit",
+      "fitExplanation": "This role is an excellent match for Michael's expertise in complex B2B SaaS, enterprise software, and AI-driven solutions. The 'Principal' title aligns with his target level and 10+ years of experience, including leading design at Tackle.io. The emphasis on designing intuitive workflows for complex financial and operational concepts, and creating trustworthy AI recommendations, directly mirrors Michael's proven ability to make complex systems delightful and tactile in high-stakes environments. His background in visual systems and craft is explicitly valued through the requirement for a 'highly refined visual aesthetic' in case studies. The company's established nature (4000+ employees, Fortune 500 clients) exceeds the Series C minimum. The hybrid location in Berkeley Heights, NJ, is acceptable given Michael's residence in Hamilton, NJ, though it incurs a slight deduction from a perfect score due to the preference for remote work.",
+      "source": "Careers in Government (via aggregator platforms)",
+      "applyUrl": "N/A",
+      "jobDescription": "Photon, an established leader in digital experiences and modernization for Fortune 500 companies, is seeking a Principal Product Designer to shape user interactions with intelligent systems. This pivotal role involves designing intuitive, user-centered workflows that seamlessly integrate human decision-making with intelligent AI automation, transforming complex financial and operational concepts into accessible digital experiences. The ideal candidate will possess deep, focused product design expertise at a Staff/Principal caliber, demonstrated through a portfolio showcasing success in complex SaaS or Fintech initiatives.\n\nCore Responsibilities:\n*   Design end-to-end AI-powered workflows, including copilots and conversational user interfaces.\n*   Develop approval patterns and explainability models to ensure AI recommendations are trustworthy, understandable, and actionable for enterprise users.\n*   Collaborate closely with Product Managers and Engineering teams to translate robust backend automation into elegant, intuitive front-end enterprise experiences.\n\nRequired Qualifications and Skills:\n*   Extensive product design expertise, equivalent to Staff or Principal level (e.g., Amazon L6/L7).\n*   Proven track record of leading digital customer experience initiatives within complex SaaS or Fintech environments.\n*   Mandatory submission of a clear, accessible portfolio URL with case studies demonstrating in-depth complex problem-solving.\n*   Portfolio case studies must exhibit enterprise-grade product design, not academic projects.\n*   Demonstrated mastery of visual aesthetic, including color, typography, layout, and iconography, suitable for global enterprise brands.\n*   Prototypes included in the portfolio must be high-fidelity and clearly communicate functionality at every step.",
+      "specialty": "AI",
+      "keywords": [
+        {
+          "keyword": "Complex B2B SaaS",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Role focuses on complex SaaS and Fintech enterprise experiences."
+        },
+        {
+          "keyword": "AI-powered workflows",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Directly mentioned as a core responsibility."
+        },
+        {
+          "keyword": "Enterprise software",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Designing enterprise-grade digital experiences."
+        },
+        {
+          "keyword": "Fintech",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Success in Fintech initiatives is a requirement."
+        },
+        {
+          "keyword": "0-to-1 discovery",
+          "inProfile": true,
+          "relevance": "strong",
+          "note": "Designing end-to-end AI workflows implies new product/feature development."
+        },
+        {
+          "keyword": "Visual craft",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Emphasis on 'highly refined visual aesthetic' in portfolio."
+        },
+        {
+          "keyword": "Systems thinking",
+          "inProfile": true,
+          "relevance": "strong",
+          "note": "Simplifying complex financial/operational concepts and designing scalable systems."
+        },
+        {
+          "keyword": "Cross-functional collaboration",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Partnering with Product Managers and Engineering."
+        },
+        {
+          "keyword": "Prototyping",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "High-fidelity prototypes with 'substantial depth' are required in the portfolio."
+        },
+        {
+          "keyword": "User Research",
+          "inProfile": true,
+          "relevance": "implied",
+          "note": "Designing user-centered workflows implies user research as part of the process."
+        },
+        {
+          "keyword": "Design Systems",
+          "inProfile": true,
+          "relevance": "implied",
+          "note": "Delivering 'enterprise-grade product design' often involves working with design systems, consistent with Michael's experience."
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-10-19T22:54:09.103Z",
       "isNew": true
     }
   ],
-  "scannedAt": "2026-10-19T17:29:31.638Z"
+  "scannedAt": "2026-10-19T22:55:03.211Z"
 }
