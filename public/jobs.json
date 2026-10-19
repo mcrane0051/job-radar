@@ -2518,7 +2518,96 @@
       "status": "New",
       "scannedAt": "2026-10-18T14:34:42.427Z",
       "isNew": false
+    },
+    {
+      "id": "job-38qocy",
+      "title": "Staff Product Designer",
+      "company": "EvolutionIQ",
+      "companyDomain": "evolutioniq.com",
+      "industry": "Fintech, Enterprise Software",
+      "location": "Hybrid, New York, NY",
+      "postedAt": "2026-10-18",
+      "fitScore": 8,
+      "fitTier": "Good Fit",
+      "fitExplanation": "This role is a strong match for Michael's expertise in complex B2B SaaS, AI tools, and design systems, particularly within a fintech-adjacent domain like insurance claims. His experience with complex data systems, transactional flows, and shaping design strategy aligns perfectly with the responsibilities. The hybrid location in NYC is a preferred location, though it incurs a slight score deduction.",
+      "source": "Built In NYC",
+      "applyUrl": "https://boards.greenhouse.io/evolutioniq/jobs/4207137007",
+      "isOffLinkedIn": false,
+      "jobDescription": "EvolutionIQ is seeking a Staff Product Designer to lead product design for an agentic AI platform that serves insurance claims teams. This role involves defining human-AI interactions, automation, control models, information architecture, workflows, reusable agentic patterns, and design system foundations. The designer will conduct client discovery, rapid prototyping, and usability testing, while collaborating with product, engineering, leadership, and clients to balance user needs, AI capabilities, technical feasibility, and regulatory requirements. The ideal candidate thrives in ambiguous problem spaces, shaping new product experiences around emerging technology within complex, regulated environments. They will define how customers interact with agentic products, how the system communicates uncertainty, automation, control, intervention, and recovery, and how the product earns trust. The role requires a strong design craft and the ability to act as a thought partner to Product and Engineering, bringing clarity to high-stakes, unsolved problems.",
+      "specialty": "Agentic Platform",
+      "salary": "$210k - $230k",
+      "keywords": [
+        {
+          "keyword": "Agentic AI platform",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael uses AI tools like Figma Make and Cursor and has experience with complex data systems."
+        },
+        {
+          "keyword": "Insurance claims teams",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Fintech-adjacent, aligns with Michael's finance/fintech context and high-stakes problem-solving."
+        },
+        {
+          "keyword": "Human-AI interactions",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Directly relates to Michael's experience with AI tools."
+        },
+        {
+          "keyword": "Design system foundations",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael has strong experience establishing scalable design systems."
+        },
+        {
+          "keyword": "Client discovery",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael operates effectively across the full design lifecycle, from 0-to-1 discovery."
+        },
+        {
+          "keyword": "Prototyping",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "A core design practice for Michael, including high-fidelity interactive prototyping."
+        },
+        {
+          "keyword": "Usability testing",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Part of Michael's design practice."
+        },
+        {
+          "keyword": "Complex, regulated problems",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael specializes in high-stakes, high-complexity problem spaces where clarity and trust are key."
+        },
+        {
+          "keyword": "B2B SaaS",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael's primary industry expertise is complex B2B SaaS."
+        },
+        {
+          "keyword": "10+ years experience",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Job description implies 10+ years experience is required/highly preferred for a Staff level role."
+        },
+        {
+          "keyword": "Figma",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "A primary tool for Michael."
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-10-19T17:28:29.653Z",
+      "isNew": true
     }
   ],
-  "scannedAt": "2026-10-18T21:31:58.164Z"
+  "scannedAt": "2026-10-19T17:29:31.638Z"
 }
