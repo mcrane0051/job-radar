@@ -1,84 +1,6 @@
 {
   "jobs": [
     {
-      "id": "job-22waei",
-      "title": "Senior Product Designer",
-      "company": "Gladly",
-      "companyDomain": "gladly.ai",
-      "industry": "AI, Enterprise Software, SaaS, Customer Experience",
-      "location": "Remote, US",
-      "postedAt": "2026-10-05",
-      "fitScore": 9,
-      "fitTier": "Strong Fit",
-      "fitExplanation": "Gladly's Senior Product Designer, AI Platform role is highly aligned with Michael's profile, especially his experience with complex B2B SaaS, enterprise software, and his recent engagement with AI tools. The emphasis on AI for customer experience, combined with a need for strong systems thinking, visual craft, and interaction design, directly leverages Michael's core strengths and design philosophy. The company's established reputation with major brands indicates a stable, Series C or later environment. Michael's desire for roles with strategic input and a strong PM partnership is well-met by this position.",
-      "source": "New Enterprise Associates Careers",
-      "applyUrl": "N/A",
-      "isOffLinkedIn": false,
-      "jobDescription": "Gladly is seeking a Senior Product Designer for its AI Platform. This strategic and hands-on role involves shaping human-centered product experiences across an AI-driven customer experience platform. The designer will lead work from initial opportunity discovery and concept development through detailed interaction design, launch, and iteration. Essential requirements include a combination of strong systems thinking, visual craft, and interaction design, coupled with a deep commitment to user understanding. Proficiency in product design tools, including Figma, and expertise in interaction design, information architecture, usability, accessibility, and visual design are crucial. The role demands close collaboration with cross-functional teams and clear communication of design rationale.",
-      "salary": "$150k-$185k",
-      "specialty": "AI Platform",
-      "keywords": [
-        {
-          "keyword": "Product Design",
-          "inProfile": true,
-          "relevance": "required"
-        },
-        {
-          "keyword": "AI Platform",
-          "inProfile": true,
-          "relevance": "required"
-        },
-        {
-          "keyword": "Enterprise Software",
-          "inProfile": true,
-          "relevance": "required"
-        },
-        {
-          "keyword": "SaaS",
-          "inProfile": true,
-          "relevance": "required"
-        },
-        {
-          "keyword": "Customer experience",
-          "inProfile": true,
-          "relevance": "strong"
-        },
-        {
-          "keyword": "Systems thinking",
-          "inProfile": true,
-          "relevance": "required"
-        },
-        {
-          "keyword": "Visual craft",
-          "inProfile": true,
-          "relevance": "required"
-        },
-        {
-          "keyword": "Interaction design",
-          "inProfile": true,
-          "relevance": "required"
-        },
-        {
-          "keyword": "Figma",
-          "inProfile": true,
-          "relevance": "required"
-        },
-        {
-          "keyword": "User-centered design",
-          "inProfile": true,
-          "relevance": "required"
-        },
-        {
-          "keyword": "Discovery",
-          "inProfile": true,
-          "relevance": "required"
-        }
-      ],
-      "status": "New",
-      "scannedAt": "2026-10-06T17:11:15.760Z",
-      "isNew": false
-    },
-    {
       "id": "job-daw96e",
       "title": "Senior Product Designer",
       "company": "Okta",
@@ -150,137 +72,6 @@
       ],
       "status": "New",
       "scannedAt": "2026-10-07T17:49:15.576Z",
-      "isNew": false
-    },
-    {
-      "id": "job-9kt4gl",
-      "title": "Senior Product Designer",
-      "company": "Customer.io",
-      "companyDomain": "customer.io",
-      "industry": "B2B SaaS, Enterprise Software",
-      "location": "Remote, US",
-      "postedAt": "2026-10-06",
-      "fitScore": 9,
-      "fitTier": "Strong Fit",
-      "fitExplanation": "Michael's extensive background in complex B2B SaaS and experience with data-driven interfaces aligns perfectly with Customer.io's sophisticated platform. His focus on owning outcomes, contributing to design systems, and incorporating AI into interaction design directly matches the role's requirements. The company's established presence with thousands of clients suggests a Series C or later stage, meeting the candidate's preference for stability and resources. Michael's proven ability to manage end-to-end design from strategy to shipped product further strengthens this fit.",
-      "source": "Google Search Snippet",
-      "applyUrl": "N/A",
-      "isOffLinkedIn": false,
-      "jobDescription": "Customer.io is seeking a Senior Product Designer to lead design for a product area from strategy through shipped pixels on a sophisticated B2B platform. The role emphasizes owning outcomes, not just deliverables, and contributing actively to the design system. Candidates should possess a strong viewpoint on how AI influences interaction design. Key responsibilities include designing complex, data-driven interfaces and translating these into user-centric systems. Strong communication and critical thinking skills are essential for decision-making and collaborative feedback.",
-      "salary": "$171k-$193k",
-      "specialty": "",
-      "keywords": [
-        {
-          "keyword": "B2B SaaS",
-          "inProfile": true,
-          "relevance": "required"
-        },
-        {
-          "keyword": "Complex data-driven interfaces",
-          "inProfile": true,
-          "relevance": "required"
-        },
-        {
-          "keyword": "Systems thinking",
-          "inProfile": true,
-          "relevance": "required"
-        },
-        {
-          "keyword": "AI-involved interfaces",
-          "inProfile": true,
-          "relevance": "required"
-        },
-        {
-          "keyword": "Design system",
-          "inProfile": true,
-          "relevance": "required"
-        },
-        {
-          "keyword": "Owning outcomes",
-          "inProfile": true,
-          "relevance": "required"
-        },
-        {
-          "keyword": "User research",
-          "inProfile": true,
-          "relevance": "implied"
-        },
-        {
-          "keyword": "Figma",
-          "inProfile": true,
-          "relevance": "implied"
-        }
-      ],
-      "status": "New",
-      "scannedAt": "2026-10-06T17:11:15.760Z",
-      "isNew": false
-    },
-    {
-      "id": "job-vn10g9",
-      "title": "Senior Product Designer",
-      "company": "Vitalize",
-      "companyDomain": "vitalize.ai",
-      "industry": "Healthcare & Life Sciences, Enterprise Software, B2B SaaS",
-      "location": "Remote, US",
-      "postedAt": "2026-10-06",
-      "fitScore": 9,
-      "fitTier": "Strong Fit",
-      "fitExplanation": "This role at Vitalize is an exceptional fit, requiring a designer to own the full product design lifecycle for complex, workflow-heavy B2B SaaS products, specifically in health systems. Michael's background in complex data systems, transactional flows, and enterprise seller tools directly translates to these needs. His experience with 0-to-1 problem spaces, scaling products, and contributing to design systems aligns with the role's focus on shaping the product as an early design hire. The explicit mention of designing with AI-powered workflows is a strong match, given Michael's recent use of AI tools. His customer- and outcomes-oriented mindset is also a key requirement for this position.",
-      "source": "Remote Source",
-      "applyUrl": "N/A",
-      "isOffLinkedIn": false,
-      "jobDescription": "Vitalize is seeking a Senior Product Designer to join as the third designer, taking significant ownership in shaping the product. The role involves leading product design from discovery through launch, partnering with Product and Engineering. Responsibilities include designing complex, workflow-heavy product experiences for operational tools in health systems, working directly with customers to translate insights, and designing across data-dense and AI-powered workflows. The ideal candidate will also contribute to a growing design system, demonstrating strong product instincts, design craft, and an outcomes-oriented mindset.",
-      "salary": "Not Posted",
-      "specialty": "",
-      "keywords": [
-        {
-          "keyword": "Product Design",
-          "inProfile": true,
-          "relevance": "required"
-        },
-        {
-          "keyword": "Complex workflow design",
-          "inProfile": true,
-          "relevance": "required"
-        },
-        {
-          "keyword": "B2B SaaS",
-          "inProfile": true,
-          "relevance": "required"
-        },
-        {
-          "keyword": "Data-dense interfaces",
-          "inProfile": true,
-          "relevance": "required"
-        },
-        {
-          "keyword": "AI-powered workflows",
-          "inProfile": true,
-          "relevance": "required"
-        },
-        {
-          "keyword": "Design system",
-          "inProfile": true,
-          "relevance": "required"
-        },
-        {
-          "keyword": "User research",
-          "inProfile": true,
-          "relevance": "required"
-        },
-        {
-          "keyword": "0-to-1",
-          "inProfile": true,
-          "relevance": "required"
-        },
-        {
-          "keyword": "Outcomes-oriented",
-          "inProfile": true,
-          "relevance": "required"
-        }
-      ],
-      "status": "New",
-      "scannedAt": "2026-10-06T17:11:15.760Z",
       "isNew": false
     },
     {
@@ -2110,7 +1901,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-10-20T15:39:02.153Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-oqhwbd",
@@ -2796,7 +2587,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-10-20T15:39:02.153Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-3zvuvo",
@@ -2894,8 +2685,8 @@
       ],
       "status": "New",
       "scannedAt": "2026-10-20T15:39:02.153Z",
-      "isNew": true
+      "isNew": false
     }
   ],
-  "scannedAt": "2026-10-20T15:40:12.794Z"
+  "scannedAt": "2026-10-20T22:18:46.142Z"
 }
