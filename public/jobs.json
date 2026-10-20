@@ -2036,65 +2036,81 @@
       "title": "Senior Product Designer",
       "company": "Coinbase",
       "companyDomain": "coinbase.com",
-      "industry": "Fintech, Cryptocurrency, Cloud Infrastructure, Marketplace",
-      "location": "Remote, US",
-      "postedAt": "2026-10-15",
+      "industry": "FinTech, Developer Tools, B2B SaaS, Enterprise Software, Marketplace",
+      "location": "Remote (US)",
+      "postedAt": "2026-10-19",
       "fitScore": 9,
       "fitTier": "Strong Fit",
-      "fitExplanation": "This role is a highly relevant opportunity for Michael due to its alignment with fintech, platform design, and complex transactional systems. His extensive experience at Tackle.io with multi-cloud transactional platforms, payment reconciliation, and marketplace infrastructure directly translates to the challenges at Coinbase. The mention of UI/UX, user research, and Figma indicates a focus on core product design skills where Michael excels, and the company stage meets his criteria.",
-      "source": "SailOnchain (Aggregator)",
-      "applyUrl": "N/A",
-      "isOffLinkedIn": true,
-      "jobDescription": "As a Senior Product Designer focused on Coinbase's platform, you will contribute to shaping the user experience within a rapidly evolving fintech and cryptocurrency environment. The role involves leveraging strong UI/UX design principles and conducting user research to inform product decisions. Responsibilities likely include designing interfaces for complex financial products, contributing to platform-level design strategy, and collaborating closely with engineering and product teams to deliver intuitive and trustworthy experiences.",
-      "specialty": "Platform",
-      "salary": "$180k - $212k",
+      "fitExplanation": "This role is a strong match due to its focus on developer tools and technical platforms, which aligns with Michael's experience in enterprise software and developer tools. His background in FinTech-adjacent areas like payment reconciliation and transactional flows, combined with his expertise in designing complex, multi-surface products and contributing to design systems, makes him an ideal candidate. The company's public status meets his Series C+ preference.",
+      "source": "Lever",
+      "applyUrl": "https://jobs.lever.co/coinbase/01e4a3c1-d419-482f-87d4-0b1a9e7f45c2",
+      "specialty": "Developer Foundations",
+      "jobDescription": "This role is focused on designing developer tools, technical platforms, and documentation experiences within Coinbase. The Senior Product Designer will take ownership of end-to-end design for complex, multi-surface products and ensure they are shipped to production. Contributing to and maintaining a design system, along with integrating user research insights, are critical aspects.\n\n**Core Responsibilities:**\n*   Design end-to-end for developer tools, technical platforms, or documentation experiences within a FinTech context.\n*   Own design for complex, multi-surface products from initial concept through to shipped production and measured outcomes.\n*   Contribute to or maintain a robust and scalable design system.\n*   Integrate user research insights into design decisions, demonstrating how research influenced outcomes.\n*   Operate effectively in an intense, high-impact environment, pushing perceived limits.\n\n**Core Requirements:**\n*   5+ years of product design experience, with a minimum of 2 years specifically in developer tools, technical platforms, or documentation experiences.\n*   Demonstrated ownership of end-to-end design for complex, multi-surface products shipped to production.\n*   Proven experience contributing to or maintaining a design system, with a portfolio showcasing systematic and scalable design thinking.\n*   Proficiency in Figma for design delivery, prototyping, and design system management.\n*   Track record of integrating user research insights into design decisions, with examples of how research led to impactful changes.",
       "keywords": [
+        {
+          "keyword": "Senior Product Designer",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Targeted role level"
+        },
+        {
+          "keyword": "Developer Tools",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Industry with deep context, explicit mention of experience"
+        },
+        {
+          "keyword": "Technical Platforms",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Experience with enterprise multi-cloud transactional platform"
+        },
+        {
+          "keyword": "FinTech adjacent",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Experience with payment reconciliation, transactional flows"
+        },
+        {
+          "keyword": "Complex products",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Specialization in complex B2B SaaS products"
+        },
+        {
+          "keyword": "Design Systems",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Expertise in building and scaling"
+        },
         {
           "keyword": "Figma",
           "inProfile": true,
           "relevance": "required",
-          "note": "Expert proficiency listed in Michael's skills."
-        },
-        {
-          "keyword": "UI/UX Design",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Core design practice for Michael."
+          "note": "Proficient"
         },
         {
           "keyword": "User Research",
           "inProfile": true,
           "relevance": "required",
-          "note": "Michael conducts user research as part of his design lifecycle."
+          "note": "Experienced"
         },
         {
-          "keyword": "Fintech",
+          "keyword": "Prototyping",
           "inProfile": true,
           "relevance": "required",
-          "note": "Michael has deep context in fintech-adjacent industries."
+          "note": "Expertise in high-fidelity interactive prototyping"
         },
         {
-          "keyword": "Marketplace Infrastructure",
+          "keyword": "0-to-1 discovery",
           "inProfile": true,
-          "relevance": "required",
-          "note": "Direct experience at Tackle.io."
-        },
-        {
-          "keyword": "Transactional Flows",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Key area of Michael's expertise."
-        },
-        {
-          "keyword": "Complex Systems",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Michael specializes in making complex systems delightful."
+          "relevance": "good",
+          "note": "Thrives in ambiguous problem spaces"
         }
       ],
       "status": "New",
-      "scannedAt": "2026-10-16T22:05:42.561Z",
-      "isNew": false
+      "scannedAt": "2026-10-20T15:39:02.153Z",
+      "isNew": true
     },
     {
       "id": "job-oqhwbd",
@@ -2693,8 +2709,193 @@
       ],
       "status": "New",
       "scannedAt": "2026-10-19T22:54:09.103Z",
+      "isNew": false
+    },
+    {
+      "id": "job-aht96h",
+      "title": "Senior Product Designer",
+      "company": "Juniper Square",
+      "companyDomain": "junipersquare.com",
+      "industry": "FinTech, B2B SaaS, Enterprise Software, Cloud Infrastructure, Marketplace",
+      "location": "Remote (US)",
+      "postedAt": "2026-10-20",
+      "fitScore": 9,
+      "fitTier": "Strong Fit",
+      "fitExplanation": "This role is an excellent fit for Michael due to its focus on complex B2B/Enterprise SaaS products in a data-heavy domain, aligning with his experience at Tackle.io. His expertise in transactional flows, marketplace infrastructure, and making complex systems tactile is highly relevant. The emphasis on design systems, Figma proficiency, and comfort with AI-powered tools (Figma Make, Cursor) also directly matches his skills and recent experience. Juniper Square's Series D funding stage meets his preference for established companies.",
+      "source": "Lever",
+      "applyUrl": "https://jobs.lever.co/junipersquare/468d6d2b-1a9f-4f2e-b1e9-74d4b1a4a159",
+      "specialty": "Platform",
+      "jobDescription": "This role involves designing for a complex B2B or Enterprise SaaS product, specifically within a data-heavy domain in the private markets industry. The designer will be responsible for end-to-end design, contributing to product strategy, and collaborating closely with product managers and engineers. A key aspect is evolving and applying a robust design system and focusing on user research and prototyping, particularly for AI/ML-driven features.\n\n**Core Responsibilities:**\n*   Own end-to-end design for complex B2B/Enterprise SaaS products in data-heavy domains.\n*   Contribute to product strategy and collaborate cross-functionally with PMs and Engineers.\n*   Evolve and apply a scalable design system, ensuring consistency and efficiency.\n*   Conduct user research and prototyping to inform design decisions and validate concepts.\n*   Design for AI/ML-driven features, prioritizing user trust, explainability, and clarity.\n\n**Core Requirements:**\n*   5+ years of product design experience, with significant exposure to complex B2B/Enterprise SaaS.\n*   Proven experience designing in data-heavy domains.\n*   Fluency with modern design and prototyping tools, including Figma proficiency for component libraries, auto-layout, and developer handoff.\n*   Comfort and experience with AI-powered tools (e.g., LLMs, Cursor, Claude Code).\n*   Experience designing for AI/ML-driven features with strong attention to user experience.\n*   Exceptional communication, collaboration, and stakeholder management skills.",
+      "keywords": [
+        {
+          "keyword": "B2B SaaS",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Deep expertise"
+        },
+        {
+          "keyword": "Enterprise Software",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Deep expertise"
+        },
+        {
+          "keyword": "Data-heavy interfaces",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Specialization"
+        },
+        {
+          "keyword": "Transactional flows",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Specialization"
+        },
+        {
+          "keyword": "Marketplace infrastructure",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Specialization"
+        },
+        {
+          "keyword": "Design Systems",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Expertise in building and scaling"
+        },
+        {
+          "keyword": "Figma",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Proficient, including Figma Make"
+        },
+        {
+          "keyword": "AI tools",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Experience with Figma Make, Cursor"
+        },
+        {
+          "keyword": "User Research",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Experienced"
+        },
+        {
+          "keyword": "Prototyping",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Expertise in high-fidelity interactive prototyping"
+        },
+        {
+          "keyword": "0-to-1 discovery",
+          "inProfile": true,
+          "relevance": "good",
+          "note": "Thrives in ambiguous spaces"
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-10-20T15:39:02.153Z",
+      "isNew": true
+    },
+    {
+      "id": "job-3zvuvo",
+      "title": "Lead Product Designer",
+      "company": "Cloudera",
+      "companyDomain": "cloudera.com",
+      "industry": "Cloud Infrastructure, Enterprise Software, B2B SaaS, Developer Tools",
+      "location": "Remote (US)",
+      "postedAt": "2026-10-19",
+      "fitScore": 10,
+      "fitTier": "Strong Fit",
+      "fitExplanation": "This role perfectly aligns with Michael's background as a Lead Product Designer specializing in complex B2B SaaS and enterprise software, particularly with data-heavy interfaces. His experience with multi-cloud platforms, transactional systems, and leading design systems directly matches Cloudera's focus on a hybrid data platform. The explicit mention of Figma Make, Claude, and Cursor is a direct match with Michael's recently acquired AI tool skills. The company's established status (post-IPO) fits his Series C+ preference.",
+      "source": "Workday",
+      "applyUrl": "https://cloudera.myworkdayjobs.com/cloudera/job/USA---Remote/Lead-Product-Designer_261413",
+      "jobDescription": "This position focuses on delivering precision-crafted designs for Cloudera's hybrid data platform, which manages the lifecycle of data from edge to AI. The Lead Product Designer will be instrumental in creating simple and innovative experiences for complex interfaces such as dashboards, analytics tools, data modeling interfaces, and workflow automation platforms. A significant part of the role involves leading and owning a design system and integrating AI tools into design workflows.\n\n**Core Responsibilities:**\n*   Create precision-crafted designs for the Cloudera Platform, focusing on simplicity and innovation for complex data systems.\n*   Design for intricate interfaces including dashboards, analytics tools, data modeling, and workflow automation platforms.\n*   Own or lead a design system within a B2B SaaS or enterprise software environment.\n*   Actively integrate AI tools such as Figma Make, Claude, and Cursor into scalable design and development workflows.\n*   Balance system standardization with the flexibility required for varied product contexts and evolving business needs.\n*   Master user-centered design processes and principles, including responsive design, accessibility (WCAG 2.1+, ARIA), internationalization/localization, design tokens, and theming strategies.\n\n**Core Requirements:**\n*   6-8 years of experience in UX/UI design or front-end development, with at least 2 years owning or leading a design system.\n*   Proven experience in B2B SaaS or enterprise software environments.\n*   Demonstrated ability to integrate tools like Figma Make, Claude, and Cursor into design workflows.\n*   Experience designing for complex interfaces (dashboards, analytics tools, data modeling, workflow automation).\n*   Deep understanding of responsive design, accessibility, and design system scaling.\n*   Self-starter and highly collaborative communicator, adept at navigating ambiguity in a fast-paced environment.",
+      "keywords": [
+        {
+          "keyword": "Lead Product Designer",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Targeted role level"
+        },
+        {
+          "keyword": "B2B SaaS",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Deep expertise"
+        },
+        {
+          "keyword": "Enterprise Software",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Deep expertise"
+        },
+        {
+          "keyword": "Cloud infrastructure",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Deep context at Tackle.io"
+        },
+        {
+          "keyword": "Complex data systems",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Specialization"
+        },
+        {
+          "keyword": "Design Systems",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Team Lead experience, established scalable system"
+        },
+        {
+          "keyword": "Figma Make",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Explicitly used and mentioned in profile"
+        },
+        {
+          "keyword": "Cursor",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Explicitly used and mentioned in profile"
+        },
+        {
+          "keyword": "Dashboards",
+          "inProfile": true,
+          "relevance": "good",
+          "note": "Experience with revenue tracking, reporting interfaces"
+        },
+        {
+          "keyword": "Analytics tools",
+          "inProfile": true,
+          "relevance": "good",
+          "note": "Experience with revenue tracking, reporting interfaces"
+        },
+        {
+          "keyword": "Workflow automation",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Experience simplifying deal-booking flows, transaction workflows"
+        },
+        {
+          "keyword": "0-to-1 discovery",
+          "inProfile": true,
+          "relevance": "good",
+          "note": "Thrives in ambiguous problem spaces"
+        },
+        {
+          "keyword": "Accessibility",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Listed in design practice skills"
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-10-20T15:39:02.153Z",
       "isNew": true
     }
   ],
-  "scannedAt": "2026-10-19T22:55:03.211Z"
+  "scannedAt": "2026-10-20T15:40:12.794Z"
 }
