@@ -2507,87 +2507,106 @@
       "title": "Senior Product Designer",
       "company": "Juniper Square",
       "companyDomain": "junipersquare.com",
-      "industry": "FinTech, B2B SaaS, Enterprise Software, Cloud Infrastructure, Marketplace",
-      "location": "Remote (US)",
+      "industry": "B2B SaaS, FinTech, Private Markets",
+      "location": "Remote United States",
       "postedAt": "2026-10-20",
-      "fitScore": 9,
+      "fitScore": 9.5,
       "fitTier": "Strong Fit",
-      "fitExplanation": "This role is an excellent fit for Michael due to its focus on complex B2B/Enterprise SaaS products in a data-heavy domain, aligning with his experience at Tackle.io. His expertise in transactional flows, marketplace infrastructure, and making complex systems tactile is highly relevant. The emphasis on design systems, Figma proficiency, and comfort with AI-powered tools (Figma Make, Cursor) also directly matches his skills and recent experience. Juniper Square's Series D funding stage meets his preference for established companies.",
-      "source": "Lever",
-      "applyUrl": "https://jobs.lever.co/junipersquare/468d6d2b-1a9f-4f2e-b1e9-74d4b1a4a159",
-      "specialty": "Platform",
-      "jobDescription": "This role involves designing for a complex B2B or Enterprise SaaS product, specifically within a data-heavy domain in the private markets industry. The designer will be responsible for end-to-end design, contributing to product strategy, and collaborating closely with product managers and engineers. A key aspect is evolving and applying a robust design system and focusing on user research and prototyping, particularly for AI/ML-driven features.\n\n**Core Responsibilities:**\n*   Own end-to-end design for complex B2B/Enterprise SaaS products in data-heavy domains.\n*   Contribute to product strategy and collaborate cross-functionally with PMs and Engineers.\n*   Evolve and apply a scalable design system, ensuring consistency and efficiency.\n*   Conduct user research and prototyping to inform design decisions and validate concepts.\n*   Design for AI/ML-driven features, prioritizing user trust, explainability, and clarity.\n\n**Core Requirements:**\n*   5+ years of product design experience, with significant exposure to complex B2B/Enterprise SaaS.\n*   Proven experience designing in data-heavy domains.\n*   Fluency with modern design and prototyping tools, including Figma proficiency for component libraries, auto-layout, and developer handoff.\n*   Comfort and experience with AI-powered tools (e.g., LLMs, Cursor, Claude Code).\n*   Experience designing for AI/ML-driven features with strong attention to user experience.\n*   Exceptional communication, collaboration, and stakeholder management skills.",
+      "fitExplanation": "This role is an exceptional fit, targeting a Senior Product Designer for a complex B2B SaaS platform in private markets, focusing on financial data workflows and AI-driven features. This aligns perfectly with Michael's deep expertise in complex B2B SaaS, cloud marketplace/revenue operations infrastructure, finance/fintech adjacent (payment reconciliation, transactional flows), and the use of AI tools. The remote (US) location is also preferred.",
+      "source": "WoodyJobs.com (Aggregator - Juniper Square is the company)",
+      "applyUrl": "N/A",
+      "specialty": "",
+      "salary": "$148k - $185k",
       "keywords": [
         {
           "keyword": "B2B SaaS",
           "inProfile": true,
           "relevance": "required",
-          "note": "Deep expertise"
+          "note": "Primary industry expertise and explicit focus of the role."
         },
         {
-          "keyword": "Enterprise Software",
+          "keyword": "Complex platform",
           "inProfile": true,
           "relevance": "required",
-          "note": "Deep expertise"
+          "note": "Candidate specializes in making complex systems delightful."
         },
         {
-          "keyword": "Data-heavy interfaces",
+          "keyword": "Financial data workflows",
           "inProfile": true,
-          "relevance": "required",
-          "note": "Specialization"
+          "relevance": "highly relevant",
+          "note": "Directly aligns with candidate's experience in transactional flows, payment reconciliation, and revenue tracking."
         },
         {
-          "keyword": "Transactional flows",
+          "keyword": "AI-driven features",
           "inProfile": true,
-          "relevance": "required",
-          "note": "Specialization"
+          "relevance": "highly relevant",
+          "note": "Candidate uses AI tools to accelerate discovery and prototyping."
         },
         {
-          "keyword": "Marketplace infrastructure",
+          "keyword": "Design system",
           "inProfile": true,
           "relevance": "required",
-          "note": "Specialization"
-        },
-        {
-          "keyword": "Design Systems",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Expertise in building and scaling"
+          "note": "Candidate has strong experience evolving design systems."
         },
         {
           "keyword": "Figma",
           "inProfile": true,
           "relevance": "required",
-          "note": "Proficient, including Figma Make"
+          "note": "Key tool proficiency."
         },
         {
-          "keyword": "AI tools",
+          "keyword": "Claude",
           "inProfile": true,
-          "relevance": "required",
-          "note": "Experience with Figma Make, Cursor"
+          "relevance": "desired",
+          "note": "Candidate uses Cursor (an AI tool), and Claude is a similar AI tool."
         },
         {
-          "keyword": "User Research",
+          "keyword": "Cursor",
           "inProfile": true,
           "relevance": "required",
-          "note": "Experienced"
+          "note": "Candidate explicitly uses Cursor."
         },
         {
           "keyword": "Prototyping",
           "inProfile": true,
           "relevance": "required",
-          "note": "Expertise in high-fidelity interactive prototyping"
+          "note": "Core design practice and candidate's skill."
         },
         {
-          "keyword": "0-to-1 discovery",
+          "keyword": "User research",
           "inProfile": true,
-          "relevance": "good",
-          "note": "Thrives in ambiguous spaces"
+          "relevance": "required",
+          "note": "Core design practice and candidate's skill."
+        },
+        {
+          "keyword": "Analytics",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Candidate measures outcomes and uses product analytics."
+        },
+        {
+          "keyword": "Visual design",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Candidate has a strong visual eye."
+        },
+        {
+          "keyword": "Interaction design",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Core design practice and candidate's skill."
+        },
+        {
+          "keyword": "Data-driven",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Candidate uses data to validate decisions and iterate."
         }
       ],
+      "jobDescription": "Juniper Square is seeking a Senior Product Designer to build end-to-end user experiences for their complex B2B SaaS platform in private markets. The remote (US) role focuses on simplifying financial data workflows, designing AI-driven features, and improving the design system. Responsibilities include leveraging AI tools, conducting user research, and ensuring a data-driven approach. Juniper Square provides fund administration software and services and is backed by over $350M in funding (Series D). Key qualifications include 4+ years of experience, fluency in Figma and AI tools (e.g., Claude, Cursor), and a strong portfolio in enterprise product design. The salary range is $148k - $185k per year.",
       "status": "New",
-      "scannedAt": "2026-10-20T15:39:02.153Z",
-      "isNew": false
+      "scannedAt": "2026-10-21T15:57:21.597Z",
+      "isNew": true
     },
     {
       "id": "job-3zvuvo",
@@ -2686,7 +2705,171 @@
       "status": "New",
       "scannedAt": "2026-10-20T15:39:02.153Z",
       "isNew": false
+    },
+    {
+      "id": "job-dl7siy",
+      "title": "Senior Product Designer",
+      "company": "Alloy",
+      "companyDomain": "alloy.com",
+      "industry": "Fintech, Enterprise Software",
+      "location": "Hybrid New York City, NY",
+      "postedAt": "2026-10-20",
+      "fitScore": 8,
+      "fitTier": "Good Fit",
+      "fitExplanation": "Strong alignment with candidate's experience in complex B2B SaaS, fintech adjacent, transactional workflows, and systems-level design. The role focuses on identity and fraud prevention, onboarding, and compliance for financial institutions, matching Michael's expertise in high-stakes, high-complexity problem spaces. Hybrid location in NYC is acceptable, but incurs a minor score deduction.",
+      "source": "Built In",
+      "applyUrl": "https://builtin.com/job/senior-product-designer-alloy-415893",
+      "specialty": "",
+      "salary": "$165k - $215k",
+      "keywords": [
+        {
+          "keyword": "B2B SaaS",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Explicitly mentioned and a core strength."
+        },
+        {
+          "keyword": "Fintech",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Directly in industry focus."
+        },
+        {
+          "keyword": "Fraud prevention",
+          "inProfile": false,
+          "relevance": "highly relevant",
+          "note": "Related to transactional flows and high-stakes systems."
+        },
+        {
+          "keyword": "Compliance platform",
+          "inProfile": false,
+          "relevance": "highly relevant",
+          "note": "Related to enterprise systems and complex workflows."
+        },
+        {
+          "keyword": "Onboarding",
+          "inProfile": true,
+          "relevance": "highly relevant",
+          "note": "Candidate has experience with onboarding flow redesigns and self-serve enablement."
+        },
+        {
+          "keyword": "Product strategy",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Candidate has experience shaping design strategy."
+        },
+        {
+          "keyword": "Design systems",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Candidate has extensive experience creating and evolving design systems."
+        },
+        {
+          "keyword": "Information architecture",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Candidate lists this as a key design practice."
+        },
+        {
+          "keyword": "Interaction design",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Candidate lists this as a key design practice."
+        },
+        {
+          "keyword": "Visual design",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Candidate has a strong visual background."
+        }
+      ],
+      "jobDescription": "Alloy, a Series C fintech company, is hiring a Senior Product Designer in New York City. This hybrid role involves owning end-to-end workflows across Alloy's fraud and compliance platform. Responsibilities include researching complex user problems, shaping product strategy and roadmaps, designing and testing solutions, partnering with engineering, managing releases, and improving design systems, accessibility, information architecture, interaction design, visual design, and UX writing. The company focuses on AI-powered identity and fraud prevention for financial institutions. Key qualifications include relevant experience in complex B2B or data-heavy products and expertise across the full design process.",
+      "status": "New",
+      "scannedAt": "2026-10-21T15:57:21.597Z",
+      "isNew": true
+    },
+    {
+      "id": "job-db3wj4",
+      "title": "Senior Product Designer",
+      "company": "Clio",
+      "companyDomain": "clio.com",
+      "industry": "B2B SaaS, LegalTech (Fintech Adjacent)",
+      "location": "Hybrid New York City, NY",
+      "postedAt": "2026-10-21",
+      "fitScore": 7,
+      "fitTier": "Good Fit",
+      "fitExplanation": "The role involves designing for accounting within a B2B SaaS platform, which aligns well with Michael's experience in financial operations, transactional flows, and complex data systems. His ability to translate complex logic into simple interfaces is highly relevant. Hybrid location in NYC is acceptable, but incurs a minor score deduction. Company stage (Series D) is a strong fit.",
+      "source": "Eluta.ca (Aggregator - Clio is the company)",
+      "applyUrl": "N/A",
+      "specialty": "Accounting",
+      "salary": "$131,600 - $178,000",
+      "keywords": [
+        {
+          "keyword": "B2B SaaS",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Primary industry expertise."
+        },
+        {
+          "keyword": "Accounting",
+          "inProfile": true,
+          "relevance": "highly relevant",
+          "note": "Directly aligns with FinTech adjacent experience in payment reconciliation and transactional flows."
+        },
+        {
+          "keyword": "Financial management",
+          "inProfile": true,
+          "relevance": "highly relevant",
+          "note": "Candidate has experience in payment reconciliation and revenue tracking."
+        },
+        {
+          "keyword": "Transaction creation",
+          "inProfile": true,
+          "relevance": "highly relevant",
+          "note": "Candidate redesigned core transaction workflows."
+        },
+        {
+          "keyword": "Complex domain logic",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Candidate specializes in making complex systems delightful and tactile."
+        },
+        {
+          "keyword": "Intuitive product experiences",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Candidate's design philosophy emphasizes clarity, trustworthiness, and satisfying user experiences."
+        },
+        {
+          "keyword": "Account setup",
+          "inProfile": true,
+          "relevance": "highly relevant",
+          "note": "Candidate improved user sign-up conversion."
+        },
+        {
+          "keyword": "Interaction design",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Core design practice."
+        },
+        {
+          "keyword": "Information architecture",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Core design practice."
+        },
+        {
+          "keyword": "Usability",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Core design practice."
+        }
+      ],
+      "jobDescription": "Clio is seeking a Senior Product Designer for their accounting product, focusing on designing intuitive experiences for financial management, transaction creation, and financial automation within a B2B SaaS platform. The role requires translating complex domain logic into simple interfaces for non-technical users. The position is hybrid, with an option in New York City. Key qualifications include 6+ years of digital product design experience, preferably in B2B SaaS and accounting, a strong portfolio showcasing intuitive product experiences (including account setup), and comfort with habit-forming design and activation thinking. The expected salary range is $131,600 to $178,000.",
+      "status": "New",
+      "scannedAt": "2026-10-21T15:57:21.597Z",
+      "isNew": true
     }
   ],
-  "scannedAt": "2026-10-20T22:18:46.142Z"
+  "scannedAt": "2026-10-21T15:58:17.237Z"
 }
