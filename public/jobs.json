@@ -1,80 +1,6 @@
 {
   "jobs": [
     {
-      "id": "job-daw96e",
-      "title": "Senior Product Designer",
-      "company": "Okta",
-      "companyDomain": "okta.com",
-      "industry": "Cloud Infrastructure / Enterprise Software",
-      "location": "Remote (U.S.)",
-      "postedAt": "2026-10-07",
-      "fitScore": 9,
-      "fitTier": "Strong Fit",
-      "fitExplanation": "Michael's background in complex B2B SaaS and enterprise systems, particularly within cloud infrastructure and security, makes this role at Okta an excellent fit. His proficiency with AI tools in the design process, focus on design system adherence, and ability to balance user goals with business objectives are directly applicable to designing for privileged access and identity management.",
-      "source": "Okta Careers",
-      "applyUrl": "https://www.okta.com/company/careers/job/senior-product-designer-privileged-access",
-      "specialty": "Privileged Access",
-      "keywords": [
-        {
-          "keyword": "identity and security",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Complex enterprise domain"
-        },
-        {
-          "keyword": "exceptional craft and fresh perspective",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Michael's strong visual eye and design philosophy"
-        },
-        {
-          "keyword": "designing the user experience for Okta Privileged Access",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Complex enterprise system design"
-        },
-        {
-          "keyword": "big picture thinking and being detail-oriented",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Thrives in 0-to-1 and ambiguous spaces"
-        },
-        {
-          "keyword": "incorporating AI into your design process",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Uses Figma Make, Cursor"
-        },
-        {
-          "keyword": "design system adherence",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Design systems experience"
-        },
-        {
-          "keyword": "user goals, business objectives, engineering considerations",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Cross-functional collaboration"
-        },
-        {
-          "keyword": "Figma",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Core tool"
-        },
-        {
-          "keyword": "5+ years of experience as Product Designer",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "10+ years experience"
-        }
-      ],
-      "status": "New",
-      "scannedAt": "2026-10-07T17:49:15.576Z",
-      "isNew": false
-    },
-    {
       "id": "job-ayf0dq",
       "title": "Senior Product Designer",
       "company": "Ford Motor Company",
@@ -137,161 +63,6 @@
       ],
       "status": "New",
       "scannedAt": "2026-10-09T23:16:07.033Z",
-      "isNew": false
-    },
-    {
-      "id": "job-dx6ko1",
-      "title": "Senior Product Designer",
-      "company": "Weave",
-      "companyDomain": "getweave.com",
-      "industry": "Enterprise Software",
-      "location": "Remote (U.S.)",
-      "postedAt": "2026-10-06",
-      "fitScore": 9,
-      "fitTier": "Strong Fit",
-      "fitExplanation": "This role aligns perfectly with Michael's expertise in complex B2B SaaS, enterprise software, and systems-level design. Designing single sign-on, authentication, and user-management flows for an enterprise platform directly matches his experience with transactional platforms and complex data systems. His background in design systems, cross-functional collaboration, and user research using tools like Pendo are highly relevant.",
-      "source": "RemoteRocketship.com",
-      "applyUrl": "N/A",
-      "jobDescription": "The Senior Product Designer, User Infrastructure will focus on designing end-to-end single sign-on and authentication experiences, including setup, identity configuration, MFA, error, and recovery states. Responsibilities also include designing enterprise user-management flows, such as SSO configuration, group mapping, custom roles, and access patterns, and shaping multi-location organization models. The role involves creating reusable platform patterns for the design system, partnering with product and engineering on roadmap and sequencing, and conducting customer conversations using insights from tools like Pendo and Sigma. It requires improving design quality through critique, mentorship, and documentation.",
-      "specialty": "User Infrastructure",
-      "keywords": [
-        {
-          "keyword": "single sign-on and authentication experiences",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Complex enterprise workflows"
-        },
-        {
-          "keyword": "enterprise user-management flows",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Aligns with complex B2B systems"
-        },
-        {
-          "keyword": "multi-location organization models",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Systems-level design"
-        },
-        {
-          "keyword": "reusable platform patterns",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Strong design systems experience"
-        },
-        {
-          "keyword": "Design System",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Expertise in design systems"
-        },
-        {
-          "keyword": "Partner daily with the product manager and engineering manager",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Cross-functional collaboration"
-        },
-        {
-          "keyword": "customer conversations",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "User research experience"
-        },
-        {
-          "keyword": "Pendo",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Listed in Michael's tools"
-        },
-        {
-          "keyword": "critique, mentorship",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Mentorship experience"
-        },
-        {
-          "keyword": "complex enterprise software experiences",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Michael's core expertise"
-        }
-      ],
-      "status": "New",
-      "scannedAt": "2026-10-07T17:49:15.576Z",
-      "isNew": false
-    },
-    {
-      "id": "job-bimjw1",
-      "title": "Senior Product Designer",
-      "company": "American Express",
-      "companyDomain": "americanexpress.com",
-      "industry": "Fintech / Consumer Technology",
-      "location": "Hybrid in NYC",
-      "postedAt": "2026-10-06",
-      "fitScore": 8,
-      "fitTier": "Good Fit",
-      "fitExplanation": "This role at American Express is a good fit due to its focus on enterprise design, complex journeys, and the financial services industry, which aligns with Michael's fintech-adjacent experience (payment reconciliation, transactional flows). His strong visual craft, experience with design systems, and ability to influence strategy are highly relevant. The hybrid nature in NYC is acceptable but results in a slight score deduction.",
-      "source": "Ladders",
-      "applyUrl": "N/A",
-      "salary": "$120000 - $140000",
-      "keywords": [
-        {
-          "keyword": "Enterprise Design & Research",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Experience in enterprise SaaS"
-        },
-        {
-          "keyword": "visual quality and user experience",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Strong visual craft and design philosophy"
-        },
-        {
-          "keyword": "wireframes, prototypes, production-ready designs",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Core design deliverables"
-        },
-        {
-          "keyword": "user research and analytics",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "User research skills"
-        },
-        {
-          "keyword": "design systems, UX patterns, visual standards",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Strong design system experience"
-        },
-        {
-          "keyword": "collaborates closely with Product Managers, Engineers, Design Leads",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Cross-functional collaboration"
-        },
-        {
-          "keyword": "define product requirements, influence product strategy",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Experience shaping design strategy"
-        },
-        {
-          "keyword": "mentors associate designers and peers",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Mentorship experience"
-        },
-        {
-          "keyword": "fintech",
-          "inProfile": true,
-          "relevance": "preferred",
-          "note": "FinTech adjacent expertise"
-        }
-      ],
-      "status": "New",
-      "scannedAt": "2026-10-07T17:49:15.576Z",
       "isNew": false
     },
     {
@@ -373,80 +144,6 @@
       ],
       "status": "New",
       "scannedAt": "2026-10-08T23:44:31.818Z",
-      "isNew": false
-    },
-    {
-      "id": "job-szjw1c",
-      "title": "Principal Product Designer",
-      "company": "Intuit",
-      "companyDomain": "intuit.com",
-      "industry": "Fintech / Enterprise Software",
-      "location": "Remote (U.S.)",
-      "postedAt": "2026-10-07",
-      "fitScore": 10,
-      "fitTier": "Strong Fit",
-      "fitExplanation": "This role is an outstanding match for Michael, particularly given its emphasis on AI-native product experiences and platform-level design. His 10+ years of experience in complex B2B SaaS, shaping design strategy at an ecosystem level, deep expertise in design systems, and proven ability to integrate AI tools into his workflow are directly aligned with the requirements. His comfort with ambiguity and mentorship capabilities are also strong assets.",
-      "source": "Intuit Careers",
-      "applyUrl": "https://careers.intuit.com/job-details/Principal-Product-Designer-AI-Native-Product-Experiences/8817743002/",
-      "specialty": "AI-Native Product Experiences",
-      "keywords": [
-        {
-          "keyword": "10+ years of experience designing complex, large-scale product experiences",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Matches Michael's experience"
-        },
-        {
-          "keyword": "shaping platform-level or ecosystem-level design strategy",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Experience at Tackle.io with multi-cloud platform"
-        },
-        {
-          "keyword": "Deep expertise in systems thinking, interaction design, and design systems",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Core skills and experience"
-        },
-        {
-          "keyword": "applying AI tools to accelerate design workflows",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Uses Figma Make, Cursor"
-        },
-        {
-          "keyword": "proven ability to navigate ambiguity and define clarity at scale",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Thrives in 0-to-1 and ambiguous spaces"
-        },
-        {
-          "keyword": "Design across journeys, not screens",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Focus on holistic user experience"
-        },
-        {
-          "keyword": "Ensure design systems and patterns travel with AI tools",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Advanced design system and AI integration"
-        },
-        {
-          "keyword": "Mentor senior and staff designers",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Mentorship experience"
-        },
-        {
-          "keyword": "fintech",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "FinTech adjacent expertise"
-        }
-      ],
-      "status": "New",
-      "scannedAt": "2026-10-07T17:49:15.576Z",
       "isNew": false
     },
     {
@@ -2606,7 +2303,7 @@
       "jobDescription": "Juniper Square is seeking a Senior Product Designer to build end-to-end user experiences for their complex B2B SaaS platform in private markets. The remote (US) role focuses on simplifying financial data workflows, designing AI-driven features, and improving the design system. Responsibilities include leveraging AI tools, conducting user research, and ensuring a data-driven approach. Juniper Square provides fund administration software and services and is backed by over $350M in funding (Series D). Key qualifications include 4+ years of experience, fluency in Figma and AI tools (e.g., Claude, Cursor), and a strong portfolio in enterprise product design. The salary range is $148k - $185k per year.",
       "status": "New",
       "scannedAt": "2026-10-21T15:57:21.597Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-3zvuvo",
@@ -2786,7 +2483,7 @@
       "jobDescription": "Alloy, a Series C fintech company, is hiring a Senior Product Designer in New York City. This hybrid role involves owning end-to-end workflows across Alloy's fraud and compliance platform. Responsibilities include researching complex user problems, shaping product strategy and roadmaps, designing and testing solutions, partnering with engineering, managing releases, and improving design systems, accessibility, information architecture, interaction design, visual design, and UX writing. The company focuses on AI-powered identity and fraud prevention for financial institutions. Key qualifications include relevant experience in complex B2B or data-heavy products and expertise across the full design process.",
       "status": "New",
       "scannedAt": "2026-10-21T15:57:21.597Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-db3wj4",
@@ -2868,8 +2565,96 @@
       "jobDescription": "Clio is seeking a Senior Product Designer for their accounting product, focusing on designing intuitive experiences for financial management, transaction creation, and financial automation within a B2B SaaS platform. The role requires translating complex domain logic into simple interfaces for non-technical users. The position is hybrid, with an option in New York City. Key qualifications include 6+ years of digital product design experience, preferably in B2B SaaS and accounting, a strong portfolio showcasing intuitive product experiences (including account setup), and comfort with habit-forming design and activation thinking. The expected salary range is $131,600 to $178,000.",
       "status": "New",
       "scannedAt": "2026-10-21T15:57:21.597Z",
+      "isNew": false
+    },
+    {
+      "id": "job-qpvnjc",
+      "title": "Senior Product Designer",
+      "company": "Pawlicy Advisor",
+      "companyDomain": "pawlicy.com",
+      "industry": "Marketplace, FinTech",
+      "location": "Remote, US-based",
+      "postedAt": "2026-10-20",
+      "fitScore": 9,
+      "fitTier": "Strong Fit",
+      "fitExplanation": "This role is an excellent match for Michael Crane. It's a Senior Product Designer position at Pawlicy Advisor, a venture-backed startup in the pet insurance marketplace space, which aligns with Michael's expertise in marketplaces and FinTech-adjacent domains. The company has found product-market fit and is scaling, indicating it is likely Series C or later. The role is fully remote (US-based), which is ideal. Michael's experience in designing complex data-heavy interfaces, transactional workflows, and simplifying complex systems directly translates to owning the design of the marketplace experience, quote flows, and managing a design system. His '0-to-1' experience in ambiguous problem spaces is also a strong asset for a scaling startup.",
+      "source": "UI/UX Jobs Board",
+      "applyUrl": "N/A",
+      "isOffLinkedIn": false,
+      "jobDescription": "Pawlicy Advisor, a profitable venture-backed startup, is seeking a Senior Product Designer to own the end-to-end design for their pet insurance marketplace. The role involves transforming complex financial protection decisions into clear, user-friendly experiences.\n\n**Core Responsibilities:**\n*   Own end-to-end design, including research, wireframes, high-fidelity mockups, and design iteration for new features and experiments across the website.\n*   Gather feedback from internal stakeholders on new product features and resolve conflicting input.\n*   Build and manage the design system in close collaboration with the senior marketing designer.\n*   Perform Design QA for engineering, reviewing shipped work against designs before release.\n*   Take ownership of content, drafting first versions of UX copy for quote flow language, plan explanations, and error states, and ensuring insurance terms are understandable for pet parents.\n*   Ensure copy reviews are completed by legal and compliance.\n*   Support Pawlicy's brand development across product.\n\n**Key Requirements:**\n*   Proven experience owning design end-to-end.\n*   Ability to work 1-2 sprints ahead of a fast-moving engineering team.\n*   Strong collaboration skills, working closely with engineers, product managers, and internal stakeholders.\n*   Proficiency in creating wireframes and high-fidelity mockups.\n*   Experience with design systems.\n*   Understanding of UX copywriting principles.",
+      "specialty": "Marketplace",
+      "keywords": [
+        {
+          "keyword": "Product Design",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Core role"
+        },
+        {
+          "keyword": "Marketplace",
+          "inProfile": true,
+          "relevance": "highly relevant",
+          "note": "Industry and domain match"
+        },
+        {
+          "keyword": "FinTech adjacent",
+          "inProfile": true,
+          "relevance": "highly relevant",
+          "note": "Financial protection aspect of pet insurance"
+        },
+        {
+          "keyword": "Remote",
+          "inProfile": true,
+          "relevance": "preferred",
+          "note": "Desired work arrangement"
+        },
+        {
+          "keyword": "0-to-1",
+          "inProfile": true,
+          "relevance": "highly relevant",
+          "note": "Scaling startup, end-to-end ownership"
+        },
+        {
+          "keyword": "Design Systems",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Explicitly mentioned responsibility"
+        },
+        {
+          "keyword": "User Research",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Mentioned as part of end-to-end design"
+        },
+        {
+          "keyword": "Wireframing",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Explicitly mentioned responsibility"
+        },
+        {
+          "keyword": "Prototyping",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Implicit in high-fidelity mockups and iteration"
+        },
+        {
+          "keyword": "Figma",
+          "inProfile": true,
+          "relevance": "highly relevant",
+          "note": "Standard tool for mockups/design systems"
+        },
+        {
+          "keyword": "Complex workflow design",
+          "inProfile": true,
+          "relevance": "highly relevant",
+          "note": "Simplifying insurance terms, quote flows"
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-10-21T22:21:50.581Z",
       "isNew": true
     }
   ],
-  "scannedAt": "2026-10-21T15:58:17.237Z"
+  "scannedAt": "2026-10-21T22:22:36.644Z"
 }
