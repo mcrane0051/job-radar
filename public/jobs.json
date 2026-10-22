@@ -2653,8 +2653,97 @@
       ],
       "status": "New",
       "scannedAt": "2026-10-21T22:21:50.581Z",
+      "isNew": false
+    },
+    {
+      "id": "job-dvpkp2",
+      "title": "Senior Product Designer",
+      "company": "Toast",
+      "companyDomain": "toasttab.com",
+      "industry": "Fintech, Hospitality, Software, Cloud",
+      "location": "Remote (US) or Hybrid (New York, NY)",
+      "postedAt": "2026-10-21",
+      "fitScore": 9,
+      "fitTier": "Strong Fit",
+      "fitExplanation": "Michael has extensive experience in complex B2B SaaS products and scaling existing products, which aligns with Toast's focus on redefining mature marketing tools for restaurants. His expertise in design systems, AI tools, cross-functional collaboration, and data-driven design decisions directly matches the role's requirements. The role's emphasis on visual craft and prototyping with AI tools are also key strengths of Michael's. While hospitality is not a primary industry for Michael, the core B2B SaaS, FinTech-adjacent, and complex workflow nature of the role is a strong match. The role offers a remote (US) option, which is Michael's preference.",
+      "source": "Built In",
+      "applyUrl": "N/A",
+      "isOffLinkedIn": true,
+      "jobDescription": "Toast is seeking a Senior Product Designer to lead the design direction for their Marketing Tools, creating cohesive experiences for restaurant campaigns, customer outreach, and performance measurement. This individual will partner closely with Product Management, Engineering, and other designers to redefine mature products and prepare them for an AI-assisted future. The role requires end-to-end design ownership, from research and ideation to implementation and measurement, emphasizing strong systems thinking and data-driven decision-making. The designer will also be responsible for contributing to and evolving Toast's design system and leveraging AI tools for rapid prototyping.\n\nCore Responsibilities:\n* Own the end-to-end design direction for Toast's Marketing Tools.\n* Create coherent and intuitive experiences across customer campaigns, outreach, and performance measurement.\n* Collaborate closely with Product Managers, Engineering Leads, and fellow designers.\n* Lead the redesign of mature product lines, focusing on future-proofing with AI-assisted workflows.\n* Conduct independent user research and usability testing.\n* Utilize usage data, funnel analytics, and experiment results to inform and defend design decisions.\n* Contribute to and evolve the company's design system, ensuring consistency and scalability.\n* Employ AI tools for rapid prototyping and idea validation.\n\nRequirements:\n* 5+ years of experience in a product design role with a portfolio showcasing end-to-end ownership of shipped work.\n* Proven experience in redesigning mature product lines.\n* Strong systems thinking to create coherent experiences across multiple tools and workflows.\n* Fluency in Figma and comfort with prototyping using AI tools.\n* Experience collaborating effectively with Product Managers and Engineers in a triad structure.\n* Demonstrated ability to conduct independent user research.\n* A track record of using data to inform and justify design decisions.\n* Experience with B2B or SMB products, ideally in marketing, CRM, or growth domains.\n* Familiarity with designing AI-assisted or agentic workflows.",
+      "specialty": "Marketing Tools",
+      "salary": "$159k - $254k",
+      "keywords": [
+        {
+          "keyword": "B2B SaaS",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael's primary expertise is in complex B2B SaaS products."
+        },
+        {
+          "keyword": "Marketing Tools",
+          "inProfile": true,
+          "relevance": "moderate",
+          "note": "Michael has experience in sales operations and revenue tooling, which is adjacent to marketing tools."
+        },
+        {
+          "keyword": "Fintech",
+          "inProfile": true,
+          "relevance": "moderate",
+          "note": "Toast is a fintech company, and Michael has finance and fintech adjacent experience."
+        },
+        {
+          "keyword": "Design Systems",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael has strong experience in establishing scalable design systems."
+        },
+        {
+          "keyword": "AI Tools",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael actively uses AI tools like Figma Make and Cursor to accelerate discovery and prototyping."
+        },
+        {
+          "keyword": "Complex Workflows",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael specializes in making complex systems delightful and tactile, which aligns with redesigning mature product lines."
+        },
+        {
+          "keyword": "User Research",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael operates effectively across the full design lifecycle, including ambiguous 0-to-1 discovery and user research."
+        },
+        {
+          "keyword": "Figma",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Figma is a core tool listed in Michael's skills."
+        },
+        {
+          "keyword": "Data-driven design",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael has demonstrated impact with metrics (e.g., 77% increase in accepted private offer value) and uses tools like Amplitude and Pendo."
+        },
+        {
+          "keyword": "Scaling existing products",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael excels at scaling existing products by simplifying workflows and reducing friction."
+        },
+        {
+          "keyword": "Cross-functional collaboration",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael thrives in cross-functional collaboration, working embedded with product and engineering teams."
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-10-22T15:52:43.462Z",
       "isNew": true
     }
   ],
-  "scannedAt": "2026-10-21T22:22:36.644Z"
+  "scannedAt": "2026-10-22T15:53:33.100Z"
 }
