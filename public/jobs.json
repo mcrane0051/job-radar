@@ -66,87 +66,6 @@
       "isNew": false
     },
     {
-      "id": "job-gnlr7h",
-      "title": "Lead Product Designer",
-      "company": "Circle",
-      "companyDomain": "circle.com",
-      "industry": "Fintech",
-      "location": "Remote (U.S.)",
-      "postedAt": "2026-10-07",
-      "fitScore": 9,
-      "fitTier": "Strong Fit",
-      "fitExplanation": "Michael's 10+ years of experience, including 4 years in a lead capacity at Tackle.io, directly aligns with the Lead Product Designer role and its requirement of 5-7+ years experience. His deep expertise in complex B2B SaaS products, cloud marketplace infrastructure, payment reconciliation, and transactional flows is a strong match for Circle's focus on currency, treasury, and payments products within an internet financial platform. The role's emphasis on end-to-end design for complex product areas, systems thinking, cross-functional collaboration, and designing AI-driven experiences directly mirrors Michael's skills and 'types of work I do best', including his experience with AI tools like Figma Make and Cursor. Circle is well past Series C funding, meeting the company stage preference. The role is remote U.S., which is also a strong preference.",
-      "source": "Circle Careers",
-      "applyUrl": "https://careers.circle.com/careers/lead-product-designer",
-      "jobDescription": "The Lead Product Designer at Circle will be responsible for shaping high-quality customer experiences across their currency, treasury, and payments products. This role involves owning end-to-end design for complex product areas, working closely with Product Management, Engineering, and Research teams. The designer will identify customer needs, define opportunities, and deliver scalable solutions, applying strong product judgment and systems thinking to balance various considerations. A key aspect is influencing product direction, elevating design quality, and contributing to a cohesive experience across Circle's platform, including the design of AI-driven discovery experiences. \n\nCore Responsibilities:\n*   Own end-to-end product design for complex customer journeys, from problem definition to launch and iteration.\n*   Partner closely with Product Management, Engineering, and Research to identify needs and deliver solutions.\n*   Apply strong product judgment and systems thinking to balance customer, business, and technical factors.\n*   Influence product direction, raise design execution quality, and contribute to a cohesive platform experience.\n*   Design complex, multi-step product flows that serve multiple user types.\n*   Design AI-driven discovery experiences, focusing on conversational and relational UX.\n*   Prototype and test at speed using AI-assisted tools and code-generation workflows.\n\nRequirements:\n*   5–7+ years of experience in product, UX, or interaction design, with ownership of complex end-to-end digital product experiences.\n*   A strong portfolio showcasing product thinking, craft, and measurable impact on complex customer problems.\n*   Experience designing sophisticated workflows or platforms with interconnected products, systems, or user journeys.\n*   Strong systems thinking ability.\n*   Experience operating as the most senior designer on a product area.\n*   Strong prototyping skills, including building clickable, realistic prototypes.\n*   Proficiency in Figma for high-fidelity design and collaboration.\n*   Proficiency in English (spoken, written, and reading) at a CEFR Level C2 / ILR Level 5.",
-      "salary": "$140,000 - $170,000",
-      "keywords": [
-        {
-          "keyword": "Product Design",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "10+ years experience, Senior/Lead capacity"
-        },
-        {
-          "keyword": "B2B SaaS",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Primary industry expertise, complex B2B SaaS products"
-        },
-        {
-          "keyword": "Fintech",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Deep context in payment reconciliation, transactional flows"
-        },
-        {
-          "keyword": "Marketplace Infrastructure",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Experience with multi-cloud transactional platform"
-        },
-        {
-          "keyword": "Complex Systems Design",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Specializes in making complex systems delightful and tactile"
-        },
-        {
-          "keyword": "0-to-1 Discovery",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Operates effectively across full design lifecycle"
-        },
-        {
-          "keyword": "Design Strategy",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Experience shaping design strategy at team and org level"
-        },
-        {
-          "keyword": "AI Tools (Figma Make, Cursor)",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Used AI tools to accelerate discovery, prototyping"
-        },
-        {
-          "keyword": "Design Systems",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Experience establishing scalable design system"
-        },
-        {
-          "keyword": "Figma",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Proficient"
-        }
-      ],
-      "status": "New",
-      "scannedAt": "2026-10-08T23:44:31.818Z",
-      "isNew": false
-    },
-    {
       "id": "job-nlfoxl",
       "title": "Lead Product Designer",
       "company": "CCC Intelligent Solutions",
@@ -2745,5 +2664,5 @@
       "isNew": false
     }
   ],
-  "scannedAt": "2026-10-22T22:21:38.029Z"
+  "scannedAt": "2026-10-23T15:45:06.554Z"
 }
