@@ -2579,90 +2579,311 @@
       "title": "Senior Product Designer",
       "company": "Toast",
       "companyDomain": "toasttab.com",
-      "industry": "Fintech, Hospitality, Software, Cloud",
-      "location": "Remote (US) or Hybrid (New York, NY)",
+      "industry": "Fintech",
+      "location": "Hybrid (New York City, NY)",
       "postedAt": "2026-10-21",
-      "fitScore": 9,
-      "fitTier": "Strong Fit",
-      "fitExplanation": "Michael has extensive experience in complex B2B SaaS products and scaling existing products, which aligns with Toast's focus on redefining mature marketing tools for restaurants. His expertise in design systems, AI tools, cross-functional collaboration, and data-driven design decisions directly matches the role's requirements. The role's emphasis on visual craft and prototyping with AI tools are also key strengths of Michael's. While hospitality is not a primary industry for Michael, the core B2B SaaS, FinTech-adjacent, and complex workflow nature of the role is a strong match. The role offers a remote (US) option, which is Michael's preference.",
+      "fitScore": 8,
+      "fitTier": "Good Fit",
+      "fitExplanation": "This hybrid role in NYC (a preferred location) is a good fit due to the FinTech industry alignment and focus on complex B2B/SMB products, specifically redesigning mature systems and incorporating AI-assisted workflows. Michael's strong systems thinking, experience with data-heavy interfaces, and visual craft are highly applicable. The 1-2 point deduction for hybrid is applied.",
       "source": "Built In",
-      "applyUrl": "N/A",
-      "isOffLinkedIn": true,
-      "jobDescription": "Toast is seeking a Senior Product Designer to lead the design direction for their Marketing Tools, creating cohesive experiences for restaurant campaigns, customer outreach, and performance measurement. This individual will partner closely with Product Management, Engineering, and other designers to redefine mature products and prepare them for an AI-assisted future. The role requires end-to-end design ownership, from research and ideation to implementation and measurement, emphasizing strong systems thinking and data-driven decision-making. The designer will also be responsible for contributing to and evolving Toast's design system and leveraging AI tools for rapid prototyping.\n\nCore Responsibilities:\n* Own the end-to-end design direction for Toast's Marketing Tools.\n* Create coherent and intuitive experiences across customer campaigns, outreach, and performance measurement.\n* Collaborate closely with Product Managers, Engineering Leads, and fellow designers.\n* Lead the redesign of mature product lines, focusing on future-proofing with AI-assisted workflows.\n* Conduct independent user research and usability testing.\n* Utilize usage data, funnel analytics, and experiment results to inform and defend design decisions.\n* Contribute to and evolve the company's design system, ensuring consistency and scalability.\n* Employ AI tools for rapid prototyping and idea validation.\n\nRequirements:\n* 5+ years of experience in a product design role with a portfolio showcasing end-to-end ownership of shipped work.\n* Proven experience in redesigning mature product lines.\n* Strong systems thinking to create coherent experiences across multiple tools and workflows.\n* Fluency in Figma and comfort with prototyping using AI tools.\n* Experience collaborating effectively with Product Managers and Engineers in a triad structure.\n* Demonstrated ability to conduct independent user research.\n* A track record of using data to inform and justify design decisions.\n* Experience with B2B or SMB products, ideally in marketing, CRM, or growth domains.\n* Familiarity with designing AI-assisted or agentic workflows.",
+      "applyUrl": "https://www.builtin.com/job/senior-product-designer-marketing-tools-toast-2121321",
+      "isOffLinkedIn": false,
+      "jobDescription": "Own the design direction for Toast's Marketing Tools, focusing on creating coherent experiences across campaigns, customer outreach, and performance measurement. This involves partnering with product managers, engineers, researchers, and other designers to redesign mature product lines. The role requires conducting independent research, using usage, funnel, or experiment data to guide design decisions, and preparing tools for AI-assisted workflows. The designer will take end-to-end ownership of the full design lifecycle, emphasizing systems thinking across multiple tools, workflows, and entry points, as well as prototyping and collaboration across various product teams (marketing, CRM, website, ordering, and agentic). The position is growth-oriented, with direct exposure to senior design and product leadership.\n\n**Key Responsibilities:**\n*   Own the design direction for Toast's Marketing Tools.\n*   Create coherent experiences across campaigns, customer outreach, and performance measurement.\n*   Partner with product managers, engineers, researchers, and designers to redesign mature products.\n*   Conduct independent research and use data to guide design decisions.\n*   Prepare tools for AI-assisted workflows.\n*   Take end-to-end ownership of the full design lifecycle.\n\n**Required Skills & Experience:**\n*   5+ years of experience in a product design role with a portfolio demonstrating end-to-end ownership of shipped work.\n*   Experience redesigning mature product lines.\n*   Strong systems thinking across multiple tools, workflows, and entry points.\n*   Fluency in Figma.\n*   Comfort prototyping with AI tools.\n*   Experience working with product managers and engineers in a triad.\n*   Experience conducting independent research and using data to make and defend design decisions.\n*   Experience with B2B or SMB products, ideally in marketing, CRM, or growth.\n*   Experience designing AI-assisted or agentic workflows.",
       "specialty": "Marketing Tools",
-      "salary": "$159k - $254k",
       "keywords": [
         {
-          "keyword": "B2B SaaS",
+          "keyword": "Product Design",
           "inProfile": true,
           "relevance": "required",
-          "note": "Michael's primary expertise is in complex B2B SaaS products."
-        },
-        {
-          "keyword": "Marketing Tools",
-          "inProfile": true,
-          "relevance": "moderate",
-          "note": "Michael has experience in sales operations and revenue tooling, which is adjacent to marketing tools."
+          "note": "Core skill"
         },
         {
           "keyword": "Fintech",
           "inProfile": true,
-          "relevance": "moderate",
-          "note": "Toast is a fintech company, and Michael has finance and fintech adjacent experience."
+          "relevance": "required",
+          "note": "Industry match"
+        },
+        {
+          "keyword": "B2B SaaS",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Industry match"
+        },
+        {
+          "keyword": "Complex workflows",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Strong alignment"
         },
         {
           "keyword": "Design Systems",
           "inProfile": true,
           "relevance": "required",
-          "note": "Michael has strong experience in establishing scalable design systems."
+          "note": "Strong alignment with systems thinking"
         },
         {
-          "keyword": "AI Tools",
+          "keyword": "AI-assisted workflows",
           "inProfile": true,
           "relevance": "required",
-          "note": "Michael actively uses AI tools like Figma Make and Cursor to accelerate discovery and prototyping."
-        },
-        {
-          "keyword": "Complex Workflows",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Michael specializes in making complex systems delightful and tactile, which aligns with redesigning mature product lines."
-        },
-        {
-          "keyword": "User Research",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Michael operates effectively across the full design lifecycle, including ambiguous 0-to-1 discovery and user research."
+          "note": "Explicitly mentioned, Michael has experience"
         },
         {
           "keyword": "Figma",
           "inProfile": true,
           "relevance": "required",
-          "note": "Figma is a core tool listed in Michael's skills."
+          "note": "Proficient"
         },
         {
-          "keyword": "Data-driven design",
+          "keyword": "User Research",
           "inProfile": true,
           "relevance": "required",
-          "note": "Michael has demonstrated impact with metrics (e.g., 77% increase in accepted private offer value) and uses tools like Amplitude and Pendo."
+          "note": "Strong experience"
         },
         {
           "keyword": "Scaling existing products",
           "inProfile": true,
           "relevance": "required",
-          "note": "Michael excels at scaling existing products by simplifying workflows and reducing friction."
+          "note": "Experience redesigning mature products"
         },
         {
           "keyword": "Cross-functional collaboration",
           "inProfile": true,
           "relevance": "required",
-          "note": "Michael thrives in cross-functional collaboration, working embedded with product and engineering teams."
+          "note": "Key strength"
         }
       ],
       "status": "New",
-      "scannedAt": "2026-10-22T15:52:43.462Z",
-      "isNew": false
+      "scannedAt": "2026-10-23T22:11:16.515Z",
+      "isNew": true
+    },
+    {
+      "id": "job-nunveo",
+      "title": "Senior Product Designer",
+      "company": "H&R Block",
+      "companyDomain": "hrblock.com",
+      "industry": "Fintech",
+      "location": "Remote (U.S. Only)",
+      "postedAt": "2026-10-23",
+      "fitScore": 9,
+      "fitTier": "Strong Fit",
+      "fitExplanation": "This role is a strong fit due to its focus on designing complex mobile banking experiences within the FinTech industry, aligning with Michael's expertise in transactional flows and making complex systems delightful. His experience with AI tools, end-to-end design lifecycle, and emphasis on visual craft are highly relevant. The remote-first nature is also a preference.",
+      "source": "Himalayas",
+      "applyUrl": "https://himalayas.com/jobs/remote-senior-product-designer-hr-block-e4e3a4e9-1f4a-4b9e-9b9c-8f1d7e2e8e7e",
+      "isOffLinkedIn": false,
+      "jobDescription": "Lead end-to-end product design for Spruce, H&R Block's native mobile banking application. Focus on creating clear and trustworthy financial management experiences for customers. Responsibilities include identifying customer problems, shaping product opportunities, prototyping, validation, implementation, and iteration across iOS and Android platforms. The role requires leading complex design initiatives, influencing product direction, and delivering cohesive, high-quality mobile experiences. This involves planning, conducting, and synthesizing customer research and usability testing, translating insights into product and design decisions.\n\n**Key Responsibilities:**\n*   Lead end-to-end product design for complex mobile banking features and customer journeys.\n*   Translate customer needs, business goals, technical constraints, data, and regulatory requirements into intuitive product experiences.\n*   Frame problems, map journeys and flows, explore concepts, prototype, validate, and deliver production-ready designs.\n*   Plan, conduct, and synthesize customer research and usability testing, translating insights into product and design decisions.\n\n**Required Skills & Experience:**\n*   6+ years of product design experience, ideally with complex mobile products or services.\n*   A portfolio demonstrating end-to-end product thinking, strong interaction and visual design, and measurable customer or business outcomes.\n*   Experience designing native experiences for iOS and Android.\n*   Advanced proficiency in Figma (components, libraries, prototyping, documentation, developer-ready design).\n*   Demonstrated experience using AI-assisted tools and workflows for exploration, prototyping, documentation, research synthesis, and design-to-development collaboration.",
+      "specialty": "Mobile Banking (Spruce)",
+      "keywords": [
+        {
+          "keyword": "Product Design",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Core skill"
+        },
+        {
+          "keyword": "Mobile Banking",
+          "inProfile": false,
+          "relevance": "required",
+          "note": "Related to FinTech experience"
+        },
+        {
+          "keyword": "Fintech",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Industry match"
+        },
+        {
+          "keyword": "Complex workflows",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Strong alignment"
+        },
+        {
+          "keyword": "0-to-1 discovery",
+          "inProfile": true,
+          "relevance": "preferred",
+          "note": "Role involves shaping opportunities"
+        },
+        {
+          "keyword": "Figma",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Proficient"
+        },
+        {
+          "keyword": "AI tools",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Experience highlighted in profile and job"
+        },
+        {
+          "keyword": "User Research",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Strong experience"
+        },
+        {
+          "keyword": "Design Systems",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Experience aligning with components, libraries"
+        },
+        {
+          "keyword": "Transactional flows",
+          "inProfile": true,
+          "relevance": "preferred",
+          "note": "Direct relevance to banking"
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-10-23T22:11:16.515Z",
+      "isNew": true
+    },
+    {
+      "id": "job-20hcic",
+      "title": "Senior Product Experience Designer",
+      "company": "H&R Block",
+      "companyDomain": "hrblock.com",
+      "industry": "Fintech",
+      "location": "Remote (U.S. Only)",
+      "postedAt": "2026-10-23",
+      "fitScore": 9,
+      "fitTier": "Strong Fit",
+      "fitExplanation": "This role perfectly aligns with Michael's expertise in solving complex B2B SaaS problems, his strategic thinking in UX, and his extensive experience across the full design lifecycle, including user research and collaborating with Product and Engineering. The FinTech adjacent industry is also a strong match. The remote working arrangement is a key preference.",
+      "source": "Himalayas",
+      "applyUrl": "https://himalayas.com/jobs/remote-senior-product-experience-designer-hr-block-484d4e3e-486d-4b8c-8f9d-7f8e7d8e9f0d",
+      "isOffLinkedIn": false,
+      "jobDescription": "This Senior UX Designer role seeks a curious, adaptable individual energized by complex problem-solving. The candidate will combine strong UX craft with strategic thinking, embrace emerging technologies, and partner with Product and Engineering to shape meaningful experiences. The role involves defining and delivering experiences that create value for customers, associates, and the business, collaborating closely with Product and Engineering to solve complex challenges, influence strategy, validate solutions through customer testing, and guide initiatives from discovery through delivery.\n\n**Key Responsibilities:**\n*   Lead the design of complex customer and associate experiences from concept through delivery.\n*   Create service designs, user flows, prototypes, experience concepts, and experience strategies.\n*   Plan and conduct moderated and unmoderated tests, surveys, and other qualitative and quantitative evaluations.\n*   Drive early problem definition and solution direction in partnership with Product.\n*   Apply customer insights, test results, analytics, and business goals to identify opportunities and improve experiences.\n\n**Required Skills & Experience:**\n*   Minimum 8 years of experience in UX Design, Product Design, Service Design, Interaction Design, or a related field.\n*   Demonstrated experience leading complex initiatives from discovery through delivery, with a portfolio showcasing end-to-end design thinking, strategic problem-solving, prototyping, and measurable impact.\n*   Experience planning, executing, and synthesizing moderated and unmoderated user testing, utilizing qualitative and quantitative data to inform design decisions.\n*   Experience working closely with Product Managers, Engineers, and cross-functional stakeholders.",
+      "specialty": "",
+      "keywords": [
+        {
+          "keyword": "UX Design",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Core skill"
+        },
+        {
+          "keyword": "Product Design",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Core skill"
+        },
+        {
+          "keyword": "Complex problems",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Strong alignment"
+        },
+        {
+          "keyword": "Strategic thinking",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Explicitly mentioned in Michael's profile"
+        },
+        {
+          "keyword": "Cross-functional collaboration",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Key strength for Michael"
+        },
+        {
+          "keyword": "User Research",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Extensive experience"
+        },
+        {
+          "keyword": "0-to-1 discovery",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Emphasis on early problem definition"
+        },
+        {
+          "keyword": "Prototyping",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Core skill"
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-10-23T22:11:16.515Z",
+      "isNew": true
+    },
+    {
+      "id": "job-e55h3t",
+      "title": "Staff Product Designer",
+      "company": "Farther",
+      "companyDomain": "farther.com",
+      "industry": "Fintech",
+      "location": "Hybrid (New York City, NY)",
+      "postedAt": "2026-10-23",
+      "fitScore": 8,
+      "fitTier": "Good Fit",
+      "fitExplanation": "This role is an exceptionally strong fit for Michael's expertise in complex B2B SaaS, FinTech, transactional flows, and making complex data systems intuitive. His experience in payment reconciliation, contract management, and designing for high-stakes problem spaces aligns perfectly with investment products. The Staff title is also within his target. The 1-2 point deduction for hybrid is applied.",
+      "source": "Built In NYC",
+      "applyUrl": "https://www.builtinnyc.com/job/staff-product-designer-investment-products-farther-2121321",
+      "isOffLinkedIn": false,
+      "jobDescription": "The Staff Product Designer will specialize in investment products, responsible for shaping end-to-end user experiences for Wealth Advisors and client-facing tools. This role involves translating complex financial systems and real-time market data into clear, intuitive, and high-performance user experiences. The designer will drive design across multiple phases, collaborating closely with Product and Engineering teams. Bonus qualifications include familiarity with AI-assisted design workflows, no-code tools, design-to-code pipelines, experience mentoring other designers, and designing for quantitative/analytical user personas like traders or portfolio managers. The company is a rapidly growing RIA backed by top-tier venture capital firms.\n\n**Key Responsibilities:**\n*   Shape end-to-end user experiences for investment products, including Wealth Advisors and client-facing tools.\n*   Translate complex financial systems and real-time market data into clear, intuitive, and high-performance user experiences.\n*   Drive design across multiple phases in close collaboration with Product and Engineering.\n\n**Required Skills & Experience:**\n*   Strong portfolio showcasing experience in designing complex financial systems or investment products.\n*   Ability to translate complex information into intuitive user interfaces.\n*   Experience collaborating with Product and Engineering teams.\n*   Familiarity with AI-assisted design workflows, no-code tools, and design-to-code pipelines (bonus).\n*   Experience mentoring or informally leading other designers (bonus).\n*   Experience working with real-time market data, trading infrastructure, or institutional investment systems (bonus).\n*   Background in designing for quantitative or analytical user personas (bonus).",
+      "specialty": "Investment Products",
+      "keywords": [
+        {
+          "keyword": "Staff Product Designer",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Targeted title"
+        },
+        {
+          "keyword": "Fintech",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Industry match, strong alignment"
+        },
+        {
+          "keyword": "Complex financial systems",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Direct match with Michael's expertise"
+        },
+        {
+          "keyword": "Transactional flows",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Highly relevant to investment products"
+        },
+        {
+          "keyword": "Data-heavy interfaces",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Implicitly required by financial systems"
+        },
+        {
+          "keyword": "0-to-1 discovery",
+          "inProfile": true,
+          "relevance": "preferred",
+          "note": "Implied in shaping experiences"
+        },
+        {
+          "keyword": "Cross-functional collaboration",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Key strength"
+        },
+        {
+          "keyword": "AI-assisted design workflows",
+          "inProfile": true,
+          "relevance": "preferred",
+          "note": "Bonus, Michael has experience"
+        },
+        {
+          "keyword": "Mentoring",
+          "inProfile": true,
+          "relevance": "preferred",
+          "note": "Bonus, Michael has experience"
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-10-23T22:11:16.515Z",
+      "isNew": true
     }
   ],
-  "scannedAt": "2026-10-23T15:45:06.554Z"
+  "scannedAt": "2026-10-23T22:12:10.917Z"
 }
