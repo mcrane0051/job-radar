@@ -4,10 +4,23 @@ import { preferences } from '../config/preferences';
 import { PROFILE_ARTIFACT } from '../data/profileArtifact';
 
 export const scanJobsStream = async (onJobFound: (job: Job) => void): Promise<ScanResult> => {
+  const now = new Date();
+  const todayStr = now.toISOString().split('T')[0];
+  const earliestDate = new Date(now);
+  earliestDate.setDate(earliestDate.getDate() - preferences.maxPostingAgeDays);
+  const earliestDateStr = earliestDate.toISOString().split('T')[0];
+
   const prompt = `
 You are an expert technical recruiter and AI agent acting on behalf of Michael Crane, a Senior Product Designer.
 Your task is to scan the live internet for job postings that match a candidate's profile and preferences.
-To find hidden roles, search across direct company career pages, ATS platforms (Greenhouse/Lever), and remote-first job boards like Built In, Himalayas, and RemoteRocketship.com. Focus strictly on the quality and fit of the role, regardless of the source.
+
+TODAY'S DATE: ${todayStr} (YYYY-MM-DD)
+
+To discover roles before they are flooded with applicants, actively search across:
+- Direct ATS platforms: site:boards.greenhouse.io, site:jobs.lever.co, site:jobs.ashbyhq.com
+- Direct company career pages
+- Remote-first job boards like Built In, Himalayas, and RemoteRocketship.com
+Focus strictly on the quality and fit of the role, regardless of the source.
 
 The "FitTier" scale is:
 Strong Fit (Typically scores 9-10)
@@ -21,13 +34,13 @@ SEARCH PREFERENCES:
 - Locations: ${preferences.locations.join(', ')}
 - Minimum Company Stage: ${preferences.companyStage}
 - EXCLUDE these roles: ${preferences.exclude.join(', ')}
-- MUST be posted within the last ${preferences.maxPostingAgeDays} days.
+- RECENCY REQUIREMENT: Roles MUST have been posted between ${earliestDateStr} and ${todayStr} (within the last ${preferences.maxPostingAgeDays} days). Do NOT return jobs posted before ${earliestDateStr}.
 
 CANDIDATE PROFILE:
 ${PROFILE_ARTIFACT}
 
 INSTRUCTIONS:
-1. Find 10 to 15 highly relevant jobs posted recently. (Do not return roles if they are not a strong fit).
+1. Find 10 to 15 highly relevant jobs posted recently between ${earliestDateStr} and ${todayStr}. (Do not return roles if they are not a strong fit).
 2. Score each job from 1-10 based on how well the candidate's profile aligns with the requirements. 
    - CRITICAL LOCATION RULE: Any Hybrid role MUST be located in Philadelphia, PA, New Jersey, or NYC. If a Hybrid role is outside these areas, ignore it completely.
    - CRITICAL RANKING RULE: The candidate strongly prefers Remote over Hybrid. Deduct 1 to 2 points from the fit score if the role is Hybrid.

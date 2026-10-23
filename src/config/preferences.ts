@@ -26,5 +26,5 @@ export const preferences = {
     'solo designer',
     'first designer',
   ],
-  maxPostingAgeDays: 1,
+  maxPostingAgeDays: 3,
 } as const;
