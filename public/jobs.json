@@ -2076,7 +2076,7 @@
       "salary": "Not Posted",
       "status": "New",
       "scannedAt": "2026-10-24T14:33:14.904Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-nunveo",
@@ -2305,7 +2305,373 @@
       "status": "New",
       "scannedAt": "2026-10-23T22:11:16.515Z",
       "isNew": false
+    },
+    {
+      "id": "job-dlbflu",
+      "title": "Senior Product Designer",
+      "company": "Archy",
+      "companyDomain": "archy.com",
+      "industry": "HealthTech, SaaS",
+      "location": "Remote",
+      "postedAt": "2026-10-23",
+      "fitScore": 9,
+      "fitTier": "Strong Fit",
+      "fitExplanation": "Excellent alignment. Michael's experience in complex B2B SaaS, transactional platforms, 0-to-1 design, design systems, and strong visual craft directly matches the job's focus on an all-in-one dental platform with diverse workflows, data structures, and AI integration. His 10+ years of experience exceed the 8+ year requirement, and his background in a lead capacity is highly relevant. The use of AI tools is a significant match, and the Series C stage meets his preference. Remote work preference is met.",
+      "source": "DailyRemote",
+      "applyUrl": "N/A",
+      "specialty": "",
+      "salary": "",
+      "keywords": [
+        {
+          "keyword": "Complex B2B SaaS",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Job requires experience in highly complex SaaS platforms, HealthTech."
+        },
+        {
+          "keyword": "0-to-1 / ambiguous problem spaces",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Job references 'early-stage Series C startup' and translating 'ambiguous real-world problems'."
+        },
+        {
+          "keyword": "Scaling existing products",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Job mentions 'design at scale' and 'scalable systems'."
+        },
+        {
+          "keyword": "Cross-functional collaboration",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Job requires partnering directly with dentists and practices."
+        },
+        {
+          "keyword": "Design systems",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Job specifies architecting 'scalable design frameworks' and 'design systems'."
+        },
+        {
+          "keyword": "High-fidelity prototyping",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Job requires 'high-fidelity creative thinking' and using 'AI tools for rapid prototyping'."
+        },
+        {
+          "keyword": "User Research",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Job explicitly states conducting user research."
+        },
+        {
+          "keyword": "UI Design",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Job requires executing 'beautiful, polished, and efficient UI'."
+        },
+        {
+          "keyword": "Figma",
+          "inProfile": true,
+          "relevance": "desired",
+          "note": "Implied as an industry standard for design tools."
+        },
+        {
+          "keyword": "Figma Make/Cursor (AI tools)",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Job requires integrating 'advanced AI tools into your daily design process' and mentions 'AI-augmented workflows'."
+        },
+        {
+          "keyword": "Complex data systems / transactional flows",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Job involves 'seamlessly blending diverse workflows and data structures'."
+        },
+        {
+          "keyword": "Enterprise UX",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Implied by 'dental practice management space' and its B2B focus."
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-10-24T21:36:28.717Z",
+      "isNew": true
+    },
+    {
+      "id": "job-bimjw1",
+      "title": "Senior Product Designer",
+      "company": "American Express",
+      "companyDomain": "americanexpress.com",
+      "industry": "Fintech, B2B SaaS",
+      "location": "Hybrid - NYC",
+      "postedAt": "2026-10-23",
+      "fitScore": 8,
+      "fitTier": "Good Fit",
+      "fitExplanation": "Strong match for Michael's expertise in complex B2B SaaS workflows, enterprise UX, design systems, and AI tool usage. American Express is a well-established public company, meeting the stability preference. The 'Venues' specialization aligns with marketplace infrastructure. The slight deduction in score is due to the hybrid work arrangement, even though it's in a target location (NYC), as Michael strongly prefers remote.",
+      "source": "Built In NYC",
+      "applyUrl": "N/A",
+      "specialty": "Venues (Resy)",
+      "salary": "",
+      "keywords": [
+        {
+          "keyword": "Complex B2B SaaS",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Role requires strong B2B SaaS background, working on complex systems and workflows."
+        },
+        {
+          "keyword": "Complex workflow design",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Job involves multi-step workflows, permissions, and operational tools for businesses."
+        },
+        {
+          "keyword": "Enterprise UX",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Focus on experiences for restaurants, wineries, hospitality businesses, and internal operations."
+        },
+        {
+          "keyword": "0-to-1 / ambiguous problem spaces",
+          "inProfile": true,
+          "relevance": "desired",
+          "note": "Job mentions leading design work from discovery and concept."
+        },
+        {
+          "keyword": "Scaling existing products",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Role focuses on creating scalable solutions and contributing to design systems."
+        },
+        {
+          "keyword": "Cross-functional collaboration",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Requires partnering closely with PMs, engineers, researchers, data partners, and stakeholders."
+        },
+        {
+          "keyword": "Design systems",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Job explicitly mentions contributing to design systems."
+        },
+        {
+          "keyword": "High-fidelity prototyping",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Role involves creating high-fidelity specifications and prototyping in Figma and AI tools."
+        },
+        {
+          "keyword": "User Research",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Role includes leading usability research and translating customer needs."
+        },
+        {
+          "keyword": "UI Design",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Role involves creating user-centered interfaces."
+        },
+        {
+          "keyword": "Figma",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Explicitly mentioned as a prototyping tool."
+        },
+        {
+          "keyword": "AI tools",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Explicitly mentioned prototyping with AI-enabled tools."
+        },
+        {
+          "keyword": "Marketplace infrastructure",
+          "inProfile": true,
+          "relevance": "desired",
+          "note": "Resy, focusing on venues, has marketplace characteristics."
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-10-24T21:36:28.717Z",
+      "isNew": true
+    },
+    {
+      "id": "job-ivuyez",
+      "title": "Senior Staff Product Designer",
+      "company": "Samsara",
+      "companyDomain": "samsara.com",
+      "industry": "B2B SaaS, Enterprise Software, IoT, Cloud Infrastructure",
+      "location": "Remote - US",
+      "postedAt": "2026-10-24",
+      "fitScore": 9,
+      "fitTier": "Strong Fit",
+      "fitExplanation": "Very strong alignment with Michael's experience in complex B2B SaaS, enterprise software, and data-heavy systems. The 'AI for Ops Platform' specialization is a direct hit on his recent AI tool usage and interest in leveraging technology for operational efficiency. His background in a lead capacity and desire for Staff-level work aligns perfectly with setting vision, leading multi-area design, and mentoring. Samsara is a public company, meeting the stability preference. Remote work preference is met.",
+      "source": "Himalayas",
+      "applyUrl": "N/A",
+      "specialty": "AI for Ops Platform",
+      "salary": "",
+      "keywords": [
+        {
+          "keyword": "Complex B2B SaaS",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Job is for Samsara's Connected Operations Cloud, which is B2B SaaS and Enterprise Software."
+        },
+        {
+          "keyword": "Complex data systems",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Role involves harnessing IoT data for actionable business insights."
+        },
+        {
+          "keyword": "Enterprise UX",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Focuses on how customers and internal teams operate."
+        },
+        {
+          "keyword": "0-to-1 / ambiguous problem spaces",
+          "inProfile": true,
+          "relevance": "desired",
+          "note": "Implied by 'set a vision' and 'shape how customers and internal teams operate'."
+        },
+        {
+          "keyword": "Scaling existing products",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Implied by 'crafting interaction and visual systems'."
+        },
+        {
+          "keyword": "Cross-functional collaboration",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Requires partnering with Product and Engineering, and building relationships with strategic customers."
+        },
+        {
+          "keyword": "Design systems",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Role includes crafting interaction and visual systems."
+        },
+        {
+          "keyword": "AI tools",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Explicitly mentions 'Leverage AI tools to accelerate delivery'."
+        },
+        {
+          "keyword": "Mentoring",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Role explicitly includes 'mentoring others'."
+        },
+        {
+          "keyword": "Staff Product Designer",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Target role level for Michael Crane."
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-10-24T21:36:28.717Z",
+      "isNew": true
+    },
+    {
+      "id": "job-ocqog0",
+      "title": "Staff Product Designer",
+      "company": "Clio",
+      "companyDomain": "clio.com",
+      "industry": "Legal Tech, B2B SaaS, Enterprise Software",
+      "location": "Remote - US",
+      "postedAt": "2026-10-24",
+      "fitScore": 9.5,
+      "fitTier": "Strong Fit",
+      "fitExplanation": "Exceptional match. Michael's 10+ years of experience, particularly in leading design for complex enterprise multi-cloud transactional platforms, aligns almost perfectly with the 12+ years experience for B2B SaaS, AI-powered complex workflows for enterprise applications, and strategic direction setting required for this Staff-level role. His expertise with AI tools, design systems, and navigating ambiguity are all explicitly called out. Clio is a well-established company, indicating a stable environment. Remote preference is met. The 'Staff Product Designer' title is a direct target.",
+      "source": "Ladders",
+      "applyUrl": "N/A",
+      "specialty": "Drafting (AI-powered workflows)",
+      "salary": "",
+      "keywords": [
+        {
+          "keyword": "Complex B2B SaaS",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Job requires 12+ years of Product Design experience, preferably in B2B SaaS."
+        },
+        {
+          "keyword": "Complex workflow design",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Role involves 'playbook automations' and 'complex workflows or features for enterprise-type applications'."
+        },
+        {
+          "keyword": "Enterprise UX",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Focuses on enterprise-type applications on desktop and web."
+        },
+        {
+          "keyword": "0-to-1 / ambiguous problem spaces",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Role requires 'navigating ambiguity and strategic framing' and 'set strategic direction in evolving areas'."
+        },
+        {
+          "keyword": "Scaling existing products",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Job mentions designing experiences that connect to the broader platform and contributing to 'Clio's design system'."
+        },
+        {
+          "keyword": "Cross-functional collaboration",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Requires 'Extensive collaboration with Engineering'."
+        },
+        {
+          "keyword": "Design systems",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Explicitly mentions contributing to and evolving Clio's design system."
+        },
+        {
+          "keyword": "High-fidelity prototyping",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Role requires 'Prototype quickly with Engineering' and 'building alongside engineering as the underlying AI capability evolves'."
+        },
+        {
+          "keyword": "AI tools",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Explicitly mentions 'Ship AI-powered workflows' and that 'AI capability evolves'."
+        },
+        {
+          "keyword": "Product Thinking",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Job requires 'Strong product thinking with the ability to set direction'."
+        },
+        {
+          "keyword": "Senior Product Designer",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael has 10+ years, job requests 12+. Strong overlap for Staff level."
+        },
+        {
+          "keyword": "Staff Product Designer",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Target role level for Michael Crane."
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-10-24T21:36:28.717Z",
+      "isNew": true
     }
   ],
-  "scannedAt": "2026-10-24T14:34:09.111Z"
+  "scannedAt": "2026-10-24T21:37:29.443Z"
 }
