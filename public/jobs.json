@@ -1,94 +1,6 @@
 {
   "jobs": [
     {
-      "id": "job-hkox0d",
-      "title": "Senior Product Designer",
-      "company": "Grafana Labs",
-      "companyDomain": "grafana.com",
-      "industry": "B2B SaaS, enterprise software, developer tools, cloud infrastructure, observability, database monitoring",
-      "location": "Remote, US",
-      "postedAt": "2026-10-09",
-      "fitScore": 9,
-      "fitTier": "Strong Fit",
-      "fitExplanation": "This role is a Senior Product Designer at a Series D company focusing on B2B/enterprise software, developer tools, observability, and cloud infrastructure, which are all strong alignment areas for Michael. His 10+ years of experience, expertise in complex B2B SaaS, and work on multi-cloud transactional platforms align directly with the job's requirements. The company has an established design organization (25+ designers), meeting his preference to avoid 'first design hire' roles. The emphasis on making complex areas easy through UI aligns with his design philosophy and strong visual craft. His experience with design systems, user research, and cross-functional collaboration are also explicitly sought. The role is 100% remote, which is suitable for a remote-first candidate.",
-      "source": "Grafana Labs Careers",
-      "applyUrl": "N/A",
-      "isOffLinkedIn": false,
-      "jobDescription": "As a Senior Product Designer at Grafana Labs, you will join a growing Product Design organization of more than 25 designers, researchers, engineers, and design leaders, working within a 100% remote R&D organization. This role involves designing experiences for Grafana Cloud's Knowledge Graph, focusing on the context layer that powers entity graphs, entity catalogs, and RCA workbenches. The position requires designing for complex B2B/enterprise software products, particularly tools and services for developers or other highly technical users.\n\n**Core Responsibilities:**\n*   Design user experiences for Grafana Cloud's Knowledge Graph, including its entity graph, catalog, and RCA workbench features.\n*   Conduct qualitative research in complex domains to build empathy and understand user needs and pain points.\n*   Make balanced design decisions that integrate business objectives, product priorities, customer feedback, research findings, and technical limitations.\n*   Collaborate effectively with cross-functional teams across various locations and time zones to iteratively deliver and evolve products while maintaining a strong design vision.\n*   Contribute to elevating design practices, fostering collaboration with partner functions, and enhancing user and organizational impact within engineering-led environments.\n\n**Key Requirements:**\n*   Minimum of 7 years of relevant design experience, specifically working on B2B/enterprise software products, ideally targeting developers or highly technical users.\n*   A strong portfolio demonstrating effective designs for complex products delivered in fast-paced settings.\n*   Proven experience in conducting qualitative research within intricate technical fields.\n*   Capability to balance multiple considerations—business, product, customer, research, and technical—in design decision-making.\n*   Strong, proactive remote communication, collaboration, facilitation, and relationship-building skills.\n*   Acute attention to detail and a willingness to learn about highly complex and technical product spaces.\n*   Experience thriving in a fully-remote, fast-paced environment that values transparency, autonomy, and open sharing.\n*   Prior domain knowledge or experience related to observability, cloud infrastructure, and/or database monitoring is a valuable asset.",
-      "specialty": "Grafana Cloud Knowledge Graph, Observability, Cloud Infrastructure",
-      "keywords": [
-        {
-          "keyword": "B2B/enterprise software",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Directly matches Michael's core experience and preference."
-        },
-        {
-          "keyword": "developer tools",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Michael has experience with developer tools and enterprise software."
-        },
-        {
-          "keyword": "cloud infrastructure",
-          "inProfile": true,
-          "relevance": "strong plus",
-          "note": "Michael has deep context in multi-cloud transactional platforms (Tackle.io)."
-        },
-        {
-          "keyword": "complex products/systems",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Michael specializes in making complex systems delightful."
-        },
-        {
-          "keyword": "qualitative research",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Michael lists User Research and conducted user research at Infragistics."
-        },
-        {
-          "keyword": "cross-functional collaboration",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Michael operates effectively across the full design lifecycle, working closely with PMs, engineering leads, and executives."
-        },
-        {
-          "keyword": "design strategy",
-          "inProfile": true,
-          "relevance": "strong plus",
-          "note": "Michael has experience shaping design strategy at team and org level."
-        },
-        {
-          "keyword": "design systems",
-          "inProfile": true,
-          "relevance": "plus",
-          "note": "Michael established a scalable design system at Infragistics."
-        },
-        {
-          "keyword": "remote work",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Michael is open to remote work and the company is 100% remote."
-        },
-        {
-          "keyword": "Figma",
-          "inProfile": true,
-          "relevance": "implied/expected",
-          "note": "Michael is proficient in Figma."
-        },
-        {
-          "keyword": "7+ years design experience",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Michael has 10+ years of experience."
-        }
-      ],
-      "status": "New",
-      "scannedAt": "2026-10-10T22:32:29.063Z",
-      "isNew": false
-    },
-    {
       "id": "job-8wr3a",
       "title": "Senior Product Designer",
       "company": "Linear",
@@ -2000,83 +1912,82 @@
       "title": "Senior Product Designer",
       "company": "Toast",
       "companyDomain": "toasttab.com",
-      "industry": "B2B SaaS, Marketing Tech",
-      "location": "Remote (U.S.)",
-      "postedAt": "2026-10-21",
+      "industry": "B2B SaaS",
+      "location": "Remote (United States)",
+      "postedAt": "2026-10-25",
       "fitScore": 9,
       "fitTier": "Strong Fit",
-      "fitExplanation": "Michael's expertise in complex B2B SaaS products, particularly with revenue operations and transactional platforms, aligns well with Toast's restaurant management platform. His experience with 0-to-1 and scaling existing products, strong visual craft, and design systems thinking are directly applicable. The role's focus on an \"agent-assisted future\" and AI tools also matches Michael's profile. The remote location is a strong preference. While \"Marketing Tools\" is a moderate alignment, the underlying complexity and platform nature elevate its fit.",
-      "source": "Built In",
-      "applyUrl": "https://careers.toasttab.com/jobs/R15322/senior-product-designer-marketing-tools",
+      "fitExplanation": "This role aligns exceptionally well with Michael's expertise in complex B2B SaaS products, particularly his experience in redesigning mature product lines and applying strong systems thinking to create coherent user experiences. The emphasis on setting strategic direction and owning outcomes resonates with his current lead responsibilities at Tackle.io. Furthermore, the requirement for comfort with AI tools for prototyping directly matches Michael's listed skills (Figma Make, Cursor). The fully remote (US) location is a preferred arrangement for him. While 'Marketing Tools' is not his primary industry focus, his background in digital campaigns and brand work provides relevant context, and his ability to thrive in ambiguous problem spaces would be valuable in redefining these tools. The company stage (public) meets his preference for established organizations.",
+      "source": "Toast Careers",
+      "applyUrl": "N/A",
       "isOffLinkedIn": false,
-      "jobDescription": "This role involves leading the design direction for Toast's Marketing Tools, creating coherent experiences across campaigns, customer outreach, and performance measurement within their restaurant platform. The Senior Product Designer will collaborate with product managers, engineers, and researchers to redefine mature product lines, conduct user research, utilize data for decision-making, and prepare tools for AI-assisted workflows. Key responsibilities include end-to-end product design ownership, applying systems thinking across various tools and workflows, and high-fidelity prototyping. This position operates within a remotely distributed team, preferably located on the East Coast.",
+      "jobDescription": "Summary: Toast is seeking a Senior Product Designer for their Marketing Tools team to help set strategic direction and redefine mature product lines within a remotely distributed team. This role requires a dynamic individual with a 'founder's mentality' who takes ownership of outcomes and builds strong stakeholder relationships to influence product evolution.\n\nCore Responsibilities:\n*   Set direction for Marketing Tools, moving beyond execution of pre-defined specs.\n*   Actively contribute to defining and measuring the success metrics of design work.\n*   Redesign and redefine mature product lines, preparing them for future enhancements, potentially including 'agent-assisted' features.\n*   Exhibit a strong sense of ownership over project outcomes rather than just outputs.\n*   Cultivate and maintain robust relationships with key stakeholders across various business functions.\n*   Guide teams in making timely, well-informed decisions by synthesizing diverse data sources.\n*   Commit to continuous improvement of technical skills relevant to the role.\n\nRequirements:\n*   Minimum of 5 years of experience in a product design role.\n*   A strong portfolio demonstrating end-to-end ownership of shipped products.\n*   Proven experience in redesigning mature product lines, not solely launching new products.\n*   Demonstrated strong systems thinking, capable of designing cohesive experiences across multiple tools, workflows, and entry points.\n*   Fluency in Figma and comfort with prototyping using AI tools for rapid ideation and testing.\n*   Experience working effectively within a product manager, engineering, and design (triad) model, and capable of leading independent user research.\n*   A track record of leveraging data (e.g., usage, funnel, experiment results) to inform and validate design decisions.",
       "specialty": "Marketing Tools",
       "keywords": [
         {
+          "keyword": "product design",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael has 10+ years of experience in product design, exceeding the 5+ years requirement."
+        },
+        {
           "keyword": "B2B SaaS",
           "inProfile": true,
-          "relevance": "required",
-          "note": "Extensive experience in B2B SaaS, restaurant platform."
+          "relevance": "highly relevant",
+          "note": "Michael specializes in complex B2B SaaS products."
         },
         {
-          "keyword": "Complex Workflows",
+          "keyword": "systems thinking",
           "inProfile": true,
           "relevance": "required",
-          "note": "Strong systems thinking across multiple tools, workflows, and entry points."
-        },
-        {
-          "keyword": "AI Tools",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Comfort prototyping with AI tools and experience designing AI-assisted workflows."
-        },
-        {
-          "keyword": "End-to-end design",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Portfolio demonstrating end-to-end ownership of shipped work."
-        },
-        {
-          "keyword": "Design Systems",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Strong systems thinking and focus on consistent experiences."
-        },
-        {
-          "keyword": "User Research",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Experience conducting independent research and using data to defend design decisions."
+          "note": "Central to Michael's design philosophy and expertise."
         },
         {
           "keyword": "Figma",
           "inProfile": true,
           "relevance": "required",
-          "note": "Fluency in Figma."
+          "note": "Listed as a primary tool in Michael's profile."
         },
         {
-          "keyword": "Redesigning Mature Products",
+          "keyword": "AI tools (prototyping)",
           "inProfile": true,
           "relevance": "required",
-          "note": "Experience redesigning mature product lines, not only launching new ones."
+          "note": "Michael actively uses Figma Make and Cursor for acceleration in discovery and prototyping."
         },
         {
-          "keyword": "PM/Eng Collaboration",
+          "keyword": "redesigning mature products",
           "inProfile": true,
           "relevance": "required",
-          "note": "Experience working with PMs and Eng in a triad."
+          "note": "Directly aligns with Michael's experience in scaling existing products and simplifying workflows."
         },
         {
-          "keyword": "Data-driven design",
+          "keyword": "cross-functional collaboration (PM/Eng triad)",
           "inProfile": true,
           "relevance": "required",
-          "note": "Record of using data (usage, funnel, or experiment results) to make and defend design decisions."
+          "note": "Michael emphasizes being embedded with product and engineering, not siloed."
+        },
+        {
+          "keyword": "user research / independent research",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael lists User Research as a design practice skill."
+        },
+        {
+          "keyword": "data-driven design",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael has notable outcomes with impact metrics and uses tools like Amplitude and Pendo."
+        },
+        {
+          "keyword": "0-to-1 / ambiguous problem spaces",
+          "inProfile": true,
+          "relevance": "moderate",
+          "note": "The role involves redefining mature tools, aligning with Michael's preference for ambiguous problem spaces and creating structure."
         }
       ],
-      "salary": "Not Posted",
       "status": "New",
-      "scannedAt": "2026-10-24T14:33:14.904Z",
-      "isNew": false
+      "scannedAt": "2026-10-25T14:56:48.987Z",
+      "isNew": true
     },
     {
       "id": "job-nunveo",
@@ -2397,7 +2308,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-10-24T21:36:28.717Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-bimjw1",
@@ -2496,7 +2407,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-10-24T21:36:28.717Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-ivuyez",
@@ -2577,7 +2488,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-10-24T21:36:28.717Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-ocqog0",
@@ -2670,8 +2581,8 @@
       ],
       "status": "New",
       "scannedAt": "2026-10-24T21:36:28.717Z",
-      "isNew": true
+      "isNew": false
     }
   ],
-  "scannedAt": "2026-10-24T21:37:29.443Z"
+  "scannedAt": "2026-10-25T14:57:29.813Z"
 }
