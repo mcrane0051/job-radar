@@ -129,107 +129,6 @@
       "isNew": false
     },
     {
-      "id": "job-4yprwt",
-      "title": "Staff Product Designer",
-      "company": "Fieldguide",
-      "companyDomain": "fieldguide.io",
-      "industry": "B2B SaaS",
-      "location": "Remote (U.S.)",
-      "postedAt": "2026-10-11",
-      "fitScore": 9.5,
-      "fitTier": "Strong Fit",
-      "fitExplanation": "This Staff Product Designer role at Fieldguide is an exceptional match for Michael Crane. His 10+ years of experience, including significant leadership and strategic contributions, align perfectly with the expectations of a Staff-level designer who shapes design direction across a product area. The role's focus on complex, ambiguous problem spaces within B2B SaaS, specifically AI-driven audit workflows, is a direct hit on Michael's core strengths and industry preferences. The remote (U.S.) work arrangement is ideal, and the company's Series C stage provides the stability and resources he seeks. His expertise in design systems, visual craft, and making complex systems delightful are highly relevant.",
-      "source": "remoteroles.com",
-      "applyUrl": "https://www.fieldguide.io/careers",
-      "isOffLinkedIn": true,
-      "jobDescription": "Fieldguide is hiring a Staff Product Designer to take ownership of complex, ambiguous problem spaces end-to-end and significantly influence the design direction of a core product. This role involves deep partnership with Product and Engineering teams, requiring the ability to operate effectively at a fast cadence, shipping frequently and iterating in tight loops. The Staff Designer will be comfortable balancing speed with craft, incorporating AI into daily design practice, and designing AI-assisted workflows, particularly for audit applications. Key responsibilities include leading end-to-end design for audit workflows, translating customer needs into clear user journeys and polished UI, advocating for users within technical and business constraints, and contributing to the design system and mentorship of peers.",
-      "specialty": "AI-Driven Audit Workflows",
-      "salary": "$200k - $225k",
-      "keywords": [
-        {
-          "keyword": "B2B SaaS",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Explicitly mentioned in requirements and core industry focus."
-        },
-        {
-          "keyword": "complex workflows",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Central to the role's responsibilities, particularly AI-driven audit workflows."
-        },
-        {
-          "keyword": "AI-assisted workflows",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Directly mentioned as a key area of design and an explicit skill set."
-        },
-        {
-          "keyword": "design systems",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Contributing to the design system is a stated responsibility."
-        },
-        {
-          "keyword": "0-to-1 discovery",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Ownership of complex, ambiguous problem spaces aligns with 0-to-1 expertise."
-        },
-        {
-          "keyword": "cross-functional collaboration",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Partnering deeply with product and engineering is a core aspect."
-        },
-        {
-          "keyword": "design strategy",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Implicit in shaping the design direction of a core product at Staff level."
-        },
-        {
-          "keyword": "Figma",
-          "inProfile": true,
-          "relevance": "preferred",
-          "note": "Expected tool for modern product design environments."
-        },
-        {
-          "keyword": "User Research",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Implied through translating customer needs and insights."
-        },
-        {
-          "keyword": "Information Architecture",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Crucial for complex workflow design."
-        },
-        {
-          "keyword": "UI Design",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Delivering polished UI is a core output."
-        },
-        {
-          "keyword": "Prototyping",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Essential for rapid iteration and testing ideas."
-        },
-        {
-          "keyword": "enterprise software",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Aligns with the audit and advisory firm focus."
-        }
-      ],
-      "status": "New",
-      "scannedAt": "2026-10-12T20:17:40.894Z",
-      "isNew": false
-    },
-    {
       "id": "job-9avs9z",
       "title": "Senior Product Designer",
       "company": "Moniepoint Inc.",
@@ -1089,7 +988,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-10-26T17:23:08.021Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-dxkcet",
@@ -1805,82 +1704,21 @@
       "title": "Senior Product Designer",
       "company": "Toast",
       "companyDomain": "toasttab.com",
-      "industry": "B2B SaaS",
-      "location": "Remote (United States)",
-      "postedAt": "2026-10-25",
-      "fitScore": 9,
+      "industry": "B2B SaaS, Fintech, Marketing Technology",
+      "location": "Remote (U.S. Only)",
+      "postedAt": "2026-10-24",
+      "fitScore": 9.5,
       "fitTier": "Strong Fit",
-      "fitExplanation": "This role aligns exceptionally well with Michael's expertise in complex B2B SaaS products, particularly his experience in redesigning mature product lines and applying strong systems thinking to create coherent user experiences. The emphasis on setting strategic direction and owning outcomes resonates with his current lead responsibilities at Tackle.io. Furthermore, the requirement for comfort with AI tools for prototyping directly matches Michael's listed skills (Figma Make, Cursor). The fully remote (US) location is a preferred arrangement for him. While 'Marketing Tools' is not his primary industry focus, his background in digital campaigns and brand work provides relevant context, and his ability to thrive in ambiguous problem spaces would be valuable in redefining these tools. The company stage (public) meets his preference for established organizations.",
-      "source": "Toast Careers",
+      "fitExplanation": "This role is an excellent fit for Michael's extensive experience in B2B SaaS, redesigning mature product lines, and strong systems thinking. His proficiency with AI tools (Figma Make, Cursor) and experience in revenue operations/seller tools aligns well with the marketing and agent-assisted workflows. The remote location is ideal.",
+      "source": "Dice.com (Aggregator)",
       "applyUrl": "N/A",
       "isOffLinkedIn": false,
-      "jobDescription": "Summary: Toast is seeking a Senior Product Designer for their Marketing Tools team to help set strategic direction and redefine mature product lines within a remotely distributed team. This role requires a dynamic individual with a 'founder's mentality' who takes ownership of outcomes and builds strong stakeholder relationships to influence product evolution.\n\nCore Responsibilities:\n*   Set direction for Marketing Tools, moving beyond execution of pre-defined specs.\n*   Actively contribute to defining and measuring the success metrics of design work.\n*   Redesign and redefine mature product lines, preparing them for future enhancements, potentially including 'agent-assisted' features.\n*   Exhibit a strong sense of ownership over project outcomes rather than just outputs.\n*   Cultivate and maintain robust relationships with key stakeholders across various business functions.\n*   Guide teams in making timely, well-informed decisions by synthesizing diverse data sources.\n*   Commit to continuous improvement of technical skills relevant to the role.\n\nRequirements:\n*   Minimum of 5 years of experience in a product design role.\n*   A strong portfolio demonstrating end-to-end ownership of shipped products.\n*   Proven experience in redesigning mature product lines, not solely launching new products.\n*   Demonstrated strong systems thinking, capable of designing cohesive experiences across multiple tools, workflows, and entry points.\n*   Fluency in Figma and comfort with prototyping using AI tools for rapid ideation and testing.\n*   Experience working effectively within a product manager, engineering, and design (triad) model, and capable of leading independent user research.\n*   A track record of leveraging data (e.g., usage, funnel, experiment results) to inform and validate design decisions.",
+      "jobDescription": "Summary: Toast is looking for a Senior Product Designer to lead design for their Marketing Tools, focusing on redesigning mature product lines and integrating agent-assisted futures. This role involves setting design direction, collaborating with PMs and engineering, running independent research, and making data-driven decisions within a distributed team. The ideal candidate will have strong systems thinking and comfort with AI prototyping tools.\n\nCore Responsibilities:\n* Redesign and evolve mature product lines, rather than just launching new ones. \n* Design coherent experiences across multiple tools, workflows, and entry points using strong systems thinking. \n* Set strategic direction for Marketing Tools and define success metrics. \n* Partner with Product Managers, engineering leads, and other designers, often in a triad model. \n* Conduct independent user research and utilize data (usage, funnel, experiment results) to inform and defend design decisions. \n* Contribute to an agent-assisted future for existing tools. \n* Engage in ongoing learning and development to raise the craft bar. \n* Foster strong relationships and influence stakeholders across the business.\n\nRequirements:\n* 5+ years of product design experience with end-to-end ownership of shipped work. \n* Proven experience redesigning mature product lines. \n* Strong systems thinking to create coherent experiences across diverse tools and workflows. \n* Fluency in Figma and comfort with AI prototyping tools for rapid iteration. \n* Experience working collaboratively with Product Managers and Engineers in a triad, and conducting independent user research. \n* A track record of using data to inform and validate design decisions. \n* Experience with B2B or SMB products, ideally in marketing, CRM, or growth. \n* Desirable: Experience designing for AI-assisted or agentic workflows. \n* Desirable: Background in marketing automation, email/SMS, loyalty, or advertising products. \n* Desirable: Restaurant, hospitality, or small business industry experience. \n* Desirable: Experience mentoring other designers.",
       "specialty": "Marketing Tools",
-      "keywords": [
-        {
-          "keyword": "product design",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Michael has 10+ years of experience in product design, exceeding the 5+ years requirement."
-        },
-        {
-          "keyword": "B2B SaaS",
-          "inProfile": true,
-          "relevance": "highly relevant",
-          "note": "Michael specializes in complex B2B SaaS products."
-        },
-        {
-          "keyword": "systems thinking",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Central to Michael's design philosophy and expertise."
-        },
-        {
-          "keyword": "Figma",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Listed as a primary tool in Michael's profile."
-        },
-        {
-          "keyword": "AI tools (prototyping)",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Michael actively uses Figma Make and Cursor for acceleration in discovery and prototyping."
-        },
-        {
-          "keyword": "redesigning mature products",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Directly aligns with Michael's experience in scaling existing products and simplifying workflows."
-        },
-        {
-          "keyword": "cross-functional collaboration (PM/Eng triad)",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Michael emphasizes being embedded with product and engineering, not siloed."
-        },
-        {
-          "keyword": "user research / independent research",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Michael lists User Research as a design practice skill."
-        },
-        {
-          "keyword": "data-driven design",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Michael has notable outcomes with impact metrics and uses tools like Amplitude and Pendo."
-        },
-        {
-          "keyword": "0-to-1 / ambiguous problem spaces",
-          "inProfile": true,
-          "relevance": "moderate",
-          "note": "The role involves redefining mature tools, aligning with Michael's preference for ambiguous problem spaces and creating structure."
-        }
-      ],
+      "salary": "$159,000 - $254,000",
       "status": "New",
-      "scannedAt": "2026-10-25T14:56:48.987Z",
-      "isNew": false
+      "scannedAt": "2026-10-26T23:07:13.994Z",
+      "isNew": true
     },
     {
       "id": "job-nunveo",
@@ -2701,82 +2539,85 @@
       "title": "Lead Product Designer",
       "company": "Grata",
       "companyDomain": "datasite.com",
-      "industry": "Financial Technology, B2B SaaS, Data-heavy products",
-      "location": "Hybrid, NYC",
-      "postedAt": "2026-10-24",
-      "fitScore": 8,
+      "industry": "Fintech, Enterprise Software",
+      "location": "Hybrid in NYC",
+      "postedAt": "2026-10-25",
+      "fitScore": 8.5,
       "fitTier": "Good Fit",
-      "fitExplanation": "Michael's deep experience in complex B2B SaaS environments, particularly with data-heavy systems and fintech-adjacent problem spaces like M&A, aligns strongly with this role. His ability to make complex data accessible and leverage AI-powered workflows, mirroring his experience at Tackle.io with complex transactional platforms and AI tools, is a direct match. The role's emphasis on 0-to-1 discovery, strategic input, and evolving design systems further complements his profile. The hybrid NYC location is acceptable, but results in a slight score deduction.",
-      "source": "Datasite Careers (Workday ATS)",
-      "applyUrl": "https://datasite.wd1.myworkdayjobs.com/DatasiteCareers/job/New-York-City/Lead-Product-Designer_JR0000000572",
-      "isOffLinkedIn": true,
-      "jobDescription": "Lead Product Designer to shape the next generation of products for dealmakers, focusing on making proprietary data accessible and integrating AI-powered workflows. This hands-on role involves strategic thinking, research, concept exploration, and detailed UI design within a hybrid work model in New York City. Michael will be the most senior individual contributor on the Product Design team, partnering closely with the Head of Design, Product, Engineering, and customers to transform complex problems into intuitive experiences.\n\nCore Responsibilities:\n*   Lead complex product initiatives from early discovery through launch and iteration.\n*   Define how AI workflows and agents become a natural and useful part of the Grata experience.\n*   Design experiences that make complex proprietary data easy to discover, understand, and act on.\n*   Partner with Product and Engineering to define problems, explore opportunities, and shape product direction.\n*   Lead user research, customer interviews, and usability testing to understand needs and validate solutions.\n*   Translate complex workflows and information into clear, intuitive product experiences.\n\nKey Requirements:\n*   7+ years of experience designing digital products, primarily within in-house product organizations.\n*   Portfolio demonstrating excellent UX thinking, interaction design, and visual/UI craft across shipped products.\n*   Experience independently leading complex projects from discovery through delivery.\n*   Strong experience planning and conducting user research and usability testing.\n*   Excellent Figma skills, including prototyping and working with design systems.\n*   Experience using modern AI prototyping tools to explore and communicate product ideas.\n*   Strong product thinking and ability to balance customer, business, and technical considerations.\n*   Ability to simplify complex information and workflows without sacrificing underlying power.\n*   Experience designing complex B2B SaaS, financial technology, or data-heavy products (Nice to Have).\n*   Experience designing AI-powered products, agents, or workflows (Nice to Have).\n*   Experience with code-based prototyping tools such as Figma Make or Cursor (Nice to Have).\n*   Experience contributing to or evolving a mature design system (Nice to Have).",
-      "keywords": [
-        {
-          "keyword": "complex B2B SaaS products",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Explicitly mentioned as nice to have, but deeply aligned with Michael's background."
-        },
-        {
-          "keyword": "AI-powered workflows",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Core to the role, directly aligns with Michael's current AI tool usage and interest."
-        },
-        {
-          "keyword": "data-heavy interfaces",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Central challenge of the role, directly aligns with Michael's expertise."
-        },
-        {
-          "keyword": "0-to-1 discovery",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Michael thrives in ambiguous problem spaces."
-        },
-        {
-          "keyword": "design systems",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Explicitly mentioned as nice to have, part of Michael's core skills."
-        },
-        {
-          "keyword": "Lead Product Designer",
-          "inProfile": true,
-          "relevance": "title",
-          "note": "Direct title match."
-        },
-        {
-          "keyword": "Figma",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Explicitly required."
-        },
-        {
-          "keyword": "user research",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Explicitly required."
-        },
-        {
-          "keyword": "prototyping",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Explicitly required."
-        },
-        {
-          "keyword": "fintech",
-          "inProfile": true,
-          "relevance": "highly relevant",
-          "note": "Core industry, aligns with Michael's deep context."
-        }
-      ],
+      "fitExplanation": "This role is an excellent match for Michael's experience in complex B2B SaaS, data-heavy products, and financial technology. His expertise in AI-powered workflows, design systems, and mentoring aligns perfectly with the requirements. The hybrid NYC location is within his preference, with a slight deduction for not being fully remote.",
+      "source": "Myworkdayjobs.com (Aggregator)",
+      "applyUrl": "N/A",
+      "isOffLinkedIn": false,
+      "jobDescription": "Summary: Grata, part of Datasite, is seeking a Lead Product Designer to shape products for dealmakers, focusing on making proprietary, complex data accessible and integrating AI-powered workflows. This role involves leading complex initiatives from discovery to launch, transforming data into intuitive experiences, and partnering closely with Product and Engineering. The successful candidate will also contribute to and evolve the design system and mentor other designers.\n\nCore Responsibilities:\n* Own complex product initiatives from early discovery through launch and iteration. \n* Define the integration of AI workflows and agents into the Grata experience. \n* Design experiences that translate large, complex datasets into discoverable, understandable, and actionable information. \n* Partner with Product and Engineering to define problems, explore opportunities, and shape product direction. \n* Create user flows, wireframes, prototypes, and polished UI in Figma. \n* Utilize AI and code-based prototyping tools for rapid ideation and testing. \n* Collaborate closely with engineers to ensure high-quality implementation. \n* Contribute to and evolve the company's design system and interaction patterns. \n* Provide thoughtful critique and mentorship to other designers.\n\nRequirements:\n* Extensive experience designing complex B2B SaaS, financial technology, data-heavy products, or professional tools. \n* Proven experience designing AI-powered products, agents, or workflows. \n* Proficiency with code-based prototyping tools (e.g., Figma Make, Cursor). \n* Demonstrated ability to design products that help users navigate, understand, and make decisions from large or complex datasets. \n* Experience contributing to or evolving a mature design system. \n* Track record of mentoring other product designers. \n* Comfortable with strategic thinking, user research, concept exploration, and detailed UI design.",
+      "specialty": "AI, Data-heavy Products for Dealmakers",
+      "salary": "",
       "status": "New",
-      "scannedAt": "2026-10-26T17:23:08.021Z",
+      "scannedAt": "2026-10-26T23:07:13.994Z",
+      "isNew": true
+    },
+    {
+      "id": "job-sv1hkv",
+      "title": "Lead Product Designer",
+      "company": "Atlassian",
+      "companyDomain": "atlassian.com",
+      "industry": "Enterprise Software, Developer Tools",
+      "location": "Remote (U.S. Only)",
+      "postedAt": "2026-10-24",
+      "fitScore": 10,
+      "fitTier": "Strong Fit",
+      "fitExplanation": "This is an outstanding fit, leveraging Michael's experience in complex enterprise software, AI-native workflows, and strong visual craft. His background in leading initiatives, mentorship, and owning the end-to-end design process aligns perfectly with the responsibilities for Jira, a core Atlassian product. The remote US location is ideal.",
+      "source": "Jobgether (Aggregator)",
+      "applyUrl": "N/A",
+      "isOffLinkedIn": false,
+      "jobDescription": "Summary: Atlassian is hiring a Lead Product Designer for Jira, focusing on conceiving and delivering industry-leading experiences. This role involves mentoring the Jira design team, leading strategic initiatives, and setting a cohesive vision across interconnected projects. The designer will own the entire design process, from strategy to UI implementation, with a strong emphasis on AI-native processes and high visual craft.\n\nCore Responsibilities:\n* Conceptualize and deliver industry-leading experiences for Jira's complex or enterprise-level software. \n* Mentor the Jira design team and lead strategic initiatives, establishing a cohesive product vision. \n* Own the entire design process, defining end-to-end product experiences and user journeys. \n* Collaborate effectively with cross-functional teams to champion the user experience. \n* Design AI-native processes, workflows, and agentic tooling. \n* Maintain a high level of craft in visual design execution. \n* Develop strong prototyping skills to effectively communicate options, configurations, and trade-offs.\n\nRequirements:\n* 7+ years of product design experience in complex or enterprise-level software. \n* Demonstrated high level of craft in visual design execution. \n* Strong prototyping skills, capable of presenting clear design options and trade-offs. \n* Recent experience designing AI-native processes, workflows, and agentic tooling. \n* Ability to mentor the design team and lead strategic initiatives. \n* Capacity to own the entire design process and define end-to-end product experiences. \n* Excellent cross-functional collaboration skills.",
+      "specialty": "Jira",
+      "salary": "",
+      "status": "New",
+      "scannedAt": "2026-10-26T23:07:13.994Z",
+      "isNew": true
+    },
+    {
+      "id": "job-rpdnrt",
+      "title": "Senior Product Designer",
+      "company": "Apollo GraphQL",
+      "companyDomain": "apollographql.com",
+      "industry": "Developer Tools, Cloud Infrastructure, B2B SaaS",
+      "location": "Remote",
+      "postedAt": "2026-10-23",
+      "fitScore": 10,
+      "fitTier": "Strong Fit",
+      "fitExplanation": "An exceptional match for Michael's expertise in developer tools, cloud infrastructure, and complex B2B SaaS. His experience with 0-to-1 work, design systems, and visual craft aligns perfectly with the role's focus on owning workflows for technical users and contributing to emerging agentic products. The remote location is a strong plus.",
+      "source": "Jobgether (Aggregator)",
+      "applyUrl": "N/A",
+      "isOffLinkedIn": false,
+      "jobDescription": "Summary: Apollo GraphQL is seeking a remote Senior Product Designer to own the design of workflows within their developer tools, from discovery to shipping. The role emphasizes partnering with engineering and product, rapidly iterating on v1s, designing for technical product trustworthiness (edge cases, errors, permissions), and contributing to the design system. Focus areas include developer onboarding, core product interfaces, and emerging agentic products.\n\nCore Responsibilities:\n* Own design for defined workflows in developer tools, covering the entire lifecycle from discovery to shipped experience. \n* Partner daily with engineers and Product Managers to shape product development and navigate scope/trade-offs. \n* Scope minimal viable products (v1s) that deliver value quickly, then iterate based on usage and feedback. \n* Design meticulous details for technical products, such as states, edge cases, errors, and permissions, to build trust. \n* Contribute reusable patterns and components to the design system, and assist in migrating existing product surfaces. \n* Work on critical areas including developer onboarding, core product interfaces, and emerging agentic products.\n\nRequirements:\n* 5+ years of software design experience, with a focus on product or UX design. \n* A strong portfolio demonstrating shipped work. \n* Experience designing complex products, particularly for technical users (e.g., developer tools, infrastructure, data, security, identity, APIs). \n* A proven track record of owning features or workflows end-to-end. \n* Strong visual design, interaction design, and overall craft skills. \n* Comfortable working through ambiguity within defined problem areas. \n* Curiosity about emerging AI-powered experiences.",
+      "specialty": "Developer Tools, Cloud Infrastructure",
+      "salary": "",
+      "status": "New",
+      "scannedAt": "2026-10-26T23:07:13.994Z",
+      "isNew": true
+    },
+    {
+      "id": "job-bwbfrq",
+      "title": "Senior Product Designer",
+      "company": "Charles River Development",
+      "companyDomain": "crd.com",
+      "industry": "Fintech, Enterprise Software, Data Platforms",
+      "location": "Remote (U.S. Only)",
+      "postedAt": "2026-10-24",
+      "fitScore": 9.5,
+      "fitTier": "Strong Fit",
+      "fitExplanation": "This role is an excellent fit for Michael's extensive fintech background, particularly his experience with complex data systems, transactional flows, and enterprise software. His ability to lead a user-centered design process, build simple yet impactful experiences from complex concepts, and work with component libraries aligns well. The remote US option is ideal.",
+      "source": "Hiring Cafe (Aggregator)",
+      "applyUrl": "N/A",
+      "isOffLinkedIn": false,
+      "jobDescription": "Summary: Charles River Development, a State Street Company, is seeking a Senior Product Designer to lead user-centered design for new experiences in private markets. This role involves transforming complex financial concepts and processes into simple, intuitive business outcomes. The designer will lead major initiatives, partner with product and engineering, and contribute to design excellence across the company.\n\nCore Responsibilities:\n* Lead a user-centered design process from concept development through release, measurement, and iteration, focusing on impactful product experiences. \n* Collaborate with users, product teams, and engineering to define and improve processes for problem identification, solution brainstorming, and efficient shipping. \n* Communicate design work effectively across the company to gather feedback, inspire, and drive conversations about design excellence. \n* Build new experiences that simplify complex financial concepts and processes into intuitive business outcomes for private markets clients. \n* Shape the future direction of the product and lead design on major new initiatives. \n* Utilize user research and contribute to component library development. \n* Possibly travel for client engagements (approximately 20%).\n\nRequirements:\n* 5+ years of experience delivering impactful product design work. \n* Specific experience in fintech, data platform, or Business Intelligence (BI) tools is a strong advantage. \n* Excellent communication skills and a collaborative approach to design execution. \n* A proactive approach with a willingness to adapt to varying resource availability. \n* A portfolio that showcases a strong track record and commitment to continuous improvement. \n* Ability to effectively give and receive design critique. \n* Desire to work in a high-growth environment. \n* Experience with user research and component libraries. \n* Comfortable with potential travel for client engagements (~20%).",
+      "specialty": "Private Markets, Investment Management Software",
+      "salary": "",
+      "status": "New",
+      "scannedAt": "2026-10-26T23:07:13.994Z",
       "isNew": true
     }
   ],
-  "scannedAt": "2026-10-26T17:24:38.850Z"
+  "scannedAt": "2026-10-26T23:08:25.475Z"
 }
