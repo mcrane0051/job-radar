@@ -899,7 +899,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-10-27T16:39:10.021Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-qawf2p",
@@ -2202,7 +2202,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-10-27T16:39:10.021Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-ocqog0",
@@ -2521,22 +2521,100 @@
       "id": "job-9rn3li",
       "title": "Lead Product Designer",
       "company": "Grata",
-      "companyDomain": "datasite.com",
-      "industry": "Fintech, Enterprise Software",
-      "location": "Hybrid in NYC",
-      "postedAt": "2026-10-25",
-      "fitScore": 8.5,
+      "companyDomain": "grata.com",
+      "industry": "B2B SaaS, FinTech, Enterprise Software",
+      "location": "Hybrid (New York City, NY)",
+      "postedAt": "2026-10-24",
+      "fitScore": 9,
       "fitTier": "Good Fit",
-      "fitExplanation": "This role is an excellent match for Michael's experience in complex B2B SaaS, data-heavy products, and financial technology. His expertise in AI-powered workflows, design systems, and mentoring aligns perfectly with the requirements. The hybrid NYC location is within his preference, with a slight deduction for not being fully remote.",
-      "source": "Myworkdayjobs.com (Aggregator)",
-      "applyUrl": "N/A",
-      "isOffLinkedIn": false,
-      "jobDescription": "Summary: Grata, part of Datasite, is seeking a Lead Product Designer to shape products for dealmakers, focusing on making proprietary, complex data accessible and integrating AI-powered workflows. This role involves leading complex initiatives from discovery to launch, transforming data into intuitive experiences, and partnering closely with Product and Engineering. The successful candidate will also contribute to and evolve the design system and mentor other designers.\n\nCore Responsibilities:\n* Own complex product initiatives from early discovery through launch and iteration. \n* Define the integration of AI workflows and agents into the Grata experience. \n* Design experiences that translate large, complex datasets into discoverable, understandable, and actionable information. \n* Partner with Product and Engineering to define problems, explore opportunities, and shape product direction. \n* Create user flows, wireframes, prototypes, and polished UI in Figma. \n* Utilize AI and code-based prototyping tools for rapid ideation and testing. \n* Collaborate closely with engineers to ensure high-quality implementation. \n* Contribute to and evolve the company's design system and interaction patterns. \n* Provide thoughtful critique and mentorship to other designers.\n\nRequirements:\n* Extensive experience designing complex B2B SaaS, financial technology, data-heavy products, or professional tools. \n* Proven experience designing AI-powered products, agents, or workflows. \n* Proficiency with code-based prototyping tools (e.g., Figma Make, Cursor). \n* Demonstrated ability to design products that help users navigate, understand, and make decisions from large or complex datasets. \n* Experience contributing to or evolving a mature design system. \n* Track record of mentoring other product designers. \n* Comfortable with strategic thinking, user research, concept exploration, and detailed UI design.",
-      "specialty": "AI, Data-heavy Products for Dealmakers",
+      "fitExplanation": "This Lead Product Designer role at Grata presents a strong opportunity, aligning well with Michael's experience in complex B2B SaaS, data-heavy interfaces, and FinTech-adjacent problem spaces. The company is well-established (part of Datasite), meeting the Series C+ requirement. The role's focus on AI-powered workflows and agents, and leveraging data for dealmakers, strongly matches Michael's specialization in complex data systems and use of AI tools. While it is a hybrid role in NYC (a permissible location), the candidate's preference for remote work incurs a slight deduction in the score.",
+      "source": "MyWorkdayJobs.com",
+      "applyUrl": "https://datasite.wd1.myworkdayjobs.com/DatasiteCareers/job/New-York-City-NY/Lead-Product-Designer_R5302",
+      "specialty": "AI-Powered Workflows",
       "salary": "",
+      "keywords": [
+        {
+          "keyword": "Lead Product Designer",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Targeting Lead Product Designer roles with 10+ years of experience."
+        },
+        {
+          "keyword": "B2B SaaS",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael's primary industry expertise is B2B SaaS."
+        },
+        {
+          "keyword": "financial technology",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael has deep context in FinTech adjacent areas like payment reconciliation and transactional flows."
+        },
+        {
+          "keyword": "data-heavy products",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael specializes in complex data systems and information-dense enterprise software."
+        },
+        {
+          "keyword": "AI-powered workflows and agents",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael uses AI tools (Figma Make, Cursor) and thrives in ambiguous 0-to-1 discovery, which often involves new technological applications."
+        },
+        {
+          "keyword": "user research",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael lists user research as a key design practice skill and has conducted extensive research."
+        },
+        {
+          "keyword": "complex workflows",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael specializes in complex workflow design, including transactional flows and revenue operations."
+        },
+        {
+          "keyword": "Figma",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Figma is Michael's primary design tool."
+        },
+        {
+          "keyword": "code-based prototyping tools",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael uses Figma Make, Cursor for prototyping."
+        },
+        {
+          "keyword": "design system",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael has experience establishing scalable design systems and contributing to consistency at scale."
+        },
+        {
+          "keyword": "mentoring other product designers",
+          "inProfile": true,
+          "relevance": "nice-to-have",
+          "note": "Michael has experience managing and mentoring a team of designers."
+        },
+        {
+          "keyword": "ambiguous problem spaces",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael thrives when structure needs to be created, not just followed."
+        },
+        {
+          "keyword": "Hybrid New York City",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael is open to Hybrid in NYC, though prefers remote."
+        }
+      ],
       "status": "New",
-      "scannedAt": "2026-10-26T23:07:13.994Z",
-      "isNew": false
+      "scannedAt": "2026-10-27T22:57:02.230Z",
+      "isNew": true
     },
     {
       "id": "job-sv1hkv",
@@ -2628,7 +2706,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-10-27T16:39:10.021Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-bwbfrq",
@@ -2719,7 +2797,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-10-27T16:39:10.021Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-tdaz87",
@@ -2795,7 +2873,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-10-27T16:39:10.021Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-cnzyvp",
@@ -2878,7 +2956,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-10-27T16:39:10.021Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-co5bv0",
@@ -2967,8 +3045,113 @@
       ],
       "status": "New",
       "scannedAt": "2026-10-27T16:39:10.021Z",
+      "isNew": false
+    },
+    {
+      "id": "job-tl183p",
+      "title": "Senior Product Designer",
+      "company": "RevenueCat",
+      "companyDomain": "revenuecat.com",
+      "industry": "B2B SaaS, Developer Tools",
+      "location": "Remote (U.S. Only)",
+      "postedAt": "2026-10-26",
+      "fitScore": 10,
+      "fitTier": "Strong Fit",
+      "fitExplanation": "This role is an exceptionally strong match for Michael's profile, aligning perfectly with his experience in complex B2B SaaS and developer tools, end-to-end design ownership, and focus on technically complex workflows. The company is a Series C startup, and the role is fully remote within the U.S., which is Michael's preferred work arrangement. His expertise in visual craft, ambiguity, and collaboration with product and engineering are directly called out in the job description. The use of AI tools is also a beneficial alignment.",
+      "source": "Built In San Francisco",
+      "applyUrl": "N/A",
+      "specialty": "",
+      "salary": "",
+      "keywords": [
+        {
+          "keyword": "complex product problems",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael specializes in complex B2B SaaS product design, data-heavy interfaces, and transactional workflows."
+        },
+        {
+          "keyword": "discovery through production",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael operates effectively across the full design lifecycle from 0-to-1 discovery to shipped product."
+        },
+        {
+          "keyword": "B2B SaaS",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael's primary industry expertise is B2B SaaS."
+        },
+        {
+          "keyword": "developer tools",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael has deep context in developer tools and enterprise software."
+        },
+        {
+          "keyword": "technically complex workflows",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael specializes in making complex systems delightful and tactile."
+        },
+        {
+          "keyword": "simple, polished experiences",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Aligns with Michael's design philosophy emphasizing intentional visual hierarchy, tactile interaction design, and rigorous systems thinking."
+        },
+        {
+          "keyword": "Product and Engineering collaboration",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael has experience working closely with product managers and engineering leads."
+        },
+        {
+          "keyword": "ambiguity",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael thrives in ambiguous 0-to-1 problem spaces."
+        },
+        {
+          "keyword": "prototypes",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael lists prototyping as a key design practice skill."
+        },
+        {
+          "keyword": "AI tools",
+          "inProfile": true,
+          "relevance": "nice-to-have",
+          "note": "Michael uses AI tools like Figma Make and Cursor to accelerate discovery and prototyping."
+        },
+        {
+          "keyword": "information architecture",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael lists information architecture as a key design practice skill."
+        },
+        {
+          "keyword": "visual craft",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael has a strong visual eye due to his graphic design background."
+        },
+        {
+          "keyword": "design systems",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael has experience establishing scalable design systems and contributes to consistency at scale."
+        },
+        {
+          "keyword": "remote, asynchronous",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael is open to remote work and communicates clearly in remote environments."
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-10-27T22:57:02.230Z",
       "isNew": true
     }
   ],
-  "scannedAt": "2026-10-27T16:40:40.926Z"
+  "scannedAt": "2026-10-27T22:58:12.734Z"
 }
