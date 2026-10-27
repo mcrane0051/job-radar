@@ -834,84 +834,72 @@
     {
       "id": "job-dwkhpr",
       "title": "Senior Product Designer",
-      "specialty": "Risk Modeling",
       "company": "Vanta",
       "companyDomain": "vanta.com",
-      "industry": "B2B SaaS, Enterprise Software, Security, Compliance, FinTech",
+      "industry": "GRC (Governance, Risk, and Compliance), B2B SaaS, FinTech",
       "location": "Remote (U.S. Only)",
-      "postedAt": "2026-10-22",
-      "fitScore": 9,
+      "postedAt": "2026-10-25",
+      "fitScore": 10,
       "fitTier": "Strong Fit",
-      "fitExplanation": "This remote Senior Product Designer role is a strong fit, particularly due to its focus on complex, high-stakes risk management within enterprise software, which aligns with Michael's expertise in highly complex B2B SaaS problem spaces. His background in finance/transactional flows (payment reconciliation, revenue operations) is highly relevant to risk and compliance. Michael's systems thinking, 0-to-1 problem-solving, and cross-functional collaboration skills are key requirements for this role.",
-      "source": "Careers In Creative",
+      "fitExplanation": "This role is an excellent match for Michael, focusing on complex B2B SaaS, enterprise software, risk management, security, and finance – all areas where Michael has deep context and expertise. His experience in high-stakes problem spaces, transactional flows, and building trust in systems makes him highly suitable for designing clear, actionable risk information and configurable systems. The company's Series C funding aligns perfectly with his preferences.",
+      "source": "GRC Careers",
       "applyUrl": "N/A",
-      "jobDescription": "\n- Lead end-to-end product design for the Risk Modeling team, shaping foundational risk-management capabilities and customer-facing workflows.\n- Partner with cross-functional teams (Product, Engineering, Research, Data, Customer Success, Solutions, and risk subject-matter experts) to translate ambiguous problems into thoughtful, scalable, and understandable experiences.\n- Transform complex, high-stakes risk workflows (often managed through fragmented spreadsheets and manual processes) into clear, connected, and actionable solutions.\n- Design configurable systems with multiple user types, permissions, workflows, and interconnected objects.\n- Establish design patterns that will influence product teams across Vanta.\n",
-      "salary": "Not provided.",
+      "isOffLinkedIn": false,
+      "jobDescription": "Vanta is seeking a Senior Product Designer to join the Risk Modeling team, focusing on transforming complex, high-stakes risk workflows into clear, connected, and actionable experiences. This role involves shaping foundational risk-management capabilities and customer-facing workflows within Vanta's product. The designer will partner with cross-functional teams including Product, Engineering, Research, Data, and subject-matter experts to tackle ambiguous problems and deliver thoughtful, scalable, and understandable experiences. Success in this role requires at least 7 years of product design experience in B2B SaaS, complex workflows, enterprise software, or other sophisticated products, particularly in enterprise, admin, risk, security, compliance, or finance domains. Key qualifications include strong systems thinking, the ability to design configurable systems with multiple user types and complex decision-making, clear communication, influence across partners, comfort with ambiguity, and sound judgment, utilizing modern tools, including AI, to enhance outcomes.",
+      "specialty": "Risk Modeling",
       "keywords": [
-        {
-          "keyword": "Senior Product Designer",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Direct title match and aligns with experience level."
-        },
         {
           "keyword": "B2B SaaS",
           "inProfile": true,
           "relevance": "required",
-          "note": "Explicitly stated and Michael's primary expertise."
+          "note": "Direct match with candidate's primary expertise."
         },
         {
-          "keyword": "Complex workflows",
+          "keyword": "complex workflows",
           "inProfile": true,
           "relevance": "required",
-          "note": "Michael specializes in complex B2B SaaS, data-heavy interfaces, and transactional flows in high-stakes environments."
+          "note": "Michael specializes in complex data systems, transactional flows, and enterprise seller tools."
         },
         {
-          "keyword": "Enterprise software",
+          "keyword": "enterprise software",
           "inProfile": true,
           "relevance": "required",
-          "note": "Michael's primary focus, with depth in B2B SaaS, complex workflows, and enterprise software."
+          "note": "Primary expertise of the candidate."
         },
         {
-          "keyword": "Finance/FinTech adjacent",
-          "inProfile": true,
-          "relevance": "strong",
-          "note": "Risk management and compliance are closely related to Michael's experience in payment reconciliation, transactional flows, and revenue operations."
-        },
-        {
-          "keyword": "0-to-1 and ambiguous problem spaces",
+          "keyword": "risk, security, compliance, finance products",
           "inProfile": true,
           "relevance": "required",
-          "note": "Michael thrives when structure needs to be created from ambiguous problems."
+          "note": "Direct alignment with Michael's FinTech adjacent and high-stakes problem space experience."
         },
         {
-          "keyword": "Cross-functional collaboration",
+          "keyword": "configurable systems",
           "inProfile": true,
           "relevance": "required",
-          "note": "Explicitly mentioned as partnering with various stakeholders."
+          "note": "Matches Michael's rigorous systems thinking and design system expertise."
         },
         {
-          "keyword": "Design systems",
-          "inProfile": true,
-          "relevance": "strong",
-          "note": "Michael has strong design system experience; his work will influence patterns across the product."
-        },
-        {
-          "keyword": "Data-heavy interfaces",
+          "keyword": "strong systems thinking",
           "inProfile": true,
           "relevance": "required",
-          "note": "Risk management involves significant data and configurable systems, aligning with Michael's expertise."
+          "note": "Core design philosophy of the candidate."
         },
         {
-          "keyword": "User Research",
+          "keyword": "ambiguity (complex product spaces)",
           "inProfile": true,
-          "relevance": "strong",
-          "note": "Explicitly mentioned as collaborating with a 'Research' team."
+          "relevance": "required",
+          "note": "Michael thrives in ambiguous 0-to-1 problem spaces where structure needs to be created."
+        },
+        {
+          "keyword": "AI tools",
+          "inProfile": true,
+          "relevance": "desired",
+          "note": "Michael uses AI tools (Figma Make, Cursor)."
         }
       ],
       "status": "New",
-      "scannedAt": "2026-10-25T21:47:45.591Z",
-      "isNew": false
+      "scannedAt": "2026-10-27T16:39:10.021Z",
+      "isNew": true
     },
     {
       "id": "job-qawf2p",
@@ -1718,7 +1706,7 @@
       "salary": "$159,000 - $254,000",
       "status": "New",
       "scannedAt": "2026-10-26T23:07:13.994Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-nunveo",
@@ -2145,81 +2133,76 @@
       "title": "Senior Staff Product Designer",
       "company": "Samsara",
       "companyDomain": "samsara.com",
-      "industry": "B2B SaaS, Enterprise Software, IoT, Cloud Infrastructure",
-      "location": "Remote - US",
+      "industry": "Connected Operations Cloud, B2B SaaS, Enterprise Software",
+      "location": "Remote (U.S. Only)",
       "postedAt": "2026-10-24",
       "fitScore": 9,
       "fitTier": "Strong Fit",
-      "fitExplanation": "Very strong alignment with Michael's experience in complex B2B SaaS, enterprise software, and data-heavy systems. The 'AI for Ops Platform' specialization is a direct hit on his recent AI tool usage and interest in leveraging technology for operational efficiency. His background in a lead capacity and desire for Staff-level work aligns perfectly with setting vision, leading multi-area design, and mentoring. Samsara is a public company, meeting the stability preference. Remote work preference is met.",
+      "fitExplanation": "This role is a strong fit for Michael's expertise in B2B SaaS, enterprise software, and making complex systems intuitive. The focus on an 'AI for Ops Platform' aligns with Michael's experience in revenue operations infrastructure and his use of AI tools. His ability to set design vision, lead multi-area design, craft interaction/visual systems, and mentor aligns well with a Senior Staff-level position and his desire for IC contributor roles with leadership scope.",
       "source": "Himalayas",
       "applyUrl": "N/A",
+      "isOffLinkedIn": false,
+      "jobDescription": "Samsara is seeking a Senior Staff Product Designer for its AI for Ops Platform to establish a vision and deliver solutions that shape customer and internal team operations. This role involves partnering with Product and Engineering teams, building relationships with strategic customers remotely across the US. The position emphasizes leading multi-area design initiatives, crafting sophisticated interaction and visual systems, and utilizing AI tools to accelerate delivery. The Senior Staff Product Designer will also be responsible for mentoring other designers. Samsara's mission revolves around increasing the safety, efficiency, and sustainability of operations through its Connected Operations Cloud.",
       "specialty": "AI for Ops Platform",
-      "salary": "",
       "keywords": [
         {
-          "keyword": "Complex B2B SaaS",
+          "keyword": "B2B SaaS",
           "inProfile": true,
           "relevance": "required",
-          "note": "Job is for Samsara's Connected Operations Cloud, which is B2B SaaS and Enterprise Software."
+          "note": "Direct match with candidate's primary expertise."
         },
         {
-          "keyword": "Complex data systems",
+          "keyword": "enterprise software",
           "inProfile": true,
           "relevance": "required",
-          "note": "Role involves harnessing IoT data for actionable business insights."
+          "note": "Primary expertise of the candidate."
         },
         {
-          "keyword": "Enterprise UX",
+          "keyword": "AI for Ops Platform",
           "inProfile": true,
           "relevance": "required",
-          "note": "Focuses on how customers and internal teams operate."
+          "note": "Aligns with Michael's experience in revenue operations infrastructure and AI tool usage."
         },
         {
-          "keyword": "0-to-1 / ambiguous problem spaces",
+          "keyword": "set design vision",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael has experience shaping design strategy at team and org levels."
+        },
+        {
+          "keyword": "lead multi-area design",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael has lead designer experience and enjoys creating structure."
+        },
+        {
+          "keyword": "interaction and visual systems",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael's strong visual eye and systems thinking are core to his philosophy."
+        },
+        {
+          "keyword": "AI tools to accelerate delivery",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael uses AI tools (Figma Make, Cursor) for efficiency."
+        },
+        {
+          "keyword": "mentoring designers",
           "inProfile": true,
           "relevance": "desired",
-          "note": "Implied by 'set a vision' and 'shape how customers and internal teams operate'."
+          "note": "Michael has managed and mentored designers."
         },
         {
-          "keyword": "Scaling existing products",
+          "keyword": "Connected Operations Cloud",
           "inProfile": true,
           "relevance": "required",
-          "note": "Implied by 'crafting interaction and visual systems'."
-        },
-        {
-          "keyword": "Cross-functional collaboration",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Requires partnering with Product and Engineering, and building relationships with strategic customers."
-        },
-        {
-          "keyword": "Design systems",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Role includes crafting interaction and visual systems."
-        },
-        {
-          "keyword": "AI tools",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Explicitly mentions 'Leverage AI tools to accelerate delivery'."
-        },
-        {
-          "keyword": "Mentoring",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Role explicitly includes 'mentoring others'."
-        },
-        {
-          "keyword": "Staff Product Designer",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Target role level for Michael Crane."
+          "note": "Implies complex platform and data systems, aligning with Michael's expertise in complex data systems and marketplace infrastructure."
         }
       ],
       "status": "New",
-      "scannedAt": "2026-10-24T21:36:28.717Z",
-      "isNew": false
+      "scannedAt": "2026-10-27T16:39:10.021Z",
+      "isNew": true
     },
     {
       "id": "job-ocqog0",
@@ -2553,7 +2536,7 @@
       "salary": "",
       "status": "New",
       "scannedAt": "2026-10-26T23:07:13.994Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-sv1hkv",
@@ -2574,27 +2557,77 @@
       "salary": "",
       "status": "New",
       "scannedAt": "2026-10-26T23:07:13.994Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-rpdnrt",
       "title": "Senior Product Designer",
       "company": "Apollo GraphQL",
       "companyDomain": "apollographql.com",
-      "industry": "Developer Tools, Cloud Infrastructure, B2B SaaS",
-      "location": "Remote",
-      "postedAt": "2026-10-23",
-      "fitScore": 10,
+      "industry": "Developer Tools",
+      "location": "Remote (U.S. Only)",
+      "postedAt": "2026-10-24",
+      "fitScore": 9,
       "fitTier": "Strong Fit",
-      "fitExplanation": "An exceptional match for Michael's expertise in developer tools, cloud infrastructure, and complex B2B SaaS. His experience with 0-to-1 work, design systems, and visual craft aligns perfectly with the role's focus on owning workflows for technical users and contributing to emerging agentic products. The remote location is a strong plus.",
-      "source": "Jobgether (Aggregator)",
+      "fitExplanation": "This role is a strong fit for Michael due to its core focus on developer tools and complex technical systems. His experience with enterprise software, design systems, 0-to-1 problem spaces, and the use of AI tools directly aligns with the job's requirements. The emphasis on trustworthy technical products, edge cases, and permissions mirrors the high-stakes, high-complexity problem spaces Michael thrives in. Apollo GraphQL's Series C/D funding also meets the company stage preference.",
+      "source": "WoodyJobs.com",
       "applyUrl": "N/A",
       "isOffLinkedIn": false,
-      "jobDescription": "Summary: Apollo GraphQL is seeking a remote Senior Product Designer to own the design of workflows within their developer tools, from discovery to shipping. The role emphasizes partnering with engineering and product, rapidly iterating on v1s, designing for technical product trustworthiness (edge cases, errors, permissions), and contributing to the design system. Focus areas include developer onboarding, core product interfaces, and emerging agentic products.\n\nCore Responsibilities:\n* Own design for defined workflows in developer tools, covering the entire lifecycle from discovery to shipped experience. \n* Partner daily with engineers and Product Managers to shape product development and navigate scope/trade-offs. \n* Scope minimal viable products (v1s) that deliver value quickly, then iterate based on usage and feedback. \n* Design meticulous details for technical products, such as states, edge cases, errors, and permissions, to build trust. \n* Contribute reusable patterns and components to the design system, and assist in migrating existing product surfaces. \n* Work on critical areas including developer onboarding, core product interfaces, and emerging agentic products.\n\nRequirements:\n* 5+ years of software design experience, with a focus on product or UX design. \n* A strong portfolio demonstrating shipped work. \n* Experience designing complex products, particularly for technical users (e.g., developer tools, infrastructure, data, security, identity, APIs). \n* A proven track record of owning features or workflows end-to-end. \n* Strong visual design, interaction design, and overall craft skills. \n* Comfortable working through ambiguity within defined problem areas. \n* Curiosity about emerging AI-powered experiences.",
-      "specialty": "Developer Tools, Cloud Infrastructure",
-      "salary": "",
+      "jobDescription": "Apollo GraphQL is hiring a Senior Product Designer to shape developer tools, core product interfaces, and emerging agentic products. This individual contributor role involves owning end-to-end design for defined workflows, collaborating daily with engineers and product managers to influence scope and trade-offs, and iterating based on usage and feedback. The designer will focus on creating trustworthy technical products by meticulously designing states, edge cases, errors, and permissions. Key responsibilities include contributing reusable patterns and components to the design system and leveraging AI tools for rapid prototyping and testing. The role requires a strong portfolio and at least 5 years of experience, ideally in complex technical systems.",
+      "specialty": "Developer Tools, AI",
+      "salary": "$150k - $180k",
+      "keywords": [
+        {
+          "keyword": "developer tools",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael has deep context in developer tools and enterprise software."
+        },
+        {
+          "keyword": "complex technical systems",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Direct match with Michael's specialization in complex B2B SaaS products and data systems."
+        },
+        {
+          "keyword": "end-to-end design workflows",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael operates across the full design lifecycle."
+        },
+        {
+          "keyword": "design system contributions",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael has extensive experience with design systems and consistency at scale."
+        },
+        {
+          "keyword": "AI tools (prototyping and testing)",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael actively uses AI tools (Figma Make, Cursor) in his workflow."
+        },
+        {
+          "keyword": "design for trustworthiness (states, edge cases, errors, permissions)",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "This aligns with Michael's focus on clarity and trust in high-stakes problem spaces."
+        },
+        {
+          "keyword": "0-to-1 problem spaces",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael thrives in ambiguous 0-to-1 discovery environments."
+        },
+        {
+          "keyword": "cross-functional collaboration",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael is embedded with product and engineering teams."
+        }
+      ],
       "status": "New",
-      "scannedAt": "2026-10-26T23:07:13.994Z",
+      "scannedAt": "2026-10-27T16:39:10.021Z",
       "isNew": true
     },
     {
@@ -2616,8 +2649,326 @@
       "salary": "",
       "status": "New",
       "scannedAt": "2026-10-26T23:07:13.994Z",
+      "isNew": false
+    },
+    {
+      "id": "job-4alsht",
+      "title": "Senior Product Designer",
+      "company": "HighLevel",
+      "companyDomain": "gohighlevel.com",
+      "industry": "B2B SaaS",
+      "location": "Remote (U.S. Only)",
+      "postedAt": "2026-10-24",
+      "fitScore": 9,
+      "fitTier": "Strong Fit",
+      "fitExplanation": "This role is a strong fit due to its focus on B2B SaaS, platform, and workflow-heavy environments, which aligns directly with Michael's 10+ years of experience in complex B2B SaaS products, particularly his work at Tackle.io with enterprise transactional platforms. The emphasis on craft, systems thinking, design lifecycle, and AI-assisted design workflows matches Michael's skills and design philosophy. The company being Series C meets the minimum stage requirement.",
+      "source": "JobLeads",
+      "applyUrl": "N/A",
+      "isOffLinkedIn": false,
+      "jobDescription": "HighLevel is seeking a Senior Product Designer to enhance its product experiences with strong craft and execution. This designer will join cross-functional teams encompassing product, engineering, and research to translate customer needs into polished designs for the HighLevel platform. Key responsibilities include leading design from discovery to delivery, building scalable design systems, and ensuring adherence to accessibility and performance standards. The role requires a strong portfolio demonstrating product judgment, systems thinking, customer empathy, high-quality execution, and measurable product impact in complex digital product environments. Responsibilities also cover creating wireframes, prototypes, high-fidelity designs, interaction specifications, and production-ready documentation, as well as designing clear workflows, edge cases, and failure states.",
+      "specialty": "B2B SaaS Platform",
+      "keywords": [
+        {
+          "keyword": "B2B SaaS",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Direct match with candidate's primary expertise."
+        },
+        {
+          "keyword": "platform design",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Aligns with Michael's experience in multi-cloud transactional platforms and enterprise software."
+        },
+        {
+          "keyword": "workflow-heavy products",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Direct match with Michael's specialization in complex data systems and transactional flows."
+        },
+        {
+          "keyword": "design lifecycle (discovery to delivery)",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael operates across the full design lifecycle, from 0-to-1 discovery to shipped product."
+        },
+        {
+          "keyword": "scalable design systems",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael has experience establishing scalable design systems and consistency at scale."
+        },
+        {
+          "keyword": "visual and interaction design craft",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Matches Michael's strong visual eye and tactile interaction design philosophy."
+        },
+        {
+          "keyword": "AI-assisted design workflows",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael uses AI tools (Figma Make, Cursor) to accelerate discovery and prototyping."
+        },
+        {
+          "keyword": "cross-functional collaboration",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael thrives in cross-functional collaboration with product, engineering, and executives."
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-10-27T16:39:10.021Z",
+      "isNew": true
+    },
+    {
+      "id": "job-tdaz87",
+      "title": "Staff Product Designer",
+      "company": "Spotify",
+      "companyDomain": "spotify.com",
+      "industry": "Developer Tools, Enterprise Software",
+      "location": "Remote (U.S. Only)",
+      "postedAt": "2026-10-25",
+      "fitScore": 10,
+      "fitTier": "Strong Fit",
+      "fitExplanation": "This role is an exceptionally strong fit, directly aligning with Michael's expertise in enterprise software, developer tools, and making complex systems delightful. His experience leading product design for multi-cloud transactional platforms and designing work management software directly translates to Spotify's Platform Design focus. The requirement for AI tools, complex problem-solving, and a blend of leadership with hands-on design perfectly matches Michael's profile and target Staff-level work.",
+      "source": "JobCannon",
+      "applyUrl": "N/A",
+      "isOffLinkedIn": false,
+      "jobDescription": "Spotify's Platform Design team is seeking a Staff Product Designer to shape the services, products, and experiences used by Spotify's engineering teams and global developers. This role involves combining product leadership with hands-on design and engineering, focusing on making powerful developer tools feel effortless. The designer will work across strategy and execution, building and shipping user interfaces with modern front-end technology stacks, and creating cohesive visual experiences across product and brand using interaction, motion, and design systems. Understanding developer tools, enterprise software, or platform products, and designing for technical audiences is crucial. The position requires comfort navigating ambiguity, using research and data for decision-making, clear communication, influencing product decisions, and mentoring others. Proficiency in generative AI and agentic tools for design workflows is highly valued.",
+      "specialty": "Platform Design, AI",
+      "keywords": [
+        {
+          "keyword": "developer tools",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Direct experience in developer tools is highlighted in Michael's background."
+        },
+        {
+          "keyword": "enterprise software",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Primary expertise of the candidate."
+        },
+        {
+          "keyword": "platform products",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael has led design for enterprise multi-cloud transactional platforms."
+        },
+        {
+          "keyword": "AI-powered/agentic tools",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael uses AI tools (Figma Make, Cursor) and has a strong interest in AI's application in design."
+        },
+        {
+          "keyword": "strategy and execution",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael operates effectively across the full design lifecycle, from 0-to-1 discovery to shipped product."
+        },
+        {
+          "keyword": "cohesive visual experiences",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael's foundation in visual systems and graphic design brings a strong visual eye and craft."
+        },
+        {
+          "keyword": "design systems",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael has experience establishing scalable design systems."
+        },
+        {
+          "keyword": "design for technical audiences",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Aligns with Michael's experience designing complex B2B SaaS for revenue ops, finance, and sales teams at large tech companies."
+        },
+        {
+          "keyword": "mentoring designers",
+          "inProfile": true,
+          "relevance": "desired",
+          "note": "Michael has managed and mentored a team of 3 designers."
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-10-27T16:39:10.021Z",
+      "isNew": true
+    },
+    {
+      "id": "job-cnzyvp",
+      "title": "Lead Product Designer",
+      "company": "Intertek",
+      "companyDomain": "intertek.com",
+      "industry": "Enterprise Software, Workforce Management, SaaS",
+      "location": "Remote (U.S. Only)",
+      "postedAt": "2026-10-26",
+      "fitScore": 8,
+      "fitTier": "Good Fit",
+      "fitExplanation": "This role aligns well with Michael's experience in B2B SaaS and work management software, drawing parallels to his work on Slingshot at Infragistics. The focus on complex learning and administration tools, driving design direction, and mentoring designers matches his Lead Product Designer aspirations and IC contributor with leadership abilities. While 'Quality and Safety Solutions' is not a direct industry match, the enterprise software nature, complex workflows, and emphasis on user trust and clarity make it a strong quality fit.",
+      "source": "Remotive",
+      "applyUrl": "N/A",
+      "isOffLinkedIn": false,
+      "jobDescription": "Intertek is seeking a Lead Product Designer to join its People Assurance team remotely in the United States. This individual will lead the design direction for specific product areas, initially focusing on 'Convergence' products related to frontline employee training and administration. The role involves closely collaborating with the Head of Design, Product, and Engineering to connect customer needs, business priorities, and technical constraints to user experiences. Key responsibilities include creating polished interfaces and intuitive interactions with strong visual hierarchy, typography, and attention to detail, making complex learning and administration tools coherent and easy to use. The designer will use various artifacts from sketches to interactive prototypes, partner with product and research teams to understand workflows and test assumptions, and work closely with engineers for implementation. This position also entails leading constructive design reviews and mentoring other designers, along with owning design standards, principles, and accessibility. A minimum of 7+ years of experience in designing digital products with multi-step user journeys is required.",
+      "specialty": "People Assurance, Learning Management Systems",
+      "salary": "$120,000 - $170,000",
+      "keywords": [
+        {
+          "keyword": "B2B SaaS",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Intertek provides enterprise SaaS solutions."
+        },
+        {
+          "keyword": "work management software",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Directly aligns with Michael's experience leading Slingshot design."
+        },
+        {
+          "keyword": "enterprise software",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael's primary expertise."
+        },
+        {
+          "keyword": "complex workflows",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "The role involves making complex learning and administration tools easy to use, matching Michael's expertise."
+        },
+        {
+          "keyword": "lead design direction",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael has lead product designer experience."
+        },
+        {
+          "keyword": "mentoring other designers",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael has managed and mentored designers."
+        },
+        {
+          "keyword": "design systems",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "The role includes owning design standards and shared patterns."
+        },
+        {
+          "keyword": "visual craft and interaction design",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Emphasized in the role's requirements for polished interfaces and intuitive interactions."
+        },
+        {
+          "keyword": "user research and testing",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael has strong skills in user research and testing."
+        },
+        {
+          "keyword": "cross-functional collaboration",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "The role requires close partnership with Product and Engineering."
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-10-27T16:39:10.021Z",
+      "isNew": true
+    },
+    {
+      "id": "job-co5bv0",
+      "title": "Lead Product Designer",
+      "company": "Cisco Systems, Inc.",
+      "companyDomain": "cisco.com",
+      "industry": "Enterprise Platform, Cloud Infrastructure, AI",
+      "location": "Remote (U.S. Only)",
+      "postedAt": "2026-10-25",
+      "fitScore": 10,
+      "fitTier": "Strong Fit",
+      "fitExplanation": "This is an exceptionally strong fit, directly aligning with Michael's expertise in enterprise software, cloud infrastructure, AI, and complex platform design. His background in multi-cloud transactional platforms and focus on clarity, trust, and systems thinking are paramount for a role shaping an AI-first enterprise platform. The opportunity to define AI interaction across the platform and lead design strategy as a senior IC aligns perfectly with his career goals.",
+      "source": "Cisco Careers",
+      "applyUrl": "https://careers.cisco.com/jobs/cisco-systems-inc/lead-product-designer-ai-and-platform-experience/543665792759972_1",
+      "isOffLinkedIn": false,
+      "jobDescription": "Cisco is seeking a Lead Product Designer to serve as a senior individual contributor within its Platform Experience Group, specifically for Cisco Cloud Control. This role involves shaping the product and design strategy for a next-generation enterprise platform that unifies multiple Cisco products under an intelligent, AI-first framework. The designer will work end-to-end, from strategy and prototyping to detailed execution, to design scalable experiences that enhance usability, consistency, and trust across products. A key aspect is defining how users interact with AI across the platform, creating experiences where AI is integral to workflows. Responsibilities include designing and evolving platform frameworks, delivering AI-powered, agentic, and generative UI experiences, applying enterprise platform thinking for modular systems, and collaborating closely with Product, Engineering, and Research partners. The role champions strong interaction design, visual craft, prototyping, and design storytelling. Experience in designing and shipping AI-powered or AI-native product experiences is highly valued.",
+      "specialty": "AI and Platform Experience",
+      "salary": "$172,000 - $245,000",
+      "keywords": [
+        {
+          "keyword": "enterprise platform",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Direct match with Michael's expertise in multi-cloud transactional platforms and enterprise software."
+        },
+        {
+          "keyword": "AI-first framework",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Aligns with Michael's use of AI tools and interest in AI's application in design."
+        },
+        {
+          "keyword": "cloud infrastructure",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Direct match with Michael's 'cloud marketplace / revenue operations infrastructure' context."
+        },
+        {
+          "keyword": "lead design strategy",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael has experience shaping design strategy at the team and org level."
+        },
+        {
+          "keyword": "end-to-end design (strategy to execution)",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael operates across the full design lifecycle."
+        },
+        {
+          "keyword": "scalable experiences",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Matches Michael's design philosophy and experience with design systems."
+        },
+        {
+          "keyword": "usability, consistency, trust",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Core to Michael's design philosophy for complex, high-stakes systems."
+        },
+        {
+          "keyword": "AI-powered/agentic/generative UI",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Direct match with Michael's AI tool usage and forward-looking skills."
+        },
+        {
+          "keyword": "modular, extensible systems",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Matches Michael's rigorous systems thinking."
+        },
+        {
+          "keyword": "cross-functional collaboration",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael is embedded with product and engineering teams."
+        },
+        {
+          "keyword": "visual craft and prototyping",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Strong alignment with Michael's background in visual systems and high-fidelity prototyping."
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-10-27T16:39:10.021Z",
       "isNew": true
     }
   ],
-  "scannedAt": "2026-10-26T23:08:25.475Z"
+  "scannedAt": "2026-10-27T16:40:40.926Z"
 }
