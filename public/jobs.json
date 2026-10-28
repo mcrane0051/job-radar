@@ -48,87 +48,6 @@
       "isNew": false
     },
     {
-      "id": "job-54eed9",
-      "title": "Senior Product Designer",
-      "company": "Fieldguide",
-      "companyDomain": "fieldguide.com",
-      "industry": "B2B SaaS",
-      "location": "Remote (U.S. Only)",
-      "postedAt": "2026-10-12",
-      "fitScore": 9,
-      "fitTier": "Strong Fit",
-      "fitExplanation": "This role at Fieldguide is a strong fit for Michael Crane. The company operates an AI-native platform for audit and advisory firms, which aligns perfectly with Michael's expertise in complex B2B SaaS, transactional flows, payment reconciliation, and marketplace infrastructure. His experience in making complex systems delightful and tactile, along with his strong visual craft, is highly relevant for building trust in high-stakes financial and compliance workflows. The role is remote and at a Series C company, matching his preferences. Michael's comfort with 0-to-1 problem spaces and scaling products also aligns with Fieldguide's mission to transform an industry with AI.",
-      "source": "Bessemer Ventures Companies",
-      "applyUrl": "N/A",
-      "jobDescription": "Fieldguide is seeking a Senior or Lead Product Designer to join their team, focusing on their vertical AI platform designed to automate end-to-end workflows for audit and advisory firms. The company aims to digitize complex engagement processes, improving operational efficiency and client service delivery through AI agents. The role involves transforming traditionally manual and complex procedures into intuitive, modern cloud-native experiences. \n\nCore Responsibilities:\n* Lead the design of complex engagement workflows, integrating AI agents for tasks such as planning, control testing, substantive testing, and reporting.\n* Digitize and streamline various audit, attestation, and advisory engagements from initial planning through final reporting.\n* Design and develop features for automated workpaper management, comprehensive reporting, secure document collaboration, and efficient task tracking.\n* Contribute to the creation of a modern, cloud-native user experience, blending industry best practices with firm-specific customization and leveraging AI technology.\n* Work on platform functionalities that support financial audit, risk advisory, regulatory compliance, cybersecurity, and IT audit processes.\n* Focus on enhancing consistency, accuracy, and overall practitioner productivity through innovative design solutions.\n\nKey Requirements:\n* Demonstrated experience in designing complex B2B SaaS or enterprise software solutions, particularly those involving workflow automation or artificial intelligence. \n* Proven ability to navigate and simplify complex data systems and transactional workflows, applicable to audit and compliance processes. \n* Strong capability to translate intricate, industry-specific challenges (e.g., audit, compliance) into clear, intuitive, and user-friendly product experiences. \n* Expertise in user-centered design methodologies, cross-functional collaboration, and a track record of driving significant product outcomes. \n* A high standard for visual craft and meticulous attention to detail, crucial for fostering trust and confidence in high-stakes systems.",
-      "salary": "$150,000 - $200,000",
-      "keywords": [
-        {
-          "keyword": "Complex B2B SaaS",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Directly aligns with Fieldguide's product offering and Michael's primary expertise."
-        },
-        {
-          "keyword": "AI agents / AI platform",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Michael has experience using AI tools; Fieldguide's core product is AI-native."
-        },
-        {
-          "keyword": "Audit / Advisory / Compliance",
-          "inProfile": true,
-          "relevance": "strong preference",
-          "note": "Aligns with Michael's FinTech adjacent experience in payment reconciliation, transactional flows, and contract management."
-        },
-        {
-          "keyword": "Workflow automation",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "A core aspect of Fieldguide's product, matching Michael's experience in simplifying workflows."
-        },
-        {
-          "keyword": "Remote (U.S. Only)",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Direct match with candidate's preference."
-        },
-        {
-          "keyword": "Series C or later",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Direct match with candidate's preference for company stage."
-        },
-        {
-          "keyword": "Design Systems",
-          "inProfile": true,
-          "relevance": "preferred",
-          "note": "Michael has led design system creation; Fieldguide's focus on consistency benefits from this."
-        },
-        {
-          "keyword": "0-to-1 discovery",
-          "inProfile": true,
-          "relevance": "preferred",
-          "note": "Michael thrives in ambiguous problem spaces, relevant for an AI-native platform."
-        },
-        {
-          "keyword": "Visual Craft / UI Design",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Critical for building trust in Fieldguide's high-stakes audit systems, a strength of Michael's."
-        },
-        {
-          "keyword": "Figma",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Listed as a primary tool in Michael's profile."
-        }
-      ],
-      "status": "New",
-      "scannedAt": "2026-10-13T23:16:34.967Z",
-      "isNew": false
-    },
-    {
       "id": "job-9avs9z",
       "title": "Senior Product Designer",
       "company": "Moniepoint Inc.",
@@ -2614,7 +2533,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-10-27T22:57:02.230Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-sv1hkv",
@@ -3150,8 +3069,8 @@
       ],
       "status": "New",
       "scannedAt": "2026-10-27T22:57:02.230Z",
-      "isNew": true
+      "isNew": false
     }
   ],
-  "scannedAt": "2026-10-27T22:58:12.734Z"
+  "scannedAt": "2026-10-28T17:10:56.546Z"
 }
