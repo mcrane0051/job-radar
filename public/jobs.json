@@ -48,101 +48,6 @@
       "isNew": false
     },
     {
-      "id": "job-gzuoep",
-      "title": "Staff Product Designer",
-      "company": "SecurityScorecard",
-      "companyDomain": "securityscorecard.com",
-      "industry": "Enterprise Software",
-      "location": "Remote (USA)",
-      "postedAt": "2026-10-14",
-      "fitScore": 9,
-      "fitTier": "Strong Fit",
-      "fitExplanation": "This role is an excellent match for Michael's profile, explicitly seeking a Staff Product Designer with deep expertise in B2B SaaS and complex data/AI-powered workflows, mirroring his experience at Tackle.io. The focus on cyber risk workflows and complex permissioning aligns well with his background in high-stakes, high-complexity problem spaces and making complex systems clear and trustworthy. The requirement for a strong portfolio demonstrating high-complexity UI challenges, systems thinking, and turning ambiguous problems into shipped work aligns perfectly with Michael's '0-to-1 discovery through to shipped product' experience and his philosophy of rigorous systems thinking. His hands-on use of AI tools (Figma Make, Cursor) is a direct match for the preferred experience in prompting AI tooling. The company stage (not explicitly stated as Series C+ in snippet but SecurityScorecard is a well-established company in the enterprise security space, implying later stage) and remote US location are ideal.",
-      "source": "Jooble (aggregator)",
-      "applyUrl": "N/A",
-      "isOffLinkedIn": true,
-      "jobDescription": "SecurityScorecard is seeking a highly technical Staff Product Designer to join its Product Design team. The role involves designing complex AI-powered cyber risk workflows, including third-party risk assessments, automated security questionnaires, and continuous monitoring. The ideal candidate possesses deep expertise in B2B SaaS UX paradigms, such as dense data, complex permissioning, and multi-tenant workflows. They should have a strong portfolio demonstrating the handling of high-complexity UI challenges and a track record of transforming ambiguous problems into tangible products without heavy oversight. Demonstrated hands-on use of AI in design practice, including prompting AI tooling to build interactive prototypes grounded in existing codebases and design systems, is required. The company values a high craft bar, a growth mindset, and a collaborative team approach.",
-      "specialty": "Cyber Risk Workflows / AI-powered platforms",
-      "salary": null,
-      "keywords": [
-        {
-          "keyword": "Staff Product Designer",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Direct title match for Michael's target roles."
-        },
-        {
-          "keyword": "B2B SaaS",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Core industry expertise for Michael."
-        },
-        {
-          "keyword": "complex AI-powered cyber risk workflows",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Michael specializes in complex data systems, transactional flows, and has experience with AI tools like Figma Make and Cursor."
-        },
-        {
-          "keyword": "dense data, complex permissioning, multi-tenant workflows",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Directly aligns with Michael's expertise in complex data systems, transactional flows, and high-stakes problem spaces."
-        },
-        {
-          "keyword": "high-complexity UI challenges",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Michael's focus on visual craft, intentional visual hierarchy, and tactile interaction design for complex systems."
-        },
-        {
-          "keyword": "turning ambiguous problems into shipped work without heavy oversight",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Michael thrives in '0-to-1 and ambiguous problem spaces'."
-        },
-        {
-          "keyword": "hands-on use of AI in design practice, prompting AI tooling to build interactive prototypes",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Michael has used AI tools (Figma Make, Cursor) to accelerate discovery and prototyping."
-        },
-        {
-          "keyword": "design system",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Michael has experience establishing scalable design systems."
-        },
-        {
-          "keyword": "full design lifecycle",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Michael operates effectively across the full design lifecycle."
-        },
-        {
-          "keyword": "Figma",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Primary tool for Michael."
-        },
-        {
-          "keyword": "cross-functional collaboration",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Michael is embedded with product and engineering and has experience with cross-functional collaboration."
-        },
-        {
-          "keyword": "visual craft",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Michael's strong visual eye and graphic design background."
-        }
-      ],
-      "status": "New",
-      "scannedAt": "2026-10-15T22:18:31.323Z",
-      "isNew": false
-    },
-    {
       "id": "job-yj2a9f",
       "title": "Senior Staff Product Designer",
       "company": "Apartment List",
@@ -2989,5 +2894,5 @@
       "isNew": false
     }
   ],
-  "scannedAt": "2026-10-29T17:26:47.026Z"
+  "scannedAt": "2026-10-29T23:18:29.319Z"
 }
