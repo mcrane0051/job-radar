@@ -238,7 +238,9 @@ export const JobSidebar: React.FC<JobSidebarProps> = ({ job, isOpen, onClose, on
           
           <Button 
             variant="primary"
-            href={`https://www.google.com/search?q=${encodeURIComponent(job.title + ' at ' + job.company + ' careers')}`}
+            href={job.applyUrl && job.applyUrl !== 'N/A' && job.applyUrl.startsWith('http')
+              ? job.applyUrl
+              : `https://www.google.com/search?q=${encodeURIComponent(job.title + ' at ' + job.company + ' careers')}`}
             target="_blank"
             rel="noopener noreferrer"
             className="flex-1"

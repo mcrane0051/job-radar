@@ -39,8 +39,14 @@ SEARCH PREFERENCES:
 CANDIDATE PROFILE:
 ${PROFILE_ARTIFACT}
 
+CRITICAL INTEGRITY & ANTI-HALLUCINATION RULES:
+- You must ONLY return real, genuinely existing job postings discovered directly in your Google Search results.
+- NEVER invent, synthesize, fabricate, or hallucinate companies, jobs, roles, descriptions, or URLs.
+- If you find only 1, 2, or even 0 jobs that genuinely match all search preferences, return ONLY those genuine jobs (or none at all). Returning 0 jobs is completely acceptable; returning a fabricated job is a critical system failure.
+- Every applyUrl must be an authentic URL from search results. NEVER invent dummy URLs (such as /jobs/123456789 or fake domain names).
+
 INSTRUCTIONS:
-1. Find 10 to 15 highly relevant jobs posted recently between ${earliestDateStr} and ${todayStr}. (Do not return roles if they are not a strong fit).
+1. Find up to 10 real, highly relevant jobs posted recently between ${earliestDateStr} and ${todayStr}. (Do not return roles if they are not a strong fit or if they cannot be verified).
 2. Score each job from 1-10 based on how well the candidate's profile aligns with the requirements. 
    - CRITICAL LOCATION RULE: Any Hybrid role MUST be located in Philadelphia, PA, New Jersey, or NYC. If a Hybrid role is outside these areas, ignore it completely.
    - CRITICAL RANKING RULE: The candidate strongly prefers Remote over Hybrid. Deduct 1 to 2 points from the fit score if the role is Hybrid.
