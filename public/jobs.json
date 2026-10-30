@@ -48,172 +48,6 @@
       "isNew": false
     },
     {
-      "id": "job-yj2a9f",
-      "title": "Senior Staff Product Designer",
-      "company": "Apartment List",
-      "companyDomain": "apartmentlist.com",
-      "industry": "Marketplace",
-      "location": "Remote",
-      "postedAt": "2026-10-16",
-      "fitScore": 9,
-      "fitTier": "Strong Fit",
-      "fitExplanation": "This role is an excellent match for Michael's profile, particularly his experience with marketplace infrastructure and complex workflow design. The focus on setting a high craft bar, systems thinking, and leveraging AI in design aligns perfectly with his philosophy and tools. His 10+ years of experience and ability to lead through influence fit the Senior Staff level. The company stage (Series D) and remote location are ideal.",
-      "source": "Greenhouse",
-      "applyUrl": "https://boards.greenhouse.io/apartmentlist/jobs/4217686007",
-      "isOffLinkedIn": false,
-      "jobDescription": "Apartment List is seeking a Senior Staff Product Designer to lead the end-to-end renter experience across their core web, mobile web, and native iOS/Android platforms. This individual will be accountable for the coherence, quality, and strategic direction of the product experience, balancing feature maintenance with innovative new solutions. The role emphasizes setting high standards for visual design, typography, interaction, and design systems. The designer will proactively identify problems, conduct qualitative and quantitative research, and run experiments to guide product development. It is a hands-on position requiring design, prototyping in code, and effectively advocating for product direction with senior leadership. Mentorship of other designers through critique and example is also a key aspect. The role also explicitly embraces AI-enabled workflows and tools in the design process.",
-      "specialty": "Core Renter Experience",
-      "salary": "$166,000 - $237,000",
-      "keywords": [
-        {
-          "keyword": "marketplace infrastructure",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Direct experience at Tackle.io and relevant for Apartment List's platform."
-        },
-        {
-          "keyword": "complex workflow design",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Directly applicable to designing renter journeys and transactional flows."
-        },
-        {
-          "keyword": "design systems",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Candidate excels in design systems; role emphasizes setting craft bar and standards."
-        },
-        {
-          "keyword": "0-to-1 discovery",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Role requires balancing invention with maintenance and identifying new problems."
-        },
-        {
-          "keyword": "visual craft",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Role focuses on high craft bar, visual design, typography, interaction, motion."
-        },
-        {
-          "keyword": "user research",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Role requires qualitative and quantitative research and experimentation."
-        },
-        {
-          "keyword": "rapid prototyping",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Role involves prototyping in code; candidate uses Figma Make, Cursor."
-        },
-        {
-          "keyword": "Figma",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Role requires Figma fluency; candidate is proficient."
-        },
-        {
-          "keyword": "AI tools",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Role explicitly uses AI-enabled workflows; candidate uses Figma Make, Cursor."
-        },
-        {
-          "keyword": "cross-functional collaboration",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Role requires partnering with product, engineering, and mentoring designers."
-        }
-      ],
-      "status": "New",
-      "scannedAt": "2026-10-16T15:22:23.856Z",
-      "isNew": false
-    },
-    {
-      "id": "job-ur6ejc",
-      "title": "Senior Product Designer",
-      "company": "TRM Labs",
-      "companyDomain": "trmlabs.com",
-      "industry": "Fintech, Enterprise Software",
-      "location": "Remote",
-      "postedAt": "2026-10-15",
-      "fitScore": 9,
-      "fitTier": "Strong Fit",
-      "fitExplanation": "This position is an exceptional fit given Michael's deep expertise in complex B2B SaaS, FinTech-adjacent areas like transactional flows, and data-heavy interfaces. His ability to bring clarity and trust to high-stakes problem spaces with messy data directly aligns with the role's challenges in financial crime and crypto compliance. The explicit mention of AI integration into workflows also matches his experience with AI tools. The Series C stage and remote nature are ideal.",
-      "source": "Greenhouse",
-      "applyUrl": "https://boards.greenhouse.io/trmlabs/jobs/4320266007",
-      "isOffLinkedIn": false,
-      "jobDescription": "TRM Labs is seeking a Senior Product Designer to develop tools for investigators at law enforcement and government agencies, as well as compliance teams within crypto businesses and financial institutions. The core challenge involves designing intuitive solutions for complex problems that deal with massive, messy data, where decisions carry significant real-world consequences. A critical aspect of this role is defining how human users and AI agents collaborate effectively to achieve investigative and compliance goals, especially as AI adoption grows in this sector. The ideal candidate will deeply care about their craft, experiment with rigor, and take pride in building a safer world through their design contributions.",
-      "specialty": "Financial Crime and Crypto Compliance",
-      "salary": "$176,000 - $193,000",
-      "keywords": [
-        {
-          "keyword": "complex B2B SaaS",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Directly applicable to designing compliance and investigation tools for enterprises."
-        },
-        {
-          "keyword": "fintech",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Direct experience in finance/FinTech adjacent areas like payment reconciliation."
-        },
-        {
-          "keyword": "complex data systems",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Role involves massive and messy data, a key area of candidate expertise."
-        },
-        {
-          "keyword": "transactional flows",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Relevant to financial crime investigation workflows."
-        },
-        {
-          "keyword": "marketplace infrastructure",
-          "inProfile": true,
-          "relevance": "strong alignment",
-          "note": "While not a marketplace, the complexity of the data ecosystem aligns."
-        },
-        {
-          "keyword": "0-to-1 discovery",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Defining how people and AI agents work together in new workflows."
-        },
-        {
-          "keyword": "design strategy",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Shaping how critical investigations are conducted with new tools."
-        },
-        {
-          "keyword": "AI tools",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Role explicitly focuses on human-AI interaction; candidate uses AI tools."
-        },
-        {
-          "keyword": "visual craft",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Role emphasizes caring deeply about craft and building trustworthy systems."
-        },
-        {
-          "keyword": "cross-functional collaboration",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Implied by the need to build impactful products for critical users."
-        }
-      ],
-      "status": "New",
-      "scannedAt": "2026-10-16T15:22:23.856Z",
-      "isNew": false
-    },
-    {
       "id": "job-oa3sna",
       "title": "Senior Product Designer",
       "company": "Cisco (Splunk)",
@@ -2892,7 +2726,83 @@
       "status": "New",
       "scannedAt": "2026-10-27T22:57:02.230Z",
       "isNew": false
+    },
+    {
+      "id": "job-q30dmp",
+      "title": "Staff Product Designer",
+      "company": "Vanta",
+      "companyDomain": "vanta.com",
+      "industry": "B2B SaaS",
+      "location": "Remote",
+      "postedAt": "2026-10-28",
+      "fitScore": 9,
+      "fitTier": "Strong Fit",
+      "fitExplanation": "Michael's 10+ years of experience, including leading design for complex B2B SaaS and transactional platforms, strongly aligns with this Staff Product Designer role at Vanta. His expertise in making complex systems intuitive and tactile, operating across the full design lifecycle from 0-to-1 discovery to shipped product, and shaping design strategy are direct matches. The role's focus on compliance, AI-powered products, and driving business outcomes through design aligns well with Michael's background in high-stakes, high-complexity problem spaces like revenue operations and payment reconciliation. His experience with design systems and data-driven insights is also explicitly required. As a remote role, it aligns with his preference for remote work.",
+      "source": "Virtual Vocations",
+      "applyUrl": "N/A",
+      "isOffLinkedIn": true,
+      "jobDescription": "As a Staff Product Designer on Vanta's Activation team, this remote position is responsible for setting the experience vision for customer compliance. The role involves managing the design process from initial strategy through product launch, collaborating closely with product management and engineering teams. Core responsibilities include defining the end-to-end experience vision for Activation, creating a comprehensive product roadmap, and driving product direction using customer insights and data. The Staff Product Designer will also lead significant, cross-functional initiatives, ensuring alignment among various stakeholders throughout the project lifecycle. Key requirements for this role include extensive experience in designing and delivering high-quality B2B SaaS products, a proven history of designing for specific business outcomes such as activation and retention, and experience with AI-powered or automation-heavy products. Strong written strategy skills, including the ability to author product briefs and roadmaps, are essential, alongside fluency in product analytics and experimentation to define success metrics.",
+      "specialty": "Activation",
+      "keywords": [
+        {
+          "keyword": "B2B SaaS products",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael specializes in complex B2B SaaS and has 10+ years of experience in this domain."
+        },
+        {
+          "keyword": "designing for business outcomes (activation, retention)",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael has a proven track record of driving significant business outcomes, such as reducing churn, increasing accepted private offer value by 77%, and improving user sign-up conversion from 16% to 71%."
+        },
+        {
+          "keyword": "AI-powered or automation-heavy products",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael has experience using AI tools (Figma Make, Cursor) to accelerate discovery and prototyping, and specializes in complex workflows that often involve automation."
+        },
+        {
+          "keyword": "design process from strategy to product launch",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael operates effectively across the full design lifecycle, from ambiguous 0-to-1 discovery through to shipped product and measured outcomes, and has experience shaping design strategy."
+        },
+        {
+          "keyword": "design systems",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael established a scalable design system that reduced design-to-development cycles at Infragistics and consistently applies rigorous systems thinking to his work."
+        },
+        {
+          "keyword": "Figma",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael lists Figma as a core tool, with additional experience in Figma Make."
+        },
+        {
+          "keyword": "product analytics and experimentation",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael utilizes tools like Amplitude and Pendo, and focuses on measured outcomes and iterating based on data."
+        },
+        {
+          "keyword": "Lead large-scale, cross-functional initiatives",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael currently leads product design for an enterprise multi-cloud transactional platform at Tackle.io and operates effectively across cross-functional teams."
+        },
+        {
+          "keyword": "complex workflows",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael specializes in making complex systems delightful and tactile, with expertise in complex data systems, seller workflows, transactional flows, payment reconciliation, and marketplace infrastructure."
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-10-30T17:01:16.826Z",
+      "isNew": true
     }
   ],
-  "scannedAt": "2026-10-29T23:18:29.319Z"
+  "scannedAt": "2026-10-30T17:02:00.717Z"
 }
