@@ -1254,7 +1254,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-10-30T22:58:20.288Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-bimjw1",
@@ -2523,7 +2523,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-10-30T22:58:20.288Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-sja1vt",
@@ -2617,8 +2617,8 @@
       ],
       "status": "New",
       "scannedAt": "2026-10-30T22:58:20.288Z",
-      "isNew": true
+      "isNew": false
     }
   ],
-  "scannedAt": "2026-10-30T22:58:56.580Z"
+  "scannedAt": "2026-10-31T16:07:15.407Z"
 }
