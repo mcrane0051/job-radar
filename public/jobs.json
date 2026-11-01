@@ -2030,83 +2030,82 @@
       "title": "Lead Product Designer",
       "company": "Intertek",
       "companyDomain": "intertek.com",
-      "industry": "Enterprise Software, Workforce Management, SaaS",
-      "location": "Remote (U.S. Only)",
-      "postedAt": "2026-10-26",
+      "industry": "People Assurance",
+      "location": "Remote",
+      "postedAt": "2026-10-29",
       "fitScore": 8,
       "fitTier": "Good Fit",
-      "fitExplanation": "This role aligns well with Michael's experience in B2B SaaS and work management software, drawing parallels to his work on Slingshot at Infragistics. The focus on complex learning and administration tools, driving design direction, and mentoring designers matches his Lead Product Designer aspirations and IC contributor with leadership abilities. While 'Quality and Safety Solutions' is not a direct industry match, the enterprise software nature, complex workflows, and emphasis on user trust and clarity make it a strong quality fit.",
-      "source": "Remotive",
+      "fitExplanation": "This Lead Product Designer role is a good fit, leveraging Michael's 10+ years of experience and his leadership in design. His background in HR tech (iCIMS) and work management (Slingshot) provides relevant industry context for Intertek's \"People Assurance team\" designing for \"frontline employees and administrators.\" The emphasis on \"strong UX thinking,\" \"governance of design systems,\" \"leading design direction,\" and \"mentoring other designers\" aligns well with Michael's skills and preferences.",
+      "source": "JobLeads.com",
       "applyUrl": "N/A",
       "isOffLinkedIn": false,
-      "jobDescription": "Intertek is seeking a Lead Product Designer to join its People Assurance team remotely in the United States. This individual will lead the design direction for specific product areas, initially focusing on 'Convergence' products related to frontline employee training and administration. The role involves closely collaborating with the Head of Design, Product, and Engineering to connect customer needs, business priorities, and technical constraints to user experiences. Key responsibilities include creating polished interfaces and intuitive interactions with strong visual hierarchy, typography, and attention to detail, making complex learning and administration tools coherent and easy to use. The designer will use various artifacts from sketches to interactive prototypes, partner with product and research teams to understand workflows and test assumptions, and work closely with engineers for implementation. This position also entails leading constructive design reviews and mentoring other designers, along with owning design standards, principles, and accessibility. A minimum of 7+ years of experience in designing digital products with multi-step user journeys is required.",
-      "specialty": "People Assurance, Learning Management Systems",
-      "salary": "$120,000 - $170,000",
+      "jobDescription": "Summary: Intertek is seeking a remote Lead Product Designer for its People Assurance team, focusing on Frontline UX. The role involves collaborating with the Head of Design, Product, and Engineering to design for frontline employees and administrators, with an initial focus on Wisetail coverage. Key aspects include applying strong UX thinking, governing design systems, leading design direction, creating polished interfaces, prototyping, and mentoring designers.\n\nCore Responsibilities & Requirements:\n* Lead design direction for frontline employees and administrators.\n* Apply strong UX thinking to journeys, navigation, and task flows.\n* Resolve complex design challenges including permissions, dependencies, and various states (loading, empty, error, recovery).\n* Build new and maintain existing design systems, developing reusable components and interaction patterns.\n* Work with Product and research partners to understand customer workflows and test assumptions.\n* Partner closely with engineers to work within platform and integration constraints.\n* Lead constructive design reviews and mentor other designers.\n* Professional experience designing product interfaces in Figma.\n* Experience building or maintaining reusable components or a design system.\n* Experience working with Product and Engineering to carry designs through implementation.\n* Portfolio showing shipped digital product or substantial user workflow required.\n* Must reside in and be legally able to work in the United States.",
+      "specialty": "Frontline UX, People Assurance",
       "keywords": [
         {
-          "keyword": "B2B SaaS",
+          "keyword": "Figma",
           "inProfile": true,
           "relevance": "required",
-          "note": "Intertek provides enterprise SaaS solutions."
+          "note": "Candidate proficient in Figma"
         },
         {
-          "keyword": "work management software",
+          "keyword": "UX thinking",
           "inProfile": true,
           "relevance": "required",
-          "note": "Directly aligns with Michael's experience leading Slingshot design."
+          "note": "Core to candidate's design philosophy and skills"
         },
         {
-          "keyword": "enterprise software",
+          "keyword": "Design Systems",
           "inProfile": true,
           "relevance": "required",
-          "note": "Michael's primary expertise."
+          "note": "Candidate has experience establishing and scaling design systems"
         },
         {
-          "keyword": "complex workflows",
+          "keyword": "Prototyping",
           "inProfile": true,
           "relevance": "required",
-          "note": "The role involves making complex learning and administration tools easy to use, matching Michael's expertise."
+          "note": "Candidate excels at high-fidelity interactive prototyping"
         },
         {
-          "keyword": "lead design direction",
+          "keyword": "User Research",
           "inProfile": true,
           "relevance": "required",
-          "note": "Michael has lead product designer experience."
+          "note": "Candidate conducts user research"
         },
         {
-          "keyword": "mentoring other designers",
+          "keyword": "Workflow design",
           "inProfile": true,
           "relevance": "required",
-          "note": "Michael has managed and mentored designers."
+          "note": "Candidate specializes in complex workflows"
         },
         {
-          "keyword": "design systems",
+          "keyword": "Lead Product Designer",
           "inProfile": true,
           "relevance": "required",
-          "note": "The role includes owning design standards and shared patterns."
+          "note": "Matches target role level"
         },
         {
-          "keyword": "visual craft and interaction design",
+          "keyword": "Mentorship",
           "inProfile": true,
-          "relevance": "required",
-          "note": "Emphasized in the role's requirements for polished interfaces and intuitive interactions."
+          "relevance": "good to have",
+          "note": "Candidate has experience mentoring designers"
         },
         {
-          "keyword": "user research and testing",
+          "keyword": "Cross-functional collaboration",
           "inProfile": true,
           "relevance": "required",
-          "note": "Michael has strong skills in user research and testing."
+          "note": "Candidate thrives in cross-functional environments"
         },
         {
-          "keyword": "cross-functional collaboration",
+          "keyword": "Enterprise software",
           "inProfile": true,
           "relevance": "required",
-          "note": "The role requires close partnership with Product and Engineering."
+          "note": "Candidate has deep expertise in enterprise software"
         }
       ],
       "status": "New",
-      "scannedAt": "2026-10-27T16:39:10.021Z",
-      "isNew": false
+      "scannedAt": "2026-11-01T22:50:16.440Z",
+      "isNew": true
     },
     {
       "id": "job-co5bv0",
@@ -2622,7 +2621,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-11-01T17:07:53.549Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-nststf",
@@ -2728,7 +2727,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-11-01T17:07:53.549Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-t69s5q",
@@ -2810,7 +2809,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-11-01T17:07:53.549Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-1rl6ku",
@@ -2887,8 +2886,90 @@
       ],
       "status": "New",
       "scannedAt": "2026-11-01T17:07:53.549Z",
+      "isNew": false
+    },
+    {
+      "id": "job-dxkcet",
+      "title": "Lead Product Designer",
+      "company": "HighLevel",
+      "companyDomain": "gohighlevel.com",
+      "industry": "B2B SaaS",
+      "location": "Remote",
+      "postedAt": "2026-10-31",
+      "fitScore": 9,
+      "fitTier": "Strong Fit",
+      "fitExplanation": "This role is a strong fit given Michael's 10+ years of experience, including 4 years in a lead capacity, and his specialization in complex B2B SaaS products. HighLevel's focus on an \"AI-powered business operating system\" with \"CRM, workflow-heavy\" experiences directly aligns with Michael's expertise in complex data systems, seller workflows, transactional flows, and his use of AI tools. The \"systems thinking\" and focus on \"exceptional craft, product judgment\" are also highly relevant.",
+      "source": "BeBee",
+      "applyUrl": "N/A",
+      "isOffLinkedIn": false,
+      "jobDescription": "Summary: HighLevel is seeking a Lead Product Designer to elevate product experiences through exceptional craft, product judgment, systems thinking, and influence for their AI-powered business operating system. The role focuses on shaping strategically important work across product areas as a lead individual contributor, partnering with product, engineering, research, and data leaders. The platform supports agencies, entrepreneurs, and SMBs with infrastructure for building, automating, and scaling.\n\nCore Responsibilities & Requirements:\n* Elevate product experiences through strong craft, judgment, systems thinking, and influence.\n* Shape strategically important work across one or more product areas.\n* Partner with product, engineering, research, and data leaders to define and improve experiences.\n* Connect customer needs, business goals, technical constraints, and long-term product strategy to clear, useful, and highly polished product design.\n* Mentor designers and raise quality across teams.\n* Demonstrate exceptional visual and interaction design judgment.\n* Care deeply about standards for refined, trustworthy, and coherent product experiences at scale.\n* Experience designing B2B SaaS, platform, CRM, workflow-heavy, or SMB software is highly valuable.\n* Experience using AI-powered tools for exploration, prototyping, critique, synthesis, or workflow acceleration is expected.\n* 7+ years designing complex digital products.\n* Portfolio required.",
+      "specialty": "AI-powered business operating system, CRM, workflow-heavy software",
+      "keywords": [
+        {
+          "keyword": "Figma",
+          "inProfile": true,
+          "relevance": "expected",
+          "note": "Candidate proficient in Figma, Figma Make"
+        },
+        {
+          "keyword": "B2B SaaS",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Candidate specializes in complex B2B SaaS"
+        },
+        {
+          "keyword": "AI-powered tools",
+          "inProfile": true,
+          "relevance": "expected",
+          "note": "Candidate uses AI tools (Figma Make, Cursor) and designs with AI in mind"
+        },
+        {
+          "keyword": "systems thinking",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Core to candidate's design philosophy and skills"
+        },
+        {
+          "keyword": "Design Systems",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Candidate has experience establishing and scaling design systems"
+        },
+        {
+          "keyword": "complex digital products",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Candidate specializes in complex systems, data-heavy interfaces"
+        },
+        {
+          "keyword": "Workflow design",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Candidate excels in transactional flows, seller workflows"
+        },
+        {
+          "keyword": "Lead Product Designer",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Matches target role level"
+        },
+        {
+          "keyword": "Mentorship",
+          "inProfile": true,
+          "relevance": "good to have",
+          "note": "Candidate has experience mentoring designers"
+        },
+        {
+          "keyword": "User Research",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Candidate conducts user research"
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-11-01T22:50:16.440Z",
       "isNew": true
     }
   ],
-  "scannedAt": "2026-11-01T17:08:56.444Z"
+  "scannedAt": "2026-11-01T22:51:12.487Z"
 }
