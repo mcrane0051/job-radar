@@ -229,83 +229,6 @@
       "isNew": false
     },
     {
-      "id": "job-dxkcet",
-      "title": "Lead Product Designer",
-      "company": "HighLevel",
-      "companyDomain": "gohighlevel.com",
-      "industry": "B2B SaaS",
-      "location": "Remote (U.S.)",
-      "postedAt": "2026-10-17",
-      "fitScore": 9,
-      "fitTier": "Strong Fit",
-      "fitExplanation": "Michael's 10+ years of experience, including 4 years in a senior/lead capacity, aligns perfectly with this Lead Product Designer role. His expertise in complex B2B SaaS, sales operations, and revenue tooling directly matches HighLevel's AI-powered marketing and sales platform. He thrives in ambiguous 0-to-1 problem spaces and has a strong background in scaling products and utilizing AI tools, all highly relevant to this position. The role emphasizes defining design strategy, improving team quality through mentorship, and cross-functional collaboration, which are areas where Michael excels.",
-      "source": "Remote Senior Jobs",
-      "applyUrl": "N/A",
-      "isOffLinkedIn": true,
-      "jobDescription": "As a Lead Product Designer at HighLevel, you will be responsible for leading design strategy and execution across one or more product pillars, from initial discovery to final delivery. This involves translating customer needs, business goals, product strategy, and technical constraints into actionable design directions and roadmaps. You will partner closely with product and engineering leaders to define the product vision, prioritize opportunities, and ensure high-quality outcomes. A key aspect of the role is influencing leadership decisions through deep customer empathy, data synthesis, sound product judgment, and compelling design rationale. You will also drive design quality reviews, setting and upholding standards for usability, accessibility, interaction quality, visual consistency, and adherence to the design system. Furthermore, you will elevate the design capabilities of multiple teams by mentoring designers, enhancing critique processes, strengthening shared design patterns, and making standards easier to adopt. The role requires defining and socializing metrics for design quality and impact, leading complex discovery and design efforts through ambiguity, and ultimately shaping product direction, design standards, and team culture.",
-      "specialty": "",
-      "salary": "",
-      "keywords": [
-        {
-          "keyword": "Lead Product Designer",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Candidate is targeting and has experience at this level."
-        },
-        {
-          "keyword": "B2B SaaS",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "HighLevel is an AI-powered B2B SaaS platform for marketing and sales."
-        },
-        {
-          "keyword": "0-to-1 discovery",
-          "inProfile": true,
-          "relevance": "highly relevant",
-          "note": "Role requires leading complex discovery efforts through ambiguity, aligning with Michael's expertise."
-        },
-        {
-          "keyword": "design strategy",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Core responsibility involves leading design strategy and influencing product vision."
-        },
-        {
-          "keyword": "design systems",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Role emphasizes setting standards for visual consistency and design system alignment."
-        },
-        {
-          "keyword": "cross-functional collaboration",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Expected to partner with product and engineering leaders."
-        },
-        {
-          "keyword": "mentoring designers",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Responsibility includes raising team quality by mentoring designers."
-        },
-        {
-          "keyword": "AI-powered",
-          "inProfile": true,
-          "relevance": "highly relevant",
-          "note": "HighLevel is an AI-powered operating system; Michael has experience using AI tools."
-        },
-        {
-          "keyword": "complex workflows",
-          "inProfile": true,
-          "relevance": "highly relevant",
-          "note": "Implied by leading design for an all-in-one marketing and sales platform."
-        }
-      ],
-      "status": "New",
-      "scannedAt": "2026-10-18T14:34:42.427Z",
-      "isNew": false
-    },
-    {
       "id": "job-38qocy",
       "title": "Staff Product Designer",
       "company": "EvolutionIQ",
@@ -2618,7 +2541,354 @@
       "status": "New",
       "scannedAt": "2026-10-30T22:58:20.288Z",
       "isNew": false
+    },
+    {
+      "id": "job-jj2pli",
+      "title": "Senior Product Designer",
+      "company": "Edenspiekermann",
+      "companyDomain": "edenspiekermann.com",
+      "industry": "Design Consultancy",
+      "location": "Remote",
+      "postedAt": "2026-10-30",
+      "fitScore": 5,
+      "fitTier": "Possible",
+      "fitExplanation": "While a Senior Product Designer role with a strong emphasis on AI and design systems, which aligns with Michael's skills, the primary industry is a design consultancy, not a direct B2B SaaS company which is Michael's strong preference. The 'remote-first' role also has a caveat of being 'based in Southern California,' which is not ideal for a fully flexible U.S. remote preference. The company stage is not directly comparable to Series C or later as it's a consultancy, but they work with established clients.",
+      "source": "Built In Los Angeles",
+      "applyUrl": "N/A",
+      "isOffLinkedIn": false,
+      "jobDescription": "This role involves conceptualizing, designing, and delivering digital products and experiences, including websites, applications, services, design systems, and AI-enabled experiences. Key responsibilities include translating user, business, and technical needs into journeys, wireframes, prototypes, and high-fidelity designs. The designer will leverage generative AI across research, ideation, prototyping, and production, with a focus on evaluating quality, accessibility, privacy, and reliability. Collaboration with clients, strategists, researchers, developers, and other designers is crucial, as is leading workstreams, facilitating workshops, and mentoring less-experienced designers. The position is remote-first but notes a base in Southern California and may require travel to client sites across the United States.",
+      "specialty": "AI & Digital Experiences",
+      "keywords": [
+        {
+          "keyword": "User Research",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Good"
+        },
+        {
+          "keyword": "Wireframing",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Good"
+        },
+        {
+          "keyword": "Prototyping",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Good"
+        },
+        {
+          "keyword": "High-fidelity designs",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Good"
+        },
+        {
+          "keyword": "Design Systems",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Good"
+        },
+        {
+          "keyword": "AI Tools",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Excellent"
+        },
+        {
+          "keyword": "Visual Design",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Good"
+        },
+        {
+          "keyword": "Interaction Design",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Good"
+        },
+        {
+          "keyword": "Mentorship",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Good"
+        },
+        {
+          "keyword": "Cross-functional collaboration",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Good"
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-11-01T17:07:53.549Z",
+      "isNew": true
+    },
+    {
+      "id": "job-nststf",
+      "title": "Senior Product Designer",
+      "company": "ClickHouse, Inc.",
+      "companyDomain": "clickhouse.com",
+      "industry": "Developer Tools, B2B SaaS, Cloud Infrastructure",
+      "location": "Remote",
+      "postedAt": "2026-10-31",
+      "fitScore": 9,
+      "fitTier": "Strong Fit",
+      "fitExplanation": "This role is a strong fit due to its direct alignment with Michael's experience in complex B2B SaaS and developer tools. The emphasis on strong visual design, building and maintaining design systems, advanced Figma proficiency, and end-to-end product ownership aligns perfectly with his profile. His comfort with AI tools and prior experience with HTML/CSS also makes the mention of frontend engineering skills a good match. The company is well-funded and established, meeting the preference for stability.",
+      "source": "CareerBuilder",
+      "applyUrl": "N/A",
+      "isOffLinkedIn": false,
+      "jobDescription": "The Senior Product Designer will be responsible for the Clerk Dashboard experience, focusing on authentication and user management for developers. Core responsibilities include collaborating with Product, Design, and Engineering throughout the entire feature lifecycle, from ideation to implementation. This involves gathering requirements, structuring and prototyping complex information flows, and delivering pixel-perfect UI. The role also entails evolving Clerk's design system, enhancing accessibility practices, and improving design processes across the global team. Key qualifications include strong visual design fundamentals, experience with complex B2B SaaS or developer tools, advanced proficiency in Figma (components, prototyping, design systems), comfort with frontend engineering skills (CSS, React, TypeScript), and enthusiasm for AI tools.",
+      "specialty": "Dashboard for Developer Tools",
+      "keywords": [
+        {
+          "keyword": "Figma",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Excellent"
+        },
+        {
+          "keyword": "Design Systems",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Excellent"
+        },
+        {
+          "keyword": "UI Design",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Excellent"
+        },
+        {
+          "keyword": "Prototyping",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Good"
+        },
+        {
+          "keyword": "Complex B2B SaaS",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Excellent"
+        },
+        {
+          "keyword": "Developer Tools",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Excellent"
+        },
+        {
+          "keyword": "User Flows",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Good"
+        },
+        {
+          "keyword": "Interaction Design",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Good"
+        },
+        {
+          "keyword": "Cross-functional collaboration",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Good"
+        },
+        {
+          "keyword": "AI Tools",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Excellent"
+        },
+        {
+          "keyword": "Accessibility",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Good"
+        },
+        {
+          "keyword": "CSS",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Good"
+        },
+        {
+          "keyword": "React",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Good"
+        },
+        {
+          "keyword": "TypeScript",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Good"
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-11-01T17:07:53.549Z",
+      "isNew": true
+    },
+    {
+      "id": "job-t69s5q",
+      "title": "Sr Staff Product Designer",
+      "company": "Honor Technology",
+      "companyDomain": "joinhonor.com",
+      "industry": "Healthcare, Marketplace, Regulated Domain",
+      "location": "Remote",
+      "postedAt": "2026-10-29",
+      "fitScore": 9,
+      "fitTier": "Strong Fit",
+      "fitExplanation": "This Sr Staff Product Designer role is an excellent fit for Michael's target level and preference for a fully remote arrangement. The job's focus on solving complex problems within a regulated and trust-sensitive domain (healthcare/aging care) strongly aligns with Michael's expertise in high-stakes environments where clarity and trust are paramount. His experience with marketplace infrastructure and systemic thinking is highly relevant. The company is well-established and well-funded, meeting the preference for stability and resources.",
+      "source": "Greenhouse",
+      "applyUrl": "N/A",
+      "isOffLinkedIn": false,
+      "jobDescription": "As a Senior Staff Product Designer, this individual will play a key role in guiding the strategic thinking and delivery of digital products and service experiences within the aging care sector. The work encompasses the full care journey for clients, families, and Care Professionals. Core responsibilities include owning product work end-to-end and being accountable for measurable outcomes, as well as collaborating iteratively with business and engineering teams to define problems, explore solution spaces, validate concepts, and ship features that drive key metrics. The role demands fluency in using research and quantitative data to inform design, an appetite for complexity and ambiguity in problem-solving, and strong systemic thinking to balance user needs, technical feasibility, and business goals. Experience in regulated industries, fintech, or marketplaces is considered a valuable asset.",
+      "specialty": "",
+      "keywords": [
+        {
+          "keyword": "UX Design",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Excellent"
+        },
+        {
+          "keyword": "Product Design",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Excellent"
+        },
+        {
+          "keyword": "User Research",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Excellent"
+        },
+        {
+          "keyword": "Quantitative Data",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Excellent"
+        },
+        {
+          "keyword": "Systems Thinking",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Excellent"
+        },
+        {
+          "keyword": "Complex Problem Solving",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Excellent"
+        },
+        {
+          "keyword": "Cross-functional collaboration",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Excellent"
+        },
+        {
+          "keyword": "Marketplaces",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Excellent"
+        },
+        {
+          "keyword": "Fintech",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Good"
+        },
+        {
+          "keyword": "Regulated Industries",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Excellent"
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-11-01T17:07:53.549Z",
+      "isNew": true
+    },
+    {
+      "id": "job-1rl6ku",
+      "title": "Senior Product Designer",
+      "company": "Harvey",
+      "companyDomain": "harvey.ai",
+      "industry": "Legal Tech, AI, B2B SaaS",
+      "location": "Remote",
+      "postedAt": "2026-10-29",
+      "fitScore": 9,
+      "fitTier": "Strong Fit",
+      "fitExplanation": "This role presents a strong alignment with Michael's expertise in complex B2B SaaS products and transactional workflows, especially concerning contracts, compliance, and high-stakes problem spaces. The job's focus on integrating AI meaningfully and crafting interfaces that build user trust and understanding in complex outputs directly matches Michael's design philosophy and his experience with AI tools. The company is well-funded and a recognized leader in its specialized niche, meeting the preference for a stable and resourced environment.",
+      "source": "Remote Source",
+      "applyUrl": "N/A",
+      "isOffLinkedIn": false,
+      "jobDescription": "As a Senior Product Designer at Harvey, responsibilities include managing multiple projects from ideation to launch, creating high-quality designs, interactions, and prototypes to transform complex problems into intuitive solutions. The role involves working closely with engineers, AI researchers, product managers, and lawyers to incorporate AI in meaningful ways, specifically by crafting interfaces that enable users to understand, trust, and effectively guide AI outputs. Key qualifications include a minimum of 5 years of experience in product design within a fast-paced environment, a strong portfolio, proven ability to tackle complex challenges, deep understanding of design systems, excellent visual and interaction design craft, and experience conducting user research.",
+      "specialty": "AI for Legal/Professional Services",
+      "salary": "$138,600 - $207,800 CAD",
+      "keywords": [
+        {
+          "keyword": "Product Design",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Excellent"
+        },
+        {
+          "keyword": "Complex Challenges",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Excellent"
+        },
+        {
+          "keyword": "Design Systems",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Excellent"
+        },
+        {
+          "keyword": "Visual Design",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Excellent"
+        },
+        {
+          "keyword": "Interaction Design",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Excellent"
+        },
+        {
+          "keyword": "User Research",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Good"
+        },
+        {
+          "keyword": "AI Integration",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Excellent"
+        },
+        {
+          "keyword": "Prototyping",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Good"
+        },
+        {
+          "keyword": "B2B SaaS",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Excellent"
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-11-01T17:07:53.549Z",
+      "isNew": true
     }
   ],
-  "scannedAt": "2026-10-31T22:30:26.316Z"
+  "scannedAt": "2026-11-01T17:08:56.444Z"
 }
