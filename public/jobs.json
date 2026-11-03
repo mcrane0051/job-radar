@@ -1,87 +1,6 @@
 {
   "jobs": [
     {
-      "id": "job-6rb13x",
-      "title": "Senior Product Designer",
-      "company": "Coinbase",
-      "companyDomain": "coinbase.com",
-      "industry": "FinTech, Developer Tools, B2B SaaS, Enterprise Software, Marketplace",
-      "location": "Remote (US)",
-      "postedAt": "2026-10-19",
-      "fitScore": 9,
-      "fitTier": "Strong Fit",
-      "fitExplanation": "This role is a strong match due to its focus on developer tools and technical platforms, which aligns with Michael's experience in enterprise software and developer tools. His background in FinTech-adjacent areas like payment reconciliation and transactional flows, combined with his expertise in designing complex, multi-surface products and contributing to design systems, makes him an ideal candidate. The company's public status meets his Series C+ preference.",
-      "source": "Lever",
-      "applyUrl": "https://jobs.lever.co/coinbase/01e4a3c1-d419-482f-87d4-0b1a9e7f45c2",
-      "specialty": "Developer Foundations",
-      "jobDescription": "This role is focused on designing developer tools, technical platforms, and documentation experiences within Coinbase. The Senior Product Designer will take ownership of end-to-end design for complex, multi-surface products and ensure they are shipped to production. Contributing to and maintaining a design system, along with integrating user research insights, are critical aspects.\n\n**Core Responsibilities:**\n*   Design end-to-end for developer tools, technical platforms, or documentation experiences within a FinTech context.\n*   Own design for complex, multi-surface products from initial concept through to shipped production and measured outcomes.\n*   Contribute to or maintain a robust and scalable design system.\n*   Integrate user research insights into design decisions, demonstrating how research influenced outcomes.\n*   Operate effectively in an intense, high-impact environment, pushing perceived limits.\n\n**Core Requirements:**\n*   5+ years of product design experience, with a minimum of 2 years specifically in developer tools, technical platforms, or documentation experiences.\n*   Demonstrated ownership of end-to-end design for complex, multi-surface products shipped to production.\n*   Proven experience contributing to or maintaining a design system, with a portfolio showcasing systematic and scalable design thinking.\n*   Proficiency in Figma for design delivery, prototyping, and design system management.\n*   Track record of integrating user research insights into design decisions, with examples of how research led to impactful changes.",
-      "keywords": [
-        {
-          "keyword": "Senior Product Designer",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Targeted role level"
-        },
-        {
-          "keyword": "Developer Tools",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Industry with deep context, explicit mention of experience"
-        },
-        {
-          "keyword": "Technical Platforms",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Experience with enterprise multi-cloud transactional platform"
-        },
-        {
-          "keyword": "FinTech adjacent",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Experience with payment reconciliation, transactional flows"
-        },
-        {
-          "keyword": "Complex products",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Specialization in complex B2B SaaS products"
-        },
-        {
-          "keyword": "Design Systems",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Expertise in building and scaling"
-        },
-        {
-          "keyword": "Figma",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Proficient"
-        },
-        {
-          "keyword": "User Research",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Experienced"
-        },
-        {
-          "keyword": "Prototyping",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Expertise in high-fidelity interactive prototyping"
-        },
-        {
-          "keyword": "0-to-1 discovery",
-          "inProfile": true,
-          "relevance": "good",
-          "note": "Thrives in ambiguous problem spaces"
-        }
-      ],
-      "status": "New",
-      "scannedAt": "2026-10-20T15:39:02.153Z",
-      "isNew": false
-    },
-    {
       "id": "job-dwkhpr",
       "title": "Senior Product Designer",
       "company": "Vanta",
@@ -229,93 +148,6 @@
       "isNew": false
     },
     {
-      "id": "job-prmidh",
-      "title": "Principal Product Designer",
-      "company": "Photon",
-      "companyDomain": "photon.com",
-      "industry": "Enterprise Software, AI, Fintech, Digital Modernization",
-      "location": "Hybrid (Berkeley Heights, NJ)",
-      "postedAt": "2026-10-18",
-      "fitScore": 9,
-      "fitTier": "Strong Fit",
-      "fitExplanation": "This role is an excellent match for Michael's expertise in complex B2B SaaS, enterprise software, and AI-driven solutions. The 'Principal' title aligns with his target level and 10+ years of experience, including leading design at Tackle.io. The emphasis on designing intuitive workflows for complex financial and operational concepts, and creating trustworthy AI recommendations, directly mirrors Michael's proven ability to make complex systems delightful and tactile in high-stakes environments. His background in visual systems and craft is explicitly valued through the requirement for a 'highly refined visual aesthetic' in case studies. The company's established nature (4000+ employees, Fortune 500 clients) exceeds the Series C minimum. The hybrid location in Berkeley Heights, NJ, is acceptable given Michael's residence in Hamilton, NJ, though it incurs a slight deduction from a perfect score due to the preference for remote work.",
-      "source": "Careers in Government (via aggregator platforms)",
-      "applyUrl": "N/A",
-      "jobDescription": "Photon, an established leader in digital experiences and modernization for Fortune 500 companies, is seeking a Principal Product Designer to shape user interactions with intelligent systems. This pivotal role involves designing intuitive, user-centered workflows that seamlessly integrate human decision-making with intelligent AI automation, transforming complex financial and operational concepts into accessible digital experiences. The ideal candidate will possess deep, focused product design expertise at a Staff/Principal caliber, demonstrated through a portfolio showcasing success in complex SaaS or Fintech initiatives.\n\nCore Responsibilities:\n*   Design end-to-end AI-powered workflows, including copilots and conversational user interfaces.\n*   Develop approval patterns and explainability models to ensure AI recommendations are trustworthy, understandable, and actionable for enterprise users.\n*   Collaborate closely with Product Managers and Engineering teams to translate robust backend automation into elegant, intuitive front-end enterprise experiences.\n\nRequired Qualifications and Skills:\n*   Extensive product design expertise, equivalent to Staff or Principal level (e.g., Amazon L6/L7).\n*   Proven track record of leading digital customer experience initiatives within complex SaaS or Fintech environments.\n*   Mandatory submission of a clear, accessible portfolio URL with case studies demonstrating in-depth complex problem-solving.\n*   Portfolio case studies must exhibit enterprise-grade product design, not academic projects.\n*   Demonstrated mastery of visual aesthetic, including color, typography, layout, and iconography, suitable for global enterprise brands.\n*   Prototypes included in the portfolio must be high-fidelity and clearly communicate functionality at every step.",
-      "specialty": "AI",
-      "keywords": [
-        {
-          "keyword": "Complex B2B SaaS",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Role focuses on complex SaaS and Fintech enterprise experiences."
-        },
-        {
-          "keyword": "AI-powered workflows",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Directly mentioned as a core responsibility."
-        },
-        {
-          "keyword": "Enterprise software",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Designing enterprise-grade digital experiences."
-        },
-        {
-          "keyword": "Fintech",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Success in Fintech initiatives is a requirement."
-        },
-        {
-          "keyword": "0-to-1 discovery",
-          "inProfile": true,
-          "relevance": "strong",
-          "note": "Designing end-to-end AI workflows implies new product/feature development."
-        },
-        {
-          "keyword": "Visual craft",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Emphasis on 'highly refined visual aesthetic' in portfolio."
-        },
-        {
-          "keyword": "Systems thinking",
-          "inProfile": true,
-          "relevance": "strong",
-          "note": "Simplifying complex financial/operational concepts and designing scalable systems."
-        },
-        {
-          "keyword": "Cross-functional collaboration",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Partnering with Product Managers and Engineering."
-        },
-        {
-          "keyword": "Prototyping",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "High-fidelity prototypes with 'substantial depth' are required in the portfolio."
-        },
-        {
-          "keyword": "User Research",
-          "inProfile": true,
-          "relevance": "implied",
-          "note": "Designing user-centered workflows implies user research as part of the process."
-        },
-        {
-          "keyword": "Design Systems",
-          "inProfile": true,
-          "relevance": "implied",
-          "note": "Delivering 'enterprise-grade product design' often involves working with design systems, consistent with Michael's experience."
-        }
-      ],
-      "status": "New",
-      "scannedAt": "2026-10-19T22:54:09.103Z",
-      "isNew": false
-    },
-    {
       "id": "job-aht96h",
       "title": "Senior Product Designer",
       "company": "Juniper Square",
@@ -419,104 +251,6 @@
       "jobDescription": "Juniper Square is seeking a Senior Product Designer to build end-to-end user experiences for their complex B2B SaaS platform in private markets. The remote (US) role focuses on simplifying financial data workflows, designing AI-driven features, and improving the design system. Responsibilities include leveraging AI tools, conducting user research, and ensuring a data-driven approach. Juniper Square provides fund administration software and services and is backed by over $350M in funding (Series D). Key qualifications include 4+ years of experience, fluency in Figma and AI tools (e.g., Claude, Cursor), and a strong portfolio in enterprise product design. The salary range is $148k - $185k per year.",
       "status": "New",
       "scannedAt": "2026-10-21T15:57:21.597Z",
-      "isNew": false
-    },
-    {
-      "id": "job-3zvuvo",
-      "title": "Lead Product Designer",
-      "company": "Cloudera",
-      "companyDomain": "cloudera.com",
-      "industry": "Cloud Infrastructure, Enterprise Software, B2B SaaS, Developer Tools",
-      "location": "Remote (US)",
-      "postedAt": "2026-10-19",
-      "fitScore": 10,
-      "fitTier": "Strong Fit",
-      "fitExplanation": "This role perfectly aligns with Michael's background as a Lead Product Designer specializing in complex B2B SaaS and enterprise software, particularly with data-heavy interfaces. His experience with multi-cloud platforms, transactional systems, and leading design systems directly matches Cloudera's focus on a hybrid data platform. The explicit mention of Figma Make, Claude, and Cursor is a direct match with Michael's recently acquired AI tool skills. The company's established status (post-IPO) fits his Series C+ preference.",
-      "source": "Workday",
-      "applyUrl": "https://cloudera.myworkdayjobs.com/cloudera/job/USA---Remote/Lead-Product-Designer_261413",
-      "jobDescription": "This position focuses on delivering precision-crafted designs for Cloudera's hybrid data platform, which manages the lifecycle of data from edge to AI. The Lead Product Designer will be instrumental in creating simple and innovative experiences for complex interfaces such as dashboards, analytics tools, data modeling interfaces, and workflow automation platforms. A significant part of the role involves leading and owning a design system and integrating AI tools into design workflows.\n\n**Core Responsibilities:**\n*   Create precision-crafted designs for the Cloudera Platform, focusing on simplicity and innovation for complex data systems.\n*   Design for intricate interfaces including dashboards, analytics tools, data modeling, and workflow automation platforms.\n*   Own or lead a design system within a B2B SaaS or enterprise software environment.\n*   Actively integrate AI tools such as Figma Make, Claude, and Cursor into scalable design and development workflows.\n*   Balance system standardization with the flexibility required for varied product contexts and evolving business needs.\n*   Master user-centered design processes and principles, including responsive design, accessibility (WCAG 2.1+, ARIA), internationalization/localization, design tokens, and theming strategies.\n\n**Core Requirements:**\n*   6-8 years of experience in UX/UI design or front-end development, with at least 2 years owning or leading a design system.\n*   Proven experience in B2B SaaS or enterprise software environments.\n*   Demonstrated ability to integrate tools like Figma Make, Claude, and Cursor into design workflows.\n*   Experience designing for complex interfaces (dashboards, analytics tools, data modeling, workflow automation).\n*   Deep understanding of responsive design, accessibility, and design system scaling.\n*   Self-starter and highly collaborative communicator, adept at navigating ambiguity in a fast-paced environment.",
-      "keywords": [
-        {
-          "keyword": "Lead Product Designer",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Targeted role level"
-        },
-        {
-          "keyword": "B2B SaaS",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Deep expertise"
-        },
-        {
-          "keyword": "Enterprise Software",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Deep expertise"
-        },
-        {
-          "keyword": "Cloud infrastructure",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Deep context at Tackle.io"
-        },
-        {
-          "keyword": "Complex data systems",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Specialization"
-        },
-        {
-          "keyword": "Design Systems",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Team Lead experience, established scalable system"
-        },
-        {
-          "keyword": "Figma Make",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Explicitly used and mentioned in profile"
-        },
-        {
-          "keyword": "Cursor",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Explicitly used and mentioned in profile"
-        },
-        {
-          "keyword": "Dashboards",
-          "inProfile": true,
-          "relevance": "good",
-          "note": "Experience with revenue tracking, reporting interfaces"
-        },
-        {
-          "keyword": "Analytics tools",
-          "inProfile": true,
-          "relevance": "good",
-          "note": "Experience with revenue tracking, reporting interfaces"
-        },
-        {
-          "keyword": "Workflow automation",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Experience simplifying deal-booking flows, transaction workflows"
-        },
-        {
-          "keyword": "0-to-1 discovery",
-          "inProfile": true,
-          "relevance": "good",
-          "note": "Thrives in ambiguous problem spaces"
-        },
-        {
-          "keyword": "Accessibility",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Listed in design practice skills"
-        }
-      ],
-      "status": "New",
-      "scannedAt": "2026-10-20T15:39:02.153Z",
       "isNew": false
     },
     {
@@ -2960,7 +2694,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-11-02T20:47:27.438Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-84khb",
@@ -3040,7 +2774,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-11-02T20:47:27.438Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-dvjgcg",
@@ -3108,7 +2842,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-11-02T20:47:27.438Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-5c081a",
@@ -3176,8 +2910,180 @@
       ],
       "status": "New",
       "scannedAt": "2026-11-02T20:47:27.438Z",
+      "isNew": false
+    },
+    {
+      "id": "job-pwj2hs",
+      "title": "Senior Product Designer",
+      "company": "Tithe.ly",
+      "companyDomain": "tithely.com",
+      "industry": "B2B SaaS, FinTech (adjacent)",
+      "location": "Remote (United States)",
+      "postedAt": "2026-11-03",
+      "fitScore": 8,
+      "fitTier": "Good Fit",
+      "fitExplanation": "Strong alignment with Michael's experience in complex B2B SaaS, transactional workflows, and 0-to-1 design. The role explicitly mentions using AI tools, a key skill for Michael. Location is a perfect match (Remote US). While the church tech industry isn't a direct match with his deep context, the complexity of workflows and finance-adjacent aspects align well. Company stage as 'Scaleup' with a large customer base suggests proven PMF and resources.",
+      "source": "Jobgether",
+      "applyUrl": "N/A",
+      "isOffLinkedIn": false,
+      "jobDescription": "*   Lead design from research through launch for complex church workflows, translating them into clear, connected experiences.\n*   Partner with product managers and engineers, guiding design decisions and mentoring fellow designers.\n*   Conduct research planning, customer interviews, and usability testing; advocate for users.\n*   Utilize strong Figma skills, including reusable components, interactive prototypes, and shared design libraries.\n*   Employ AI tools for exploring ideas, building prototypes, or improving design workflows.\n*   Requires 5+ years of product design experience, including complex SaaS applications with multiple user roles and workflows.\n*   A portfolio demonstrating strong visual and interaction design, influence on key decisions, and research-informed shipped products.",
+      "specialty": "",
+      "salary": "$130K - $160K",
+      "keywords": [
+        {
+          "keyword": "B2B SaaS",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Explicitly mentioned 'complex SaaS applications'"
+        },
+        {
+          "keyword": "Complex workflows",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Focus on 'complex church workflows'"
+        },
+        {
+          "keyword": "Transactional flows",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Implied by 'giving' and financial aspects of church tech"
+        },
+        {
+          "keyword": "0-to-1 discovery",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "'Lead design from research through launch' for new features"
+        },
+        {
+          "keyword": "User Research",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "'Lead research planning, customer interviews, usability testing'"
+        },
+        {
+          "keyword": "Figma",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "'Strong Figma skills'"
+        },
+        {
+          "keyword": "AI tools",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "'Experience using AI tools to explore ideas, build prototypes'"
+        },
+        {
+          "keyword": "Design Systems",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "'shared design libraries'"
+        },
+        {
+          "keyword": "Design leadership/mentoring",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "'mentor fellow designers'"
+        },
+        {
+          "keyword": "Visual craft",
+          "inProfile": true,
+          "relevance": "good",
+          "note": "'strong visual and interaction design', 'clear, connected experiences'"
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-11-03T18:27:50.189Z",
+      "isNew": true
+    },
+    {
+      "id": "job-2lczxa",
+      "title": "Senior Product Designer",
+      "company": "Findem",
+      "companyDomain": "findem.ai",
+      "industry": "B2B SaaS, HR Tech, AI",
+      "location": "Remote (United States)",
+      "postedAt": "2026-11-02",
+      "fitScore": 9,
+      "fitTier": "Strong Fit",
+      "fitExplanation": "Excellent fit with Michael's background in B2B SaaS and HR Tech (iCIMS). The role's focus on designing for 'AI agents' and 'AI-native process' strongly aligns with Michael's experience and interest in AI tools. His 0-to-1 experience and ability to work in ambiguous contexts are directly called out. Location is a perfect match (Remote US). The company is a well-established AI/HR tech platform, likely past Series C.",
+      "source": "UI/UX Jobs Board",
+      "applyUrl": "N/A",
+      "isOffLinkedIn": false,
+      "jobDescription": "*   Design and ship new agentic patterns, defining user interaction with AI agents within daily workflows.\n*   Help define how the design team uses AI tools, building an AI-native process for faster design-to-experience path.\n*   Design agent artifact experiences and early customer prototype UX, particularly for RRA SaaS.\n*   Perform UX code polish PRs (front-end only) and collaborate daily with Product and Engineering.\n*   Requires 5+ years designing and shipping digital products, with a portfolio of live experiences.\n*   Track record of moving quickly from idea to prototype in ambiguous, early-stage contexts.\n*   Preferred experience: 0-to-1 or exploratory product work, ideally in SaaS or B2B.\n*   Preferred comfort collaborating directly in an engineering codebase and workflow (Git, PRs, design QA).\n*   Strong UX and interaction design fundamentals, including user journey mapping, information architecture.",
+      "specialty": "AI",
+      "salary": "",
+      "keywords": [
+        {
+          "keyword": "B2B SaaS",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "'SaaS or B2B' explicitly mentioned"
+        },
+        {
+          "keyword": "AI agents",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Core to the role 'designing new agentic patterns', 'AI agents'"
+        },
+        {
+          "keyword": "AI tools",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "'help define how our team uses AI tools in its own work'"
+        },
+        {
+          "keyword": "0-to-1 discovery",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "'0-to-1 or exploratory product work', 'ambiguous, early-stage contexts'"
+        },
+        {
+          "keyword": "User Workflows",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "'UX design and user workflows'"
+        },
+        {
+          "keyword": "Prototyping",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "'move quickly from idea to prototype'"
+        },
+        {
+          "keyword": "Information Architecture",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "'information architecture' explicitly mentioned"
+        },
+        {
+          "keyword": "User Research",
+          "inProfile": true,
+          "relevance": "good",
+          "note": "Implied by early customer prototypes"
+        },
+        {
+          "keyword": "Cross-functional collaboration",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "'work daily with Product and Engineering'"
+        },
+        {
+          "keyword": "HR Tech",
+          "inProfile": true,
+          "relevance": "good",
+          "note": "'Executive Search team' implies HR Tech domain"
+        },
+        {
+          "keyword": "Visual craft",
+          "inProfile": true,
+          "relevance": "good",
+          "note": "Implied by shipping live experiences"
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-11-03T18:27:50.189Z",
       "isNew": true
     }
   ],
-  "scannedAt": "2026-11-02T20:48:33.671Z"
+  "scannedAt": "2026-11-03T18:28:38.679Z"
 }
