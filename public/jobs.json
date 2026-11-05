@@ -148,94 +148,6 @@
       "isNew": false
     },
     {
-      "id": "job-qpvnjc",
-      "title": "Senior Product Designer",
-      "company": "Pawlicy Advisor",
-      "companyDomain": "pawlicy.com",
-      "industry": "Marketplace, FinTech",
-      "location": "Remote, US-based",
-      "postedAt": "2026-10-20",
-      "fitScore": 9,
-      "fitTier": "Strong Fit",
-      "fitExplanation": "This role is an excellent match for Michael Crane. It's a Senior Product Designer position at Pawlicy Advisor, a venture-backed startup in the pet insurance marketplace space, which aligns with Michael's expertise in marketplaces and FinTech-adjacent domains. The company has found product-market fit and is scaling, indicating it is likely Series C or later. The role is fully remote (US-based), which is ideal. Michael's experience in designing complex data-heavy interfaces, transactional workflows, and simplifying complex systems directly translates to owning the design of the marketplace experience, quote flows, and managing a design system. His '0-to-1' experience in ambiguous problem spaces is also a strong asset for a scaling startup.",
-      "source": "UI/UX Jobs Board",
-      "applyUrl": "N/A",
-      "isOffLinkedIn": false,
-      "jobDescription": "Pawlicy Advisor, a profitable venture-backed startup, is seeking a Senior Product Designer to own the end-to-end design for their pet insurance marketplace. The role involves transforming complex financial protection decisions into clear, user-friendly experiences.\n\n**Core Responsibilities:**\n*   Own end-to-end design, including research, wireframes, high-fidelity mockups, and design iteration for new features and experiments across the website.\n*   Gather feedback from internal stakeholders on new product features and resolve conflicting input.\n*   Build and manage the design system in close collaboration with the senior marketing designer.\n*   Perform Design QA for engineering, reviewing shipped work against designs before release.\n*   Take ownership of content, drafting first versions of UX copy for quote flow language, plan explanations, and error states, and ensuring insurance terms are understandable for pet parents.\n*   Ensure copy reviews are completed by legal and compliance.\n*   Support Pawlicy's brand development across product.\n\n**Key Requirements:**\n*   Proven experience owning design end-to-end.\n*   Ability to work 1-2 sprints ahead of a fast-moving engineering team.\n*   Strong collaboration skills, working closely with engineers, product managers, and internal stakeholders.\n*   Proficiency in creating wireframes and high-fidelity mockups.\n*   Experience with design systems.\n*   Understanding of UX copywriting principles.",
-      "specialty": "Marketplace",
-      "keywords": [
-        {
-          "keyword": "Product Design",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Core role"
-        },
-        {
-          "keyword": "Marketplace",
-          "inProfile": true,
-          "relevance": "highly relevant",
-          "note": "Industry and domain match"
-        },
-        {
-          "keyword": "FinTech adjacent",
-          "inProfile": true,
-          "relevance": "highly relevant",
-          "note": "Financial protection aspect of pet insurance"
-        },
-        {
-          "keyword": "Remote",
-          "inProfile": true,
-          "relevance": "preferred",
-          "note": "Desired work arrangement"
-        },
-        {
-          "keyword": "0-to-1",
-          "inProfile": true,
-          "relevance": "highly relevant",
-          "note": "Scaling startup, end-to-end ownership"
-        },
-        {
-          "keyword": "Design Systems",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Explicitly mentioned responsibility"
-        },
-        {
-          "keyword": "User Research",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Mentioned as part of end-to-end design"
-        },
-        {
-          "keyword": "Wireframing",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Explicitly mentioned responsibility"
-        },
-        {
-          "keyword": "Prototyping",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Implicit in high-fidelity mockups and iteration"
-        },
-        {
-          "keyword": "Figma",
-          "inProfile": true,
-          "relevance": "highly relevant",
-          "note": "Standard tool for mockups/design systems"
-        },
-        {
-          "keyword": "Complex workflow design",
-          "inProfile": true,
-          "relevance": "highly relevant",
-          "note": "Simplifying insurance terms, quote flows"
-        }
-      ],
-      "status": "New",
-      "scannedAt": "2026-10-21T22:21:50.581Z",
-      "isNew": false
-    },
-    {
       "id": "job-dvpkp2",
       "title": "Senior Product Designer",
       "company": "Toast",
@@ -2864,7 +2776,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-11-04T18:39:12.236Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-sdpkhu",
@@ -2929,7 +2841,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-11-04T18:39:12.236Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-rzoq93",
@@ -2999,8 +2911,239 @@
       ],
       "status": "New",
       "scannedAt": "2026-11-04T18:39:12.236Z",
+      "isNew": false
+    },
+    {
+      "id": "job-d5fj2u",
+      "title": "Senior Product Designer",
+      "company": "Fanduel",
+      "companyDomain": "fanduel.com",
+      "industry": "Fintech, Enterprise Software",
+      "location": "Hybrid in NYC, New Jersey",
+      "postedAt": "2026-11-04",
+      "fitScore": 7,
+      "fitTier": "Good Fit",
+      "fitExplanation": "Michael's deep expertise in complex systems, visual hierarchy, information architecture, and design systems aligns well with the role's requirements. The position demands strong collaboration with product and engineering and experience in user research and data-informed design, all of which are core to Michael's profile. While FanDuel operates in a consumer-facing fintech/gaming space, the complexity of the platform and transactional flows has parallels with Michael's background in B2B SaaS and payment reconciliation. The hybrid location in NYC/New Jersey is a match, but the hybrid nature deducts 1 point from the overall fit score, as Michael prefers remote.",
+      "source": "Built In NYC",
+      "applyUrl": "N/A",
+      "isOffLinkedIn": false,
+      "jobDescription": "This Senior Product Designer role involves shaping user experiences with a strong emphasis on visual hierarchy, layout, and information architecture. The designer will leverage user-centered design methodologies and contribute significantly to the design system to ensure scalability and consistency. Collaboration with product and engineering teams is crucial, as is actively seeking and incorporating insights from various stakeholders. Responsibilities include leading/participating in design workshops, maintaining deep knowledge of customer behavior, and designing with accessibility and inclusivity in mind. The role requires advanced Figma skills, including component management and prototyping, and involves observing customers and conducting usability research using quantitative and qualitative data to validate solutions. The designer will present experience strategy, research insights, and design decisions to stakeholders and advocate for clear communication within the team.",
+      "specialty": "",
+      "salary": "",
+      "keywords": [
+        {
+          "keyword": "Visual Hierarchy",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Extensive expertise in visual hierarchy is required, matching Michael's background in visual systems and graphic design."
+        },
+        {
+          "keyword": "Information Architecture",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Strong understanding of information architecture is a key requirement, aligning with Michael's expertise in complex data systems."
+        },
+        {
+          "keyword": "Design Systems",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Experience designing for scale and contributing to a design system is essential, a core strength for Michael."
+        },
+        {
+          "keyword": "User-centered Design",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Strong understanding of user-centered design methodologies, a fundamental aspect of Michael's practice."
+        },
+        {
+          "keyword": "Figma",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Advanced Figma skills (3+ years professional experience) are required; Michael is an expert user."
+        },
+        {
+          "keyword": "User Research",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Good working knowledge of user research process and methodologies, which Michael possesses."
+        },
+        {
+          "keyword": "Cross-functional collaboration",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Experience working in partnership with product, engineering, and research teams is required, a key strength of Michael."
+        },
+        {
+          "keyword": "Fintech",
+          "inProfile": true,
+          "relevance": "preferred",
+          "note": "Experience in Fintech is mentioned as a key industry in NYC; Michael has FinTech adjacent experience in payment reconciliation."
+        },
+        {
+          "keyword": "Transactional flows",
+          "inProfile": true,
+          "relevance": "moderate",
+          "note": "While not explicitly stated as 'transactional flows', the fintech industry and complex platform imply similar challenges."
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-11-05T00:22:57.694Z",
+      "isNew": true
+    },
+    {
+      "id": "job-pdybq7",
+      "title": "Senior Product Designer",
+      "company": "UnitedHealth Group",
+      "companyDomain": "unitedhealthgroup.com",
+      "industry": "Enterprise Software, Cloud Infrastructure, Healthcare, AI/Agentic Platforms",
+      "location": "Remote (U.S. Only)",
+      "postedAt": "2026-11-02",
+      "fitScore": 10,
+      "fitTier": "Strong Fit",
+      "fitExplanation": "This role is an exceptional match for Michael's profile. It specifically targets a Senior Product Designer with 10+ years of experience in designing complex enterprise software or platforms, which directly aligns with Michael's background at Tackle.io and Infragistics. The focus on translating complex agent behaviors, technical workflows, and creating coherent experiences across a marketplace and data connections mirrors Michael's expertise in complex data systems, transactional flows, and marketplace infrastructure. His experience with AI tools (Figma Make, Cursor) and ability to mentor designers are directly relevant. The remote U.S. location is also a preferred arrangement.",
+      "source": "UnitedHealth Group Careers Page (via Google Search)",
+      "applyUrl": "https://careers.unitedhealthgroup.com/job/senior-product-designer-agentic-platform-remote/",
+      "isOffLinkedIn": false,
+      "jobDescription": "This Senior Product Designer, Agentic Platform role operates at the intersection of experience design, product management, engineering, research, architecture, security, governance, and commercialization. The core responsibility is to translate complex agent behaviors, enterprise controls, and technical workflows into clear user journeys and scalable interaction patterns for various stakeholders, including business users, administrators, developers, and governance teams. The position requires over 10 years of experience in UX, product design, or related disciplines, with significant experience in complex enterprise software or platforms. Key duties include presenting experience strategy, research insights, prototypes, and design recommendations to senior stakeholders, facilitating cross-functional workshops, mentoring other designers, and advocating for customer-centered design, accessibility, and evidence-based decision-making. The designer will create coherent workflows across agent studio, marketplace, runtime controls, observability, policy management, and data administration capabilities, focusing on trustworthy human-agent interactions and effective human-in-the-loop experiences.",
+      "specialty": "Agentic Platform",
+      "salary": "",
+      "keywords": [
+        {
+          "keyword": "Complex Enterprise Software",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "10+ years of experience designing complex enterprise software or platforms is a direct requirement and Michael's core expertise."
+        },
+        {
+          "keyword": "Platform Design",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "The role focuses on shaping intuitive and trustworthy experiences across an 'agentic platform', aligning with Michael's platform design experience."
+        },
+        {
+          "keyword": "AI-enabled experiences",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Designing AI-enabled and agentic enterprise experiences is central, matching Michael's use of AI tools and interest in advanced systems."
+        },
+        {
+          "keyword": "Marketplace Infrastructure",
+          "inProfile": true,
+          "relevance": "strong",
+          "note": "Creating coherent workflows across 'marketplace' capabilities is a strong match for Michael's Tackle.io experience."
+        },
+        {
+          "keyword": "Complex Workflows",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Translating complex agent behaviors and technical workflows into clear user journeys is a primary responsibility, directly aligning with Michael's strengths."
+        },
+        {
+          "keyword": "Data Systems",
+          "inProfile": true,
+          "relevance": "strong",
+          "note": "The role involves data connections and administration capabilities, highly relevant to Michael's experience with complex data systems."
+        },
+        {
+          "keyword": "Mentoring Designers",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Mentoring designers is a stated responsibility, matching Michael's experience as a team lead and mentor."
+        },
+        {
+          "keyword": "Cross-functional Collaboration",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Facilitating cross-functional workshops and presenting to senior product, technology, and business stakeholders aligns with Michael's collaborative style."
+        },
+        {
+          "keyword": "User Research",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Presenting research insights and advocating for evidence-based decision-making is required, aligning with Michael's design practice."
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-11-05T00:22:57.694Z",
+      "isNew": true
+    },
+    {
+      "id": "job-hkox0d",
+      "title": "Senior Product Designer",
+      "company": "Grafana Labs",
+      "companyDomain": "grafana.com",
+      "industry": "Cloud Infrastructure, Developer Tools, B2B SaaS, Enterprise Software",
+      "location": "Remote (U.S. Only)",
+      "postedAt": "2026-11-04",
+      "fitScore": 10,
+      "fitTier": "Strong Fit",
+      "fitExplanation": "This role is a perfect fit for Michael, targeting a Senior Product Designer with 7+ years of experience in B2B/enterprise software, specifically for developers and technical users. Michael's 10+ years of experience, including work on developer tools and complex B2B SaaS, directly aligns. The focus on designing data-dense interfaces, understanding complex system data, and translating research into role-driven experiences for an observability platform (cloud infrastructure) strongly matches his background in complex data systems and visual craft for enterprise software. The 100% remote nature of Grafana Labs is also a preferred work arrangement. Michael's experience with design systems, information architecture, prototyping, and mentoring designers are all explicitly sought after.",
+      "source": "Hirify (via Google Search), Built In (via Google Search)",
+      "applyUrl": "N/A",
+      "isOffLinkedIn": false,
+      "jobDescription": "As a Senior Product Designer for Grafana Cloud's Knowledge Graph, this role involves designing experiences for complex, constantly changing system data to be clear and actionable, specifically for the entity graph, entity catalog, and RCA workbench. Responsibilities include translating research and data into clear, role-driven experiences for technical audiences, designing data-dense interfaces, and balancing customer needs, business priorities, and technical constraints. The ideal candidate will have 7+ years of experience in B2B or enterprise software products, ideally for developers or highly technical users, with a portfolio showcasing effective designs for complex products. Key aspects include conducting qualitative research, building empathy with users, making design decisions that balance multiple considerations, and collaborating with cross-functional, globally distributed teams. The role also offers opportunities to coach and mentor other designers and contribute to the evolution of Product Design practices. This is a fully remote position emphasizing transparency and autonomy.",
+      "specialty": "Knowledge Graph",
+      "salary": "$88,240–105,888 (Germany - *not applicable for US remote*)",
+      "keywords": [
+        {
+          "keyword": "B2B/Enterprise Software",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "7+ years of experience in B2B/enterprise software products is a core requirement, matching Michael's primary expertise."
+        },
+        {
+          "keyword": "Developer Tools",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Experience designing tools and services for developers or highly technical users is ideal, aligning with Michael's deep context in developer tools."
+        },
+        {
+          "keyword": "Complex Data Systems",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Designing for complex, constantly changing system data and data-dense interfaces is central, directly matching Michael's expertise."
+        },
+        {
+          "keyword": "Observability Platform / Cloud Infrastructure",
+          "inProfile": true,
+          "relevance": "strong",
+          "note": "Grafana Cloud as a managed observability platform falls within Michael's cloud infrastructure and enterprise software domain."
+        },
+        {
+          "keyword": "User Research",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Experience conducting qualitative research in complex fields and translating research into role-driven experiences is essential, aligning with Michael's design practice."
+        },
+        {
+          "keyword": "Design Systems",
+          "inProfile": true,
+          "relevance": "strong",
+          "note": "Implied need for design system contribution for consistency across complex interfaces, a strong skill for Michael."
+        },
+        {
+          "keyword": "Information Architecture",
+          "inProfile": true,
+          "relevance": "strong",
+          "note": "Designing experiences for a 'Knowledge Graph' inherently requires strong information architecture skills, which Michael possesses."
+        },
+        {
+          "keyword": "Mentoring Designers",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Opportunity to coach and mentor other designers aligns with Michael's team leadership experience."
+        },
+        {
+          "keyword": "Remote Work",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Experience working in a fully remote, fast-paced environment is required, matching Michael's openness to remote and strong communication skills."
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-11-05T00:22:57.694Z",
       "isNew": true
     }
   ],
-  "scannedAt": "2026-11-04T18:41:05.082Z"
+  "scannedAt": "2026-11-05T00:23:41.466Z"
 }
