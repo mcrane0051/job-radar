@@ -3076,7 +3076,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-11-05T18:45:59.293Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-hkox0d",
@@ -3224,8 +3224,363 @@
       ],
       "status": "New",
       "scannedAt": "2026-11-05T18:45:59.293Z",
+      "isNew": false
+    },
+    {
+      "id": "job-tqjvul",
+      "title": "Senior Staff Product Designer",
+      "company": "Honor Technology",
+      "companyDomain": "joinhonor.com",
+      "industry": "Healthcare, Fintech, Marketplace",
+      "location": "Remote (United States)",
+      "postedAt": "2026-11-05",
+      "fitScore": 9,
+      "fitTier": "Strong Fit",
+      "fitExplanation": "This Senior Staff Product Designer role aligns very well with Michael's experience in leading product design for complex, high-stakes systems. His background in FinTech adjacent and marketplace infrastructure is relevant to the mentioned experience in regulated or trust-sensitive domains like healthcare, fintech, and marketplaces. Michael's expertise in 0-to-1 discovery, full design lifecycle, and cross-functional collaboration is directly applicable to the responsibilities of owning end-to-end product work, shaping workflows, and grounding UX strategy in evidence. The remote U.S. location is also a strong preference.",
+      "source": "Built In",
+      "applyUrl": "N/A",
+      "jobDescription": "This Senior Staff Product Designer position focuses on guiding the strategic thinking and delivery of digital products and service experiences aimed at providing high-quality care to aging adults. The role involves designing for the entire care journey, encompassing clients, families, and Care Professionals, while balancing technical and business constraints. Responsibilities include owning product outcomes from end-to-end, collaborating iteratively with business and engineering to define problems, explore solutions, validate concepts, and ship features. The designer is expected to contribute to patterns, processes, and knowledge to build for the team's future and elevate the human elements of care delivery by designing not just screens, but also workflows, processes, and communications.",
+      "specialty": "",
+      "salary": "",
+      "keywords": [
+        {
+          "keyword": "Senior Staff Product Designer",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Exact match for target role level."
+        },
+        {
+          "keyword": "Remote US",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Matches candidate's location preference."
+        },
+        {
+          "keyword": "Fintech",
+          "inProfile": true,
+          "relevance": "preferred",
+          "note": "Candidate has deep FinTech-adjacent experience."
+        },
+        {
+          "keyword": "Marketplace",
+          "inProfile": true,
+          "relevance": "preferred",
+          "note": "Candidate has experience with marketplace infrastructure."
+        },
+        {
+          "keyword": "Complex systems",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Strong match with Michael's expertise in complex B2B SaaS products."
+        },
+        {
+          "keyword": "Workflows",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Core responsibility of the role, strong match with candidate's experience."
+        },
+        {
+          "keyword": "0-to-1 discovery",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Implied by 'shaping workflows' and 'grounding UX strategy'."
+        },
+        {
+          "keyword": "Full design lifecycle",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Implied by 'owning product work end-to-end' and 'stay involved through launch and iteration'."
+        },
+        {
+          "keyword": "Cross-functional collaboration",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Emphasized in the role description, matches candidate's skill set."
+        },
+        {
+          "keyword": "Design systems",
+          "inProfile": true,
+          "relevance": "good to have",
+          "note": "Mentions collaborating on patterns, processes, and knowledge."
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-11-06T00:16:41.647Z",
+      "isNew": true
+    },
+    {
+      "id": "job-98qlxh",
+      "title": "Senior Staff Product Designer",
+      "company": "Wealthfront",
+      "companyDomain": "wealthfront.com",
+      "industry": "Fintech",
+      "location": "Remote (United States)",
+      "postedAt": "2026-11-03",
+      "fitScore": 9,
+      "fitTier": "Strong Fit",
+      "fitExplanation": "This role is an excellent match for Michael, particularly given his strong FinTech-adjacent experience (payment reconciliation, transactional flows, contract management) and expertise in designing complex, data-heavy systems that require clarity and trust. The emphasis on solving ambiguous problems from strategy to execution, driving design sprints, building scalable systems, and elevating design craft aligns perfectly with Michael's core strengths and design philosophy. The remote-first nature is also a strong preference.",
+      "source": "Wealthfront Careers",
+      "applyUrl": "https://www.wealthfront.com/careers/senior-staff-product-designer-investing-9957106002",
+      "specialty": "Investing",
+      "salary": "",
+      "keywords": [
+        {
+          "keyword": "Senior Staff Product Designer",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Exact match for target role level."
+        },
+        {
+          "keyword": "Remote",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Matches candidate's location preference."
+        },
+        {
+          "keyword": "Fintech",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Candidate has deep FinTech-adjacent experience, which is core to this role."
+        },
+        {
+          "keyword": "Complex systems",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Strong match; candidate excels at making complex systems delightful."
+        },
+        {
+          "keyword": "Ambiguous problems",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Candidate thrives in 0-to-1 and ambiguous problem spaces."
+        },
+        {
+          "keyword": "Strategy through execution",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Candidate operates effectively across the full design lifecycle."
+        },
+        {
+          "keyword": "Rapid prototyping",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Explicitly mentioned in the job description and a candidate skill."
+        },
+        {
+          "keyword": "Scalable systems",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Matches candidate's experience with design systems and consistency at scale."
+        },
+        {
+          "keyword": "Design systems",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Implied by 'scalable systems' and 'establish patterns and processes'."
+        },
+        {
+          "keyword": "Cross-functional collaboration",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Emphasized in the role, matches candidate's experience."
+        },
+        {
+          "keyword": "Visual craft",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Candidate's design philosophy prioritizes visual quality and interaction polish."
+        },
+        {
+          "keyword": "High-quality customer experiences",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Matches candidate's philosophy of making enterprise software feel premium."
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-11-06T00:16:41.647Z",
+      "isNew": true
+    },
+    {
+      "id": "job-db4f5o",
+      "title": "Senior Product Designer",
+      "company": "Brex",
+      "companyDomain": "brex.com",
+      "industry": "Fintech, Enterprise Software, B2B SaaS",
+      "location": "Hybrid (New York City, NY)",
+      "postedAt": "2026-11-05",
+      "fitScore": 8,
+      "fitTier": "Good Fit",
+      "fitExplanation": "This role is a very strong match for Michael's expertise in complex B2B SaaS, FinTech, and enterprise software workflows. He thrives in ambiguous problem spaces and connecting design to measurable outcomes, which are key responsibilities here. His skills in visual craft, interaction design, and design systems are also highly relevant. While it's a hybrid role in NYC (which is an accepted location), the hybrid nature deducts 1 point from the overall fit score as Michael prefers remote.",
+      "source": "Brex Careers",
+      "applyUrl": "https://www.brex.com/careers/roles/senior-product-designer-te",
+      "specialty": "T&E",
+      "salary": "$192,000 - $240,000",
+      "keywords": [
+        {
+          "keyword": "Senior Product Designer",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Exact match for target role level."
+        },
+        {
+          "keyword": "Hybrid NYC",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Matches candidate's location preference for hybrid work."
+        },
+        {
+          "keyword": "Fintech",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Candidate has deep FinTech-adjacent experience, highly relevant here."
+        },
+        {
+          "keyword": "Enterprise software",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Candidate specializes in enterprise software."
+        },
+        {
+          "keyword": "B2B workflows",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Candidate specializes in complex B2B SaaS product design."
+        },
+        {
+          "keyword": "Complex workflows",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Core responsibility, strong match with candidate's experience."
+        },
+        {
+          "keyword": "Ambiguous product initiatives",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Candidate thrives when structure needs to be created."
+        },
+        {
+          "keyword": "Problem definition through shipped execution",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Candidate operates across the full design lifecycle."
+        },
+        {
+          "keyword": "Product thinking",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Strong match with candidate's approach."
+        },
+        {
+          "keyword": "Measurable outcomes",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Candidate has a proven track record of impact metrics."
+        },
+        {
+          "keyword": "UX, interaction design, visual design, prototyping",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Strong match with candidate's skills and philosophy."
+        },
+        {
+          "keyword": "Design systems",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Candidate has experience with design systems and consistency at scale."
+        },
+        {
+          "keyword": "AI tools",
+          "inProfile": true,
+          "relevance": "bonus",
+          "note": "Candidate uses AI tools in their workflow."
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-11-06T00:16:41.647Z",
+      "isNew": true
+    },
+    {
+      "id": "job-fer4nv",
+      "title": "Senior Product Designer",
+      "company": "Ondo Finance",
+      "companyDomain": "ondo.finance",
+      "industry": "Fintech, Blockchain",
+      "location": "Remote (United States)",
+      "postedAt": "2026-11-06",
+      "fitScore": 10,
+      "fitTier": "Strong Fit",
+      "fitExplanation": "This role is an exceptional fit for Michael. His foundation in visual systems and extensive experience in building and scaling design systems are directly aligned with the core focus of this position. His deep FinTech-adjacent experience with transactional flows and contract management, combined with his philosophy of bringing visual craft and polish to complex, high-stakes financial products, makes him an ideal candidate. The remote U.S. location and the company's proven funding stage also meet his preferences.",
+      "source": "Lever",
+      "applyUrl": "https://jobs.lever.co/ondofinance/f1a8e1b3-f22f-4c1d-8a21-7e3e9f4a1a3e",
+      "specialty": "Design Systems",
+      "salary": "",
+      "keywords": [
+        {
+          "keyword": "Senior Product Designer",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Exact match for target role level."
+        },
+        {
+          "keyword": "Remote US",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Matches candidate's location preference."
+        },
+        {
+          "keyword": "Fintech",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Candidate has deep FinTech-adjacent experience; company is a leader in tokenized finance."
+        },
+        {
+          "keyword": "Design Systems",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Core focus of the role, strong match with candidate's specialized expertise."
+        },
+        {
+          "keyword": "Visual craft",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Central to candidate's background and design philosophy, emphasized in job description ('feel the craft', 'visual expression and motion core')."
+        },
+        {
+          "keyword": "UI craft",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Explicitly required, matches candidate's skills (visual hierarchy, typography, layout, polished interaction details)."
+        },
+        {
+          "keyword": "Complex systems",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Designing for 'institutional-grade, blockchain-enabled investment products' implies high complexity, matching candidate's expertise."
+        },
+        {
+          "keyword": "Cross-functional collaboration",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Implied by 'alongside engineers every day' and 'setting the direction for the systems'."
+        },
+        {
+          "keyword": "Prototyping",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Implied by building components and setting system direction."
+        },
+        {
+          "keyword": "Accessibility",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Explicitly mentioned as a floor, matching candidate's skill."
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-11-06T00:16:41.647Z",
       "isNew": true
     }
   ],
-  "scannedAt": "2026-11-05T18:46:37.185Z"
+  "scannedAt": "2026-11-06T00:17:34.069Z"
 }
