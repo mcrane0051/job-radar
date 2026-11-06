@@ -2181,81 +2181,69 @@
       "company": "HighLevel",
       "companyDomain": "gohighlevel.com",
       "industry": "B2B SaaS",
-      "location": "Remote",
-      "postedAt": "2026-10-31",
-      "fitScore": 9,
+      "location": "Remote (U.S. Only)",
+      "postedAt": "2026-11-06",
+      "fitScore": 10,
       "fitTier": "Strong Fit",
-      "fitExplanation": "This role is a strong fit given Michael's 10+ years of experience, including 4 years in a lead capacity, and his specialization in complex B2B SaaS products. HighLevel's focus on an \"AI-powered business operating system\" with \"CRM, workflow-heavy\" experiences directly aligns with Michael's expertise in complex data systems, seller workflows, transactional flows, and his use of AI tools. The \"systems thinking\" and focus on \"exceptional craft, product judgment\" are also highly relevant.",
-      "source": "BeBee",
+      "fitExplanation": "This role is an exceptional fit, directly aligning with Michael's expertise as a Lead Product Designer specializing in complex B2B SaaS and design systems. His background in visual systems and applying visual craft to enterprise software is highly relevant to defining visual foundations and raising quality within a design system. The emphasis on AI-assisted building and supporting a developer community also matches Michael's comfort with developer tools and his current use of AI tools in his workflow. The company's scale and B2B SaaS nature are ideal.",
+      "source": "Himalayas",
       "applyUrl": "N/A",
       "isOffLinkedIn": false,
-      "jobDescription": "Summary: HighLevel is seeking a Lead Product Designer to elevate product experiences through exceptional craft, product judgment, systems thinking, and influence for their AI-powered business operating system. The role focuses on shaping strategically important work across product areas as a lead individual contributor, partnering with product, engineering, research, and data leaders. The platform supports agencies, entrepreneurs, and SMBs with infrastructure for building, automating, and scaling.\n\nCore Responsibilities & Requirements:\n* Elevate product experiences through strong craft, judgment, systems thinking, and influence.\n* Shape strategically important work across one or more product areas.\n* Partner with product, engineering, research, and data leaders to define and improve experiences.\n* Connect customer needs, business goals, technical constraints, and long-term product strategy to clear, useful, and highly polished product design.\n* Mentor designers and raise quality across teams.\n* Demonstrate exceptional visual and interaction design judgment.\n* Care deeply about standards for refined, trustworthy, and coherent product experiences at scale.\n* Experience designing B2B SaaS, platform, CRM, workflow-heavy, or SMB software is highly valuable.\n* Experience using AI-powered tools for exploration, prototyping, critique, synthesis, or workflow acceleration is expected.\n* 7+ years designing complex digital products.\n* Portfolio required.",
-      "specialty": "AI-powered business operating system, CRM, workflow-heavy software",
+      "jobDescription": "This Lead Product Designer, Design Systems role involves shaping the design system for HighLevel's product experience, which is utilized by both internal product teams and the developer community. The position requires a candidate with 7+ years of experience in designing complex digital products and evolving design systems across multiple teams. Given the company's commitment to speed and AI-assisted building, the design system needs to be robust enough to support AI-powered builds with essential primitives, templates, and guidance. The Lead Designer will be responsible for driving strategy and execution for specific areas of the design system, defining visual foundations such as tokens, theming, color, typography, spacing, iconography, and motion, and designing/refining components and patterns. The ideal candidate will possess advanced visual and interaction design judgment, deep systems thinking, and the capability to elevate quality through standards, documentation, critique, and mentorship, with an explicit embrace of AI as central to their work.",
+      "specialty": "Design Systems",
       "keywords": [
         {
-          "keyword": "Figma",
-          "inProfile": true,
-          "relevance": "expected",
-          "note": "Candidate proficient in Figma, Figma Make"
-        },
-        {
-          "keyword": "B2B SaaS",
+          "keyword": "Lead Product Designer",
           "inProfile": true,
           "relevance": "required",
-          "note": "Candidate specializes in complex B2B SaaS"
-        },
-        {
-          "keyword": "AI-powered tools",
-          "inProfile": true,
-          "relevance": "expected",
-          "note": "Candidate uses AI tools (Figma Make, Cursor) and designs with AI in mind"
-        },
-        {
-          "keyword": "systems thinking",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Core to candidate's design philosophy and skills"
+          "note": "Direct title match and aligns with Michael's career progression goals."
         },
         {
           "keyword": "Design Systems",
           "inProfile": true,
           "relevance": "required",
-          "note": "Candidate has experience establishing and scaling design systems"
+          "note": "Core focus of the role, perfectly aligning with Michael's experience and 'types of work I do best' (design systems and consistency at scale)."
         },
         {
-          "keyword": "complex digital products",
+          "keyword": "B2B SaaS",
           "inProfile": true,
           "relevance": "required",
-          "note": "Candidate specializes in complex systems, data-heavy interfaces"
+          "note": "Explicitly mentioned as highly valuable experience, matching Michael's primary industry."
         },
         {
-          "keyword": "Workflow design",
+          "keyword": "Complex workflow design",
           "inProfile": true,
           "relevance": "required",
-          "note": "Candidate excels in transactional flows, seller workflows"
+          "note": "Experience designing 'workflow-heavy' software is valuable, aligning with Michael's expertise."
         },
         {
-          "keyword": "Lead Product Designer",
+          "keyword": "AI tools",
           "inProfile": true,
           "relevance": "required",
-          "note": "Matches target role level"
+          "note": "Role requires embracing AI as central to work and supporting AI-assisted building, a strong match for Michael's skills."
+        },
+        {
+          "keyword": "Visual Systems",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Defining and evolving visual foundations (tokens, theming, typography, etc.) aligns with Michael's graphic design background and visual eye."
+        },
+        {
+          "keyword": "Interaction Design",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Advanced interaction design judgment is a key requirement."
         },
         {
           "keyword": "Mentorship",
           "inProfile": true,
-          "relevance": "good to have",
-          "note": "Candidate has experience mentoring designers"
-        },
-        {
-          "keyword": "User Research",
-          "inProfile": true,
           "relevance": "required",
-          "note": "Candidate conducts user research"
+          "note": "Ability to raise quality through mentorship is a core responsibility, aligning with Michael's interest in mentoring."
         }
       ],
       "status": "New",
-      "scannedAt": "2026-11-01T22:50:16.440Z",
-      "isNew": false
+      "scannedAt": "2026-11-06T17:58:19.848Z",
+      "isNew": true
     },
     {
       "id": "job-9pajak",
@@ -3306,7 +3294,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-11-06T00:16:41.647Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-98qlxh",
@@ -3399,7 +3387,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-11-06T00:16:41.647Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-db4f5o",
@@ -3498,7 +3486,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-11-06T00:16:41.647Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-fer4nv",
@@ -3579,8 +3567,84 @@
       ],
       "status": "New",
       "scannedAt": "2026-11-06T00:16:41.647Z",
+      "isNew": false
+    },
+    {
+      "id": "job-6vjbgs",
+      "title": "Senior Product Designer",
+      "company": "Zip Co",
+      "companyDomain": "zip.co",
+      "industry": "Fintech",
+      "location": "Hybrid in NYC",
+      "postedAt": "2026-11-03",
+      "fitScore": 8,
+      "fitTier": "Good Fit",
+      "fitExplanation": "This role is a strong fit due to its focus on Fintech, complex transactional workflows, and payment reconciliation, which directly aligns with Michael's deep context in finance and FinTech adjacent industries. The responsibilities of designing repayment experiences and integrating AI-driven insights also match his expertise in complex data systems and his proactive use of AI tools. The role requires cross-functional collaboration, a strength of Michael's. A minor deduction of 1 point was applied as it's a Hybrid role in NYC, whereas Michael prefers Remote.",
+      "source": "Built In NYC",
+      "applyUrl": "N/A",
+      "isOffLinkedIn": false,
+      "jobDescription": "Lead end-to-end product design for repayment experiences across mobile and web platforms. This involves designing payment rescheduling, early payoff options, reminders, and personalized financial assistance. The role requires close collaboration with Product, Engineering, Data, Risk, Compliance, and Finance teams. A key aspect is the incorporation of AI tools into various stages of the design process, including research, prototyping, validation, documentation, and design operations, with the goal of creating scalable workflows and improving post-launch experiences. The designer is expected to actively contribute to AI adoption within Product Design and cross-functional teams, identifying areas where AI can accelerate insights, reduce friction, and enhance design quality through experimentation and implementation of new workflows.",
+      "specialty": "Repayment Experiences",
+      "keywords": [
+        {
+          "keyword": "Fintech",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Core industry focus of the role, aligning with Michael's deep context in finance and FinTech."
+        },
+        {
+          "keyword": "Transactional workflows",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Designing payment rescheduling, early payoff, and repayment journeys directly aligns with Michael's expertise."
+        },
+        {
+          "keyword": "Complex B2B SaaS",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "While consumer-facing, the backend financial complexity and collaboration with finance/risk teams has B2B SaaS characteristics Michael is familiar with."
+        },
+        {
+          "keyword": "AI tools",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Role explicitly involves incorporating and experimenting with AI tools in design, a skill Michael actively uses."
+        },
+        {
+          "keyword": "Cross-functional collaboration",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Requires collaboration with Product, Engineering, Data, Risk, Compliance, and Finance, matching Michael's experience."
+        },
+        {
+          "keyword": "Design Systems",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Focus on creating scalable workflows and improving post-launch experiences aligns with design systems thinking."
+        },
+        {
+          "keyword": "Prototyping",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Incorporating AI tools into prototyping is a key responsibility."
+        },
+        {
+          "keyword": "User Flows",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Architecting intuitive and flexible user repayment journeys."
+        },
+        {
+          "keyword": "UI Design",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Designing seamless repayment experiences across mobile and web."
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-11-06T17:58:19.848Z",
       "isNew": true
     }
   ],
-  "scannedAt": "2026-11-06T00:17:34.069Z"
+  "scannedAt": "2026-11-06T17:59:18.738Z"
 }
