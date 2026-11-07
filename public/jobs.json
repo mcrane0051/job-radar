@@ -239,105 +239,6 @@
       "isNew": false
     },
     {
-      "id": "job-bimjw1",
-      "title": "Senior Product Designer",
-      "company": "American Express",
-      "companyDomain": "americanexpress.com",
-      "industry": "Fintech, B2B SaaS",
-      "location": "Hybrid - NYC",
-      "postedAt": "2026-10-23",
-      "fitScore": 8,
-      "fitTier": "Good Fit",
-      "fitExplanation": "Strong match for Michael's expertise in complex B2B SaaS workflows, enterprise UX, design systems, and AI tool usage. American Express is a well-established public company, meeting the stability preference. The 'Venues' specialization aligns with marketplace infrastructure. The slight deduction in score is due to the hybrid work arrangement, even though it's in a target location (NYC), as Michael strongly prefers remote.",
-      "source": "Built In NYC",
-      "applyUrl": "N/A",
-      "specialty": "Venues (Resy)",
-      "salary": "",
-      "keywords": [
-        {
-          "keyword": "Complex B2B SaaS",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Role requires strong B2B SaaS background, working on complex systems and workflows."
-        },
-        {
-          "keyword": "Complex workflow design",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Job involves multi-step workflows, permissions, and operational tools for businesses."
-        },
-        {
-          "keyword": "Enterprise UX",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Focus on experiences for restaurants, wineries, hospitality businesses, and internal operations."
-        },
-        {
-          "keyword": "0-to-1 / ambiguous problem spaces",
-          "inProfile": true,
-          "relevance": "desired",
-          "note": "Job mentions leading design work from discovery and concept."
-        },
-        {
-          "keyword": "Scaling existing products",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Role focuses on creating scalable solutions and contributing to design systems."
-        },
-        {
-          "keyword": "Cross-functional collaboration",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Requires partnering closely with PMs, engineers, researchers, data partners, and stakeholders."
-        },
-        {
-          "keyword": "Design systems",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Job explicitly mentions contributing to design systems."
-        },
-        {
-          "keyword": "High-fidelity prototyping",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Role involves creating high-fidelity specifications and prototyping in Figma and AI tools."
-        },
-        {
-          "keyword": "User Research",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Role includes leading usability research and translating customer needs."
-        },
-        {
-          "keyword": "UI Design",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Role involves creating user-centered interfaces."
-        },
-        {
-          "keyword": "Figma",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Explicitly mentioned as a prototyping tool."
-        },
-        {
-          "keyword": "AI tools",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Explicitly mentioned prototyping with AI-enabled tools."
-        },
-        {
-          "keyword": "Marketplace infrastructure",
-          "inProfile": true,
-          "relevance": "desired",
-          "note": "Resy, focusing on venues, has marketplace characteristics."
-        }
-      ],
-      "status": "New",
-      "scannedAt": "2026-10-24T21:36:28.717Z",
-      "isNew": false
-    },
-    {
       "id": "job-ivuyez",
       "title": "Senior Staff Product Designer",
       "company": "Samsara",
@@ -411,99 +312,6 @@
       ],
       "status": "New",
       "scannedAt": "2026-10-27T16:39:10.021Z",
-      "isNew": false
-    },
-    {
-      "id": "job-ocqog0",
-      "title": "Staff Product Designer",
-      "company": "Clio",
-      "companyDomain": "clio.com",
-      "industry": "Legal Tech, B2B SaaS, Enterprise Software",
-      "location": "Remote - US",
-      "postedAt": "2026-10-24",
-      "fitScore": 9.5,
-      "fitTier": "Strong Fit",
-      "fitExplanation": "Exceptional match. Michael's 10+ years of experience, particularly in leading design for complex enterprise multi-cloud transactional platforms, aligns almost perfectly with the 12+ years experience for B2B SaaS, AI-powered complex workflows for enterprise applications, and strategic direction setting required for this Staff-level role. His expertise with AI tools, design systems, and navigating ambiguity are all explicitly called out. Clio is a well-established company, indicating a stable environment. Remote preference is met. The 'Staff Product Designer' title is a direct target.",
-      "source": "Ladders",
-      "applyUrl": "N/A",
-      "specialty": "Drafting (AI-powered workflows)",
-      "salary": "",
-      "keywords": [
-        {
-          "keyword": "Complex B2B SaaS",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Job requires 12+ years of Product Design experience, preferably in B2B SaaS."
-        },
-        {
-          "keyword": "Complex workflow design",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Role involves 'playbook automations' and 'complex workflows or features for enterprise-type applications'."
-        },
-        {
-          "keyword": "Enterprise UX",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Focuses on enterprise-type applications on desktop and web."
-        },
-        {
-          "keyword": "0-to-1 / ambiguous problem spaces",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Role requires 'navigating ambiguity and strategic framing' and 'set strategic direction in evolving areas'."
-        },
-        {
-          "keyword": "Scaling existing products",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Job mentions designing experiences that connect to the broader platform and contributing to 'Clio's design system'."
-        },
-        {
-          "keyword": "Cross-functional collaboration",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Requires 'Extensive collaboration with Engineering'."
-        },
-        {
-          "keyword": "Design systems",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Explicitly mentions contributing to and evolving Clio's design system."
-        },
-        {
-          "keyword": "High-fidelity prototyping",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Role requires 'Prototype quickly with Engineering' and 'building alongside engineering as the underlying AI capability evolves'."
-        },
-        {
-          "keyword": "AI tools",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Explicitly mentions 'Ship AI-powered workflows' and that 'AI capability evolves'."
-        },
-        {
-          "keyword": "Product Thinking",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Job requires 'Strong product thinking with the ability to set direction'."
-        },
-        {
-          "keyword": "Senior Product Designer",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Michael has 10+ years, job requests 12+. Strong overlap for Staff level."
-        },
-        {
-          "keyword": "Staff Product Designer",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Target role level for Michael Crane."
-        }
-      ],
-      "status": "New",
-      "scannedAt": "2026-10-24T21:36:28.717Z",
       "isNew": false
     },
     {
@@ -851,71 +659,65 @@
       "title": "Senior Product Designer",
       "company": "Apollo GraphQL",
       "companyDomain": "apollographql.com",
-      "industry": "Developer Tools",
-      "location": "Remote (U.S. Only)",
-      "postedAt": "2026-10-24",
-      "fitScore": 9,
-      "fitTier": "Strong Fit",
-      "fitExplanation": "This role is a strong fit for Michael due to its core focus on developer tools and complex technical systems. His experience with enterprise software, design systems, 0-to-1 problem spaces, and the use of AI tools directly aligns with the job's requirements. The emphasis on trustworthy technical products, edge cases, and permissions mirrors the high-stakes, high-complexity problem spaces Michael thrives in. Apollo GraphQL's Series C/D funding also meets the company stage preference.",
-      "source": "WoodyJobs.com",
+      "industry": "Developer Tools, Cloud Infrastructure, AI",
+      "location": "New York, NY",
+      "postedAt": "2026-11-04",
+      "fitScore": 8,
+      "fitTier": "Good Fit",
+      "fitExplanation": "This role is an excellent fit for Michael, particularly due to his deep context in developer tools, cloud infrastructure, and enterprise software. His experience with complex B2B SaaS products and the full design lifecycle, from 0-to-1 discovery to shipped products, aligns perfectly with the responsibilities. The emphasis on influencing onboarding, product interfaces, and design systems further strengthens the match. The company's Series D funding ensures the desired stability and resources. A minor deduction is applied for the hybrid (on-site implied) NYC location, as Michael prefers remote.",
+      "source": "Jooble",
       "applyUrl": "N/A",
       "isOffLinkedIn": false,
-      "jobDescription": "Apollo GraphQL is hiring a Senior Product Designer to shape developer tools, core product interfaces, and emerging agentic products. This individual contributor role involves owning end-to-end design for defined workflows, collaborating daily with engineers and product managers to influence scope and trade-offs, and iterating based on usage and feedback. The designer will focus on creating trustworthy technical products by meticulously designing states, edge cases, errors, and permissions. Key responsibilities include contributing reusable patterns and components to the design system and leveraging AI tools for rapid prototyping and testing. The role requires a strong portfolio and at least 5 years of experience, ideally in complex technical systems.",
-      "specialty": "Developer Tools, AI",
-      "salary": "$150k - $180k",
+      "jobDescription": "Apollo GraphQL is seeking a Senior Product Designer to own the end-to-end design for developer tools, influencing onboarding, product interfaces, and the design system. The designer will collaborate closely with engineering and product managers to shape scope, ship v1 experiences, and iterate based on usage. The role aims to simplify complex technical workflows and enhance the overall developer experience.\n\nCore Responsibilities:\n* Own end-to-end design for developer tools, from concept to implementation.\n* Influence onboarding experiences, product interfaces, and the design system.\n* Collaborate with engineering and product managers to define scope and deliver new features.\n* Ship v1 experiences and iterate based on usage data and feedback.\n* Translate complex technical workflows into intuitive and elegant solutions.",
+      "specialty": "Developer Tools & AI",
+      "salary": "Not specified",
       "keywords": [
         {
-          "keyword": "developer tools",
+          "keyword": "Developer Tools",
           "inProfile": true,
           "relevance": "required",
-          "note": "Michael has deep context in developer tools and enterprise software."
+          "note": "Matches Michael's deep context in developer tools and enterprise software."
         },
         {
-          "keyword": "complex technical systems",
+          "keyword": "Cloud Infrastructure",
           "inProfile": true,
-          "relevance": "required",
-          "note": "Direct match with Michael's specialization in complex B2B SaaS products and data systems."
+          "relevance": "strong match",
+          "note": "Apollo GraphQL is a cloud-based platform, aligning with Michael's cloud marketplace experience."
         },
         {
-          "keyword": "end-to-end design workflows",
+          "keyword": "B2B SaaS",
           "inProfile": true,
           "relevance": "required",
-          "note": "Michael operates across the full design lifecycle."
+          "note": "Apollo GraphQL operates in the B2B SaaS space for developers."
         },
         {
-          "keyword": "design system contributions",
+          "keyword": "End-to-End Design",
           "inProfile": true,
           "relevance": "required",
-          "note": "Michael has extensive experience with design systems and consistency at scale."
+          "note": "Michael operates effectively across the full design lifecycle."
         },
         {
-          "keyword": "AI tools (prototyping and testing)",
+          "keyword": "Design Systems",
           "inProfile": true,
           "relevance": "required",
-          "note": "Michael actively uses AI tools (Figma Make, Cursor) in his workflow."
+          "note": "The role involves influencing and contributing to the design system."
         },
         {
-          "keyword": "design for trustworthiness (states, edge cases, errors, permissions)",
+          "keyword": "0-to-1 Discovery",
           "inProfile": true,
           "relevance": "required",
-          "note": "This aligns with Michael's focus on clarity and trust in high-stakes problem spaces."
+          "note": "The role involves shipping v1 experiences, implying 0-to-1 work."
         },
         {
-          "keyword": "0-to-1 problem spaces",
+          "keyword": "Cross-functional Collaboration",
           "inProfile": true,
           "relevance": "required",
-          "note": "Michael thrives in ambiguous 0-to-1 discovery environments."
-        },
-        {
-          "keyword": "cross-functional collaboration",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Michael is embedded with product and engineering teams."
+          "note": "The designer will collaborate closely with engineering and PMs."
         }
       ],
       "status": "New",
-      "scannedAt": "2026-10-27T16:39:10.021Z",
-      "isNew": false
+      "scannedAt": "2026-11-07T22:46:15.723Z",
+      "isNew": true
     },
     {
       "id": "job-bwbfrq",
@@ -3492,7 +3294,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-11-07T16:51:10.232Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-z7aleh",
@@ -3575,7 +3377,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-11-07T16:51:10.232Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-droul5",
@@ -3652,8 +3454,132 @@
       ],
       "status": "New",
       "scannedAt": "2026-11-07T16:51:10.232Z",
+      "isNew": false
+    },
+    {
+      "id": "job-nuhq7u",
+      "title": "Senior Staff Product Designer",
+      "company": "Flex",
+      "companyDomain": "helloflex.com",
+      "industry": "FinTech",
+      "location": "Hybrid NYC",
+      "postedAt": "2026-11-05",
+      "fitScore": 8,
+      "fitTier": "Good Fit",
+      "fitExplanation": "This role is a strong match for Michael's experience in complex B2B SaaS and FinTech, particularly his expertise in transactional flows and payment reconciliation. The focus on setting craft standards, design systems, and driving end-to-end design aligns well with his design philosophy and practical experience. The Staff-level individual contributor role also fits his career aspirations. The hybrid NYC location is acceptable, with a minor deduction from the fit score for not being fully remote. The company stage (Series B, implying post-Series C maturity) is also a good match.",
+      "source": "JobLeads",
+      "applyUrl": "N/A",
+      "isOffLinkedIn": false,
+      "jobDescription": "Flex, a NYC-headquartered FinTech, is seeking a Staff Product Designer. This is a high-impact individual contributor (IC) role focused on shaping strategy, design systems, and user experience across the product portfolio without direct management responsibilities. The designer will partner with product and engineering teams, mentor peers, and drive the end-to-end design process from research through prototyping.\n\nCore Responsibilities:\n* Define and articulate design vision for critical product initiatives.\n* Own the end-to-end design process, from research to execution.\n* Collaborate with product and engineering to shape roadmaps.\n* Establish and evolve design standards and contribute to the design system.",
+      "specialty": "Contract",
+      "salary": "Not specified",
+      "keywords": [
+        {
+          "keyword": "FinTech",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Matches Michael's deep context in finance and FinTech adjacent industries, including payment reconciliation and transactional flows."
+        },
+        {
+          "keyword": "Design Systems",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael has experience establishing and scaling design systems."
+        },
+        {
+          "keyword": "End-to-End Design",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael operates effectively across the full design lifecycle, from 0-to-1 discovery to shipped product."
+        },
+        {
+          "keyword": "User Experience",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael specializes in making complex systems delightful and tactile, bringing product thinking and visual craft into B2B software."
+        },
+        {
+          "keyword": "Product Strategy",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael has experience shaping design strategy at the team and org level."
+        },
+        {
+          "keyword": "Complex B2B",
+          "inProfile": true,
+          "relevance": "strong match",
+          "note": "Flex operates in FinTech, a complex B2B domain."
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-11-07T22:46:15.723Z",
+      "isNew": true
+    },
+    {
+      "id": "job-mzmqol",
+      "title": "Senior Product Designer II",
+      "company": "Splice",
+      "companyDomain": "splice.com",
+      "industry": "Music Tech, Marketplace, Subscription",
+      "location": "Remote (US Only)",
+      "postedAt": "2026-11-05",
+      "fitScore": 8,
+      "fitTier": "Good Fit",
+      "fitExplanation": "This remote role aligns well with Michael's expertise in marketplace infrastructure and complex workflow design. While the industry is music tech (not his primary B2B SaaS), the core design challenges around user acquisition, activation, retention, and managing a subscription/marketplace model, coupled with an AI stack, resonate with his skills in data-heavy interfaces, ambiguous problem spaces, and design systems. His experience with measured outcomes and strong visual craft is also highly relevant. The company's Series D funding meets the stability requirement.",
+      "source": "Index Ventures / Job Posting",
+      "applyUrl": "N/A",
+      "isOffLinkedIn": false,
+      "jobDescription": "Splice is a creative platform for music producers, offering sounds, samples, and a rent-to-own marketplace for DAWs and plugins. The Senior Product Designer II, Growth, will focus on understanding user funnels, identifying experience failures, and implementing precise design solutions. This role requires a clear point of view in ambiguous work, adherence to craft standards, and design towards measurable outcomes. The designer will work closely with a Principal Designer on Growth, covering the full scope of creator acquisition, activation, and retention.\n\nCore Responsibilities:\n* Execute high-quality design across the full growth scope: onboarding, subscription/paywall experiences, referral programs, core site, and lifecycle moments.\n* Carry the craft standard from early concept through shipped product.\n* Partner with the Principal Designer on Growth to shape product direction and contribute to product decisions.\n* Work fluidly within established design systems and contribute back to them.\n* Present work clearly at every stage and articulate design rationale effectively.",
+      "specialty": "Growth",
+      "salary": "Not specified",
+      "keywords": [
+        {
+          "keyword": "Marketplace",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Splice has a rent-to-own marketplace for DAWs and plugins, directly aligning with Michael's marketplace infrastructure experience."
+        },
+        {
+          "keyword": "Design Systems",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "The role requires working fluidly within and contributing to established design systems."
+        },
+        {
+          "keyword": "Complex Workflows",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Implied by growth scope, onboarding, and subscription models."
+        },
+        {
+          "keyword": "0-to-1 Discovery",
+          "inProfile": true,
+          "relevance": "strong match",
+          "note": "The role involves bringing a clear point of view to ambiguous work, aligning with Michael's 0-to-1 experience."
+        },
+        {
+          "keyword": "Measured Outcomes",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "The designer is expected to design toward outcomes that can actually be measured."
+        },
+        {
+          "keyword": "Visual Craft",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "The role emphasizes carrying the craft standard."
+        },
+        {
+          "keyword": "Remote",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael is open to remote work."
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-11-07T22:46:15.723Z",
       "isNew": true
     }
   ],
-  "scannedAt": "2026-11-07T16:52:21.711Z"
+  "scannedAt": "2026-11-07T22:46:57.703Z"
 }
