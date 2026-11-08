@@ -717,7 +717,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-11-07T22:46:15.723Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-bwbfrq",
@@ -3513,7 +3513,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-11-07T22:46:15.723Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-mzmqol",
@@ -3578,8 +3578,8 @@
       ],
       "status": "New",
       "scannedAt": "2026-11-07T22:46:15.723Z",
-      "isNew": true
+      "isNew": false
     }
   ],
-  "scannedAt": "2026-11-07T22:46:57.703Z"
+  "scannedAt": "2026-11-08T17:04:35.079Z"
 }
