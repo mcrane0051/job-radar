@@ -71,83 +71,6 @@
       "isNew": false
     },
     {
-      "id": "job-qawf2p",
-      "title": "Staff Product Designer",
-      "company": "Gusto",
-      "companyDomain": "gusto.com",
-      "industry": "Fintech, HR Tech, B2B SaaS",
-      "location": "Hybrid, NYC",
-      "postedAt": "2026-10-23",
-      "fitScore": 8,
-      "fitTier": "Good Fit",
-      "fitExplanation": "Michael's extensive experience in HR tech (iCIMS) and fintech-adjacent domains, combined with his specialization in complex B2B SaaS and 0-to-1 problem-solving, makes this a strong match. The role's focus on high-stakes financial/HR decisions, AI-native experiences, and building trust through design directly aligns with his design philosophy and current work at Tackle.io. His background in visual systems and craft will be highly valued. The hybrid NYC location is acceptable, but results in a slight score deduction.",
-      "source": "Gusto Careers (Greenhouse.io ATS)",
-      "applyUrl": "https://boards.greenhouse.io/gusto/jobs/5206263003",
-      "isOffLinkedIn": true,
-      "jobDescription": "Staff Product Designer to own end-to-end design for Gusto's Money, Banking, Retirement, or HR Experiences teams, focusing on high-stakes, AI-native surfaces where small businesses make critical financial and people decisions. The role requires turning ambiguity into clear, trustworthy products, defining new patterns, and being deeply embedded in a product quartet. The position offers an opportunity to have significant influence on both product and process, working in a hybrid model in New York City.\n\nCore Responsibilities:\n*   Own design end to end within a specific domain, from framing ambiguous problems to shipping high-craft, accessible experiences.\n*   Shape goals, priorities, and roadmap in partnership with PM and engineering lead.\n*   Translate ambiguous, often 0-to-1 strategy into clear scopes, flows, and interaction patterns.\n*   Design the experience of AI thoughtfully, representing uncertainty, surfacing errors, and managing human handoffs.\n*   Ground decisions in customer insight through research, competitive audits, and hypothesis-driven exploration in high-stakes domains.\n*   Raise the craft and systems bar, evolving Gusto's design system where existing patterns fall short.\n*   Work in fast cycles and use AI tools in your own practice to prototype and ship real products.\n\nKey Requirements:\n*   Experience in a high-stakes or regulated domain, such as fintech, financial services, HR, or compliance.\n*   Hands-on experience designing AI-driven or agentic product experiences, shaping AI behavior, communication, and human handoffs.\n*   Ability to turn ambiguous problems into clear, trustworthy products and define new design patterns.\n*   Strong craft and storytelling abilities.\n*   Experience in product design (Staff level implies 7+ years of experience).",
-      "specialty": "Money and HR Experience",
-      "salary": "$177,000 - $222,000",
-      "keywords": [
-        {
-          "keyword": "complex B2B SaaS products",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Core to Gusto's offerings, directly aligns with Michael's expertise."
-        },
-        {
-          "keyword": "HR tech",
-          "inProfile": true,
-          "relevance": "highly relevant",
-          "note": "Directly aligns with Michael's iCIMS background."
-        },
-        {
-          "keyword": "fintech",
-          "inProfile": true,
-          "relevance": "highly relevant",
-          "note": "Directly aligns with Michael's experience in transactional/payment flows."
-        },
-        {
-          "keyword": "AI-native experiences",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Explicitly mentioned, aligns with Michael's AI tool usage and philosophy."
-        },
-        {
-          "keyword": "0-to-1 discovery",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Role involves defining new patterns and shaping nascent product areas."
-        },
-        {
-          "keyword": "design systems",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Role includes evolving Gusto's design system."
-        },
-        {
-          "keyword": "Staff Product Designer",
-          "inProfile": true,
-          "relevance": "title",
-          "note": "Direct title match."
-        },
-        {
-          "keyword": "visual craft",
-          "inProfile": true,
-          "relevance": "highly relevant",
-          "note": "Emphasized as critical for building trust."
-        },
-        {
-          "keyword": "user research",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Explicitly required for grounding decisions."
-        }
-      ],
-      "status": "New",
-      "scannedAt": "2026-10-26T17:23:08.021Z",
-      "isNew": false
-    },
-    {
       "id": "job-dvpkp2",
       "title": "Senior Product Designer",
       "company": "Toast",
@@ -2495,7 +2418,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-11-08T22:53:36.442Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-k9y5s7",
@@ -2818,7 +2741,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-11-08T22:53:36.442Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-fer4nv",
@@ -3337,7 +3260,173 @@
       "status": "New",
       "scannedAt": "2026-11-07T22:46:15.723Z",
       "isNew": false
+    },
+    {
+      "id": "job-8wisbu",
+      "title": "Senior Product Designer",
+      "company": "Interaction Design Foundation (IxDF)",
+      "companyDomain": "interaction-design.org",
+      "industry": "B2B SaaS, Education Technology",
+      "location": "Remote (U.S.)",
+      "postedAt": "2026-11-08",
+      "fitScore": 9,
+      "fitTier": "Strong Fit",
+      "fitExplanation": "This role is an excellent match for Michael's profile, particularly his expertise in complex B2B SaaS products, operational workflows, and data-rich experiences. The emphasis on leading end-to-end design in ambiguous problem spaces aligns perfectly with his 0-to-1 experience and ability to shape product direction. His background in design systems and interest in AI also match the job's requirements for contributing to design system evolution and curiosity about AI. The remote nature of the role is a strong preference for Michael. The company's description as 'rapidly growing, profitable' suggests the stability and resources Michael seeks, even without a specific Series C designation.",
+      "source": "IxDF",
+      "applyUrl": "N/A",
+      "isOffLinkedIn": false,
+      "jobDescription": "The Senior Product Designer will lead end-to-end design for new products and features, working across multiple product areas and shifting priorities. Key responsibilities include partnering with product and engineering to define problems and shape solutions from concept to launch. The role involves engaging early in ambiguous problem spaces to shape product direction, prototyping ideas, testing assumptions, and iterating based on customer feedback and product data. Balancing long-term vision with fast-paced execution, making thoughtful tradeoffs, and improving the overall product experience are crucial. Contributions to the evolution of the design system are also expected. Core requirements include 5+ years of experience designing complex B2B SaaS products, ideally with experience in operational workflows, data-rich experiences, or AI-powered products. Candidates should have a strong portfolio demonstrating complex problem framing and intuitive, user-centered products, along with robust product thinking that connects design decisions to business outcomes. Exceptional attention to detail, advocacy for ideas, openness to feedback, and curiosity about AI are highly valued.",
+      "specialty": "",
+      "salary": "",
+      "keywords": [
+        {
+          "keyword": "Complex B2B SaaS products",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Direct match with Michael's summary and best work types."
+        },
+        {
+          "keyword": "Operational workflows",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Direct match with Michael's experience in transactional flows and seller workflows."
+        },
+        {
+          "keyword": "Data-rich experiences",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Direct match with Michael's expertise in data-heavy interfaces."
+        },
+        {
+          "keyword": "AI-powered products",
+          "inProfile": true,
+          "relevance": "preferred",
+          "note": "Michael uses AI tools and is curious about emerging technologies."
+        },
+        {
+          "keyword": "End-to-end design",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Matches Michael's full design lifecycle experience."
+        },
+        {
+          "keyword": "Ambiguous problem spaces",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Strong alignment with Michael's strength in 0-to-1 discovery."
+        },
+        {
+          "keyword": "Design system",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Matches Michael's experience building and scaling design systems."
+        },
+        {
+          "keyword": "Product thinking",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Core to Michael's design philosophy and practice."
+        },
+        {
+          "keyword": "User-centered products",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Fundamental aspect of Michael's approach."
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-11-09T21:26:56.040Z",
+      "isNew": true
+    },
+    {
+      "id": "job-qoh0vr",
+      "title": "Senior Product Designer",
+      "company": "Smartsheet",
+      "companyDomain": "smartsheet.com",
+      "industry": "Enterprise Software, B2B SaaS",
+      "location": "Remote (U.S.)",
+      "postedAt": "2026-11-06",
+      "fitScore": 9,
+      "fitTier": "Strong Fit",
+      "fitExplanation": "This role aligns exceptionally well with Michael's background in enterprise multi-cloud platforms and complex B2B SaaS. The focus on enterprise and platform design, driving strategic impact, and elevating platform architecture directly corresponds to Michael's experience at Tackle.io and Infragistics. His strong visual design skills, expertise in design systems, and ability to facilitate design thinking workshops are explicitly sought after. The role's emphasis on complex, scalable experiences is a core strength for Michael, and his leadership and mentoring experience also contribute to a strong fit. As a public company, Smartsheet satisfies Michael's requirement for a company stage of Series C or later.",
+      "source": "WFH.team",
+      "applyUrl": "N/A",
+      "isOffLinkedIn": false,
+      "jobDescription": "The Senior Product Designer will advocate for the needs of enterprise users, leveraging design thinking and user research. Key responsibilities include partnering closely with research and data teams to inform design decisions and validate solutions. The designer will boost design quality and system maturity through their work and contributions to the design infrastructure. This role involves contributing to and leveraging defined patterns, guides, tools, and libraries to deliver scalable work for enterprise feature design. The designer will also be expected to clearly explain and defend the context, merits, and goals of their ideas and solutions. The position focuses on enterprise and platform design, aiming to drive strategic impact by designing scalable, sophisticated experiences for large organizations. Requirements include 7+ years of experience as a Product Designer, Interaction Designer, or similar, with strong visual design skills and proven ability to influence design quality at an organizational level. Demonstrated expertise in delivering complex, scalable experiences within SaaS or enterprise environments is essential, alongside clear leadership qualities, experience facilitating design thinking workshops, and strong collaboration skills.",
+      "specialty": "Enterprise and Platform Design",
+      "salary": "$135,000 - $190,000",
+      "keywords": [
+        {
+          "keyword": "Product Designer",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Core role Michael is targeting."
+        },
+        {
+          "keyword": "Enterprise environments",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Direct match with Michael's current and past experience."
+        },
+        {
+          "keyword": "SaaS environments",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Direct match with Michael's primary industry expertise."
+        },
+        {
+          "keyword": "Complex, scalable experiences",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Key strength highlighted in Michael's profile."
+        },
+        {
+          "keyword": "Visual design skills",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Strong alignment with Michael's visual craft background."
+        },
+        {
+          "keyword": "Design quality",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Core to Michael's design philosophy."
+        },
+        {
+          "keyword": "Design systems",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael has experience building and contributing to design systems."
+        },
+        {
+          "keyword": "Design thinking",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Key design practice for Michael."
+        },
+        {
+          "keyword": "User research",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael has extensive user research experience."
+        },
+        {
+          "keyword": "Cross-functional collaboration",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael thrives in collaborative environments."
+        },
+        {
+          "keyword": "Leadership qualities",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael has led teams and shaped design strategy."
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-11-09T21:26:56.040Z",
+      "isNew": true
     }
   ],
-  "scannedAt": "2026-11-08T22:54:35.381Z"
+  "scannedAt": "2026-11-09T21:27:26.979Z"
 }
