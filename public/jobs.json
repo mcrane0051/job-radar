@@ -71,105 +71,6 @@
       "isNew": false
     },
     {
-      "id": "job-9rn3li",
-      "title": "Lead Product Designer",
-      "company": "Grata",
-      "companyDomain": "grata.com",
-      "industry": "B2B SaaS, FinTech, Enterprise Software",
-      "location": "Hybrid (New York City, NY)",
-      "postedAt": "2026-10-24",
-      "fitScore": 9,
-      "fitTier": "Good Fit",
-      "fitExplanation": "This Lead Product Designer role at Grata presents a strong opportunity, aligning well with Michael's experience in complex B2B SaaS, data-heavy interfaces, and FinTech-adjacent problem spaces. The company is well-established (part of Datasite), meeting the Series C+ requirement. The role's focus on AI-powered workflows and agents, and leveraging data for dealmakers, strongly matches Michael's specialization in complex data systems and use of AI tools. While it is a hybrid role in NYC (a permissible location), the candidate's preference for remote work incurs a slight deduction in the score.",
-      "source": "MyWorkdayJobs.com",
-      "applyUrl": "https://datasite.wd1.myworkdayjobs.com/DatasiteCareers/job/New-York-City-NY/Lead-Product-Designer_R5302",
-      "specialty": "AI-Powered Workflows",
-      "salary": "",
-      "keywords": [
-        {
-          "keyword": "Lead Product Designer",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Targeting Lead Product Designer roles with 10+ years of experience."
-        },
-        {
-          "keyword": "B2B SaaS",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Michael's primary industry expertise is B2B SaaS."
-        },
-        {
-          "keyword": "financial technology",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Michael has deep context in FinTech adjacent areas like payment reconciliation and transactional flows."
-        },
-        {
-          "keyword": "data-heavy products",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Michael specializes in complex data systems and information-dense enterprise software."
-        },
-        {
-          "keyword": "AI-powered workflows and agents",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Michael uses AI tools (Figma Make, Cursor) and thrives in ambiguous 0-to-1 discovery, which often involves new technological applications."
-        },
-        {
-          "keyword": "user research",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Michael lists user research as a key design practice skill and has conducted extensive research."
-        },
-        {
-          "keyword": "complex workflows",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Michael specializes in complex workflow design, including transactional flows and revenue operations."
-        },
-        {
-          "keyword": "Figma",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Figma is Michael's primary design tool."
-        },
-        {
-          "keyword": "code-based prototyping tools",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Michael uses Figma Make, Cursor for prototyping."
-        },
-        {
-          "keyword": "design system",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Michael has experience establishing scalable design systems and contributing to consistency at scale."
-        },
-        {
-          "keyword": "mentoring other product designers",
-          "inProfile": true,
-          "relevance": "nice-to-have",
-          "note": "Michael has experience managing and mentoring a team of designers."
-        },
-        {
-          "keyword": "ambiguous problem spaces",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Michael thrives when structure needs to be created, not just followed."
-        },
-        {
-          "keyword": "Hybrid New York City",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Michael is open to Hybrid in NYC, though prefers remote."
-        }
-      ],
-      "status": "New",
-      "scannedAt": "2026-10-27T22:57:02.230Z",
-      "isNew": false
-    },
-    {
       "id": "job-rpdnrt",
       "title": "Senior Product Designer",
       "company": "Apollo GraphQL",
@@ -314,111 +215,6 @@
       ],
       "status": "New",
       "scannedAt": "2026-11-01T22:50:16.440Z",
-      "isNew": false
-    },
-    {
-      "id": "job-tl183p",
-      "title": "Senior Product Designer",
-      "company": "RevenueCat",
-      "companyDomain": "revenuecat.com",
-      "industry": "B2B SaaS, Developer Tools",
-      "location": "Remote (U.S. Only)",
-      "postedAt": "2026-10-26",
-      "fitScore": 10,
-      "fitTier": "Strong Fit",
-      "fitExplanation": "This role is an exceptionally strong match for Michael's profile, aligning perfectly with his experience in complex B2B SaaS and developer tools, end-to-end design ownership, and focus on technically complex workflows. The company is a Series C startup, and the role is fully remote within the U.S., which is Michael's preferred work arrangement. His expertise in visual craft, ambiguity, and collaboration with product and engineering are directly called out in the job description. The use of AI tools is also a beneficial alignment.",
-      "source": "Built In San Francisco",
-      "applyUrl": "N/A",
-      "specialty": "",
-      "salary": "",
-      "keywords": [
-        {
-          "keyword": "complex product problems",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Michael specializes in complex B2B SaaS product design, data-heavy interfaces, and transactional workflows."
-        },
-        {
-          "keyword": "discovery through production",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Michael operates effectively across the full design lifecycle from 0-to-1 discovery to shipped product."
-        },
-        {
-          "keyword": "B2B SaaS",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Michael's primary industry expertise is B2B SaaS."
-        },
-        {
-          "keyword": "developer tools",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Michael has deep context in developer tools and enterprise software."
-        },
-        {
-          "keyword": "technically complex workflows",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Michael specializes in making complex systems delightful and tactile."
-        },
-        {
-          "keyword": "simple, polished experiences",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Aligns with Michael's design philosophy emphasizing intentional visual hierarchy, tactile interaction design, and rigorous systems thinking."
-        },
-        {
-          "keyword": "Product and Engineering collaboration",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Michael has experience working closely with product managers and engineering leads."
-        },
-        {
-          "keyword": "ambiguity",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Michael thrives in ambiguous 0-to-1 problem spaces."
-        },
-        {
-          "keyword": "prototypes",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Michael lists prototyping as a key design practice skill."
-        },
-        {
-          "keyword": "AI tools",
-          "inProfile": true,
-          "relevance": "nice-to-have",
-          "note": "Michael uses AI tools like Figma Make and Cursor to accelerate discovery and prototyping."
-        },
-        {
-          "keyword": "information architecture",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Michael lists information architecture as a key design practice skill."
-        },
-        {
-          "keyword": "visual craft",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Michael has a strong visual eye due to his graphic design background."
-        },
-        {
-          "keyword": "design systems",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Michael has experience establishing scalable design systems and contributes to consistency at scale."
-        },
-        {
-          "keyword": "remote, asynchronous",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Michael is open to remote work and communicates clearly in remote environments."
-        }
-      ],
-      "status": "New",
-      "scannedAt": "2026-10-27T22:57:02.230Z",
       "isNew": false
     },
     {
@@ -2986,96 +2782,101 @@
     {
       "id": "job-3e5339",
       "title": "Senior Product Designer",
-      "company": "dscout",
+      "company": "Dscout",
       "companyDomain": "dscout.com",
-      "industry": "B2B SaaS, Marketplace, Enterprise Software",
-      "location": "Remote (United States)",
+      "industry": "B2B SaaS, Market Research",
+      "location": "Remote (U.S.)",
       "postedAt": "2026-11-10",
-      "fitScore": 10,
-      "fitTier": "Strong Fit",
-      "fitExplanation": "Michael's extensive experience (10+ years) in complex B2B SaaS products, particularly with marketplace infrastructure and data-heavy interfaces, aligns perfectly with dscout's research platform, which emphasizes understanding participant behaviors and managing data for insightful results. His background in 0-to-1 discovery and establishing design systems are strong matches for defining product vision and scalable design infrastructure, including component libraries and design tokens. The role's remote nature and the company's Series C stage also fit his preferences. His proficiency with AI tools (Figma Make, Cursor) is a direct match for the job's requirement of using AI tooling. The 'nice to have' of mentoring designers further aligns with his leadership experience.",
-      "source": "RemoteRocketship.com",
-      "applyUrl": "N/A",
-      "isOffLinkedIn": true,
-      "jobDescription": "This Senior Product Designer role at dscout focuses on owning the end-to-end participant-facing experience across web, native mobile, and Chrome extensions for a flexible experience research platform. Key responsibilities include defining and driving a cohesive cross-surface product vision and collaborating with product managers to sharpen product strategy and simplify complex problems. The designer will be responsible for designing core flows, components, and high-fidelity interfaces, utilizing AI tooling. They will partner with engineers on platform constraints, implementation inspection, and production design fidelity, as well as audit and evolve component libraries and design tokens across platforms to establish scalable design infrastructure and identify future design investments. The role also involves partnering with Product and Research to uncover participant needs, identify usability gaps and growth bottlenecks, analyze data, synthesize participant feedback, and query product telemetry via AI tools and other platforms. The successful candidate will iterate quickly on live features and contribute to the product ecosystem and team-building practices.\n\n**Core Responsibilities:**\n*   Own the end-to-end participant-facing experience across web, native mobile, and Chrome extension.\n*   Define and drive a cohesive cross-surface product vision.\n*   Collaborate with multiple product managers to sharpen product strategy and simplify complex problems.\n*   Design core flows, components, and high-fidelity interfaces, utilizing AI tooling.\n*   Partner with engineers on platform constraints, implementation inspection, and production design fidelity.\n*   Audit and evolve component libraries and design tokens across platforms.\n*   Establish scalable design infrastructure and identify future design investments and resource needs.\n*   Partner with Product and Research to uncover participant needs and identify usability/growth bottlenecks.\n*   Pull data, synthesize participant feedback, and query product telemetry via AI tools and MCPs.\n*   Iterate quickly on live features and contribute to the product ecosystem and team-building practices.\n\n**Key Requirements:**\n*   8+ years of product design experience with senior-level ownership of complex products.\n*   Experience designing B2B or B2B2C SaaS products.\n*   Expert proficiency in Figma, including building and maintaining design systems.\n*   Strong foundation in interaction design, usability, and user-centered design.\n*   Experience with user research, testing, and iterative design.\n*   A portfolio demonstrating end-to-end process and shipped product work.\n*   Nice to have: marketplace experience, practical experience with modern React, HTML, and CSS, motion design experience (Rive, Lottie), and experience mentoring designers, leading design critiques, or scaling a design function.",
+      "fitScore": 8,
+      "fitTier": "Good Fit",
+      "fitExplanation": "This Senior Product Designer role at Dscout is a good fit for Michael Crane, aligning with his target title and preference for remote work. Dscout's focus on a UX research platform, B2B SaaS, and AI-augmented workflows leverages Michael's user research background, primary B2B SaaS expertise, and experience with AI design tools. His strengths in designing complex workflows, building design systems, and thriving in 0-to-1 problem spaces are highly relevant. While the 'participant-facing ecosystem' might have a slightly consumer-adjacent feel, the underlying complexity and platform design challenge align well with his skills.",
+      "source": "Built In NYC / Greenhouse",
+      "applyUrl": "https://boards.greenhouse.io/dscout/jobs/5256561003",
+      "isOffLinkedIn": false,
+      "jobDescription": "Dscout is seeking a Senior Product Designer to own the end-to-end participant-facing experience across its web, native mobile, and Chrome extension ecosystem. The role involves combining sharp interaction and visual craft with systems-level thinking for a unified experience, partnering closely with product and engineering in AI-augmented workflows, and driving participant growth.\n\n**Core Responsibilities:**\n*   Own the end-to-end participant-facing product experience across web, native mobile, and Chrome extension surfaces.\n*   Define product vision and design high-fidelity interfaces.\n*   Govern and evolve design systems by auditing component libraries and design tokens.\n*   Partner with Product and Engineering to shape product strategy, deconstruct complex problems, and find simpler solutions.\n*   Drive collaborative product discovery alongside Product and Research teams, while independently identifying usability gaps and growth bottlenecks.\n*   Directly inspect post-launch performance by pulling data, synthesizing participant feedback, and querying product telemetry via AI tools and MCPs to iterate quickly.\n*   Execute hands-on at high velocity, designing core flows, components, and high-fidelity interfaces using modern AI tooling.\n*   Bridge design and native engineering by working closely with engineers to navigate platform-specific constraints and ensure production releases match design fidelity.\n\n**Key Requirements:**\n*   Strong interaction and visual craft with systems-level thinking, ensuring a unified experience across platforms.\n*   Experience in AI-augmented workflows.\n*   Ability to take extreme ownership, define product vision, and maintain high standards for shipped products.\n*   (Implied from various snippets): 5+ years of experience designing user experiences, ideally for B2B SaaS products, with a strong understanding of UI/UX principles, mobile and responsive design, and user-centered design methodologies.\n*   Proficient in user research techniques, including interviews, surveys, and usability testing.\n*   Portfolio showcasing exceptional craft and execution, attention to detail, and focus on simplicity.\n*   Strong problem-solving skills, balancing user needs with business objectives.\n*   Proven experience building, maintaining, and governing design systems in partnership with engineering.\n*   Experience aligning components, design tokens, and interaction patterns across multiple connected platforms.",
       "specialty": "",
-      "salary": "",
       "keywords": [
         {
-          "keyword": "Product Design",
+          "keyword": "Senior Product Designer",
           "inProfile": true,
           "relevance": "required",
-          "note": "10+ years experience, Senior/Lead roles"
+          "note": "Targeted title."
+        },
+        {
+          "keyword": "UX Research Platform",
+          "inProfile": true,
+          "relevance": "strong_match",
+          "note": "Michael has strong user research background."
         },
         {
           "keyword": "B2B SaaS",
           "inProfile": true,
-          "relevance": "required",
-          "note": "Specializes in complex B2B SaaS products"
+          "relevance": "strong_match",
+          "note": "Michael's primary expertise."
         },
         {
-          "keyword": "End-to-end design lifecycle",
+          "keyword": "AI-augmented workflows",
           "inProfile": true,
-          "relevance": "required",
-          "note": "Operates effectively across full design lifecycle"
-        },
-        {
-          "keyword": "Complex problems",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Specializes in complex B2B SaaS products, complex data systems"
+          "relevance": "strong_match",
+          "note": "Michael uses AI tools (Figma Make, Cursor)."
         },
         {
           "keyword": "Design Systems",
           "inProfile": true,
           "relevance": "required",
-          "note": "Established scalable design system at Infragistics, strong visual systems background"
+          "note": "Michael has experience shaping and building design systems."
+        },
+        {
+          "keyword": "0-to-1",
+          "inProfile": true,
+          "relevance": "strong_match",
+          "note": "Michael thrives in ambiguous 0-to-1 discovery."
+        },
+        {
+          "keyword": "Complex workflows",
+          "inProfile": true,
+          "relevance": "strong_match",
+          "note": "Michael deconstructs complex problems."
+        },
+        {
+          "keyword": "Cross-functional collaboration",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael collaborates closely with PMs, Engineers, and Researchers."
         },
         {
           "keyword": "Figma",
           "inProfile": true,
           "relevance": "required",
-          "note": "Expert proficiency, uses Figma"
+          "note": "Michael is proficient with Figma (implied by AI tooling and industry standard)."
         },
         {
-          "keyword": "AI tooling",
+          "keyword": "Prototyping",
           "inProfile": true,
           "relevance": "required",
-          "note": "Uses AI tools (Figma Make, Cursor)"
+          "note": "Michael executes hands-on, high-fidelity interfaces."
         },
         {
           "keyword": "User Research",
           "inProfile": true,
           "relevance": "required",
-          "note": "Experience with user research, conducted user research at Infragistics"
+          "note": "Michael partners with Product and Research teams."
         },
         {
-          "keyword": "Interaction Design",
+          "keyword": "Systems Thinking",
           "inProfile": true,
           "relevance": "required",
-          "note": "Strong interaction design skills, deep visual systems background"
+          "note": "Michael has strong systems-level thinking."
         },
         {
-          "keyword": "Marketplace experience",
-          "inProfile": true,
-          "relevance": "nice-to-have",
-          "note": "Experience with marketplace infrastructure at Tackle.io"
-        },
-        {
-          "keyword": "Mentoring designers",
-          "inProfile": true,
-          "relevance": "nice-to-have",
-          "note": "Managed and mentored 3 designers at Infragistics"
-        },
-        {
-          "keyword": "Data",
+          "keyword": "Mobile/Web Design",
           "inProfile": true,
           "relevance": "required",
-          "note": "Experience with complex data systems, transactional flows, reporting"
+          "note": "Experience across web, native mobile, Chrome extension."
         }
       ],
       "status": "New",
-      "scannedAt": "2026-11-10T18:41:13.671Z",
+      "scannedAt": "2026-11-11T18:42:17.424Z",
       "isNew": true
     },
     {
@@ -3171,8 +2972,103 @@
       ],
       "status": "New",
       "scannedAt": "2026-11-10T18:41:13.671Z",
+      "isNew": false
+    },
+    {
+      "id": "job-o2rg2f",
+      "title": "Staff Product Designer",
+      "company": "Temporal Technologies",
+      "companyDomain": "temporal.io",
+      "industry": "Cloud Infrastructure, Developer Tools, B2B SaaS",
+      "location": "Remote (U.S.)",
+      "postedAt": "2026-11-11",
+      "fitScore": 9,
+      "fitTier": "Strong Fit",
+      "fitExplanation": "This role is a strong fit for Michael Crane. The Staff Product Designer title aligns with his target roles. The core focus on AI-Native experiences within developer tools and cloud infrastructure directly leverages his extensive background in complex B2B SaaS, cloud marketplace infrastructure, and his explicit use of AI tools (Figma Make, Cursor). He excels in 0-to-1 problem spaces, which is relevant for shaping new AI-native experiences, and has deep experience with design systems and cross-functional collaboration. The emphasis on making complex systems delightful and tactile, and translating infrastructure complexity into simple interfaces, perfectly matches his design philosophy.",
+      "source": "Remote Rocketship / Temporal Careers",
+      "applyUrl": "N/A",
+      "isOffLinkedIn": false,
+      "jobDescription": "The AI-Native Staff Product Designer will shape how developers build, run, and scale AI agents on Temporal's durable execution platform, designing experiences from the agent platform and harness down to the compute and workers. This role requires using AI as a core design tool and translating complex infrastructure concepts into intuitive interfaces.\n\n**Core Responsibilities:**\n*   Design developer experiences for building, running, deploying, and observing agentic workloads across Agent Platform, Agent Harness, and Serverless Workers.\n*   Shape the end-to-end compute experience, including configuring, scaling workers, and understanding usage and cost.\n*   Create future-state prototypes with design leadership to align product and engineering roadmaps for agent and compute experiences.\n*   Work across various surfaces including the Cloud UI, CLI, SDKs, and documentation.\n*   Utilize AI daily for design exploration, prototyping, and testing, integrating this perspective into product decisions.\n*   Partner with Product Managers and Engineers from discovery through delivery.\n*   Contribute to and extend Temporal's Design System for agentic use cases.\n*   Bring rigor to ambiguous, technical problem spaces, translating infrastructure complexity into simple, clear interfaces.\n\n**Key Requirements:**\n*   8+ years of product design experience, including staff-level ownership of complex, technical products.\n*   Proven ability to influence product direction through strong execution.\n*   Solid understanding of compute and infrastructure concepts (e.g., workers, scaling, queues, resource usage).\n*   Portfolio demonstrating systems thinking and 0→1 work in developer tools, B2B, infrastructure products, dashboards, or data-heavy interfaces.\n*   Experience partnering directly with Engineering on technically constrained problems, ideally in developer tools, cloud infrastructure, or platform products.\n*   Experience instrumenting and analyzing product usage to inform design decisions.\n*   Bias for building, prototyping rapidly often in code or with AI.\n*   Experience designing AI-powered products or agent experiences, with fluency in AI tools like Claude or Codex in design workflow.\n*   Hands-on experience with Figma.",
+      "specialty": "AI + Compute",
+      "salary": "$153.6K - $252K",
+      "keywords": [
+        {
+          "keyword": "Staff Product Designer",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Targeted title."
+        },
+        {
+          "keyword": "AI-Native",
+          "inProfile": true,
+          "relevance": "strong_match",
+          "note": "Michael uses AI tools (Figma Make, Cursor) and this role is specifically AI-focused."
+        },
+        {
+          "keyword": "Developer Tools",
+          "inProfile": true,
+          "relevance": "strong_match",
+          "note": "Michael has deep context in developer tools."
+        },
+        {
+          "keyword": "Cloud Infrastructure",
+          "inProfile": true,
+          "relevance": "strong_match",
+          "note": "Michael has deep context in cloud marketplace/revenue operations infrastructure."
+        },
+        {
+          "keyword": "Complex B2B SaaS",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael's primary expertise."
+        },
+        {
+          "keyword": "0-to-1",
+          "inProfile": true,
+          "relevance": "strong_match",
+          "note": "Michael thrives in ambiguous 0-to-1 discovery."
+        },
+        {
+          "keyword": "Design Systems",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael has experience shaping and building design systems."
+        },
+        {
+          "keyword": "Figma",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael is proficient with Figma."
+        },
+        {
+          "keyword": "Prototyping",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael is strong in high-fidelity interactive prototyping."
+        },
+        {
+          "keyword": "User Research",
+          "inProfile": true,
+          "relevance": "strong_match",
+          "note": "Michael is experienced in user research."
+        },
+        {
+          "keyword": "Systems Thinking",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Emphasized in both Michael's profile and the job description."
+        },
+        {
+          "keyword": "Cross-functional collaboration",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael operates effectively across the full design lifecycle with PMs and Engineers."
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-11-11T18:42:17.424Z",
       "isNew": true
     }
   ],
-  "scannedAt": "2026-11-10T18:41:51.837Z"
+  "scannedAt": "2026-11-11T18:43:12.172Z"
 }
