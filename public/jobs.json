@@ -3131,7 +3131,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-11-12T01:32:42.438Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-yljz5m",
@@ -3200,8 +3200,8 @@
       ],
       "status": "New",
       "scannedAt": "2026-11-12T01:32:42.438Z",
-      "isNew": true
+      "isNew": false
     }
   ],
-  "scannedAt": "2026-11-12T01:33:11.787Z"
+  "scannedAt": "2026-11-12T18:57:07.965Z"
 }
