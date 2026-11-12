@@ -2877,7 +2877,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-11-11T18:42:17.424Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-z8ec94",
@@ -3067,8 +3067,141 @@
       ],
       "status": "New",
       "scannedAt": "2026-11-11T18:42:17.424Z",
+      "isNew": false
+    },
+    {
+      "id": "job-3xawf7",
+      "title": "Senior Product Designer",
+      "company": "Cohere",
+      "companyDomain": "cohere.com",
+      "industry": "B2B SaaS, Enterprise AI Products, Cloud Infrastructure",
+      "location": "Remote US",
+      "postedAt": "2026-11-12",
+      "fitScore": 9,
+      "fitTier": "Strong Fit",
+      "fitExplanation": "This role is a strong fit due to its focus on enterprise AI products and technically complex AI features, aligning perfectly with Michael's expertise in complex B2B SaaS and making complex systems delightful. His background in transactional flows and high-stakes problem spaces is highly relevant for designing clear experiences for sophisticated AI platforms. The remote nature is a strong preference, and the company stage (Series D) meets the requirement. His experience with AI tools like Figma Make and Cursor is also directly applicable.",
+      "source": "The Briefed",
+      "applyUrl": "N/A",
+      "jobDescription": "Cohere is building foundation AI models and enterprise AI products. The Senior Product Designer will own the end-to-end design process for a product area within their North platform, collaborating closely with product managers, engineers, and the ML team to design how models are trained and deployed.\n\nCore Responsibilities:\n*   Own the end-to-end design process for a specific product area.\n*   Design clear user experiences for technically complex AI features.\n*   Conduct user research and translate findings into design iterations.\n*   Maintain high quality standards across all design details.\n*   Contribute to and evolve design systems and patterns for the North platform.\n*   Partner with engineers to ensure designs are implemented as intended.\n\nRequirements:\n*   4+ years designing digital products with a strong portfolio.\n*   Solid understanding of AI and agent systems, including how models reason and utilize tools.\n*   Experience collaborating closely with product managers and engineers.\n*   A user-centered design approach informed by research and data.",
+      "specialty": "Enterprise AI Platform",
+      "salary": "$125,000 - $220,000",
+      "keywords": [
+        {
+          "keyword": "User Research",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael has strong user research experience."
+        },
+        {
+          "keyword": "Design Systems",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael has experience establishing scalable design systems."
+        },
+        {
+          "keyword": "AI/Agent Systems",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael uses AI tools and works with complex systems."
+        },
+        {
+          "keyword": "Complex AI Features",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael excels at making complex systems clear."
+        },
+        {
+          "keyword": "Product Managers & Engineers Collaboration",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael works cross-functionally."
+        },
+        {
+          "keyword": "User-Centered Approach",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Core of Michael's design philosophy."
+        },
+        {
+          "keyword": "End-to-end design process",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael operates across the full design lifecycle."
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-11-12T01:32:42.438Z",
+      "isNew": true
+    },
+    {
+      "id": "job-yljz5m",
+      "title": "Sr Staff Product Designer",
+      "company": "Honor",
+      "companyDomain": "honor.com",
+      "industry": "Healthcare, Fintech, Marketplaces, B2B SaaS",
+      "location": "Remote US",
+      "postedAt": "2026-11-09",
+      "fitScore": 8,
+      "fitTier": "Good Fit",
+      "fitExplanation": "This role aligns well with Michael's expertise in complex B2B SaaS, transactional flows, and marketplaces. His ability to design delightful experiences for high-stakes problem spaces (care delivery) is highly relevant. The emphasis on systemic thinking, user research, and prototyping with AI tools (Figma Make, Claude Code) directly matches his skills. The \"Sr Staff\" level is also a target for him. The remote nature is a strong preference. Deducted 1 point due to the primary healthcare focus, though it has strong fintech/marketplace aspects.",
+      "source": "Tech Jobs for Good",
+      "applyUrl": "N/A",
+      "jobDescription": "Honor is seeking a Senior Staff Product Designer to guide the strategic thinking and delivery of digital products and service experiences in the care delivery space. The role involves designing for clients, families, Care Professionals, and operators across the full care journey, balancing technical and business constraints. The designer will own product work end-to-end, use AI tools for prototyping, and design the service beyond just the screen.\n\nCore Responsibilities:\n*   Guide strategic thinking and delivery of digital products and service experiences for care delivery.\n*   Own product work end-to-end, being accountable for outcomes.\n*   Use AI tools (Figma Make, Claude Code) for faster prototyping and decision-making.\n*   Design the complete service experience, including workflows, processes, and communications.\n*   Collaborate closely with engineering, product management, data science, operations, and sales & marketing.\n*   Drive systemic thinking to solve complex problems, balancing user needs, tech feasibility, and business goals.\n\nRequirements:\n*   7+ years in UX and product design.\n*   Proficiency in using research and quantitative data to inform design and systems thinking.\n*   Comfort with complexity and ambiguity, energized by solving hard problems.\n*   Strong systemic thinking with demonstrated ability to strategically solve complex problems.\n*   Bias towards action and an iterative approach to problem-solving.\n*   Experience in healthcare, government/civic tech, telehealth, digital health, insurance, fintech, marketplaces, or regulated domains.",
+      "specialty": "",
+      "keywords": [
+        {
+          "keyword": "UX and Product Design (7+ years)",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael has 10+ years."
+        },
+        {
+          "keyword": "Research and Quantitative Data",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael uses metrics and research."
+        },
+        {
+          "keyword": "Complexity and Ambiguity",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael thrives in 0-to-1 and ambiguous spaces."
+        },
+        {
+          "keyword": "Systemic Thinking",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Core of Michael's design philosophy and practice."
+        },
+        {
+          "keyword": "AI tools (Figma Make, Claude Code)",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael explicitly mentions using Figma Make and Cursor."
+        },
+        {
+          "keyword": "Service Design / Workflows",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael designs complex workflows and transactional flows."
+        },
+        {
+          "keyword": "Fintech / Marketplaces",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Deep context in these areas."
+        },
+        {
+          "keyword": "Cross-functional collaboration",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael works closely with PM, engineering, executives."
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-11-12T01:32:42.438Z",
       "isNew": true
     }
   ],
-  "scannedAt": "2026-11-11T18:43:12.172Z"
+  "scannedAt": "2026-11-12T01:33:11.787Z"
 }
