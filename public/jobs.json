@@ -3201,7 +3201,197 @@
       "status": "New",
       "scannedAt": "2026-11-12T01:32:42.438Z",
       "isNew": false
+    },
+    {
+      "id": "job-yj0czv",
+      "title": "Staff Product Designer",
+      "company": "Samsara",
+      "companyDomain": "samsara.com",
+      "industry": "B2B SaaS",
+      "location": "Remote",
+      "postedAt": "2026-11-10",
+      "fitScore": 9,
+      "fitTier": "Strong Fit",
+      "fitExplanation": "This Staff Product Designer role at Samsara is a strong match. It's fully remote in the US, aligning with Michael's preference and location requirements. Samsara is a publicly traded company, well past the Series C stage. The responsibilities involve leading ambiguous initiatives, defining product vision, guiding design systems, and collaborating with product and engineering leaders, all of which align perfectly with Michael's 10+ years of experience and his desire for Staff-level work. The emphasis on AI-enabled workflows directly maps to Michael's recent experience with AI tools. The B2B SaaS industry and focus on complex, multi-product areas resonate strongly with his background in complex B2B SaaS products, data systems, and enterprise workflows.",
+      "source": "JobLeads",
+      "applyUrl": "N/A",
+      "isOffLinkedIn": true,
+      "jobDescription": "Samsara is seeking a Staff Product Designer to shape the product vision and drive design across multiple product areas. This individual will be responsible for defining interaction patterns and visual systems, collaborating closely with product and engineering leadership to deliver scalable solutions. The role involves mentoring other designers and engaging with strategic customers to incorporate their feedback into product decisions. A key aspect is leveraging AI tools to redefine and democratize design workflows, enhancing efficiency and impact. This remote position supports candidates based in the US, with a focus on delivering high-quality design across various platforms.\n\nCore Responsibilities:\n* Lead and drive large, ambiguous product initiatives from initial framing through to launch.\n* Act as a design thought leader, establishing and maintaining high-quality design standards and judgment.\n* Partner with strategic customers to integrate their insights and voice into product development.\n* Utilize AI tools to innovate and improve design workflows, making design processes more efficient and accessible.\n* Collaborate effectively with product and engineering leaders to develop and scale solutions across various product areas.\n* Provide mentorship and guidance to other designers within the team.",
+      "specialty": "Multi-Product UX",
+      "salary": "$144,000 - $257,000",
+      "keywords": [
+        {
+          "keyword": "Staff Product Designer",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Targeted role level."
+        },
+        {
+          "keyword": "Remote US",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Preferred location."
+        },
+        {
+          "keyword": "B2B SaaS",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Primary industry expertise."
+        },
+        {
+          "keyword": "complex B2B SaaS products",
+          "inProfile": true,
+          "relevance": "strong alignment",
+          "note": "Deep domain experience."
+        },
+        {
+          "keyword": "product vision",
+          "inProfile": true,
+          "relevance": "strong alignment",
+          "note": "Experience shaping design strategy at org level."
+        },
+        {
+          "keyword": "design systems",
+          "inProfile": true,
+          "relevance": "strong alignment",
+          "note": "Expertise in building and scaling design systems."
+        },
+        {
+          "keyword": "AI tools",
+          "inProfile": true,
+          "relevance": "strong alignment",
+          "note": "Direct experience with AI tools in design workflows."
+        },
+        {
+          "keyword": "cross-functional collaboration",
+          "inProfile": true,
+          "relevance": "strong alignment",
+          "note": "Operates effectively across product, engineering, and executives."
+        },
+        {
+          "keyword": "0-to-1 and ambiguous problem spaces",
+          "inProfile": true,
+          "relevance": "strong alignment",
+          "note": "Thrives when structure needs to be created."
+        },
+        {
+          "keyword": "Mentorship",
+          "inProfile": true,
+          "relevance": "strong alignment",
+          "note": "Ability to lead and mentor."
+        },
+        {
+          "keyword": "enterprise software",
+          "inProfile": true,
+          "relevance": "strong alignment",
+          "note": "Deep domain experience."
+        },
+        {
+          "keyword": "data-heavy interfaces",
+          "inProfile": true,
+          "relevance": "strong alignment",
+          "note": "Experience in complex data systems."
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-11-13T00:25:53.925Z",
+      "isNew": true
+    },
+    {
+      "id": "job-fjmku1",
+      "title": "Senior Product Designer",
+      "company": "Pinterest",
+      "companyDomain": "pinterest.com",
+      "industry": "B2B SaaS, Advertising",
+      "location": "Remote",
+      "postedAt": "2026-11-10",
+      "fitScore": 9,
+      "fitTier": "Strong Fit",
+      "fitExplanation": "This Senior Product Designer role at Pinterest is an excellent fit. It is a remote-US position, aligning with Michael's top preference. Pinterest, a public company, easily meets the Series C or later requirement. The role focuses on B2B tools within advertising/enterprise ecosystems, translating complex data and workflows into intuitive experiences for advertisers. This aligns perfectly with Michael's expertise in complex B2B SaaS, data-heavy interfaces, transactional workflows, and enterprise seller tools. His deep context in revenue operations and sales operations tooling is highly relevant for roles involving advertiser measurement and optimization. The explicit mention of AI-driven measurement experiences and using AI-powered tools aligns directly with Michael's recent experience and interest in AI. The need for a systems-minded designer who can define and evolve frameworks also resonates strongly with his design philosophy and skills.",
+      "source": "FlexJobs",
+      "applyUrl": "N/A",
+      "isOffLinkedIn": true,
+      "jobDescription": "Pinterest is seeking a methodical, systems-minded Senior Product Designer with a passion for transforming complex data and workflows into clear, intuitive user experiences. This designer will join the Measurement & Conversion team, collaborating closely with product management, engineering, product marketing, content design, and research. The primary focus is to shape how advertisers measure, understand, and optimize their performance on the Pinterest platform, specifically across products like Conversions measurement, Brand measurement, and AI-driven Measurement experiences. The ideal candidate will have experience designing B2B tools, ideally within advertising or other enterprise ecosystems, and a proven track record of envisioning, shipping, and iterating on digital ad products. A learner and builder mindset is crucial, with the ability to quickly onboard and implement emerging AI tools into the full product development process, emphasizing decision quality, craft, and efficiency. The role also involves mentoring team members and developing / applying design systems and frameworks.\n\nCore Responsibilities:\n* Envision, ship, and iterate on digital ad products in close partnership with cross-functional teams (PM, Eng, PMM, Content Design, Research).\n* Translate complex data and workflows into clear, intuitive experiences for advertisers.\n* Shape advertiser measurement, understanding, and optimization across various Pinterest products, including AI-driven solutions.\n* Define, evolve, and apply design systems, frameworks, and standards, utilizing AI-powered tools to scale the approach.\n* Balance the needs of multiple stakeholders and manage several concurrent workstreams.\n* Mentor and educate fellow team members on design practices and emerging tools.",
+      "specialty": "Measurement, Data, and AI",
+      "salary": "$132,415 - $272,619",
+      "keywords": [
+        {
+          "keyword": "Senior Product Designer",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Targeted role level."
+        },
+        {
+          "keyword": "Remote US",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Preferred location."
+        },
+        {
+          "keyword": "B2B tools",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Strong alignment with B2B SaaS expertise."
+        },
+        {
+          "keyword": "advertising",
+          "inProfile": true,
+          "relevance": "strong alignment",
+          "note": "Directly applicable to revenue operations and sales tooling experience."
+        },
+        {
+          "keyword": "enterprise ecosystems",
+          "inProfile": true,
+          "relevance": "strong alignment",
+          "note": "Aligns with enterprise software and complex B2B background."
+        },
+        {
+          "keyword": "complex data, workflows",
+          "inProfile": true,
+          "relevance": "strong alignment",
+          "note": "Expertise in data-heavy interfaces and transactional flows."
+        },
+        {
+          "keyword": "AI-driven Measurement experience",
+          "inProfile": true,
+          "relevance": "strong alignment",
+          "note": "Direct match with AI tools experience and interest."
+        },
+        {
+          "keyword": "AI-powered tools and workflows",
+          "inProfile": true,
+          "relevance": "strong alignment",
+          "note": "Direct match with AI tools experience and interest."
+        },
+        {
+          "keyword": "Design systems, frameworks, and standards",
+          "inProfile": true,
+          "relevance": "strong alignment",
+          "note": "Expertise in design systems and consistency at scale."
+        },
+        {
+          "keyword": "cross-functional collaboration",
+          "inProfile": true,
+          "relevance": "strong alignment",
+          "note": "Embedded with product and engineering."
+        },
+        {
+          "keyword": "Mentorship",
+          "inProfile": true,
+          "relevance": "strong alignment",
+          "note": "Cares about making people better."
+        },
+        {
+          "keyword": "systems-minded",
+          "inProfile": true,
+          "relevance": "strong alignment",
+          "note": "Rigorous systems thinking."
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-11-13T00:25:53.925Z",
+      "isNew": true
     }
   ],
-  "scannedAt": "2026-11-12T18:57:07.965Z"
+  "scannedAt": "2026-11-13T00:26:44.456Z"
 }
