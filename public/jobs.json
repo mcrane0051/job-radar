@@ -5,65 +5,83 @@
       "title": "Senior Product Designer",
       "company": "Apollo GraphQL",
       "companyDomain": "apollographql.com",
-      "industry": "Developer Tools, Cloud Infrastructure, AI",
-      "location": "New York, NY",
-      "postedAt": "2026-11-04",
-      "fitScore": 8,
-      "fitTier": "Good Fit",
-      "fitExplanation": "This role is an excellent fit for Michael, particularly due to his deep context in developer tools, cloud infrastructure, and enterprise software. His experience with complex B2B SaaS products and the full design lifecycle, from 0-to-1 discovery to shipped products, aligns perfectly with the responsibilities. The emphasis on influencing onboarding, product interfaces, and design systems further strengthens the match. The company's Series D funding ensures the desired stability and resources. A minor deduction is applied for the hybrid (on-site implied) NYC location, as Michael prefers remote.",
-      "source": "Jooble",
+      "industry": "Developer Tools, Cloud Infrastructure, B2B SaaS",
+      "location": "Remote (U.S.)",
+      "postedAt": "2026-11-13",
+      "fitScore": 9,
+      "fitTier": "Strong Fit",
+      "fitExplanation": "Michael's 10+ years of experience, including leading product design for complex B2B SaaS and marketplace infrastructure, aligns strongly with this role. His expertise in complex data systems, 0-to-1 discovery, the full design lifecycle, and design systems is highly relevant to designing for developer tools and intricate workflows. Michael's background in visual craft is also a good match for bringing clarity to technical products, and his focus on trustworthiness in high-stakes problem spaces is directly applicable to designing for technical users and data integrity. The remote U.S. location is a preferred work arrangement.",
+      "source": "Dynamite Jobs",
       "applyUrl": "N/A",
       "isOffLinkedIn": false,
-      "jobDescription": "Apollo GraphQL is seeking a Senior Product Designer to own the end-to-end design for developer tools, influencing onboarding, product interfaces, and the design system. The designer will collaborate closely with engineering and product managers to shape scope, ship v1 experiences, and iterate based on usage. The role aims to simplify complex technical workflows and enhance the overall developer experience.\n\nCore Responsibilities:\n* Own end-to-end design for developer tools, from concept to implementation.\n* Influence onboarding experiences, product interfaces, and the design system.\n* Collaborate with engineering and product managers to define scope and deliver new features.\n* Ship v1 experiences and iterate based on usage data and feedback.\n* Translate complex technical workflows into intuitive and elegant solutions.",
-      "specialty": "Developer Tools & AI",
-      "salary": "Not specified",
+      "jobDescription": "Apollo GraphQL is seeking a Senior Product Designer to enhance their platform, which enables engineering teams to build and deploy products using GraphQL APIs more efficiently. This role involves designing for complex developer tools, covering the entire process from initial discovery to product launch. Key areas of focus include core product interfaces, developer onboarding, maintaining the design system, and developing new AI-powered agentic products.\n\nCore Responsibilities:\n*   Lead the design of specific workflows within developer tools, overseeing the full design process from research and discovery through to shipment.\n*   Collaborate closely with Product Managers and Engineers on a daily basis to define product scope and make critical trade-offs.\n*   Develop and iterate on V1 solutions to deliver value rapidly, refining designs based on usage data and feedback.\n*   Focus on the intricate details of technical products, including various states, edge cases, error handling, and permissions, to build user trust.\n*   Contribute to and facilitate the migration of product surfaces onto the existing design system.\n\nRequirements:\n*   A minimum of 5 years of experience in software design, with a focus on product or UX design.\n*   A portfolio demonstrating a track record of shipped products.\n*   Experience in designing complex products, particularly for technical users in domains such as developer tools, infrastructure, data, security, identity, or APIs.\n*   Proven ability to own features or workflows from end-to-end, from discovery to launch.\n*   Strong skills in visual design, interaction design, and overall craft.\n*   Comfort working effectively through ambiguity within a defined problem area.",
+      "specialty": "",
+      "salary": "$150k - $180k",
       "keywords": [
         {
-          "keyword": "Developer Tools",
+          "keyword": "Product Design",
           "inProfile": true,
           "relevance": "required",
-          "note": "Matches Michael's deep context in developer tools and enterprise software."
-        },
-        {
-          "keyword": "Cloud Infrastructure",
-          "inProfile": true,
-          "relevance": "strong match",
-          "note": "Apollo GraphQL is a cloud-based platform, aligning with Michael's cloud marketplace experience."
+          "note": "10+ years experience, Lead Product Designer"
         },
         {
           "keyword": "B2B SaaS",
           "inProfile": true,
           "relevance": "required",
-          "note": "Apollo GraphQL operates in the B2B SaaS space for developers."
+          "note": "Specializes in complex B2B SaaS products"
         },
         {
-          "keyword": "End-to-End Design",
+          "keyword": "Developer Tools",
           "inProfile": true,
           "relevance": "required",
-          "note": "Michael operates effectively across the full design lifecycle."
+          "note": "Industry expertise and experience in complex systems"
+        },
+        {
+          "keyword": "Complex Products",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Specializes in making complex systems delightful and tactile"
+        },
+        {
+          "keyword": "0-to-1",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Operates effectively from ambiguous 0-to-1 discovery"
         },
         {
           "keyword": "Design Systems",
           "inProfile": true,
           "relevance": "required",
-          "note": "The role involves influencing and contributing to the design system."
+          "note": "Experience in shaping and establishing scalable design systems"
         },
         {
-          "keyword": "0-to-1 Discovery",
+          "keyword": "Visual Design",
           "inProfile": true,
           "relevance": "required",
-          "note": "The role involves shipping v1 experiences, implying 0-to-1 work."
+          "note": "Strong visual eye, trained in graphic design, brings clarity and polish"
         },
         {
-          "keyword": "Cross-functional Collaboration",
+          "keyword": "Interaction Design",
           "inProfile": true,
           "relevance": "required",
-          "note": "The designer will collaborate closely with engineering and PMs."
+          "note": "Tactile interaction design, high-fidelity interactive prototyping"
+        },
+        {
+          "keyword": "User Research",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Conducts user research, affinity mapping, stakeholder workshops"
+        },
+        {
+          "keyword": "Figma",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Proficient in Figma, Figma Make"
         }
       ],
       "status": "New",
-      "scannedAt": "2026-11-07T22:46:15.723Z",
-      "isNew": false
+      "scannedAt": "2026-11-14T17:09:10.315Z",
+      "isNew": true
     },
     {
       "id": "job-cnzyvp",
@@ -3081,7 +3099,96 @@
       "status": "New",
       "scannedAt": "2026-11-13T00:25:53.925Z",
       "isNew": false
+    },
+    {
+      "id": "job-dq6kpj",
+      "title": "Senior Product Designer",
+      "company": "Félix",
+      "companyDomain": "felixpago.com",
+      "industry": "Fintech, B2B SaaS",
+      "location": "Remote",
+      "postedAt": "2026-11-13",
+      "fitScore": 8,
+      "fitTier": "Good Fit",
+      "fitExplanation": "Michael's extensive experience in FinTech (payment reconciliation, transactional flows, contract management) and complex B2B SaaS environments makes this a strong industry and domain match. His deep background in visual systems and design systems, coupled with his ability to make complex financial systems trustworthy and clear, aligns well with the role's focus on standardizing money presentation and integrating compliance into design. Michael's use of AI tools also resonates with the job's mention of an AI-native workflow. While the role is currently remote, the possibility of a future hybrid transition without specified eligible locations for Michael slightly reduces the overall fit score.",
+      "source": "Google Search",
+      "applyUrl": "N/A",
+      "isOffLinkedIn": false,
+      "jobDescription": "Félix, a Series C fintech company backed by over $300 million, is actively seeking a Senior Product Designer specializing in Design Systems. The role's core mission is to build an essential financial companion for Latinos in the U.S., focusing on cross-border money movement and expanding into broader financial services. This position involves owning the end-to-end design system, defining the company's visual language, and shaping the architectural foundation for web, iOS, and Android platforms.\n\nCore Responsibilities:\n*   Take full ownership of the end-to-end design system, including developing and maintaining tokens, components, patterns, documentation, and the roadmap.\n*   Collaborate with the Brand team to define and evolve the visual language, covering aspects like color, typography, iconography, spacing, and motion.\n*   Construct a cohesive bilingual system for web, iOS, and Android that respects platform-specific conventions while maintaining a consistent Félix brand identity.\n*   Standardize the presentation of financial information, such as amounts, fees, exchange rates, and status across all platforms.\n*   Treat compliance as a core design material, integrating disclosures and receipts into systematic patterns.\n*   Partner with engineering to shape the architecture, focusing on component APIs, design tokens, and theming, and ensure successful production implementation.\n*   Prioritize and build in accessibility, responsiveness, and performance across a wide range of devices, from low-end Android phones to desktop.\n*   Establish and drive an AI-native workflow, encompassing in-code prototyping and design-to-code processes that remain aligned with the system.\n*   Implement governance strategies to maintain system integrity and expedite team workflows, while also mentoring other designers and contributing to hiring and growth.\n\nRequirements:\n*   A hands-on Senior Product Designer capable of influencing design decisions beyond individual surfaces.\n*   Demonstrated experience in owning the visual foundation for web, iOS, and Android platforms.\n*   Proven ability to standardize and clarify complex financial data within interfaces.\n*   Experience incorporating compliance requirements into design materials and patterns.\n*   Familiarity with component APIs, design tokens, and theming strategies.\n*   A strong focus on accessibility, responsiveness, and overall product performance.\n*   Interest and experience in leveraging AI-native workflows within the design process.\n*   Experience mentoring designers and contributing to design team growth.",
+      "specialty": "Design Systems",
+      "salary": "",
+      "keywords": [
+        {
+          "keyword": "Product Design",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "10+ years experience, Senior Product Designer"
+        },
+        {
+          "keyword": "Fintech",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Deep context in Finance and FinTech adjacent, payment reconciliation, transactional flows"
+        },
+        {
+          "keyword": "B2B SaaS",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Specializes in complex B2B SaaS products"
+        },
+        {
+          "keyword": "Design Systems",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Lead design of a scalable design system, strong visual systems background"
+        },
+        {
+          "keyword": "Visual Systems",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Foundation in visual systems, unusually strong visual eye"
+        },
+        {
+          "keyword": "Transactional Flows",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Experience in transactional flows, contract management"
+        },
+        {
+          "keyword": "Complex Workflows",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Specializes in making complex systems delightful and tactile"
+        },
+        {
+          "keyword": "0-to-1",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Thrives in 0-to-1 and ambiguous problem spaces"
+        },
+        {
+          "keyword": "AI tools",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Uses AI tools (Figma Make, Cursor), aligns with AI-native workflow"
+        },
+        {
+          "keyword": "Figma",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Proficient in Figma, Figma Make"
+        },
+        {
+          "keyword": "Mentoring",
+          "inProfile": true,
+          "relevance": "optional",
+          "note": "Managed and mentored a team of 3 designers"
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-11-14T17:09:10.315Z",
+      "isNew": true
     }
   ],
-  "scannedAt": "2026-11-14T00:21:33.129Z"
+  "scannedAt": "2026-11-14T17:09:58.787Z"
 }
