@@ -84,88 +84,6 @@
       "isNew": false
     },
     {
-      "id": "job-cnzyvp",
-      "title": "Lead Product Designer",
-      "company": "Intertek",
-      "companyDomain": "intertek.com",
-      "industry": "People Assurance",
-      "location": "Remote",
-      "postedAt": "2026-10-29",
-      "fitScore": 8,
-      "fitTier": "Good Fit",
-      "fitExplanation": "This Lead Product Designer role is a good fit, leveraging Michael's 10+ years of experience and his leadership in design. His background in HR tech (iCIMS) and work management (Slingshot) provides relevant industry context for Intertek's \"People Assurance team\" designing for \"frontline employees and administrators.\" The emphasis on \"strong UX thinking,\" \"governance of design systems,\" \"leading design direction,\" and \"mentoring other designers\" aligns well with Michael's skills and preferences.",
-      "source": "JobLeads.com",
-      "applyUrl": "N/A",
-      "isOffLinkedIn": false,
-      "jobDescription": "Summary: Intertek is seeking a remote Lead Product Designer for its People Assurance team, focusing on Frontline UX. The role involves collaborating with the Head of Design, Product, and Engineering to design for frontline employees and administrators, with an initial focus on Wisetail coverage. Key aspects include applying strong UX thinking, governing design systems, leading design direction, creating polished interfaces, prototyping, and mentoring designers.\n\nCore Responsibilities & Requirements:\n* Lead design direction for frontline employees and administrators.\n* Apply strong UX thinking to journeys, navigation, and task flows.\n* Resolve complex design challenges including permissions, dependencies, and various states (loading, empty, error, recovery).\n* Build new and maintain existing design systems, developing reusable components and interaction patterns.\n* Work with Product and research partners to understand customer workflows and test assumptions.\n* Partner closely with engineers to work within platform and integration constraints.\n* Lead constructive design reviews and mentor other designers.\n* Professional experience designing product interfaces in Figma.\n* Experience building or maintaining reusable components or a design system.\n* Experience working with Product and Engineering to carry designs through implementation.\n* Portfolio showing shipped digital product or substantial user workflow required.\n* Must reside in and be legally able to work in the United States.",
-      "specialty": "Frontline UX, People Assurance",
-      "keywords": [
-        {
-          "keyword": "Figma",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Candidate proficient in Figma"
-        },
-        {
-          "keyword": "UX thinking",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Core to candidate's design philosophy and skills"
-        },
-        {
-          "keyword": "Design Systems",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Candidate has experience establishing and scaling design systems"
-        },
-        {
-          "keyword": "Prototyping",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Candidate excels at high-fidelity interactive prototyping"
-        },
-        {
-          "keyword": "User Research",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Candidate conducts user research"
-        },
-        {
-          "keyword": "Workflow design",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Candidate specializes in complex workflows"
-        },
-        {
-          "keyword": "Lead Product Designer",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Matches target role level"
-        },
-        {
-          "keyword": "Mentorship",
-          "inProfile": true,
-          "relevance": "good to have",
-          "note": "Candidate has experience mentoring designers"
-        },
-        {
-          "keyword": "Cross-functional collaboration",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Candidate thrives in cross-functional environments"
-        },
-        {
-          "keyword": "Enterprise software",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Candidate has deep expertise in enterprise software"
-        }
-      ],
-      "status": "New",
-      "scannedAt": "2026-11-01T22:50:16.440Z",
-      "isNew": false
-    },
-    {
       "id": "job-dxkcet",
       "title": "Lead Product Designer",
       "company": "HighLevel",
@@ -1061,63 +979,76 @@
       "title": "Senior Product Designer",
       "company": "Grafana Labs",
       "companyDomain": "grafana.com",
-      "industry": "Cloud Infrastructure",
-      "location": "Remote (US)",
-      "postedAt": "2026-11-11",
+      "industry": "Cloud Infrastructure, Observability, Enterprise Software, Developer Tools",
+      "location": "Remote (United States)",
+      "postedAt": "2026-11-14",
       "fitScore": 9,
       "fitTier": "Strong Fit",
-      "fitExplanation": "This role is an excellent match for Michael's expertise in complex B2B SaaS, particularly in cloud infrastructure and developer tools, which directly aligns with his background at Tackle.io. His specialization in complex data systems and marketplace infrastructure is highly relevant to designing for Grafana Cloud's Knowledge Graph. Michael's 10+ years of experience, including 0-to-1 discovery and a strong visual craft, are well-suited for a role emphasizing well-curated UI for technical users. The remote (US) location is also a preferred work arrangement.",
-      "source": "Sequoia Capital Companies / Google Search",
+      "fitExplanation": "This role is a strong match for Michael's expertise in complex B2B SaaS and enterprise software, particularly within cloud infrastructure and developer tools. His experience with data-heavy interfaces, systems thinking, and cross-functional collaboration aligns perfectly with designing for Grafana Cloud's Knowledge Graph, which involves presenting complex system connections and dependencies. His background in user research and design systems is also highly relevant. The role also involves design mentorship, which aligns with Michael's interest in mentoring.",
+      "source": "WFH.team / Creative Boom",
       "applyUrl": "N/A",
-      "jobDescription": "Grafana Labs is hiring a Senior Product Designer for its Knowledge Graph within Grafana Cloud. This role involves designing user experiences for the context layer that powers entity graphs, entity catalogs, and RCA workbenches, aiming to simplify decision-making for engineers and SREs. The designer will work in a 100% remote R&D organization, focusing on automating the discovery of services, infrastructure, and databases. Responsibilities include running qualitative research, balancing business goals with product priorities, and contributing to the design team's growth through coaching and mentorship. Candidates should have 7+ years of experience in B2B/enterprise software, a portfolio demonstrating effective designs for complex products, and experience building empathy with technical users.",
+      "isOffLinkedIn": true,
+      "jobDescription": "Grafana Labs is seeking a Senior Product Designer to design experiences for Grafana Cloud's Knowledge Graph, focusing on enabling customers to easily understand and explore how their systems connect to each other. This involves presenting complex, changing information clearly without overwhelming users, and translating research and data into digestible experiences. The designer will tailor experiences to different audiences, collaborate cross-functionally with engineering, product management, technical writing, and GTM teams, and prioritize for impact while balancing business goals and customer wishes. Key responsibilities also include documenting user needs, UX trade-offs, and contributing to quantitative and qualitative research. There is potential for design mentorship within a growing Product Design organization.\n\n**Core Responsibilities:**\n* Design experiences for the context layer of Grafana Cloud, including the entity graph, entity catalog, and RCA workbench.\n* Enable customers to easily understand and explore how their systems connect to each other, presenting complex information clearly.\n* Turn research and data into experiences that are easy to digest and reduce complexity.\n* Tailor the experience to different audiences and user perspectives.\n* Work cross-functionally with engineering, product management, technical writing, GTM, and Product Design peers.\n* Prioritize for delivering impact while balancing business priorities, customer wishes, and technical considerations.\n* Document user needs, pain points, design directions, UX trade-offs, and detailed feature designs.\n* Conduct and contribute to quantitative and qualitative research with researchers, customers, and the Grafana community.\n* Contribute to design mentorship and team initiatives.\n\n**Requirements:**\n* 7+ years of relevant design experience working on B2B/enterprise software products, ideally for developers or other highly technical users.\n* A portfolio showcasing effective designs for complex products delivered in a fast-paced environment.\n* Experience running qualitative research in complex fields and building empathy with users.\n* Ability to make design decisions that appropriately balance business goals, product priorities, customer feedback, research insights, and technical considerations.\n* Strong, proactive remote communication, collaboration, facilitation, and relationship-building skills are essential for this 100% remote R&D organization.",
       "specialty": "Knowledge Graph",
       "keywords": [
         {
-          "keyword": "B2B/enterprise software products",
+          "keyword": "B2B/enterprise software design",
           "inProfile": true,
           "relevance": "required",
-          "note": "Matches Michael's core experience."
+          "note": "Explicitly mentioned."
         },
         {
-          "keyword": "designing tools and services for developers or other highly technical users",
+          "keyword": "Complex product design",
           "inProfile": true,
           "relevance": "required",
-          "note": "Matches Michael's experience with developer tools and technical workflows."
+          "note": "Core of Michael's expertise."
         },
         {
-          "keyword": "complex products",
+          "keyword": "Cloud infrastructure",
+          "inProfile": true,
+          "relevance": "highly relevant",
+          "note": "Matches Michael's current and desired industry experience."
+        },
+        {
+          "keyword": "Developer tools",
+          "inProfile": true,
+          "relevance": "highly relevant",
+          "note": "Matches Michael's desired industry experience."
+        },
+        {
+          "keyword": "Qualitative user research",
           "inProfile": true,
           "relevance": "required",
-          "note": "Directly aligns with Michael's specialization."
+          "note": "Explicitly mentioned."
         },
         {
-          "keyword": "qualitative research",
+          "keyword": "Cross-functional collaboration",
           "inProfile": true,
           "relevance": "required",
-          "note": "Michael has experience in user research and discovery."
+          "note": "Explicitly mentioned."
         },
         {
-          "keyword": "cloud infrastructure",
+          "keyword": "Data-dense interface design",
           "inProfile": true,
-          "relevance": "required",
-          "note": "Matches Michael's cloud marketplace/revenue operations infrastructure expertise."
+          "relevance": "highly relevant",
+          "note": "Matches Michael's expertise in complex data systems."
         },
         {
-          "keyword": "design teams, especially at engineering led companies, level up their practice",
+          "keyword": "Design mentorship",
           "inProfile": true,
-          "relevance": "good",
-          "note": "Michael has experience shaping design strategy and mentoring."
+          "relevance": "good fit",
+          "note": "Matches Michael's ability to lead and mentor."
         },
         {
-          "keyword": "making decision-making in a complex area is made easy through a well-curated UI",
+          "keyword": "Design systems",
           "inProfile": true,
-          "relevance": "required",
-          "note": "Matches Michael's design philosophy of making complex systems delightful and tactile."
+          "relevance": "good fit",
+          "note": "Implied by platform-level design work."
         }
       ],
       "status": "New",
-      "scannedAt": "2026-11-14T22:59:36.275Z",
-      "isNew": false
+      "scannedAt": "2026-11-15T23:23:54.313Z",
+      "isNew": true
     },
     {
       "id": "job-k9y5s7",
@@ -2326,57 +2257,89 @@
       "title": "Staff Product Designer",
       "company": "Temporal Technologies",
       "companyDomain": "temporal.io",
-      "industry": "Developer Tools",
-      "location": "Remote (US)",
-      "postedAt": "2026-11-11",
+      "industry": "Developer Tools, Cloud Infrastructure, AI, Enterprise Software",
+      "location": "Remote (United States)",
+      "postedAt": "2026-11-12",
       "fitScore": 10,
       "fitTier": "Strong Fit",
-      "fitExplanation": "This is an exceptional match for Michael's profile, combining his target Staff Product Designer title with highly relevant industries like developer tools and cloud infrastructure. The emphasis on AI-Native product design aligns perfectly with his recent experience leveraging AI tools. His expertise in designing complex systems, API-driven solutions, and cross-functional collaboration, along with his ability to establish design patterns and mentor designers, makes him an ideal candidate. The remote (US) location is a perfect fit for his preferences.",
-      "source": "Built In / Zippia",
+      "fitExplanation": "This role is an exceptional match for Michael's profile. It specifically targets a Staff Product Designer, which is within his desired level. His extensive experience in complex B2B SaaS, developer tools, cloud marketplace, and 0-to-1 problem spaces, coupled with his recent use of AI tools (Figma Make, Cursor), directly aligns with the AI-native, developer-focused nature of this role at Temporal. The emphasis on systems thinking, design systems, and translating complex infrastructure into clear interfaces perfectly matches his design philosophy and expertise.",
+      "source": "JobLeads.com",
       "applyUrl": "N/A",
-      "jobDescription": "Temporal Technologies is seeking a Staff AI-Native Product Designer for their Product - Nexus area, focusing on developer tools, APIs, and documentation. This role involves partnering with Product and Engineering on all stages of the design lifecycle: discovery, interaction design, prototyping, validation, delivery, and roadmap decisions. Key responsibilities include establishing reusable design patterns, addressing complex scenarios like permissions, accessibility, errors, and recovery, and enhancing organizational design quality through critique and mentorship. The designer will be responsible for creating experiences for cloud infrastructure users, utilizing AI-native approaches.",
-      "specialty": "AI-Native, Product - Nexus",
+      "isOffLinkedIn": true,
+      "jobDescription": "Temporal Technologies is seeking a Staff Product Designer to shape how developers build, run, and scale AI agents on the Temporal platform. The role involves designing the platform from agent workloads to compute and workers, ensuring scalable and cost-aware experiences across various interfaces like Cloud UI, CLI, SDKs, and documentation. The designer will integrate AI into daily design practice, collaborate closely with Product Managers and Engineers from discovery through delivery, and contribute to and extend Temporal's Design System, especially for agentic use cases.\n\n**Core Responsibilities:**\n* Design experiences for building, running, deploying, and observing agentic workloads on Temporal across various surfaces.\n* Shape the compute experience end-to-end, including worker configuration, scaling, and cost understanding.\n* Create future state prototypes with design leadership to align roadmaps.\n* Collaborate across Cloud UI, CLI, SDKs, and documentation.\n* Design with AI as a daily practice and bring an AI perspective to product decisions.\n* Partner with PMs and Engineers from discovery through delivery to ship at Temporal's pace and scale.\n* Contribute to and extend Temporal's Design System for agentic use cases.\n\n**Requirements:**\n* 8+ years of Product Design experience with senior or staff-level ownership of complex, technical products.\n* Portfolio demonstrating systems thinking and 0-to-1 work in developer tools or infrastructure.\n* Experience designing AI-powered products or agent experiences.\n* Fluency with AI tools and comfort with GitHub and terminal environments.\n* Hands-on experience with Figma.\n* Experience partnering with Engineering on technically constrained problems.\n* Solid understanding of compute/infrastructure concepts (workers, scaling, queues).",
+      "specialty": "AI-Native, Developer Tools & AI, Scalable Agent Workloads",
+      "salary": "$170,000 - $250,000",
       "keywords": [
         {
-          "keyword": "AI-Native Product Designer",
+          "keyword": "Staff Product Designer",
           "inProfile": true,
           "relevance": "required",
-          "note": "Matches Michael's experience with AI tools and interest in AI-native design."
+          "note": "Targeted role level."
         },
         {
-          "keyword": "developer tools, APIs, and documentation",
+          "keyword": "Complex technical products",
           "inProfile": true,
           "relevance": "required",
-          "note": "Matches Michael's experience with developer tools and enterprise software."
+          "note": "Explicitly mentioned, matches Michael's expertise."
         },
         {
-          "keyword": "cloud infrastructure users",
+          "keyword": "Developer tools",
           "inProfile": true,
           "relevance": "required",
-          "note": "Aligns with Michael's deep context in cloud marketplace/revenue operations infrastructure."
+          "note": "Explicitly mentioned, matches Michael's desired industry."
         },
         {
-          "keyword": "Partner with Product and Engineering on discovery, interaction design, prototyping, validation, delivery, and roadmap decisions",
+          "keyword": "Cloud infrastructure",
           "inProfile": true,
-          "relevance": "required",
-          "note": "Matches Michael's full design lifecycle and cross-functional collaboration experience."
+          "relevance": "highly relevant",
+          "note": "Matches Michael's current and desired industry experience, 'compute/infrastructure concepts'."
         },
         {
-          "keyword": "Establish reusable design patterns",
+          "keyword": "AI-powered products",
           "inProfile": true,
           "relevance": "required",
-          "note": "Aligns with Michael's expertise in design systems and consistency at scale."
+          "note": "Explicitly mentioned, aligns with Michael's AI tool usage."
         },
         {
-          "keyword": "elevate organizational design quality through critique and mentorship",
+          "keyword": "0-to-1 work",
           "inProfile": true,
           "relevance": "required",
-          "note": "Matches Michael's experience mentoring designers and focus on design craft."
+          "note": "Explicitly mentioned, matches Michael's strength."
+        },
+        {
+          "keyword": "Systems thinking",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Explicitly mentioned, core of Michael's philosophy."
+        },
+        {
+          "keyword": "Figma",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Explicitly mentioned, Michael's primary tool."
+        },
+        {
+          "keyword": "Design Systems",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Explicitly mentioned, matches Michael's expertise."
+        },
+        {
+          "keyword": "Rapid prototyping",
+          "inProfile": true,
+          "relevance": "highly relevant",
+          "note": "Explicitly mentioned, matches Michael's skills."
+        },
+        {
+          "keyword": "Cross-functional collaboration",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Explicitly mentioned."
         }
       ],
       "status": "New",
-      "scannedAt": "2026-11-14T22:59:36.275Z",
-      "isNew": false
+      "scannedAt": "2026-11-15T23:23:54.313Z",
+      "isNew": true
     },
     {
       "id": "job-3xawf7",
@@ -3105,7 +3068,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-11-15T17:43:16.088Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-jv0q25",
@@ -3200,7 +3163,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-11-15T17:43:16.088Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-dmd4hw",
@@ -3282,8 +3245,161 @@
       ],
       "status": "New",
       "scannedAt": "2026-11-15T17:43:16.088Z",
+      "isNew": false
+    },
+    {
+      "id": "job-3z6g43",
+      "title": "Senior Product Designer",
+      "company": "Tether",
+      "companyDomain": "tether.to",
+      "industry": "Fintech, Cryptocurrency, Marketplace",
+      "location": "Remote (Globally Distributed)",
+      "postedAt": "2026-11-14",
+      "fitScore": 8,
+      "fitTier": "Good Fit",
+      "fitExplanation": "This role aligns well with Michael's deep context in finance and fintech-adjacent areas, especially payment reconciliation and transactional flows. His expertise in making complex systems tactile and delightful, combined with strong visual and interaction design craft, is directly applicable to wallet design in the crypto space. The mention of AI-assisted ideation also resonates with his recent use of AI tools.",
+      "source": "Jooble",
+      "applyUrl": "N/A",
+      "isOffLinkedIn": true,
+      "jobDescription": "Tether is hiring a Senior Product Designer for their Wallets team. This role involves owning end-to-end wallet design, collaborating with product, engineering, and research to shape user experiences for crypto and fintech users. The ideal candidate will demonstrate mastery in visual and interaction design, proficiency in rapid prototyping, and a pragmatic, plain-language approach to solving complex problems. AI-assisted ideation is a welcome aspect of the design process. The position supports a remote, globally distributed team with weekly shipping cycles.\n\n**Core Responsibilities:**\n* Own end-to-end wallet design.\n* Collaborate with product, engineering, and research teams to shape user experiences for crypto and fintech users.\n* Apply mastery in visual and interaction design.\n* Utilize rapid prototyping skills.\n* Approach complex problems with a pragmatic, plain-language methodology.\n* Integrate AI-assisted ideation into the design process.\n\n**Requirements:**\n* Mastery in visual and interaction design.\n* Proficiency in rapid prototyping.\n* Ability to thrive in a remote, globally distributed team with fast-paced weekly shipping cycles.",
+      "specialty": "Wallets, Fintech Innovator",
+      "keywords": [
+        {
+          "keyword": "Fintech",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Explicitly mentioned, matches Michael's deep context."
+        },
+        {
+          "keyword": "Transactional flows",
+          "inProfile": true,
+          "relevance": "highly relevant",
+          "note": "Matches Michael's expertise, core to wallet design."
+        },
+        {
+          "keyword": "Payment reconciliation",
+          "inProfile": true,
+          "relevance": "highly relevant",
+          "note": "Matches Michael's expertise, core to wallet design."
+        },
+        {
+          "keyword": "Visual design craft",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Explicitly mentioned."
+        },
+        {
+          "keyword": "Interaction design",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Explicitly mentioned."
+        },
+        {
+          "keyword": "Rapid prototyping",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Explicitly mentioned."
+        },
+        {
+          "keyword": "Complex problem solving",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Explicitly mentioned."
+        },
+        {
+          "keyword": "AI-assisted ideation",
+          "inProfile": true,
+          "relevance": "good fit",
+          "note": "Matches Michael's AI tool usage."
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-11-15T23:23:54.313Z",
+      "isNew": true
+    },
+    {
+      "id": "job-rv694z",
+      "title": "Staff Product Designer",
+      "company": "Twilio",
+      "companyDomain": "twilio.com",
+      "industry": "Developer Tools, B2B SaaS, Cloud Communications",
+      "location": "Remote (United States)",
+      "postedAt": "2026-11-12",
+      "fitScore": 9,
+      "fitTier": "Strong Fit",
+      "fitExplanation": "This Staff Product Designer role at Twilio is a strong fit given Michael's 10+ years of experience and his targeting of Staff-level positions. Twilio's focus on developer tools and complex communication platforms aligns well with Michael's B2B SaaS, enterprise software, and developer tools industry experience. His ability to define design strategy and work across the full design lifecycle would be highly valuable in this context.",
+      "source": "WFH.team",
+      "applyUrl": "N/A",
+      "isOffLinkedIn": true,
+      "jobDescription": "Twilio is seeking a Staff Product Designer to contribute to shaping the future of communications. This role involves delivering innovative solutions to businesses and empowering millions of developers worldwide to craft personalized experiences. The position is for a 100% remote company and will focus on complex B2B SaaS products within the communications platform.\n\n**Core Responsibilities (Inferred):**\n* Design complex digital products for a B2B SaaS communication platform.\n* Work on developer-focused tools and interfaces, ensuring intuitive and scalable experiences.\n* Own design initiatives from ambiguous discovery phases through to shipped product and measured outcomes.\n* Collaborate closely with product management and engineering leads to define and execute product strategy.\n* Contribute to and evolve design systems and consistency at scale.\n* Mentor junior designers and elevate the overall design craft within the team.\n\n**Requirements (Inferred):**\n* Significant experience (typically 8+ years) in product design, with a strong background in B2B SaaS and/or developer tools.\n* A portfolio demonstrating successful delivery of complex product experiences and a high level of visual and interaction design craft.\n* Proven ability to operate effectively across the full design lifecycle, including strategic input and execution.\n* Strong communication, collaboration, and leadership skills.\n* Experience with design systems and high-fidelity interactive prototyping.",
+      "specialty": "",
+      "salary": "$142,000 - $187,000",
+      "keywords": [
+        {
+          "keyword": "Staff Product Designer",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Targeted role level."
+        },
+        {
+          "keyword": "B2B SaaS",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Implicit from Twilio's business and Michael's primary expertise."
+        },
+        {
+          "keyword": "Developer tools",
+          "inProfile": true,
+          "relevance": "highly relevant",
+          "note": "Implicit from Twilio's business and Michael's industry experience."
+        },
+        {
+          "keyword": "Complex product design",
+          "inProfile": true,
+          "relevance": "highly relevant",
+          "note": "Implicit from Twilio's business and Michael's expertise in complex systems."
+        },
+        {
+          "keyword": "0-to-1 discovery",
+          "inProfile": true,
+          "relevance": "good fit",
+          "note": "Implicit for Staff roles and Michael's strength in ambiguous problem spaces."
+        },
+        {
+          "keyword": "Design strategy",
+          "inProfile": true,
+          "relevance": "good fit",
+          "note": "Implicit for Staff roles and Michael's experience in shaping design strategy."
+        },
+        {
+          "keyword": "Full design lifecycle",
+          "inProfile": true,
+          "relevance": "good fit",
+          "note": "Implicit for Staff roles and Michael's experience."
+        },
+        {
+          "keyword": "Cross-functional collaboration",
+          "inProfile": true,
+          "relevance": "good fit",
+          "note": "Implicit for Staff roles and Michael's experience."
+        },
+        {
+          "keyword": "Design systems",
+          "inProfile": true,
+          "relevance": "good fit",
+          "note": "Implicit for Staff roles at a large company."
+        },
+        {
+          "keyword": "High-fidelity interactive prototyping",
+          "inProfile": true,
+          "relevance": "good fit",
+          "note": "Implicit for Staff roles and Michael's skills."
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-11-15T23:23:54.313Z",
       "isNew": true
     }
   ],
-  "scannedAt": "2026-11-15T17:43:46.682Z"
+  "scannedAt": "2026-11-15T23:24:54.627Z"
 }
