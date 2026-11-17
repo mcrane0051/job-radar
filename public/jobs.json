@@ -154,178 +154,6 @@
       "isNew": false
     },
     {
-      "id": "job-pwj2hs",
-      "title": "Senior Product Designer",
-      "company": "Tithe.ly",
-      "companyDomain": "tithely.com",
-      "industry": "B2B SaaS, FinTech (adjacent)",
-      "location": "Remote (United States)",
-      "postedAt": "2026-11-03",
-      "fitScore": 8,
-      "fitTier": "Good Fit",
-      "fitExplanation": "Strong alignment with Michael's experience in complex B2B SaaS, transactional workflows, and 0-to-1 design. The role explicitly mentions using AI tools, a key skill for Michael. Location is a perfect match (Remote US). While the church tech industry isn't a direct match with his deep context, the complexity of workflows and finance-adjacent aspects align well. Company stage as 'Scaleup' with a large customer base suggests proven PMF and resources.",
-      "source": "Jobgether",
-      "applyUrl": "N/A",
-      "isOffLinkedIn": false,
-      "jobDescription": "*   Lead design from research through launch for complex church workflows, translating them into clear, connected experiences.\n*   Partner with product managers and engineers, guiding design decisions and mentoring fellow designers.\n*   Conduct research planning, customer interviews, and usability testing; advocate for users.\n*   Utilize strong Figma skills, including reusable components, interactive prototypes, and shared design libraries.\n*   Employ AI tools for exploring ideas, building prototypes, or improving design workflows.\n*   Requires 5+ years of product design experience, including complex SaaS applications with multiple user roles and workflows.\n*   A portfolio demonstrating strong visual and interaction design, influence on key decisions, and research-informed shipped products.",
-      "specialty": "",
-      "salary": "$130K - $160K",
-      "keywords": [
-        {
-          "keyword": "B2B SaaS",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Explicitly mentioned 'complex SaaS applications'"
-        },
-        {
-          "keyword": "Complex workflows",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Focus on 'complex church workflows'"
-        },
-        {
-          "keyword": "Transactional flows",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Implied by 'giving' and financial aspects of church tech"
-        },
-        {
-          "keyword": "0-to-1 discovery",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "'Lead design from research through launch' for new features"
-        },
-        {
-          "keyword": "User Research",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "'Lead research planning, customer interviews, usability testing'"
-        },
-        {
-          "keyword": "Figma",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "'Strong Figma skills'"
-        },
-        {
-          "keyword": "AI tools",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "'Experience using AI tools to explore ideas, build prototypes'"
-        },
-        {
-          "keyword": "Design Systems",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "'shared design libraries'"
-        },
-        {
-          "keyword": "Design leadership/mentoring",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "'mentor fellow designers'"
-        },
-        {
-          "keyword": "Visual craft",
-          "inProfile": true,
-          "relevance": "good",
-          "note": "'strong visual and interaction design', 'clear, connected experiences'"
-        }
-      ],
-      "status": "New",
-      "scannedAt": "2026-11-03T18:27:50.189Z",
-      "isNew": false
-    },
-    {
-      "id": "job-2lczxa",
-      "title": "Senior Product Designer",
-      "company": "Findem",
-      "companyDomain": "findem.ai",
-      "industry": "B2B SaaS, HR Tech, AI",
-      "location": "Remote (United States)",
-      "postedAt": "2026-11-02",
-      "fitScore": 9,
-      "fitTier": "Strong Fit",
-      "fitExplanation": "Excellent fit with Michael's background in B2B SaaS and HR Tech (iCIMS). The role's focus on designing for 'AI agents' and 'AI-native process' strongly aligns with Michael's experience and interest in AI tools. His 0-to-1 experience and ability to work in ambiguous contexts are directly called out. Location is a perfect match (Remote US). The company is a well-established AI/HR tech platform, likely past Series C.",
-      "source": "UI/UX Jobs Board",
-      "applyUrl": "N/A",
-      "isOffLinkedIn": false,
-      "jobDescription": "*   Design and ship new agentic patterns, defining user interaction with AI agents within daily workflows.\n*   Help define how the design team uses AI tools, building an AI-native process for faster design-to-experience path.\n*   Design agent artifact experiences and early customer prototype UX, particularly for RRA SaaS.\n*   Perform UX code polish PRs (front-end only) and collaborate daily with Product and Engineering.\n*   Requires 5+ years designing and shipping digital products, with a portfolio of live experiences.\n*   Track record of moving quickly from idea to prototype in ambiguous, early-stage contexts.\n*   Preferred experience: 0-to-1 or exploratory product work, ideally in SaaS or B2B.\n*   Preferred comfort collaborating directly in an engineering codebase and workflow (Git, PRs, design QA).\n*   Strong UX and interaction design fundamentals, including user journey mapping, information architecture.",
-      "specialty": "AI",
-      "salary": "",
-      "keywords": [
-        {
-          "keyword": "B2B SaaS",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "'SaaS or B2B' explicitly mentioned"
-        },
-        {
-          "keyword": "AI agents",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Core to the role 'designing new agentic patterns', 'AI agents'"
-        },
-        {
-          "keyword": "AI tools",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "'help define how our team uses AI tools in its own work'"
-        },
-        {
-          "keyword": "0-to-1 discovery",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "'0-to-1 or exploratory product work', 'ambiguous, early-stage contexts'"
-        },
-        {
-          "keyword": "User Workflows",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "'UX design and user workflows'"
-        },
-        {
-          "keyword": "Prototyping",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "'move quickly from idea to prototype'"
-        },
-        {
-          "keyword": "Information Architecture",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "'information architecture' explicitly mentioned"
-        },
-        {
-          "keyword": "User Research",
-          "inProfile": true,
-          "relevance": "good",
-          "note": "Implied by early customer prototypes"
-        },
-        {
-          "keyword": "Cross-functional collaboration",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "'work daily with Product and Engineering'"
-        },
-        {
-          "keyword": "HR Tech",
-          "inProfile": true,
-          "relevance": "good",
-          "note": "'Executive Search team' implies HR Tech domain"
-        },
-        {
-          "keyword": "Visual craft",
-          "inProfile": true,
-          "relevance": "good",
-          "note": "Implied by shipping live experiences"
-        }
-      ],
-      "status": "New",
-      "scannedAt": "2026-11-03T18:27:50.189Z",
-      "isNew": false
-    },
-    {
       "id": "job-db3etz",
       "title": "Senior Product Designer",
       "company": "Deel",
@@ -1828,7 +1656,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-11-16T21:02:21.663Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-z8ec94",
@@ -3147,7 +2975,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-11-16T21:02:21.663Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-4cy31o",
@@ -3217,7 +3045,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-11-16T21:02:21.663Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-daw779",
@@ -3293,8 +3121,8 @@
       ],
       "status": "New",
       "scannedAt": "2026-11-16T21:02:21.663Z",
-      "isNew": true
+      "isNew": false
     }
   ],
-  "scannedAt": "2026-11-16T21:03:20.896Z"
+  "scannedAt": "2026-11-17T19:52:27.646Z"
 }
