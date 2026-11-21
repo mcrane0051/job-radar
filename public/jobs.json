@@ -237,130 +237,6 @@
       "isNew": false
     },
     {
-      "id": "job-nuhq7u",
-      "title": "Senior Staff Product Designer",
-      "company": "Flex",
-      "companyDomain": "helloflex.com",
-      "industry": "FinTech",
-      "location": "Hybrid NYC",
-      "postedAt": "2026-11-05",
-      "fitScore": 8,
-      "fitTier": "Good Fit",
-      "fitExplanation": "This role is a strong match for Michael's experience in complex B2B SaaS and FinTech, particularly his expertise in transactional flows and payment reconciliation. The focus on setting craft standards, design systems, and driving end-to-end design aligns well with his design philosophy and practical experience. The Staff-level individual contributor role also fits his career aspirations. The hybrid NYC location is acceptable, with a minor deduction from the fit score for not being fully remote. The company stage (Series B, implying post-Series C maturity) is also a good match.",
-      "source": "JobLeads",
-      "applyUrl": "N/A",
-      "isOffLinkedIn": false,
-      "jobDescription": "Flex, a NYC-headquartered FinTech, is seeking a Staff Product Designer. This is a high-impact individual contributor (IC) role focused on shaping strategy, design systems, and user experience across the product portfolio without direct management responsibilities. The designer will partner with product and engineering teams, mentor peers, and drive the end-to-end design process from research through prototyping.\n\nCore Responsibilities:\n* Define and articulate design vision for critical product initiatives.\n* Own the end-to-end design process, from research to execution.\n* Collaborate with product and engineering to shape roadmaps.\n* Establish and evolve design standards and contribute to the design system.",
-      "specialty": "Contract",
-      "salary": "Not specified",
-      "keywords": [
-        {
-          "keyword": "FinTech",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Matches Michael's deep context in finance and FinTech adjacent industries, including payment reconciliation and transactional flows."
-        },
-        {
-          "keyword": "Design Systems",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Michael has experience establishing and scaling design systems."
-        },
-        {
-          "keyword": "End-to-End Design",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Michael operates effectively across the full design lifecycle, from 0-to-1 discovery to shipped product."
-        },
-        {
-          "keyword": "User Experience",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Michael specializes in making complex systems delightful and tactile, bringing product thinking and visual craft into B2B software."
-        },
-        {
-          "keyword": "Product Strategy",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Michael has experience shaping design strategy at the team and org level."
-        },
-        {
-          "keyword": "Complex B2B",
-          "inProfile": true,
-          "relevance": "strong match",
-          "note": "Flex operates in FinTech, a complex B2B domain."
-        }
-      ],
-      "status": "New",
-      "scannedAt": "2026-11-07T22:46:15.723Z",
-      "isNew": false
-    },
-    {
-      "id": "job-mzmqol",
-      "title": "Senior Product Designer II",
-      "company": "Splice",
-      "companyDomain": "splice.com",
-      "industry": "Music Tech, Marketplace, Subscription",
-      "location": "Remote (US Only)",
-      "postedAt": "2026-11-05",
-      "fitScore": 8,
-      "fitTier": "Good Fit",
-      "fitExplanation": "This remote role aligns well with Michael's expertise in marketplace infrastructure and complex workflow design. While the industry is music tech (not his primary B2B SaaS), the core design challenges around user acquisition, activation, retention, and managing a subscription/marketplace model, coupled with an AI stack, resonate with his skills in data-heavy interfaces, ambiguous problem spaces, and design systems. His experience with measured outcomes and strong visual craft is also highly relevant. The company's Series D funding meets the stability requirement.",
-      "source": "Index Ventures / Job Posting",
-      "applyUrl": "N/A",
-      "isOffLinkedIn": false,
-      "jobDescription": "Splice is a creative platform for music producers, offering sounds, samples, and a rent-to-own marketplace for DAWs and plugins. The Senior Product Designer II, Growth, will focus on understanding user funnels, identifying experience failures, and implementing precise design solutions. This role requires a clear point of view in ambiguous work, adherence to craft standards, and design towards measurable outcomes. The designer will work closely with a Principal Designer on Growth, covering the full scope of creator acquisition, activation, and retention.\n\nCore Responsibilities:\n* Execute high-quality design across the full growth scope: onboarding, subscription/paywall experiences, referral programs, core site, and lifecycle moments.\n* Carry the craft standard from early concept through shipped product.\n* Partner with the Principal Designer on Growth to shape product direction and contribute to product decisions.\n* Work fluidly within established design systems and contribute back to them.\n* Present work clearly at every stage and articulate design rationale effectively.",
-      "specialty": "Growth",
-      "salary": "Not specified",
-      "keywords": [
-        {
-          "keyword": "Marketplace",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Splice has a rent-to-own marketplace for DAWs and plugins, directly aligning with Michael's marketplace infrastructure experience."
-        },
-        {
-          "keyword": "Design Systems",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "The role requires working fluidly within and contributing to established design systems."
-        },
-        {
-          "keyword": "Complex Workflows",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Implied by growth scope, onboarding, and subscription models."
-        },
-        {
-          "keyword": "0-to-1 Discovery",
-          "inProfile": true,
-          "relevance": "strong match",
-          "note": "The role involves bringing a clear point of view to ambiguous work, aligning with Michael's 0-to-1 experience."
-        },
-        {
-          "keyword": "Measured Outcomes",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "The designer is expected to design toward outcomes that can actually be measured."
-        },
-        {
-          "keyword": "Visual Craft",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "The role emphasizes carrying the craft standard."
-        },
-        {
-          "keyword": "Remote",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Michael is open to remote work."
-        }
-      ],
-      "status": "New",
-      "scannedAt": "2026-11-07T22:46:15.723Z",
-      "isNew": false
-    },
-    {
       "id": "job-8wisbu",
       "title": "Senior Product Designer",
       "company": "Interaction Design Foundation (IxDF)",
@@ -2348,7 +2224,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-11-21T17:58:28.205Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-aa6mbl",
@@ -2838,7 +2714,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-11-21T17:58:28.205Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-imubk",
@@ -3199,7 +3075,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-11-21T17:58:28.205Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-mm0uu1",
@@ -3273,7 +3149,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-11-21T17:58:28.205Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-3il6nx",
@@ -3354,8 +3230,188 @@
       ],
       "status": "New",
       "scannedAt": "2026-11-21T17:58:28.205Z",
+      "isNew": false
+    },
+    {
+      "id": "job-kqd10g",
+      "title": "Senior Product Designer",
+      "company": "Injective Labs",
+      "companyDomain": "injective.com",
+      "industry": "Fintech, Blockchain",
+      "location": "Remote (NA)",
+      "postedAt": "2026-11-18",
+      "fitScore": 9,
+      "fitTier": "Strong Fit",
+      "fitExplanation": "This role is a strong fit due to its focus on DeFi and blockchain in the finance industry, which aligns with Michael's deep context in finance, payment reconciliation, and transactional flows. The emphasis on leading design projects across the full product lifecycle and developing design systems also matches his experience. A minor deduction is made for the location being 'Remote (NA)' rather than explicitly 'Remote (U.S. Only)', though it likely includes the US.",
+      "source": "SailOnchain (Aggregator)",
+      "applyUrl": "N/A",
+      "jobDescription": "Injective Labs is seeking a Senior Product Designer to lead design initiatives across web products and DApps within the DeFi space. This individual will be pivotal in shaping Injective's products, influencing strategy, and ensuring high-quality execution. The role requires a strong design practice, close collaboration with engineering, product, and business teams, and a focus on user feedback to drive solutions.\n\nCore Responsibilities:\n* Lead design projects through the entire product lifecycle and multiple launches.\n* Cultivate a robust design practice and influence product strategy and execution.\n* Collaborate closely with engineering, product, and business teams to find elegant and practical solutions.\n* Incorporate user feedback to inform product-design strategy and create delightful customer experiences.\n* Develop and maintain product design systems.\n\nKey Requirements:\n* Proven ability to lead product design discovery and manage end-to-end design processes.\n* Strong information design experience with a solid foundation in UX design heuristics.\n* Deep knowledge and applied experience in graphic design (layout, typography, color).\n* A portfolio showcasing craft and a passion for building in a fast-paced, startup environment.",
+      "keywords": [
+        {
+          "keyword": "DeFi",
+          "inProfile": false,
+          "relevance": "required",
+          "note": "Industry match for Fintech, Michael has deep context in transactional flows and payment reconciliation."
+        },
+        {
+          "keyword": "Blockchain",
+          "inProfile": false,
+          "relevance": "required",
+          "note": "Core technology, Michael has experience with complex data systems."
+        },
+        {
+          "keyword": "Fintech",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Direct match with Michael's deep context."
+        },
+        {
+          "keyword": "Design Systems",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Direct match, Michael has experience establishing scalable design systems."
+        },
+        {
+          "keyword": "Product Strategy",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Direct match, Michael has experience shaping design strategy."
+        },
+        {
+          "keyword": "User Feedback",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Direct match, Michael conducts user research."
+        },
+        {
+          "keyword": "UX Design",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Core design practice."
+        },
+        {
+          "keyword": "Graphic Design",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Direct match, Michael's background is in visual systems and graphic design."
+        },
+        {
+          "keyword": "Prototyping",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Direct match, Michael is skilled in high-fidelity interactive prototyping."
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-11-21T23:48:24.855Z",
+      "isNew": true
+    },
+    {
+      "id": "job-g1dcre",
+      "title": "Senior Product Designer",
+      "company": "Instacart",
+      "companyDomain": "instacart.com",
+      "industry": "Marketplace, B2B SaaS, Fintech",
+      "location": "Remote (US National)",
+      "postedAt": "2026-11-19",
+      "fitScore": 10,
+      "fitTier": "Strong Fit",
+      "fitExplanation": "This role is an excellent match for Michael's profile, particularly his expertise in complex B2B SaaS products, marketplace infrastructure, transactional flows, and design systems. The emphasis on loyalty, payments, and savings aligns with his finance and fintech adjacent experience. The requirement for daily hands-on AI use and strong visual craft directly corresponds to Michael's skills and design philosophy. The 'Remote, US National' location is a perfect fit.",
+      "source": "Remote.co (Aggregator)",
+      "applyUrl": "N/A",
+      "specialty": "Commerce & Retailer Platform / Loyalty, Payments, Savings",
+      "salary": "$169,000 - $214,000",
+      "jobDescription": "Instacart is looking for a Senior Product Designer II to contribute to the core platform, focusing on a kit of primitives and component foundations that power loyalty, payments, savings, and retailer storefront experiences. This role involves bridging complex business goals with intuitive user experiences and defining the design language for the retailer space. The designer will work with a multidisciplinary team to identify key moments across the funnel and design scalable components.\n\nCore Responsibilities:\n* Pair strong product judgment with deep craft in components and design language.\n* Focus on primitives and component foundations for loyalty, payments, and savings across Instacart's marketplace and white-label retailer offerings.\n* Bridge complex business goals with intuitive user experiences.\n* Define the design language point of view for the retailer space, ensuring consistency and accessibility.\n* Design configurable components for various surfaces and partners.\n* Build end-to-end first versions of experiences.\n\nKey Requirements:\n* 8+ years of professional experience in product design with a strong portfolio showcasing interaction design, visual craft, and systems thinking.\n* Mastery of user-centric design processes, from concept ideation and prototyping to developer-ready assets.\n* Proficiency in Figma, rapid prototyping, design-to-code workflows, and daily hands-on AI use.\n* Exceptional communication skills to articulate complex design ideas.\n* Track record of bringing clarity to ambiguous spaces through design strategy and execution.\n* Preferred: Experience in marketplace environments, multi-sided ecosystems, white-label products, or designing for savings-focused/transactional products.",
+      "keywords": [
+        {
+          "keyword": "Marketplace",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Direct match with Michael's experience in cloud marketplace/revenue operations infrastructure."
+        },
+        {
+          "keyword": "B2B SaaS",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Direct match with Michael's primary industry expertise, especially for retailer platforms."
+        },
+        {
+          "keyword": "Fintech",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Strong alignment with payments, savings, and transactional products."
+        },
+        {
+          "keyword": "Remote (U.S. Only)",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Direct match."
+        },
+        {
+          "keyword": "Senior Product Designer",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Direct match for target role level."
+        },
+        {
+          "keyword": "Design Systems",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Direct match, Michael has extensive experience."
+        },
+        {
+          "keyword": "Visual Craft",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Direct match, a core aspect of Michael's design philosophy and background."
+        },
+        {
+          "keyword": "Interaction Design",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Direct match."
+        },
+        {
+          "keyword": "Prototyping",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Direct match."
+        },
+        {
+          "keyword": "Figma",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Direct match for tools."
+        },
+        {
+          "keyword": "AI Tools",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Direct match with Michael's listed skills and tools (Figma Make, Cursor)."
+        },
+        {
+          "keyword": "Transactional Workflows",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Direct match with Michael's experience."
+        },
+        {
+          "keyword": "Complex Data Systems",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Implied by loyalty, payments, and retailer platform focus; aligns with Michael's expertise."
+        },
+        {
+          "keyword": "0-to-1 Design",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Implied by 'bringing clarity through design strategy' and defining new components; aligns with Michael's preferred work type."
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-11-21T23:48:24.855Z",
       "isNew": true
     }
   ],
-  "scannedAt": "2026-11-21T17:59:22.142Z"
+  "scannedAt": "2026-11-21T23:49:02.804Z"
 }
