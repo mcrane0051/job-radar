@@ -164,77 +164,77 @@
       "title": "Senior Product Designer",
       "company": "Brex",
       "companyDomain": "brex.com",
-      "industry": "Fintech",
-      "location": "Hybrid in NYC",
-      "postedAt": "2026-11-05",
+      "industry": "Fintech, B2B SaaS, Enterprise Software",
+      "location": "Hybrid (NYC)",
+      "postedAt": "2026-11-19",
       "fitScore": 8,
       "fitTier": "Good Fit",
-      "fitExplanation": "This role at Brex aligns well with Michael's fintech adjacent experience (payment reconciliation, transactional flows) and expertise in complex B2B SaaS products. He specializes in making complex financial workflows delightful and trustworthy, which is central to this role. His experience with AI tools, design systems, and cross-functional collaboration are strong matches. The hybrid location in NYC is within his preference, though it incurs a slight score deduction compared to a fully remote role. His background in revenue operations and sales tooling also provides relevant context for T&E products.",
-      "source": "Brex Careers",
-      "applyUrl": "https://boards.greenhouse.io/brex/jobs/4215039007",
-      "isOffLinkedIn": true,
-      "jobDescription": "Brex is seeking a Senior Product Designer for Travel & Expenses (T&E) to transform complex financial workflows into clear, intuitive experiences. This hybrid role is based in San Francisco, Seattle, or New York City, requiring a minimum of three coordinated days in the office per week (Monday, Wednesday, Thursday). The designer will lead ambiguous, cross-functional product work from problem definition through execution, operating with high ownership and low oversight. Responsibilities include shaping product strategy, using AI to empower users, and obsessing over quality and clarity in design. The team designs how employees spend, report, and get reimbursed, and how finance teams set and enforce policies. Candidates should have experience designing financial products, developer tools, enterprise software, or other complex B2B workflows, along with a proven track record of envisioning, shipping, and iterating on digital products. Experience with AI tools for prototyping, research synthesis, and design exploration is highly valued, as is contributing to or evolving a design system. Strong ability to translate complex constraints into simple customer experiences and a deep understanding of layout, typography, and interaction design principles are critical.",
-      "specialty": "T&E (Travel & Expenses)",
-      "salary": "$192k - $240k",
+      "fitExplanation": "This role aligns well with Michael's expertise in complex B2B SaaS, transactional flows, and financial product design. His experience at Tackle.io with payment reconciliation and revenue operations is highly relevant to T&E. The role requires experience with AI tools and design systems, both strong points for Michael. The hybrid location in NYC is acceptable, but slightly less preferred than fully remote, leading to a minor deduction in score.",
+      "source": "Jobspresso",
+      "applyUrl": "N/A",
+      "isOffLinkedIn": false,
+      "jobDescription": "As a Senior Product Designer for Travel & Expense (T&E) at Brex, you will lead ambiguous, cross-functional product work from problem definition through shipped execution. A core responsibility is to translate complex financial workflows into clear, intuitive experiences that enhance customer efficiency, decision-making, and trust in the system. You will partner closely with Product, Engineering, Research, Data, and Go-to-Market teams. This role requires experience in designing financial products, developer tools, enterprise software, or other complex B2B workflows, along with a track record of shipping end-to-end features in fast-paced product teams. Candidates should also have experience using AI tools for various design stages and contributing to large-scale design systems.\n\n**Core Responsibilities:**\n*   Lead ambiguous, cross-functional product work from problem definition through shipped execution.\n*   Turn complex financial workflows into clear, intuitive experiences that help customers move faster, make better decisions, and trust the systems they use every day.\n*   Partner closely with Product, Engineering, Research, Data, and Go-to-Market teams to solve high-stakes problems.\n\n**Key Requirements:**\n*   6+ years of product design experience, with a track record of shipping end-to-end features in fast-paced product teams.\n*   Experience designing financial products, developer tools, enterprise software, or other complex B2B workflows.\n*   Experience using AI tools for prototyping, research synthesis, design exploration, or day-to-day workflow acceleration.\n*   Experience contributing to or evolving a design system at scale.\n*   Experience conducting or partnering on generative and evaluative research.\n*   Strong ability to translate complex product, technical, or business constraints into simple customer experiences.",
+      "specialty": "T&E",
+      "salary": "$192,000 - $240,000",
       "keywords": [
         {
-          "keyword": "Financial Workflows",
+          "keyword": "B2B workflows",
           "inProfile": true,
           "relevance": "required",
-          "note": "Directly matches Michael's fintech adjacent and transactional flow experience."
+          "note": "Explicitly mentioned in Michael's experience and preferences, strong match."
         },
         {
-          "keyword": "Complex B2B Workflows",
+          "keyword": "Financial products",
           "inProfile": true,
           "relevance": "required",
-          "note": "Michael specializes in complex B2B SaaS products."
+          "note": "Michael has deep experience in payment reconciliation, transactional flows, and revenue operations, highly relevant to fintech."
         },
         {
-          "keyword": "AI Tools",
+          "keyword": "Enterprise software",
           "inProfile": true,
           "relevance": "required",
-          "note": "Michael actively uses AI tools (Figma Make, Cursor) in his workflow."
+          "note": "Michael specializes in complex B2B SaaS and enterprise software."
         },
         {
-          "keyword": "Design Systems",
+          "keyword": "AI tools",
           "inProfile": true,
           "relevance": "required",
-          "note": "Michael has experience building and scaling design systems."
+          "note": "Michael mentions using AI tools (Figma Make, Cursor) to accelerate discovery, prototyping, and alignment."
         },
         {
-          "keyword": "Cross-functional collaboration",
+          "keyword": "Design system",
           "inProfile": true,
           "relevance": "required",
-          "note": "Michael is embedded with product and engineering teams."
+          "note": "Michael has experience establishing and scaling design systems."
         },
         {
-          "keyword": "Enterprise Software",
+          "keyword": "Research",
           "inProfile": true,
           "relevance": "required",
-          "note": "Direct match with Michael's experience."
+          "note": "Michael conducts user research, affinity mapping, heuristic evaluation."
         },
         {
-          "keyword": "User Research",
+          "keyword": "Complex systems",
           "inProfile": true,
           "relevance": "required",
-          "note": "Michael lists user research as a core design practice."
+          "note": "Michael specializes in making complex systems delightful and tactile."
         },
         {
-          "keyword": "Prototyping",
+          "keyword": "0-to-1",
           "inProfile": true,
-          "relevance": "required",
-          "note": "Michael is skilled in high-fidelity interactive prototyping."
+          "relevance": "strong_plus",
+          "note": "Michael thrives in ambiguous 0-to-1 discovery."
         },
         {
-          "keyword": "Visual Craft",
+          "keyword": "Transactional flows",
           "inProfile": true,
-          "relevance": "good_to_have",
-          "note": "Brex values 'quality and clarity' in design, aligning with Michael's strong visual eye."
+          "relevance": "strong_plus",
+          "note": "Core to Michael's Tackle.io experience."
         }
       ],
       "status": "New",
-      "scannedAt": "2026-11-08T22:53:36.442Z",
-      "isNew": false
+      "scannedAt": "2026-11-21T00:48:55.067Z",
+      "isNew": true
     },
     {
       "id": "job-g9neia",
@@ -2924,7 +2924,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-11-20T19:06:22.273Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-f19bmx",
@@ -3025,7 +3025,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-11-20T19:06:22.273Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-32bupp",
@@ -3126,7 +3126,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-11-20T19:06:22.273Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-imubk",
@@ -3257,8 +3257,162 @@
       ],
       "status": "New",
       "scannedAt": "2026-11-20T19:06:22.273Z",
+      "isNew": false
+    },
+    {
+      "id": "job-qawf2p",
+      "title": "Staff Product Designer",
+      "company": "Gusto",
+      "companyDomain": "gusto.com",
+      "industry": "B2B SaaS, Fintech, HR Tech",
+      "location": "Remote (US)",
+      "postedAt": "2026-11-18",
+      "fitScore": 9,
+      "fitTier": "Strong Fit",
+      "fitExplanation": "This role is an excellent match, combining Michael's B2B SaaS and fintech-adjacent experience with his specific background in HR tech (iCIMS). The emphasis on high-trust domains, AI-enabled experiences, 0-to-1 problem spaces, and strong systems thinking aligns perfectly with his strengths and preferences. Being a remote role is also a strong plus.",
+      "source": "Travaia",
+      "applyUrl": "N/A",
+      "isOffLinkedIn": false,
+      "jobDescription": "Gusto is seeking several Staff Product Designers across its Money, Banking, and HR Experiences product organizations. As a Staff Product Designer, you will own experiences end-to-end within a specific domain, transforming ambiguity into clear, trustworthy products and defining new patterns. You will be deeply embedded in the product quartet, driving design decisions in partnership with Product Managers and Engineers, while demonstrating high craft and storytelling. The ideal candidate will have 6+ years of product design experience, particularly in B2B SaaS, fintech, or other high-trust domains, with strong craft across web. Experience designing AI-enabled or conversational experiences, comfort with ambiguity and 0→1 problem-solving, and strong systems thinking are crucial.\n\n**Core Responsibilities:**\n*   Own experiences end-to-end within a specific domain (Money, Banking, or HR Experiences), turning ambiguity into clear, trustworthy products and helping define patterns that don't yet exist at Gusto.\n*   Be deeply embedded in the product quartet, driving design decisions in partnership with Product Managers and Engineers.\n*   Demonstrate high craft and storytelling every step of the way.\n\n**Key Requirements:**\n*   6+ years of product design experience owning and shipping end-to-end work, ideally in B2B SaaS, fintech, or another high-trust domain, with strong craft across web.\n*   Experience designing AI-enabled or conversational experiences, articulating how uncertainty, errors, and human override were handled.\n*   Comfort with ambiguity and 0→1, ability to frame the problem, scope the work, and move forward without waiting for perfect information.\n*   Strong systems thinking, using and contributing to a design system and knowing when to evolve it.\n*   Judgment to evaluate and direct AI outputs, knowing when to use or override them, especially where the cost of being wrong is high.\n*   Strong collaboration and communication across design, product, engineering, and data.\n*   Bonus points for experience in a high-stakes or regulated domain (fintech, financial services, HR, compliance, legal, or healthcare), hands-on experience designing AI-driven experiences, service-design fluency across two-sided or multi-stakeholder products, or experience leading a team's shift to AI-native workflows.",
+      "specialty": "Money and HR Experience",
+      "salary": "$177,000 - $222,000",
+      "keywords": [
+        {
+          "keyword": "B2B SaaS",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael's primary specialization."
+        },
+        {
+          "keyword": "Fintech",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael has deep context in payment reconciliation and transactional flows."
+        },
+        {
+          "keyword": "HR tech",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael has background at iCIMS and lists this as a deep context industry."
+        },
+        {
+          "keyword": "High-trust domain",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael's work involves high-stakes problem spaces where clarity and trust are key."
+        },
+        {
+          "keyword": "AI-enabled experiences",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael uses AI tools and mentions designing how AI shows up for users."
+        },
+        {
+          "keyword": "0-to-1",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael thrives in ambiguous 0-to-1 discovery."
+        },
+        {
+          "keyword": "Design systems",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael establishes and scales design systems."
+        },
+        {
+          "keyword": "Systems thinking",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Core to Michael's design philosophy and skills."
+        },
+        {
+          "keyword": "Multi-stakeholder products",
+          "inProfile": true,
+          "relevance": "strong_plus",
+          "note": "Michael's experience spans revenue ops, finance, sales teams."
+        },
+        {
+          "keyword": "Cross-functional collaboration",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael is embedded with product and engineering."
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-11-21T00:48:55.067Z",
+      "isNew": true
+    },
+    {
+      "id": "job-9zxhw7",
+      "title": "Staff Product Designer",
+      "company": "DigitalOcean",
+      "companyDomain": "digitalocean.com",
+      "industry": "Cloud Infrastructure, Developer Tools, Enterprise Software",
+      "location": "Remote (United States)",
+      "postedAt": "2026-11-19",
+      "fitScore": 9,
+      "fitTier": "Strong Fit",
+      "fitExplanation": "This role is an excellent fit, leveraging Michael's deep context in cloud marketplace/revenue operations infrastructure and developer tools. His ability to make complex systems tactile and delightful, coupled with experience in design systems and 0-to-1 work, aligns well with shaping the creative vision for a console experience and bringing simplicity to a technical domain. The remote (US) aspect is also a strong preference.",
+      "source": "Jobspresso",
+      "applyUrl": "N/A",
+      "isOffLinkedIn": false,
+      "jobDescription": "DigitalOcean is seeking a Staff Product Designer to own the creative vision for its Console Experience. This role involves bringing a clear, opinionated point of view on what the experience should look and feel like, not just the systems that keep it consistent. You will work closely with engineering to ensure designs are implemented as intended and grow the design skills of UI engineers. A key objective is to make simplicity and strong UX a real point of differentiation. Candidates should have familiarity with cloud infrastructure concepts or a proven ability to quickly ramp up on technical domains, as well as experience designing for both novice and expert users within the same product.\n\n**Core Responsibilities:**\n*   Own the creative vision for the console experience, bringing a clear, opinionated point of view on its look and feel.\n*   Work closely with engineering to ensure designs land in the product as intended.\n*   Make simplicity and strong UX a real point of differentiation.\n*   Grow the design skills of the UI engineers embedded on product teams through design guilds, reviews, and pairing.\n\n**Key Requirements:**\n*   Familiarity with cloud infrastructure concepts (compute, storage, networking, Kubernetes) or a track record of ramping up quickly on technical domains.\n*   Experience designing for both novice and expert users within the same product.\n*   Ability to back up requests for more design investment with evidence of where it will pay off.\n*   Clear, opinionated point of view on what the experience should look and feel like.",
+      "specialty": "Console Experience",
+      "salary": "$192,800 - $241,000",
+      "keywords": [
+        {
+          "keyword": "Cloud infrastructure",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael has deep context in cloud marketplace infrastructure."
+        },
+        {
+          "keyword": "Developer tools",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Listed as a deep context industry for Michael."
+        },
+        {
+          "keyword": "Complex technical domains",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael specializes in complex B2B SaaS and making complex systems tactile."
+        },
+        {
+          "keyword": "Design systems",
+          "inProfile": true,
+          "relevance": "strong_plus",
+          "note": "Michael has experience establishing and scaling design systems, relevant for consistency."
+        },
+        {
+          "keyword": "0-to-1",
+          "inProfile": true,
+          "relevance": "strong_plus",
+          "note": "Michael thrives in ambiguous 0-to-1 problem spaces, relevant for defining a creative vision."
+        },
+        {
+          "keyword": "Visual craft",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael emphasizes visual craft for trust in systems."
+        },
+        {
+          "keyword": "UI Design",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Key skill for console experience."
+        },
+        {
+          "keyword": "Mentoring designers",
+          "inProfile": true,
+          "relevance": "strong_plus",
+          "note": "Michael has managed and mentored designers, relevant for growing UI engineer skills."
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-11-21T00:48:55.067Z",
       "isNew": true
     }
   ],
-  "scannedAt": "2026-11-20T19:07:29.757Z"
+  "scannedAt": "2026-11-21T00:49:41.248Z"
 }
