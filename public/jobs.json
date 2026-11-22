@@ -3304,7 +3304,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-11-21T23:48:24.855Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-g1dcre",
@@ -3410,8 +3410,338 @@
       ],
       "status": "New",
       "scannedAt": "2026-11-21T23:48:24.855Z",
+      "isNew": false
+    },
+    {
+      "id": "job-lxnmvs",
+      "title": "Staff Product Designer",
+      "company": "Tilt Finance",
+      "companyDomain": "tilt.com",
+      "industry": "Fintech",
+      "location": "Remote",
+      "postedAt": "2026-11-20",
+      "fitScore": 9,
+      "fitTier": "Strong Fit",
+      "fitExplanation": "Michael's extensive experience as a Senior Product Designer specializing in complex B2B SaaS, particularly in transactional platforms, payment reconciliation, and marketplace infrastructure, aligns strongly with Tilt Finance's focus on 'cash products' and creating 'trustworthy financial experiences'. His expertise in making complex systems delightful and tactile, coupled with strong visual craft and design systems experience, directly matches the role's emphasis on high interaction and visual design quality. The Staff level is appropriate for his career trajectory, and his experience with AI tools is a direct match for the role's mention of using AI in design workflows. The company's established presence and customer base indicate it is past Series C.",
+      "source": "Multiple Aggregators/Job Boards",
+      "applyUrl": "N/A",
+      "jobDescription": "This Staff Product Designer role at Tilt Finance focuses on leading the end-to-end design for their cash products, which help users manage short-term financial needs. Responsibilities include defining the experience direction, collaborating closely with product and engineering to achieve measurable business outcomes, and maintaining a high bar for interaction and visual design. The designer will translate complex financial concepts into clear, trustworthy experiences, contribute to the design system, and influence how design operates, including the use of AI in workflows. This is a senior individual contributor role that requires ownership of a whole product area.\n\nCore Responsibilities:\n* Lead end-to-end design for Tilt's cash products.\n* Define success and connect design decisions to measurable customer and business results.\n* Set and maintain high standards for interaction design, visual design, and product quality.\n* Translate complex financial concepts and flows into clear, trustworthy experiences.\n* Influence product strategy and roadmap alongside product and engineering partners.\n* Utilize AI throughout the design workflow (research synthesis, exploration, prototyping, building).\n* Contribute to the design system and broader UI patterns.\n* Mentor other designers and shape design operations.\n\nCore Requirements:\n* Significant experience designing and shipping complex consumer digital products, ideally in fintech.\n* Experience owning the design of a whole product or major product area.\n* A portfolio demonstrating exceptional visual and UI craft, strong UX thinking, and measurable outcomes.\n* Comfort setting direction in ambiguous product areas.\n* Strong interaction-design fundamentals and attention to detail.\n* Ability to work closely with product management and engineering, influencing decisions beyond own team.\n* Strong communication and storytelling skills.\n* Good judgment for challenging assumptions and making decisions.\n* Partner with compliance and legal.",
+      "specialty": "Cash Products / Financial Products",
+      "salary": "$175k - $215k",
+      "keywords": [
+        {
+          "keyword": "Complex B2B SaaS",
+          "inProfile": true,
+          "relevance": "strong",
+          "note": "Experience in complex transactional platforms and fintech is highly relevant."
+        },
+        {
+          "keyword": "Marketplace Infrastructure",
+          "inProfile": true,
+          "relevance": "strong",
+          "note": "Experience with financial products and transactional flows is a strong fit."
+        },
+        {
+          "keyword": "Fintech",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Primary industry match."
+        },
+        {
+          "keyword": "Complex Data Systems",
+          "inProfile": true,
+          "relevance": "strong",
+          "note": "Translating complex financial concepts and flows into clear experiences."
+        },
+        {
+          "keyword": "Seller Workflows",
+          "inProfile": true,
+          "relevance": "moderate",
+          "note": "Focus on customer financial journeys."
+        },
+        {
+          "keyword": "Transactional Flows",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Core to the role's responsibilities."
+        },
+        {
+          "keyword": "Payment Reconciliation",
+          "inProfile": true,
+          "relevance": "moderate",
+          "note": "Fintech adjacent skills."
+        },
+        {
+          "keyword": "0-to-1 Discovery",
+          "inProfile": true,
+          "relevance": "strong",
+          "note": "Comfort setting direction in ambiguous product areas."
+        },
+        {
+          "keyword": "Design Systems",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Contribution to design system is a core responsibility."
+        },
+        {
+          "keyword": "Visual Craft",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Role emphasizes exceptional visual and UI craft."
+        },
+        {
+          "keyword": "AI Tools (Figma Make, Cursor)",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Role explicitly mentions using AI in design workflows."
+        },
+        {
+          "keyword": "Product Strategy",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Influence product strategy and roadmap."
+        },
+        {
+          "keyword": "Cross-functional collaboration",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Work closely with product, engineering, legal, and compliance."
+        },
+        {
+          "keyword": "Mentoring Designers",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Mentor other designers and shape design operations."
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-11-22T18:31:36.970Z",
+      "isNew": true
+    },
+    {
+      "id": "job-d9krya",
+      "title": "Senior Staff Product Designer",
+      "company": "Workiva",
+      "companyDomain": "workiva.com",
+      "industry": "Enterprise Software",
+      "location": "Remote",
+      "postedAt": "2026-11-20",
+      "fitScore": 10,
+      "fitTier": "Strong Fit",
+      "fitExplanation": "This role is an outstanding match for Michael's profile. His 10+ years of experience, including leading product design for enterprise multi-cloud transactional platforms, complex data systems, and revenue operations infrastructure, directly aligns with Workiva's focus on AI-native enterprise products for finance, risk, and sustainability. Michael's specialization in making complex systems delightful and tactile, his strong visual craft, and his experience with AI tools (Figma Make, Cursor) are highly relevant to shaping 'trustworthy agentic interactions' and 'complex enterprise workflows'. The Senior Staff level and strategic focus on ambiguous 0-to-1 problem spaces with an emphasis on measurable outcomes perfectly suit his strengths and career goals. Workiva, as a public company, also meets his company stage preference.",
+      "source": "Workiva Careers Page",
+      "applyUrl": "https://workiva.wd5.myworkdayjobs.com/Workiva/job/Senior-Staff-Product-Designer-Emerging-Products---AI_R10789",
+      "jobDescription": "Workiva is seeking a Senior Staff Product Designer to define and shape a new generation of AI-native enterprise products, specifically within Regulatory Reporting. This highly strategic individual contributor role involves working in ambiguous 0-to-1 problem spaces, defining interaction models for AI agents, human review, trust, explainability, and complex data workflows. The designer will partner closely with product and engineering to influence strategy, challenge assumptions, prototype new models, and maintain a high craft bar for dense, high-stakes enterprise workflows.\n\nCore Responsibilities:\n* Shape 0-to-1 product experiences for AI-native enterprise products.\n* Design AI-native and agentic workflows (automation, human judgment, review, approval, escalation).\n* Rethink complex enterprise workflows and redesign how work is done.\n* Create trustworthy AI experiences explaining system actions, conclusions, and evidence.\n* Define interaction models for agents, trust, explainability, complex data workflows, permissions, and auditability.\n* Identify reusable interaction models, platform capabilities, and design primitives.\n* Influence product strategy, roadmap, and investment decisions using customer insight, research, data, and technical constraints.\n* Partner with engineering on technical tradeoffs, data flows, and APIs.\n* Rapid prototyping with modern design and AI-assisted development tools.\n* Maintain high interaction and visual design quality for dense, high-stakes enterprise workflows.\n* Participate in customer discovery, workflow observation, usability testing, and product validation.\n* Establish interaction patterns, critique work, and mentor other designers.\n\nCore Requirements:\n* 8+ years of product design, UX, or related experience, with significant experience designing complex software products.\n* Comfortable working in ambiguity, defining problems with Product and Engineering.\n* Ability to turn complex enterprise workflows into intuitive, trustworthy, and simple experiences.\n* Exceptional interaction and visual design judgment for dense, high-stakes enterprise workflows.\n* Experience learning directly from customers through discovery, observation, and testing.\n* Strong communication and ability to articulate design rationale.",
+      "specialty": "Emerging Products & AI",
+      "salary": "$151k - $245k",
+      "keywords": [
+        {
+          "keyword": "Complex B2B SaaS",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Core to the role's focus on enterprise products."
+        },
+        {
+          "keyword": "Enterprise Software",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Primary industry match."
+        },
+        {
+          "keyword": "Fintech Adjacent",
+          "inProfile": true,
+          "relevance": "strong",
+          "note": "Platform for finance, risk, and sustainability."
+        },
+        {
+          "keyword": "Cloud Infrastructure",
+          "inProfile": true,
+          "relevance": "moderate",
+          "note": "Enterprise platform context."
+        },
+        {
+          "keyword": "Developer Tools",
+          "inProfile": true,
+          "relevance": "moderate",
+          "note": "Designing enterprise workflows with technical aspects."
+        },
+        {
+          "keyword": "Complex Data Systems",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Defining complex data workflows."
+        },
+        {
+          "keyword": "Seller Workflows",
+          "inProfile": true,
+          "relevance": "moderate",
+          "note": "Rethinking how work gets done in enterprise."
+        },
+        {
+          "keyword": "Transactional Flows",
+          "inProfile": true,
+          "relevance": "moderate",
+          "note": "Implied in enterprise workflows and financial context."
+        },
+        {
+          "keyword": "0-to-1 Discovery",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Shaping 0-to-1 product experiences and comfortable with ambiguity."
+        },
+        {
+          "keyword": "Design Systems",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Establishing reusable design patterns."
+        },
+        {
+          "keyword": "Visual Craft",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Maintain high craft bar for interaction and visual design."
+        },
+        {
+          "keyword": "AI Tools (Figma Make, Cursor)",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Role focuses on AI-native products and AI-assisted tools."
+        },
+        {
+          "keyword": "Product Strategy",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Influence product strategy and roadmap."
+        },
+        {
+          "keyword": "Cross-functional collaboration",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Partner closely with Product and Engineering."
+        },
+        {
+          "keyword": "Mentoring Designers",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Mentor other designers and contribute to design approach."
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-11-22T18:31:36.970Z",
+      "isNew": true
+    },
+    {
+      "id": "job-6rb13x",
+      "title": "Senior Product Designer",
+      "company": "Coinbase",
+      "companyDomain": "coinbase.com",
+      "industry": "Fintech",
+      "location": "Remote",
+      "postedAt": "2026-11-19",
+      "fitScore": 9,
+      "fitTier": "Strong Fit",
+      "fitExplanation": "Michael's experience leading product design for enterprise multi-cloud transactional platforms, complex data systems, and revenue operations infrastructure is highly relevant to Coinbase's 'Infra pillar' and internal tools for engineering. His ability to bring 'visual craft into B2B software so it feels like a premium consumer app' aligns well with the need for high-quality UI for data-intensive enterprise tools. The role's emphasis on defining problem spaces, leading end-to-end design, and using AI tools directly matches his profile. Coinbase, as a large, public company, satisfies his company stage preference.",
+      "source": "Coinbase Careers Page",
+      "applyUrl": "https://www.coinbase.com/careers/roles/p78329",
+      "jobDescription": "Coinbase is looking for a Senior Product Designer for their Platform team, focusing on internal tools and dashboards for engineering teams within their infrastructure pillar. This role involves independently defining problem spaces for ambiguous, engineer-facing tools, shaping roadmaps, and leading design from discovery through launch. The designer will contribute to product and design strategy, create high-quality UI and interaction patterns for data-intensive, workflow-heavy enterprise tools, and own the design for development release pipelines. The role also emphasizes using AI tools in the design process.\n\nCore Responsibilities:\n* Contribute to product and design strategy for Coinbase's infrastructure tools.\n* Design high-quality UI and interaction patterns for data-intensive, workflow-heavy enterprise tools (e.g., visual workflow builders, configuration management systems, real-time dashboards).\n* Own end-to-end design for the development release pipeline, improving visibility for engineers.\n* Independently define problem spaces for ambiguous, engineer-facing tools.\n* Lead design from discovery through launch.\n* Create an Engineering Standards Scorecard for clarity on reliability and security.\n* Run iterative design cycles, incorporating user feedback and operational data.\n* Collaborate with engineering leadership to define a shared service-catalog data model.\n\nCore Requirements:\n* 7+ years of professional product design experience, including end-to-end project ownership.\n* Proven experience designing enterprise solutions for complex workflows, ideally for technical users.\n* Strong UX thinking and systems design skills with the ability to influence product strategy.\n* Exceptional attention to detail in visual and interaction design.\n* Strong cross-functional communication and stakeholder management.\n* Experience designing for technical, engineer-facing, or data-heavy systems (internal tools, dev platforms, governance/compliance tooling).\n* Proficiency in Figma and modern prototyping tools, including AI tools for design.",
+      "specialty": "Platform",
+      "salary": "$180370 - $212200",
+      "keywords": [
+        {
+          "keyword": "Complex B2B SaaS",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Designing internal enterprise tools."
+        },
+        {
+          "keyword": "Marketplace",
+          "inProfile": true,
+          "relevance": "moderate",
+          "note": "Experience with platforms."
+        },
+        {
+          "keyword": "Enterprise Software",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Designing internal tools and dashboards for enterprise teams."
+        },
+        {
+          "keyword": "Fintech",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Coinbase is a fintech company."
+        },
+        {
+          "keyword": "Cloud Infrastructure",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Focus on infra pillar, internal tools."
+        },
+        {
+          "keyword": "Developer Tools",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Engineer-facing tools, development release pipeline."
+        },
+        {
+          "keyword": "Complex Data Systems",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Data-intensive, workflow-heavy enterprise tools."
+        },
+        {
+          "keyword": "Seller Workflows",
+          "inProfile": true,
+          "relevance": "moderate",
+          "note": "Internal operational workflows."
+        },
+        {
+          "keyword": "Transactional Flows",
+          "inProfile": true,
+          "relevance": "moderate",
+          "note": "Internal platform operations."
+        },
+        {
+          "keyword": "0-to-1 Discovery",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Independently define problem spaces."
+        },
+        {
+          "keyword": "Design Systems",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Strong UX thinking and systems design skills."
+        },
+        {
+          "keyword": "Visual Craft",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Exceptional attention to detail in visual design."
+        },
+        {
+          "keyword": "AI Tools (Figma Make, Cursor)",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Proficiency in Figma and AI tools for design."
+        },
+        {
+          "keyword": "Product Strategy",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Contribute to product and design strategy."
+        },
+        {
+          "keyword": "Cross-functional collaboration",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Partner closely with engineering leadership."
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-11-22T18:31:36.970Z",
       "isNew": true
     }
   ],
-  "scannedAt": "2026-11-21T23:49:02.804Z"
+  "scannedAt": "2026-11-22T18:32:48.915Z"
 }
