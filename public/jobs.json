@@ -3516,7 +3516,7 @@
       ],
       "status": "New",
       "scannedAt": "2026-11-22T18:31:36.970Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "job-d9krya",
@@ -3524,110 +3524,188 @@
       "company": "Workiva",
       "companyDomain": "workiva.com",
       "industry": "Enterprise Software",
-      "location": "Remote",
-      "postedAt": "2026-11-20",
+      "location": "Remote (US)",
+      "postedAt": "2026-11-22",
       "fitScore": 10,
       "fitTier": "Strong Fit",
-      "fitExplanation": "This role is an outstanding match for Michael's profile. His 10+ years of experience, including leading product design for enterprise multi-cloud transactional platforms, complex data systems, and revenue operations infrastructure, directly aligns with Workiva's focus on AI-native enterprise products for finance, risk, and sustainability. Michael's specialization in making complex systems delightful and tactile, his strong visual craft, and his experience with AI tools (Figma Make, Cursor) are highly relevant to shaping 'trustworthy agentic interactions' and 'complex enterprise workflows'. The Senior Staff level and strategic focus on ambiguous 0-to-1 problem spaces with an emphasis on measurable outcomes perfectly suit his strengths and career goals. Workiva, as a public company, also meets his company stage preference.",
-      "source": "Workiva Careers Page",
-      "applyUrl": "https://workiva.wd5.myworkdayjobs.com/Workiva/job/Senior-Staff-Product-Designer-Emerging-Products---AI_R10789",
-      "jobDescription": "Workiva is seeking a Senior Staff Product Designer to define and shape a new generation of AI-native enterprise products, specifically within Regulatory Reporting. This highly strategic individual contributor role involves working in ambiguous 0-to-1 problem spaces, defining interaction models for AI agents, human review, trust, explainability, and complex data workflows. The designer will partner closely with product and engineering to influence strategy, challenge assumptions, prototype new models, and maintain a high craft bar for dense, high-stakes enterprise workflows.\n\nCore Responsibilities:\n* Shape 0-to-1 product experiences for AI-native enterprise products.\n* Design AI-native and agentic workflows (automation, human judgment, review, approval, escalation).\n* Rethink complex enterprise workflows and redesign how work is done.\n* Create trustworthy AI experiences explaining system actions, conclusions, and evidence.\n* Define interaction models for agents, trust, explainability, complex data workflows, permissions, and auditability.\n* Identify reusable interaction models, platform capabilities, and design primitives.\n* Influence product strategy, roadmap, and investment decisions using customer insight, research, data, and technical constraints.\n* Partner with engineering on technical tradeoffs, data flows, and APIs.\n* Rapid prototyping with modern design and AI-assisted development tools.\n* Maintain high interaction and visual design quality for dense, high-stakes enterprise workflows.\n* Participate in customer discovery, workflow observation, usability testing, and product validation.\n* Establish interaction patterns, critique work, and mentor other designers.\n\nCore Requirements:\n* 8+ years of product design, UX, or related experience, with significant experience designing complex software products.\n* Comfortable working in ambiguity, defining problems with Product and Engineering.\n* Ability to turn complex enterprise workflows into intuitive, trustworthy, and simple experiences.\n* Exceptional interaction and visual design judgment for dense, high-stakes enterprise workflows.\n* Experience learning directly from customers through discovery, observation, and testing.\n* Strong communication and ability to articulate design rationale.",
+      "fitExplanation": "This role is an exceptionally strong fit for Michael Crane. The 'Senior Staff Product Designer' title aligns perfectly with his target roles. Workiva's focus on cloud-based software for financial reporting, compliance, and data management is a direct match for Michael's deep experience in complex B2B SaaS, enterprise multi-cloud transactional platforms, revenue operations, finance, and payment reconciliation infrastructure. The job emphasizes leading ambiguous, high-impact 0-to-1 work, which is a core strength for Michael, who thrives on creating structure in complex problem spaces. His 10+ years of experience, including 4 years in a senior/lead capacity at Tackle.io, far exceed the 8+ years required. The strong emphasis on AI-native enterprise products and the use of AI tools like Figma AI and Cursor directly mirrors Michael's explicit mention of using Figma Make and Cursor to accelerate discovery and prototyping. Furthermore, his background in visual systems and craft aligns with the role's requirement for excellent interaction and visual design craft. Workiva, as a publicly traded company, also satisfies the Series C or later company stage preference.",
+      "source": "Remote Source",
+      "applyUrl": "N/A",
+      "isOffLinkedIn": true,
+      "jobDescription": "Workiva is seeking a Senior Staff Product Designer to help shape a new generation of AI-native enterprise products. This is a hands-on, highly strategic individual contributor role for a designer comfortable working in ambiguity, defining problems alongside Product and Engineering, and translating complex enterprise workflows into intuitive, trustworthy, and simple experiences. The role requires strong product judgment, the ability to connect user problems to broader product and business opportunities, and excellent interaction and visual design craft, utilizing prototypes at varying fidelity to drive decisions and learning. Experience designing AI-powered or agentic products, human-in-the-loop workflows, AI uncertainty, explainability, evaluation, or error recovery is highly valued. Hands-on use of AI tools such as Claude, Cursor, v0, or Figma AI to accelerate research, prototyping, and development is also expected. The position involves leading ambiguous, high-impact work from early discovery through launch and iteration with significant autonomy. Candidates should have a minimum of 8+ years of product design, UX, or related experience, with substantial exposure to complex software products. A Bachelor's degree in Design, HCI, or a related field, or equivalent experience, is required.",
       "specialty": "Emerging Products & AI",
-      "salary": "$151k - $245k",
       "keywords": [
         {
-          "keyword": "Complex B2B SaaS",
+          "keyword": "product design",
           "inProfile": true,
           "relevance": "required",
-          "note": "Core to the role's focus on enterprise products."
+          "note": "Core experience matches the minimum 8+ years required."
         },
         {
-          "keyword": "Enterprise Software",
+          "keyword": "UX",
           "inProfile": true,
           "relevance": "required",
-          "note": "Primary industry match."
+          "note": "Core experience matches."
         },
         {
-          "keyword": "Fintech Adjacent",
-          "inProfile": true,
-          "relevance": "strong",
-          "note": "Platform for finance, risk, and sustainability."
-        },
-        {
-          "keyword": "Cloud Infrastructure",
-          "inProfile": true,
-          "relevance": "moderate",
-          "note": "Enterprise platform context."
-        },
-        {
-          "keyword": "Developer Tools",
-          "inProfile": true,
-          "relevance": "moderate",
-          "note": "Designing enterprise workflows with technical aspects."
-        },
-        {
-          "keyword": "Complex Data Systems",
+          "keyword": "complex software products",
           "inProfile": true,
           "relevance": "required",
-          "note": "Defining complex data workflows."
+          "note": "Michael specializes in complex B2B SaaS products, an exact match."
         },
         {
-          "keyword": "Seller Workflows",
-          "inProfile": true,
-          "relevance": "moderate",
-          "note": "Rethinking how work gets done in enterprise."
-        },
-        {
-          "keyword": "Transactional Flows",
-          "inProfile": true,
-          "relevance": "moderate",
-          "note": "Implied in enterprise workflows and financial context."
-        },
-        {
-          "keyword": "0-to-1 Discovery",
+          "keyword": "AI-native enterprise products",
           "inProfile": true,
           "relevance": "required",
-          "note": "Shaping 0-to-1 product experiences and comfortable with ambiguity."
+          "note": "Michael has experience with AI tools (Figma Make, Cursor) and thrives in enterprise software."
         },
         {
-          "keyword": "Design Systems",
+          "keyword": "ambiguity",
           "inProfile": true,
           "relevance": "required",
-          "note": "Establishing reusable design patterns."
+          "note": "Michael excels in ambiguous 0-to-1 problem spaces where structure needs to be created."
         },
         {
-          "keyword": "Visual Craft",
+          "keyword": "defining the problem",
           "inProfile": true,
           "relevance": "required",
-          "note": "Maintain high craft bar for interaction and visual design."
+          "note": "Matches Michael's full design lifecycle experience from discovery."
         },
         {
-          "keyword": "AI Tools (Figma Make, Cursor)",
+          "keyword": "complex enterprise workflows",
           "inProfile": true,
           "relevance": "required",
-          "note": "Role focuses on AI-native products and AI-assisted tools."
+          "note": "Direct match for Michael's experience in complex data systems, seller workflows, transactional flows."
         },
         {
-          "keyword": "Product Strategy",
+          "keyword": "intuitive, trustworthy, and remarkably simple experiences",
           "inProfile": true,
           "relevance": "required",
-          "note": "Influence product strategy and roadmap."
+          "note": "Aligns with Michael's philosophy of making complex systems delightful and tactile."
         },
         {
-          "keyword": "Cross-functional collaboration",
+          "keyword": "product judgment",
           "inProfile": true,
           "relevance": "required",
-          "note": "Partner closely with Product and Engineering."
+          "note": "Michael has experience shaping design strategy at team and org level."
         },
         {
-          "keyword": "Mentoring Designers",
+          "keyword": "interaction design craft",
           "inProfile": true,
           "relevance": "required",
-          "note": "Mentor other designers and contribute to design approach."
+          "note": "Michael's strong visual eye and tactile interaction design philosophy match this."
+        },
+        {
+          "keyword": "visual design craft",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael's background in graphic design and strong visual eye are a key differentiator."
+        },
+        {
+          "keyword": "prototypes",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael uses high-fidelity interactive prototyping."
+        },
+        {
+          "keyword": "AI-powered or agentic products",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael uses AI tools in his current role."
+        },
+        {
+          "keyword": "automation",
+          "inProfile": false,
+          "relevance": "valuable",
+          "note": "Related to workflow engines, which Michael has experience with (e.g., transactional flows)."
+        },
+        {
+          "keyword": "ML-assisted tools",
+          "inProfile": true,
+          "relevance": "valuable",
+          "note": "Implied by Michael's use of AI tools like Cursor."
+        },
+        {
+          "keyword": "workflow engines",
+          "inProfile": true,
+          "relevance": "valuable",
+          "note": "Michael designs complex transactional and seller workflows."
+        },
+        {
+          "keyword": "human-in-the-loop workflows",
+          "inProfile": false,
+          "relevance": "valuable",
+          "note": "Related to designing complex enterprise workflows with data and user actions."
+        },
+        {
+          "keyword": "AI uncertainty",
+          "inProfile": false,
+          "relevance": "valuable",
+          "note": "Specific AI design challenge, Michael's AI experience is a strong foundation."
+        },
+        {
+          "keyword": "explainability",
+          "inProfile": false,
+          "relevance": "valuable",
+          "note": "Specific AI design challenge, Michael's AI experience is a strong foundation."
+        },
+        {
+          "keyword": "evaluation",
+          "inProfile": true,
+          "relevance": "valuable",
+          "note": "Part of Michael's full design lifecycle and measured outcomes experience."
+        },
+        {
+          "keyword": "error recovery",
+          "inProfile": false,
+          "relevance": "valuable",
+          "note": "Important for high-stakes problem spaces Michael works in."
+        },
+        {
+          "keyword": "Figma AI",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael uses Figma and Figma Make."
+        },
+        {
+          "keyword": "Cursor",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Michael explicitly lists Cursor as a tool."
+        },
+        {
+          "keyword": "design strategy",
+          "inProfile": true,
+          "relevance": "strong match",
+          "note": "Michael has experience shaping design strategy at the team and org level."
+        },
+        {
+          "keyword": "design systems",
+          "inProfile": true,
+          "relevance": "strong match",
+          "note": "Michael established a scalable design system at Infragistics."
+        },
+        {
+          "keyword": "user research",
+          "inProfile": true,
+          "relevance": "strong match",
+          "note": "Michael conducts user research and uses discovery methods."
+        },
+        {
+          "keyword": "B2B SaaS",
+          "inProfile": true,
+          "relevance": "strong match",
+          "note": "Michael's primary industry expertise."
+        },
+        {
+          "keyword": "fintech",
+          "inProfile": true,
+          "relevance": "strong match",
+          "note": "Michael has deep context in finance and fintech adjacent areas."
         }
       ],
       "status": "New",
-      "scannedAt": "2026-11-22T18:31:36.970Z",
+      "scannedAt": "2026-11-23T00:19:17.586Z",
       "isNew": true
     },
     {
@@ -3740,8 +3818,8 @@
       ],
       "status": "New",
       "scannedAt": "2026-11-22T18:31:36.970Z",
-      "isNew": true
+      "isNew": false
     }
   ],
-  "scannedAt": "2026-11-22T18:32:48.915Z"
+  "scannedAt": "2026-11-23T00:20:01.819Z"
 }
