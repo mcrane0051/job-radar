@@ -307,101 +307,6 @@
       "isNew": false
     },
     {
-      "id": "job-z8ec94",
-      "title": "Senior Product Designer",
-      "company": "Credo AI",
-      "companyDomain": "credo.ai",
-      "industry": "B2B SaaS, Enterprise Software, Fintech (AI Governance/Risk Assessment)",
-      "location": "Remote (United States)",
-      "postedAt": "2026-11-10",
-      "fitScore": 9,
-      "fitTier": "Strong Fit",
-      "fitExplanation": "Michael's expertise in complex B2B SaaS, particularly with data-heavy interfaces, transactional flows, and a strong foundation in visual systems and design systems, aligns well with Credo AI's focus on AI governance platforms. His experience designing dashboards, data visualizations, and reporting interfaces for understanding AI systems and assessing risk is directly relevant to this role. The emphasis on 0-to-1 design, cross-functional collaboration, and the explicit requirement for AI-assisted design workflows also makes this an excellent fit. The company's Series C stage and the remote work arrangement meet his preferences.",
-      "source": "RemoteRocketship.com",
-      "applyUrl": "N/A",
-      "isOffLinkedIn": true,
-      "jobDescription": "As a Senior Product Designer at Credo AI, the role involves owning end-to-end product design for their AI governance platform. This includes translating complex AI governance workflows into intuitive, accessible, and scalable experiences. The designer will be responsible for designing dashboards, data visualizations, reporting experiences, and interactive workflows for understanding AI systems and assessing risk. A key aspect of the role is to build, maintain, and evolve the Figma design system, including reusable components, design tokens, variables, patterns, and documentation. The designer will partner closely with Engineering to ensure consistency and quality across the product and will develop high-fidelity designs and interactive prototypes to communicate concepts and validate ideas. Collaboration with Product Management, Engineering, and cross-functional stakeholders is essential, from discovery and requirements gathering through implementation and iteration. The role also entails incorporating customer insights, user feedback, and usability testing into design decisions, developing user journeys, workflows, and personas, and contributing to Credo AI's visual language while advocating for design quality, consistency, accessibility, and usability.\n\n**Core Responsibilities:**\n*   Own end-to-end product design across Credo AI's AI governance platform.\n*   Translate complex AI governance workflows into intuitive, accessible, and scalable experiences.\n*   Design dashboards, data visualizations, reporting experiences, and interactive workflows for understanding AI systems and assessing risk.\n*   Build, maintain, and evolve the Figma design system with reusable components, design tokens, variables, patterns, and documentation.\n*   Partner with Engineering to ensure consistency and quality across the product.\n*   Develop high-fidelity designs and interactive prototypes to communicate concepts and validate ideas.\n*   Collaborate with Product Management, Engineering, and cross-functional stakeholders from discovery and requirements gathering through implementation and iteration.\n*   Incorporate customer insights, user feedback, and usability testing into design decisions.\n*   Develop user journeys, workflows, and personas to understand customer needs and identify improvements.\n*   Contribute to Credo AI's visual language and brand expression, and advocate for design quality, consistency, accessibility, and usability while balancing customer, technical, and business priorities.\n\n**Key Requirements:**\n*   8+ years of experience in product design (UX/UI), with senior-level ownership of complex products.\n*   Proven experience taking products from 0 to 1 and designing large-scale, complex platforms.\n*   Experience designing B2B or B2B2C SaaS products.\n*   Expert-level proficiency in Figma, including building and maintaining design systems.\n*   Strong foundation in interaction design, usability, and user-centered design.\n*   Hands-on experience with modern AI-assisted design-to-code workflows.\n*   Experience with user research, testing, and iterative design.\n*   A portfolio demonstrating end-to-end ownership of meaningful product experiences.\n*   Demonstrated ability to simplify complicated workflows, information architecture, and data-heavy experiences.\n*   Strong skills in wireframing, interaction design, high-fidelity prototyping, and visual design fundamentals.",
-      "specialty": "AI Governance",
-      "salary": "",
-      "keywords": [
-        {
-          "keyword": "Product Design",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "10+ years experience, Senior/Lead roles"
-        },
-        {
-          "keyword": "B2B SaaS",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Specializes in complex B2B SaaS products"
-        },
-        {
-          "keyword": "Complex workflows",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Translates complex AI governance workflows, specializes in complex B2B SaaS products"
-        },
-        {
-          "keyword": "Data visualization",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Designs dashboards, data visualizations, reporting experiences"
-        },
-        {
-          "keyword": "Design Systems",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Builds, maintains, and evolves Figma design system, established scalable design system at Infragistics"
-        },
-        {
-          "keyword": "Figma",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Expert-level proficiency, uses Figma"
-        },
-        {
-          "keyword": "AI-assisted design",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Hands-on experience with modern AI-assisted design-to-code workflows, uses AI tools (Figma Make, Cursor)"
-        },
-        {
-          "keyword": "0-to-1 design",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Proven experience taking products from 0 to 1, thrives in ambiguous 0-to-1 discovery"
-        },
-        {
-          "keyword": "User Research",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Incorporates customer insights, user feedback, usability testing, conducted user research at Infragistics"
-        },
-        {
-          "keyword": "Interaction Design",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Strong foundation in interaction design, deep visual systems background"
-        },
-        {
-          "keyword": "Visual Design",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Strong visual design fundamentals, unusually strong visual eye"
-        },
-        {
-          "keyword": "Cross-functional collaboration",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Collaborates with Product Management, Engineering, and stakeholders, embedded with product and engineering"
-        }
-      ],
-      "status": "New",
-      "scannedAt": "2026-11-10T18:41:13.671Z",
-      "isNew": false
-    },
-    {
       "id": "job-o2rg2f",
       "title": "Staff Product Designer",
       "company": "Temporal Technologies",
@@ -3764,8 +3669,8 @@
       ],
       "status": "New",
       "scannedAt": "2026-11-23T22:39:35.943Z",
-      "isNew": true
+      "isNew": false
     }
   ],
-  "scannedAt": "2026-11-23T22:40:30.120Z"
+  "scannedAt": "2026-11-25T20:29:44.194Z"
 }
