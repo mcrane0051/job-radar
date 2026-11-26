@@ -420,139 +420,6 @@
       "isNew": false
     },
     {
-      "id": "job-3xawf7",
-      "title": "Senior Product Designer",
-      "company": "Cohere",
-      "companyDomain": "cohere.com",
-      "industry": "B2B SaaS, Enterprise AI Products, Cloud Infrastructure",
-      "location": "Remote US",
-      "postedAt": "2026-11-12",
-      "fitScore": 9,
-      "fitTier": "Strong Fit",
-      "fitExplanation": "This role is a strong fit due to its focus on enterprise AI products and technically complex AI features, aligning perfectly with Michael's expertise in complex B2B SaaS and making complex systems delightful. His background in transactional flows and high-stakes problem spaces is highly relevant for designing clear experiences for sophisticated AI platforms. The remote nature is a strong preference, and the company stage (Series D) meets the requirement. His experience with AI tools like Figma Make and Cursor is also directly applicable.",
-      "source": "The Briefed",
-      "applyUrl": "N/A",
-      "jobDescription": "Cohere is building foundation AI models and enterprise AI products. The Senior Product Designer will own the end-to-end design process for a product area within their North platform, collaborating closely with product managers, engineers, and the ML team to design how models are trained and deployed.\n\nCore Responsibilities:\n*   Own the end-to-end design process for a specific product area.\n*   Design clear user experiences for technically complex AI features.\n*   Conduct user research and translate findings into design iterations.\n*   Maintain high quality standards across all design details.\n*   Contribute to and evolve design systems and patterns for the North platform.\n*   Partner with engineers to ensure designs are implemented as intended.\n\nRequirements:\n*   4+ years designing digital products with a strong portfolio.\n*   Solid understanding of AI and agent systems, including how models reason and utilize tools.\n*   Experience collaborating closely with product managers and engineers.\n*   A user-centered design approach informed by research and data.",
-      "specialty": "Enterprise AI Platform",
-      "salary": "$125,000 - $220,000",
-      "keywords": [
-        {
-          "keyword": "User Research",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Michael has strong user research experience."
-        },
-        {
-          "keyword": "Design Systems",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Michael has experience establishing scalable design systems."
-        },
-        {
-          "keyword": "AI/Agent Systems",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Michael uses AI tools and works with complex systems."
-        },
-        {
-          "keyword": "Complex AI Features",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Michael excels at making complex systems clear."
-        },
-        {
-          "keyword": "Product Managers & Engineers Collaboration",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Michael works cross-functionally."
-        },
-        {
-          "keyword": "User-Centered Approach",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Core of Michael's design philosophy."
-        },
-        {
-          "keyword": "End-to-end design process",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Michael operates across the full design lifecycle."
-        }
-      ],
-      "status": "New",
-      "scannedAt": "2026-11-12T01:32:42.438Z",
-      "isNew": false
-    },
-    {
-      "id": "job-yljz5m",
-      "title": "Sr Staff Product Designer",
-      "company": "Honor",
-      "companyDomain": "honor.com",
-      "industry": "Healthcare, Fintech, Marketplaces, B2B SaaS",
-      "location": "Remote US",
-      "postedAt": "2026-11-09",
-      "fitScore": 8,
-      "fitTier": "Good Fit",
-      "fitExplanation": "This role aligns well with Michael's expertise in complex B2B SaaS, transactional flows, and marketplaces. His ability to design delightful experiences for high-stakes problem spaces (care delivery) is highly relevant. The emphasis on systemic thinking, user research, and prototyping with AI tools (Figma Make, Claude Code) directly matches his skills. The \"Sr Staff\" level is also a target for him. The remote nature is a strong preference. Deducted 1 point due to the primary healthcare focus, though it has strong fintech/marketplace aspects.",
-      "source": "Tech Jobs for Good",
-      "applyUrl": "N/A",
-      "jobDescription": "Honor is seeking a Senior Staff Product Designer to guide the strategic thinking and delivery of digital products and service experiences in the care delivery space. The role involves designing for clients, families, Care Professionals, and operators across the full care journey, balancing technical and business constraints. The designer will own product work end-to-end, use AI tools for prototyping, and design the service beyond just the screen.\n\nCore Responsibilities:\n*   Guide strategic thinking and delivery of digital products and service experiences for care delivery.\n*   Own product work end-to-end, being accountable for outcomes.\n*   Use AI tools (Figma Make, Claude Code) for faster prototyping and decision-making.\n*   Design the complete service experience, including workflows, processes, and communications.\n*   Collaborate closely with engineering, product management, data science, operations, and sales & marketing.\n*   Drive systemic thinking to solve complex problems, balancing user needs, tech feasibility, and business goals.\n\nRequirements:\n*   7+ years in UX and product design.\n*   Proficiency in using research and quantitative data to inform design and systems thinking.\n*   Comfort with complexity and ambiguity, energized by solving hard problems.\n*   Strong systemic thinking with demonstrated ability to strategically solve complex problems.\n*   Bias towards action and an iterative approach to problem-solving.\n*   Experience in healthcare, government/civic tech, telehealth, digital health, insurance, fintech, marketplaces, or regulated domains.",
-      "specialty": "",
-      "keywords": [
-        {
-          "keyword": "UX and Product Design (7+ years)",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Michael has 10+ years."
-        },
-        {
-          "keyword": "Research and Quantitative Data",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Michael uses metrics and research."
-        },
-        {
-          "keyword": "Complexity and Ambiguity",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Michael thrives in 0-to-1 and ambiguous spaces."
-        },
-        {
-          "keyword": "Systemic Thinking",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Core of Michael's design philosophy and practice."
-        },
-        {
-          "keyword": "AI tools (Figma Make, Claude Code)",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Michael explicitly mentions using Figma Make and Cursor."
-        },
-        {
-          "keyword": "Service Design / Workflows",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Michael designs complex workflows and transactional flows."
-        },
-        {
-          "keyword": "Fintech / Marketplaces",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Deep context in these areas."
-        },
-        {
-          "keyword": "Cross-functional collaboration",
-          "inProfile": true,
-          "relevance": "required",
-          "note": "Michael works closely with PM, engineering, executives."
-        }
-      ],
-      "status": "New",
-      "scannedAt": "2026-11-12T01:32:42.438Z",
-      "isNew": false
-    },
-    {
       "id": "job-yj0czv",
       "title": "Staff Product Designer",
       "company": "Samsara",
@@ -3670,7 +3537,144 @@
       "status": "New",
       "scannedAt": "2026-11-23T22:39:35.943Z",
       "isNew": false
+    },
+    {
+      "id": "job-9la9tn",
+      "title": "Senior Product Designer",
+      "company": "Databento",
+      "companyDomain": "databento.com",
+      "industry": "Fintech, Data Platform, B2B SaaS, Developer Tools",
+      "location": "Remote (U.S.)",
+      "postedAt": "2026-11-24",
+      "fitScore": 9.5,
+      "fitTier": "Strong Fit",
+      "fitExplanation": "This role is an exceptional match for Michael's profile. It's a Senior Product Designer position at Databento, a Series C fintech company, focusing on a complex data platform for financial institutions and developers. Michael possesses over 10 years of experience in complex B2B SaaS, with specific deep expertise in fintech-adjacent domains like payment reconciliation, transactional flows, and revenue operations infrastructure, as demonstrated in his current role at Tackle.io. The job description's emphasis on leading ambiguous, 0-to-1 design projects, cross-functional collaboration, design system contribution, and strong visual craft for dense technical content aligns perfectly with Michael's strengths and design philosophy. Critically, the mention of 'account, billing, and licensing workflows' directly mirrors his impactful experience in transactional and contract management. His noted proficiency with AI design tools (Figma Make, Cursor) is also explicitly sought after. The fully remote (U.S.) nature of the role further aligns with his work arrangement preference.",
+      "source": "JobLeads.com / IxDF",
+      "applyUrl": "N/A",
+      "isOffLinkedIn": true,
+      "jobDescription": "Databento is seeking a Senior Product Designer to shape the experience of a data platform for developers and financial institutions. This role involves owning complex design projects from problem definition through launch and iteration, spanning the web application, documentation, and developer workflows. The designer will collaborate closely with engineering leads and cross-functional stakeholders, contributing to the design system and applying product analytics to measure outcomes. Key responsibilities include making technically complex setups simple, clear, and role-appropriate for various users, designing the overall service experience including product UI, documentation, and implementation support. The role requires a strong visual and interaction design craft for dense, technical content, a problem-first approach with explicit trade-offs, and the ability to align stakeholders in ambiguous environments. Experience with account, billing, and licensing workflows is a significant component.",
+      "specialty": "Fintech Data Platform",
+      "salary": "$95,000 - $185,000",
+      "keywords": [
+        {
+          "keyword": "User Research",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Implicit in problem definition and discovery phase."
+        },
+        {
+          "keyword": "User Flows",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Essential for designing transactional and developer workflows."
+        },
+        {
+          "keyword": "Journey Mapping",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Required for understanding end-to-end customer experience and activation journeys."
+        },
+        {
+          "keyword": "Information Architecture",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Critical for organizing complex data and technical content."
+        },
+        {
+          "keyword": "UI Design",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Strong visual and interaction craft emphasized for dense content."
+        },
+        {
+          "keyword": "Prototyping",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Implied for moving from problem definition to shipped product."
+        },
+        {
+          "keyword": "Design Systems",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Expected to refine and contribute to the design system and raise standards."
+        },
+        {
+          "keyword": "Amplitude",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Explicitly mentioned as a tool for product analytics."
+        },
+        {
+          "keyword": "B2B SaaS",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Core industry focus, direct match with candidate's primary expertise."
+        },
+        {
+          "keyword": "Complex workflow design",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Central to designing transactional, setup, and developer flows."
+        },
+        {
+          "keyword": "Transactional flows",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Directly aligns with 'account, billing, and licensing workflows' and Michael's Tackle.io experience."
+        },
+        {
+          "keyword": "Revenue operations",
+          "inProfile": true,
+          "relevance": "strong alignment",
+          "note": "Closely related to financial and billing workflows in fintech."
+        },
+        {
+          "keyword": "Fintech",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Core industry of the company and role."
+        },
+        {
+          "keyword": "Cloud marketplace",
+          "inProfile": true,
+          "relevance": "strong alignment",
+          "note": "Related to data platform and infrastructure for multi-cloud environments."
+        },
+        {
+          "keyword": "Enterprise UX",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Serving financial institutions and developers implies enterprise-level complexity."
+        },
+        {
+          "keyword": "0-to-1 design",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Lead complex, ambiguous design projects from problem definition."
+        },
+        {
+          "keyword": "Cross-functional collaboration",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Work closely with engineers, PMs, and executives."
+        },
+        {
+          "keyword": "Data-heavy interfaces",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Focus of a data platform for financial institutions."
+        },
+        {
+          "keyword": "AI tools",
+          "inProfile": true,
+          "relevance": "required",
+          "note": "Explicitly mentioned experience with AI tools for efficiency (Figma Make, Cursor)."
+        }
+      ],
+      "status": "New",
+      "scannedAt": "2026-11-26T20:11:45.399Z",
+      "isNew": true
     }
   ],
-  "scannedAt": "2026-11-25T20:29:44.194Z"
+  "scannedAt": "2026-11-26T20:12:30.889Z"
 }
